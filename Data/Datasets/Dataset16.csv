@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,17,Nature Strip,Traffik Island,2019-02-15,171786,7,0.316,0.102,0.316,0.805,0.000554,0.0716,-5.282,0.0319,84.744,4
+1,Devil And The Sea,St. John Green,St. John Green,2014-09-23,137160,36,0.515,0.356,0.515,0.376,2.78e-06,0.37,-12.562,0.0339,134.86,4
+2,Shelter Song,Sun Structures (Deluxe Version),Temples,2014,190558,45,0.491,0.000212,0.491,0.899,8.52e-05,0.167,-3.315,0.0373,126.061,4
+3,Peace Blossom Boogy,The Babe Rainbow (AUS),Babe Rainbow,2017-09-01,194280,57,0.661,0.041,0.661,0.821,0.0333,0.105,-4.565,0.0307,112.011,4
+4,It's Not Easy,Try And Love,Ofege,1973,265493,0,0.569,0.392,0.569,0.696,3.8e-05,0.115,-9.304,0.041,80.324,4
+5,Time of the Season - Mono Version,Odessey and Oracle,The Zombies,1968-04-19,214026,66,0.537,0.142,0.537,0.7,1.58e-06,0.383,-6.852,0.0366,117.111,4
+6,Warmth of the Sun,Warmth of the Sun,levitation room,2018-04-27,168070,46,0.347,6.5e-06,0.347,0.737,0.277,0.166,-4.74,0.0324,123.183,4
+7,How Great Thou Art,You Won't Believe it,Sensational Saints,2014-09-30,210236,16,0.494,0.37,0.494,0.491,0.00118,0.526,-11.228,0.0337,149.559,4
+8,Less Young but as Dumb,Wideass Highway,Dougie Poole,2017-02-17,240450,0,0.481,0.769,0.481,0.46,0.267,0.136,-8.363,0.0284,78.514,4
+9,Forge Your Own Chains,The Truth,D.R. Hooker,1972-01-01,282973,0,0.599,0.429,0.599,0.669,0.137,0.209,-11.537,0.0568,82.569,4
+10,"If You Don't Know Now, You Never Will",Raw Honey,Drugdealer,2019-04-19,292146,26,0.554,0.477,0.554,0.341,0.0168,0.112,-10.859,0.033,140.301,4
+11,"Louie, Louie",Guantanamera,The Sandpipers,1966,167573,30,0.3,0.786,0.3,0.27,0.0275,0.169,-15.584,0.0307,176.406,4
+12,Dinosaur,Captain,Fog Lake,2018-07-05,194000,43,0.276,0.529,0.276,0.522,0.853,0.13,-7.664,0.0383,181.797,3
+13,Rolling On,Young Blindness,The Murlocs,2016-03-18,199786,4,0.242,0.00495,0.242,0.792,0.00015,0.0899,-4.986,0.0318,187.63,4
+14,Green Sugar,House in the Tall Grass,Kikagaku Moyo,2016-05-13,474000,42,0.496,0.517,0.496,0.572,0.11,0.402,-9.65,0.0354,124.394,4
+15,Shalala,Mercy Mountain,Moses Gunn Collective,2015-08-07,228015,57,0.452,0.0192,0.452,0.729,0.0583,0.115,-5.6,0.0304,84.005,4
+16,After Sunrise,"Psychemagik Presents: Magik Sunset, Pt. 1",Psychemagik,2015-04-27,337925,17,0.531,0.383,0.531,0.775,0.663,0.0897,-7.952,0.0422,152.7,4
+17,Elegy,Timeline,Mild High Club,2015-09-18,171506,35,0.675,0.782,0.675,0.287,0.0409,0.136,-11.836,0.0335,95.304,4
+18,People Move Along,Cosmic Blip,Pipe-eye,2015-09-25,213713,0,0.609,0.0276,0.609,0.695,0.535,0.286,-7.36,0.0343,117.742,4
+19,Nina Nana,Forge Your Own Chains: Heavy Psychedelic Ballads And Dirges 1968-1974,Top Drawer,2009-11-17,195959,21,0.37,0.755,0.37,0.846,9.31e-05,0.124,-6.078,0.374,190.25,4
+20,Seems Like You've Made Up Your Mind,Seems Like You've Made Up Your Mind,Sunbeam Sound Machine,2019-03-20,177691,17,0.393,0.32,0.393,0.534,0.1,0.229,-7.719,0.0328,114.7,3
+21,"19, 8",Take My Hands and Tell Me,Los Walkers,2010-09-09,175853,0,0.447,0.0576,0.447,0.497,0.00193,0.169,-8.151,0.0445,110.892,4
+22,Haunted Love,Blue Material,Blue Material,2019-04-19,272033,24,0.781,0.144,0.781,0.571,0.77,0.0931,-8.479,0.0261,102.005,4
+23,The Way the Wind Whips,Blac Rabbit,Blac Rabbit,2017-12-22,271428,36,0.153,1.24e-05,0.153,0.644,0.209,0.127,-8.528,0.0366,167.746,4
+24,Some Sunsick Day,Phase Zero,Morgan Delt,2016-08-26,311280,1,0.489,0.423,0.489,0.633,0.758,0.0867,-9.55,0.0303,150.084,3
+25,All I Wanna Do - Remastered 2009,Sunflower,The Beach Boys,1970-08-31,156466,51,0.447,0.0716,0.447,0.416,0.00426,0.125,-12.181,0.0258,103.068,4
+26,Wraith Pinned to the Mist and Other Games,The Sunlandic Twins,of Montreal,2005-04-12,255613,58,0.873,0.0282,0.873,0.582,0.0699,0.182,-9.901,0.047,122.005,4
+27,Agua De Beber,Agua De Beber,The Derevolutions,2018-08-14,336244,12,0.461,0.42,0.461,0.862,0.00244,0.4,-6.231,0.0954,149.903,4
+28,Killin' the Vibe,III: Arcade Dynamics,Ducktails,2011-01-18,259317,44,0.571,0.722,0.571,0.901,0.0828,0.11,-3.153,0.0529,125.581,4
+29,I Don't Really Mind,InnerSpeaker,Tame Impala,2010-05-21,225893,47,0.455,0.576,0.455,0.842,0.0236,0.16,-5.996,0.0867,136.958,4
+30,Ecstasy,The Great Conspiracy (Bonus Track Version),The Peanut Butter Conspiracy,2015-03-31,377506,33,0.402,0.0538,0.402,0.193,0.0,0.0965,-16.722,0.03,96.335,4
+31,Eight Miles High,Fifth Dimension,The Byrds,1966-07-18,214640,55,0.364,0.21,0.364,0.768,0.136,0.503,-10.492,0.0757,130.602,4
+32,Starvation,Power Plant,The Golden Dawn,2008,172946,25,0.554,0.317,0.554,0.483,0.955,0.222,-20.442,0.0319,127.628,4
+33,You're Gonna Miss Me (2008 Remastered Original Mono LP Version),The Psychedelic Sounds of the 13th Floor Elevators - 2008 Remaster,13th Floor Elevators,2010,146737,53,0.428,0.0108,0.428,0.923,0.436,0.0985,-4.454,0.123,151.005,4
+34,Shuggie,We Are the 21st Century Ambassadors of Peace & Magic,Foxygen,2013-01-22,201706,61,0.467,0.101,0.467,0.645,0.00524,0.144,-7.614,0.0364,127.947,3
+35,Sun Medallion,Was Dead,King Tuff,2008,150713,0,0.615,0.409,0.615,0.756,0.000142,0.0751,-5.14,0.0418,124.103,4
+36,California Shake,25 Demos,Margo Guryan,2001-09-04,207840,0,0.526,0.105,0.526,0.615,0.0477,0.207,-8.693,0.0386,78.966,4
+37,"É Preciso Dar Um Jeito, Meu Amigo","Carlos, Erasmo [Versão Com Bônus (1971)]",Erasmo Carlos,1971-01-01,227040,49,0.327,0.0814,0.327,0.674,1.57e-05,0.0758,-5.402,0.0415,148.399,4
+38,Let It bleed,World Music,Goat,2012-08-20,234786,38,0.537,0.00127,0.537,0.945,0.685,0.0949,-2.288,0.0408,97.928,4
+39,Baby Blue,Inner Mystique,The Chocolate Watchband,1968,192560,37,0.535,0.044,0.535,0.816,0.000435,0.117,-8.534,0.0286,105.635,4
+40,Glowin' (2018 Remaster),The Rationals (Deluxe Edition),The Rationals,1970-01-01,255024,28,0.385,0.307,0.385,0.42,6.43e-06,0.192,-12.961,0.0347,82.298,4
+41,Boogieman Sam,Boogieman Sam,King Gizzard & The Lizard Wizard,2019-03-28,281920,0,0.416,0.0686,0.416,0.753,0.179,0.357,-6.732,0.0563,173.825,4
+42,Slow,Babble,Beans,2018-08-17,216193,0,0.315,0.0611,0.315,0.926,0.781,0.122,-5.561,0.0617,162.811,4
+43,What's in My Head?,Fuzz,Fuzz,2013-10-01,234880,51,0.371,0.000723,0.371,0.449,0.868,0.203,-10.117,0.0263,74.958,4
+44,Anemone,Their Satanic Majesties' Second Request,The Brian Jonestown Massacre,1996,334466,0,0.527,0.0599,0.527,0.636,0.843,0.204,-12.888,0.0347,83.101,4
+45,This American Life,The Bardo Story,Salvia Plath,2013-07-08,145266,37,0.455,0.302,0.455,0.386,0.00221,0.101,-11.75,0.0306,90.345,4
+46,Agitations tropicales,Odyssée - EP,L'Impératrice,2015-10-12,248892,63,0.76,0.564,0.76,0.401,0.259,0.0977,-9.537,0.0674,115.989,4
+47,Vanille fraise,Vanille fraise,L'Impératrice,2015,238183,64,0.767,0.0399,0.767,0.547,0.485,0.0949,-11.458,0.0474,103.03,4
+48,Canopée,Caravelle,Polo & Pan,2017-05-19,276293,66,0.704,0.0942,0.704,0.692,0.0109,0.0922,-6.558,0.0304,96.005,4
+49,Sonate pacifique,Sonate pacifique - EP,L'Impératrice,2014-09-16,348944,0,0.557,0.627,0.557,0.534,0.0192,0.425,-8.863,0.0328,99.99,4
+50,Plage isolée (Soleil couchant),Plage isolée - EP,Polo & Pan,2015-06-15,359035,0,0.783,0.0779,0.783,0.437,0.157,0.0805,-8.735,0.0333,96.996,4
+51,Ann Wants to Dance,Green Juice,Papooz,2016-06-03,210786,55,0.742,0.672,0.742,0.436,0.0292,0.183,-10.992,0.027,100.859,4
+52,Nanã,Caravelle,Polo & Pan,2017-05-19,190826,67,0.685,0.191,0.685,0.735,0.038,0.188,-6.337,0.0334,94.035,3
+53,How Much (You Want Her) 2017,Rust & Gold,Isaac Delusion,2017-04-07,220626,51,0.654,0.0125,0.654,0.665,0.19,0.0872,-7.335,0.0571,109.965,4
+54,Gamesofluck,Gamesofluck,Parcels,2016-10-28,348093,0,0.659,0.128,0.659,0.757,0.485,0.0859,-5.275,0.038,104.997,4
+55,Tieduprightnow,Tieduprightnow,Parcels,2018-04-27,249956,69,0.863,0.291,0.863,0.533,0.00126,0.0794,-7.986,0.0484,102.025,4
+56,Harvest Moon,Pacific Standard Time,Poolside,2012-07-09,368783,66,0.782,0.288,0.782,0.622,0.53,0.58,-5.832,0.0411,106.022,4
+57,Kiss You Forever,Pacific Standard Time,Poolside,2012-07-09,332520,47,0.662,0.133,0.662,0.889,0.00566,0.044,-4.417,0.0401,96.012,4
+58,Hot In The Shade,Heat,Poolside,2017-06-20,233196,43,0.791,0.219,0.791,0.511,0.945,0.0859,-10.66,0.0388,102.038,3
+59,Leila - Poolside Remix,Leila (Poolside Remix),Miami Horror,2017-06-30,318461,0,0.769,0.0139,0.769,0.768,0.0215,0.0469,-7.542,0.0366,103.997,4
+60,Séquences - Parcels Remix,Séquences (Remixes),L'Impératrice,2017-09-27,265800,46,0.824,0.251,0.824,0.666,0.574,0.0582,-9.008,0.0509,120.005,4
+61,Flash,Flash,Lewis OfMan,2018-01-19,179417,0,0.651,0.186,0.651,0.739,0.81,0.0384,-4.845,0.0433,103.05,4
+62,Back for More,Still Waters,Breakbot,2016-02-05,255386,41,0.776,0.029,0.776,0.745,0.653,0.062,-6.516,0.0331,114.997,4
+63,Little L,A funk odyssey,Jamiroquai,2001-09-11,295400,66,0.878,0.168,0.878,0.724,0.0116,0.133,-5.373,0.129,121.906,4
+64,Human Animal,Human Animal,Total Giovanni,2014-10-31,356481,47,0.755,0.00504,0.755,0.852,0.0154,0.876,-5.965,0.0464,113.99,4
+65,Atomic Bomb - William Onyeabor vs. Hot Chip,What?!,William Onyeabor,2014-05-06,436236,49,0.834,0.0145,0.834,0.56,0.282,0.446,-10.062,0.0439,125.798,4
+66,Prettiest Virgin (Radio Edit),Prettiest Virgin,Agar Agar,2016-04-22,270000,0,0.946,0.162,0.946,0.493,0.297,0.0875,-9.654,0.0509,120.012,4
+67,Two Fish and an Elephant,The Universe Smiles Upon You,Khruangbin,2015-11-06,213760,59,0.452,0.0153,0.452,0.579,0.893,0.637,-11.085,0.0476,84.615,4
+68,I'm In Love - Poolside Remix,I'm In Love,Fool's Gold,2015-03-03,383620,0,0.745,0.0647,0.745,0.849,0.111,0.0774,-7.886,0.0594,106.005,4
+69,Morse Code (feat. Odile & Geoffroy),Headroom,Men I Trust,2015-06-30,204827,47,0.746,0.111,0.746,0.496,0.826,0.0785,-13.131,0.0477,116.003,4
+70,Marcel,Marcel,Her's,2016-10-13,187571,50,0.624,0.529,0.624,0.65,0.0748,0.334,-5.993,0.0277,106.99,4
+71,Lightenup - Alex Metric Remix,Lightenup (Alex Metric Remix),Parcels,2019-02-01,438717,50,0.729,0.00562,0.729,0.688,0.295,0.0696,-5.946,0.0397,123.016,4
+72,Theatrical State of Mind,Night Sketches,Papooz,2019-03-08,192039,51,0.786,0.00688,0.786,0.544,0.00392,0.123,-9.157,0.0414,94.991,4
+73,All Night,Love Songs: Part Two,Romare,2016-11-11,294211,57,0.885,0.0868,0.885,0.485,0.79,0.0883,-9.299,0.0872,106.394,4
+74,After the Disco,After the Disco,Broken Bells,2014-01-31,219293,0,0.729,0.00226,0.729,0.74,0.0305,0.13,-5.444,0.0258,115.984,4
+75,La piscine,La piscine - EP,Hypnolove,2016-05-20,229146,36,0.758,0.107,0.758,0.729,0.0104,0.314,-5.322,0.0373,119.98,4
+76,Hideout,Hideout,Parcels,2017-01-27,266454,0,0.784,0.273,0.784,0.587,0.0107,0.356,-6.361,0.0422,107.999,4
+77,Intentions,Rules,The Whitest Boy Alive,2009-02-27,219426,47,0.888,0.114,0.888,0.415,0.13,0.0905,-6.583,0.0405,93.714,4
+78,Disco Yes,Geography,Tom Misch,2018-04-06,280878,64,0.927,0.42,0.927,0.551,0.0346,0.298,-6.624,0.0921,123.042,4
+79,Wait for Me,Anyone,Swim Mountain,2017-05-05,186983,41,0.79,0.179,0.79,0.63,0.00254,0.142,-5.957,0.0378,104.986,4
+80,...Y Era Verano,...Y Era Verano,Colectivo Da Silva,2018-08-31,246773,0,0.642,0.202,0.642,0.644,0.221,0.104,-6.916,0.0304,112.055,4
+81,Feel Alright,Heat,Poolside,2017-06-20,244459,54,0.604,0.00696,0.604,0.794,0.121,0.067,-5.58,0.0394,105.992,4
+82,Monky Disco,The Babe Rainbow (AUS),Babe Rainbow,2017-09-01,208066,44,0.574,0.00796,0.574,0.873,0.0226,0.876,-4.711,0.058,123.007,4
+83,Can't Stop Your Lovin',Can't Stop Your Lovin',Poolside,2019-07-24,237533,60,0.705,0.672,0.705,0.782,0.00496,0.138,-6.284,0.0377,90.997,4
+84,Love Is The Drug - Todd Terje Disco Dub,Cafe Mambo Ibiza 2012 (Unmixed DJ Format),Various Artists,2012-10-12,424240,1,0.77,0.0134,0.77,0.873,0.716,0.165,-5.76,0.042,125.826,4
+85,Disco 2000,Different Class,Pulp,1995-10-30,273573,64,0.565,0.0132,0.565,0.902,0.0,0.0561,-7.579,0.0725,133.11,4
+86,Parties In The U.S.A.,Action Packed: The Best of Jonathan Richman,Jonathan Richman,2002-01-01,288093,16,0.833,0.737,0.833,0.459,0.000717,0.128,-9.989,0.0406,114.696,4
+87,So What,So What,Hidden Fees,2014-02-11,407236,37,0.728,0.0206,0.728,0.872,0.000696,0.0921,-5.31,0.0354,102.022,4
+88,"Heavy, California",For Ever,Jungle,2018-09-14,184599,8,0.674,0.0733,0.674,0.713,0.139,0.169,-7.46,0.036,111.017,4
+89,Devil's Run,Je Ne Sais Quoi,PillowTalk,2014-03-17,261252,35,0.789,0.0232,0.789,0.419,0.821,0.102,-10.116,0.0326,125.966,4
+90,Charlotte - Taylor Skye Remix,Lost My Key in the <3 Club <3,Jockstrap,2019-04-05,218818,17,0.682,0.138,0.682,0.768,5.34e-05,0.108,-5.352,0.0477,133.488,4
+91,Dear Skorpio Magazine,Vega Intl. Night School,Neon Indian,2015-10-16,236815,12,0.691,0.262,0.691,0.896,0.000474,0.277,-4.929,0.0966,103.959,4
+92,Buttercup,Pop Food,Jack Stauber,2017-03-25,208026,76,0.705,0.723,0.705,0.373,0.81,0.289,-9.066,0.0384,120.046,4
+93,Rip It Up,Rip It Up,Orange Juice,1982-11-01,320413,55,0.881,0.0532,0.881,0.546,0.000149,0.0497,-9.357,0.0407,102.814,4
+94,But I Do,Street Bangerz Volume 6: Playhouse,Poldoore,2012-05-30,240000,55,0.65,0.00137,0.65,0.7,0.343,0.147,-5.632,0.0346,93.007,4
+95,Time (You and I),Time (You and I),Khruangbin,2020-04-27,342189,54,0.751,0.00945,0.751,0.491,0.149,0.0708,-13.677,0.045,105.408,4
+96,Tondoho Mba,Straight from the Decks (Guts Finest Selection from His Famous DJ Sets),Guts,2019-07-05,282600,44,0.707,0.115,0.707,0.848,0.0857,0.0834,-11.249,0.0427,132.976,4
+97,Happy Days,"Star Funk, Vol. 2",Various Artists,1992-01-01,484093,19,0.749,0.00338,0.749,0.647,0.037,0.0761,-15.669,0.0626,114.694,4
+98,Moonboots,Best of Afro Funk (Afrobeat Music & Dance Hits),Various Artists,2014-09-11,301240,0,0.557,5.29e-05,0.557,0.858,0.77,0.117,-5.128,0.0407,121.52,4
+99,Makes You Fly,Nice Guys Love You (Vol. 1),Nice Guys,2019-06-28,368723,47,0.607,0.00564,0.607,0.933,0.292,0.115,-5.135,0.0548,111.006,4

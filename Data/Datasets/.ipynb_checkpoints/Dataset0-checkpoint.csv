@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Veo Veo,"Los Campeones del Pueblo ""The Big Leagues""",Wisin & Yandel,2018-12-14,245960,45,0.703,0.0292,0.703,0.907,1.38e-06,0.291,-4.056,0.067,92.973,4
+1,Moviendo Caderas (feat. Daddy Yankee),De Líder a Leyenda,Yandel,2013-11-05,199026,65,0.687,0.00105,0.687,0.907,0.000149,0.26,-5.917,0.0341,127.971,4
+2,El Tiburón (The Shark),Dale Mambo,Henry Mendez,2014-06-03,223577,47,0.733,0.0126,0.733,0.919,0.0,0.213,-5.425,0.0459,127.951,4
+3,Ma Vie (feat. Yay),Rockport Espacial,Kidd Keo,2020-06-12,233300,74,0.936,0.00612,0.936,0.825,0.0017,0.0703,-4.928,0.189,123.991,4
+4,Noche De Sexo,Pa'l Mundo,Wisin & Yandel,2005-01-01,205706,70,0.686,0.108,0.686,0.722,0.0,0.494,-5.4,0.256,94.006,4
+5,La conocí bailando (feat. K-Narias) - Radio Edit,La conocí bailando (feat. K-Narias),Dr. Bellido,2014-06-17,181115,56,0.711,0.265,0.711,0.841,0.0,0.268,-3.803,0.0322,104.033,4
+6,Candy,Love And Sex,Plan B,2014-08-25,207626,67,0.897,0.252,0.897,0.864,0.0,0.517,-3.735,0.147,95.981,4
+7,Fanática Sensual - Remix,Fanática Sensual,Plan B,2015-06-02,263800,49,0.788,0.162,0.788,0.815,0.0,0.244,-4.54,0.0539,82.014,4
+8,Bailando por Ahi,The King Of Dance,Juan Magán,2012-05-14,180453,60,0.73,0.0427,0.73,0.732,2.22e-06,0.262,-5.167,0.051,129.974,4
+9,Quien Dijo Amigos,Quien Dijo Amigos,Carlitos Rossy,2016-05-24,223692,52,0.758,0.343,0.758,0.838,2.25e-05,0.088,-5.209,0.0798,87.995,4
+10,En La Cama (feat. Daddy Yankee),Exitos,Nicky Jam,2016-02-24,157023,63,0.855,0.183,0.855,0.912,0.0,0.122,-4.832,0.145,104.072,4
+11,Te Pintaron Pajaritos,Te Pintaron Pajaritos,Yandar & Yostin,2016-12-30,172374,63,0.889,0.0855,0.889,0.77,0.0,0.0967,-5.674,0.167,96.025,4
+12,DÁKITI,DÁKITI,Bad Bunny,2020-10-30,205090,90,0.731,0.401,0.731,0.573,5.22e-05,0.113,-10.059,0.0544,109.928,4
+13,Verano Azul,Verano Azul,Juan Magán,2009-01-01,190560,65,0.887,0.0145,0.887,0.87,0.0,0.015,-5.267,0.119,126.048,4
+14,I Know You Want Me (Calle Ocho),Pitbull Starring In Rebelution,Pitbull,2009-08-27,237120,67,0.817,0.0152,0.817,0.733,4.31e-05,0.107,-6.009,0.145,127.056,4
+15,Quitate el Top - Radio Edit,Quitate El Top,Tapo & Raya,2014-05-12,192173,39,0.775,0.0329,0.775,0.954,0.0,0.469,-2.62,0.242,130.024,4
+16,Kikiki (feat. Yay),Rockport Espacial,Kidd Keo,2020-06-12,199354,64,0.865,0.0686,0.865,0.742,0.262,0.0569,-8.182,0.164,123.993,4
+17,Tacata,Latin Hits Summer 2013,Various Artists,2013-04-29,209333,54,0.816,0.00868,0.816,0.853,0.0,0.351,-5.915,0.12,126.946,4
+18,Blin Blin,Blin Blin,Bad Gyal,2020-11-13,144613,66,0.771,0.103,0.771,0.735,6.19e-05,0.0503,-3.388,0.114,96.253,4
+19,Entre la Playa Ella y Yo,Big Yamo o Nada,Big Yamo,2013-04-27,185077,64,0.638,0.485,0.638,0.863,0.0,0.231,-3.619,0.073,84.951,4
+20,Rompe,Modo Positivo,Various Artists,2021-01-29,189040,16,0.687,0.0358,0.687,0.806,5.83e-06,0.0569,-6.019,0.0549,176.064,4
+21,Rayos de Sol,Rayos de Sol,José de Rico,2011-08-08,231562,60,0.747,0.0742,0.747,0.872,0.00039,0.149,-4.233,0.0355,128.013,4
+22,La Rosa Negra (feat. Carnal),Imperio Nazza,Musicologo Y Menes,2013-05-24,212080,49,0.742,0.182,0.742,0.77,0.0,0.23,-6.696,0.0838,178.041,4
+23,Motívate,Motívate,Danny Romero,2013-06-25,206240,51,0.711,0.00381,0.711,0.841,0.0,0.158,-5.473,0.0399,127.998,4
+24,Agachate,Agachate,Danny Romero,2014-12-16,188222,55,0.554,0.0777,0.554,0.763,1.42e-06,0.145,-6.521,0.177,127.581,4
+25,"Lo Que Pasó, Pasó",Barrio Fino (Bonus Track Version),Daddy Yankee,2004-07-13,210933,73,0.816,0.102,0.816,0.747,0.0,0.263,-6.468,0.0411,97.019,4
+26,"Baila Morena (with Luny Tunes, Noriega) - Remix",Baila Morena (Reggaeton Mix),Hector & Tito,2005-07-10,187080,62,0.786,0.207,0.786,0.819,0.0,0.0969,-5.062,0.108,94.002,4
+27,Pasado pisado,Ya tu sabes quienes son,Comando Tiburon,2017-04-19,197773,52,0.571,0.118,0.571,0.823,6.55e-05,0.0416,-5.874,0.193,128.975,4
+28,Sígueme Y Te Sigo,De juerga en Casa,Various Artists,2021-01-29,209786,11,0.736,0.0682,0.736,0.878,6.4e-05,0.756,-3.604,0.0428,100.024,4
+29,"Pirueta (with Arcangel, Chencho Corleone, feat. Wisin & Yandel, Myke Towers)","Pirueta (with Arcangel, Chencho Corleone, feat. Wisin & Yandel, Myke Towers)",Dímelo Flow,2020-04-24,275241,61,0.796,0.0457,0.796,0.849,0.0,0.155,-3.841,0.071,81.025,4
+30,Perros Salvajes,Trap y Regueton,Various Artists,2021-01-29,190440,7,0.803,0.0764,0.803,0.798,0.0,0.0775,-4.855,0.173,88.018,4
+31,Fiebre (Prod. King DouDou),Slow Wine Mixtape,Bad Gyal,2016-11-11,247500,66,0.421,0.266,0.421,0.72,0.0,0.225,-6.257,0.0571,97.998,4
+32,Mi Vecinita,Love And Sex,Plan B,2014-08-25,182293,57,0.755,0.102,0.755,0.82,0.0,0.577,-4.408,0.0528,93.995,4
+33,Virtual Diva,iDon,Don Omar,2009-01-01,239493,66,0.785,0.212,0.785,0.881,0.0,0.753,-4.205,0.0505,113.999,4
+34,Noche de Estrellas,Noche de Estrellas,José de Rico,2012-06-11,201000,56,0.732,0.189,0.732,0.912,0.0,0.375,-4.144,0.0602,128.006,4
+35,Bara Bara' Bere Bere',Compilation Football World Brazilian (Summer 2014),Various Artists,2014-06-16,163186,47,0.687,0.000534,0.687,0.948,0.0,0.0309,-3.497,0.0484,130.469,4
+36,Te De Campana,Te De Campana,Atomic Otro Way,2016-02-27,195526,61,0.807,0.0345,0.807,0.913,3.99e-06,0.552,-4.788,0.0592,105.031,4
+37,Te Busco (feat. Nicky Jam),Te Busco (feat. Nicky Jam),Cosculluela,2016-02-05,233546,50,0.678,0.214,0.678,0.772,0.0,0.0897,-4.732,0.141,178.12,4
+38,Balada,Caribe 2012: Ai Se o Verão Te Pega!,Various Artists,2012-06-22,201720,57,0.669,0.155,0.669,0.954,0.0,0.951,-4.211,0.0631,127.946,4
+39,5 Letras,Sobrenatural,Alexis y Fido,2007-09-28,195573,65,0.82,0.272,0.82,0.788,1.65e-06,0.0404,-5.478,0.191,93.961,4
+40,Rakata,Reggaeton de los 00's,Various Artists,2019-05-31,172853,69,0.872,0.0303,0.872,0.785,0.0,0.0798,-5.463,0.153,95.991,4
+41,Donde Estan las Gatas,Gargolas III,Alex Gargolas,2001,170004,67,0.827,0.246,0.827,0.788,0.0,0.0764,-11.937,0.0831,109.934,4
+42,Guaya Guaya,The Last Don II,Don Omar,2015-06-16,193613,66,0.788,0.00607,0.788,0.873,0.00052,0.0908,-2.322,0.117,91.981,4
+43,Safaera,YHLQMDLG,Bad Bunny,2020-02-28,295176,81,0.607,0.0103,0.607,0.829,0.0,0.107,-4.074,0.379,96.172,4
+44,Vamos A La Playa (Radio Edit),Vamos A La Playa,Loona,2010-09-20,177938,35,0.7,0.103,0.7,0.959,0.0,0.411,-4.483,0.0499,131.005,4
+45,Me Rehúso,Me Rehúso,Danny Ocean,2017-06-16,205714,76,0.744,0.0231,0.744,0.804,0.0,0.0494,-6.327,0.0677,104.823,4
+46,Un Bellaqueo,Un Bellaqueo,Ozuna,2016-06-22,218592,57,0.895,0.3,0.895,0.789,8.6e-06,0.158,-3.802,0.0895,88.004,4
+47,Suavemente,Suavemente...Los Exitos,Elvis Crespo,2008-10-14,266306,66,0.809,0.238,0.809,0.883,0.00234,0.0625,-2.965,0.0689,124.096,4
+48,Si No Le Contesto,House Of Pleasure,Plan B,2010,220056,70,0.846,0.0947,0.846,0.747,0.0,0.159,-5.074,0.0533,95.003,4
+49,Mayor Que Yo 3,Mayor Que Yo 3,Various Artists,2015-10-23,304746,61,0.715,0.0985,0.715,0.964,0.0,0.291,-3.176,0.162,91.975,4
+50,Ginza - Remix,Ginza (Remix),J Balvin,2015-12-18,373960,59,0.71,0.129,0.71,0.88,0.0,0.0935,-3.16,0.211,102.166,4
+51,Pegadito Suavecito,One Flag,Elvis Crespo,2015,226120,53,0.777,0.186,0.777,0.892,8.93e-06,0.0747,-3.54,0.0303,115.02,4
+52,Ella Quiere Hmm... Haa... Hmm... - Yayo Remix,Ella Quiere Hmm... Haa... Hmm...,Leka el Poeta,2016-11-25,212035,60,0.839,0.021,0.839,0.844,0.00022,0.143,-2.301,0.0572,99.98,4
+53,Sexy Bitch (feat. Akon),One More Love,David Guetta,2010-11-22,195853,76,0.813,0.0771,0.813,0.627,0.000616,0.131,-5.018,0.0486,130.011,4
+54,Ven Bailalo - Reggaeton Mix,Ven Bailalo (Reggaeton Mix),Angel Y Khriz,2005-07-22,252773,73,0.675,0.0606,0.675,0.919,0.00653,0.103,-6.075,0.0366,97.017,4
+55,Dembow 2020,Quien Contra Mi 2,Yandel,2020-07-31,168051,69,0.786,0.122,0.786,0.811,3.99e-06,0.161,-4.31,0.0836,92.953,4
+56,More More,More More,Alex Rose,2018-11-23,204505,46,0.8,0.0713,0.8,0.66,0.0,0.126,-7.191,0.112,76.464,4
+57,Angelito Sin Alas (feat. Juan Magán) - Remix,Angelito Sin Alas (feat. Juan Magán) - Remix,DCS,2012-07-24,205056,56,0.731,0.258,0.731,0.91,0.0,0.103,-4.625,0.068,120.031,4
+58,Ay Vamos,La Familia B Sides,J Balvin,2014-09-16,226413,69,0.718,0.157,0.718,0.711,5.54e-05,0.1,-5.746,0.11,173.916,4
+59,Amor Prohibido,Los Cotizados,Baby Rasta & Gringo,2015-08-21,212653,53,0.699,0.0221,0.699,0.825,1.88e-05,0.0593,-6.113,0.0541,174.01,4
+60,Calor de verano,Calor de verano,Kike Puentes,2019-02-28,151980,35,0.793,0.0983,0.793,0.677,0.0,0.0642,-3.335,0.124,128.014,4
+61,Ella Se Arrebata,Ella Se Arrebata,Latin Fresh,1996-04-01,211922,48,0.799,0.384,0.799,0.782,0.0,0.456,-6.515,0.286,100.004,4
+62,Mambo para Bailar,Mambo para Bailar,Fuego,2015-10-22,207480,41,0.798,0.159,0.798,0.864,0.00371,0.165,-4.919,0.0578,119.965,4
+63,Ponme to Eso Pa Lante,Ponme to Eso Pa Lante,El Chuape,2012-09-10,167786,43,0.923,0.384,0.923,0.928,0.0148,0.321,-1.624,0.0977,113.017,4
+64,Ella No Sigue Modas,The King Of Dance,Juan Magán,2012-05-14,234000,53,0.692,0.0093,0.692,0.852,0.00035,0.0225,-4.587,0.0686,128.026,4
+65,El Matadero,Love And Sex,Plan B,2014-08-25,234986,49,0.746,0.152,0.746,0.892,0.0,0.142,-3.688,0.0803,179.995,4
+66,Si Tú No Estás,En Letra de Otro,Gente De Zona,2018-10-26,220440,54,0.759,0.0405,0.759,0.906,2.74e-06,0.206,-6.085,0.0513,92.99,4
+67,"Tumba La Casa (Remix) [feat. Daddy Yankee, Nicky Jam, Farruko, Arcangel, De La Ghetto, Zion & Ñengo Flow]","Tumba La Casa (Remix) [feat. Daddy Yankee, Nicky Jam, Farruko, Arcangel, De La Ghetto, Zion & Ñengo Flow]",Alexio,2015-08-15,477675,61,0.774,0.192,0.774,0.654,0.0,0.303,-6.932,0.234,166.001,4
+68,Tacata (Takata Bro),Caribe Perreo y Mas Éxitos para Perrear,Various Artists,2012-08-06,236733,46,0.797,0.0173,0.797,0.795,0.0,0.267,-10.451,0.16,127.916,4
+69,La Despedida,Mundial (Deluxe Version),Daddy Yankee,2010-04-27,202826,70,0.746,0.0866,0.746,0.993,0.0548,0.0689,-2.134,0.0499,122.046,4
+70,A Que No Te Atreves (feat. Chencho),A Que No Te Atreves (feat. Chencho),"Tito ""El Bambino""",2014-06-09,187493,48,0.787,0.264,0.787,0.789,0.0,0.52,-5.018,0.082,89.999,4
+71,Mi Reina,Dale Mambo,Henry Mendez,2014-06-03,191245,56,0.811,0.0501,0.811,0.93,0.0,0.282,-4.677,0.0473,127.932,4
+72,Princesa de mi cuento,#AmorAdicción,Sergio Contreras,2013-08-27,198692,55,0.812,0.044,0.812,0.741,0.0,0.075,-4.945,0.0417,130.012,4
+73,Caliente,Caliente,Darell,2019-02-08,240306,60,0.894,0.156,0.894,0.796,0.000106,0.118,-3.119,0.0807,99.993,4
+74,Plakito (feat. El General Gadiel & Farruko) - Remix,Plakito (feat. El General Gadiel & Farruko) [Remix],Yandel,2014-09-23,207093,53,0.816,0.137,0.816,0.935,0.0,0.274,-2.235,0.0934,91.004,4
+75,Yo Sé Que Quieres (feat. Nova Y Jory),Perreología,Alexis y Fido,2011-03-21,236866,29,0.788,0.207,0.788,0.818,8.73e-06,0.203,-5.317,0.077,88.001,4
+76,Oye niña,Adicción,Xriz,2015-03-10,221078,52,0.752,0.0662,0.752,0.844,0.0,0.0792,-4.651,0.0482,129.967,4
+77,Una Vaina Loca (feat. El Potro),La Musica Del Futuro Reloaded (The Chosen Few Edition),Fuego,2012-11-20,261986,57,0.793,0.123,0.793,0.674,0.0,0.0949,-12.821,0.0524,117.05,4
+78,Limbo,Prestige,Daddy Yankee,2012-01-01,224693,71,0.806,0.0838,0.806,0.875,0.00192,0.065,-3.817,0.088,125.063,4
+79,Ella Pide Mas (feat. David Cuello),Ella Pide Mas (feat. David Cuello),Danny Romero,2014-12-16,305229,35,0.615,0.0588,0.615,0.81,0.0,0.277,-6.931,0.13,128.009,4
+80,No Me Acuerdo,Valiente,Thalia,2018-11-09,217653,70,0.837,0.175,0.837,0.784,0.0,0.0897,-4.531,0.101,94.036,4
+81,China,China,Anuel AA,2019-07-19,301714,78,0.786,0.0846,0.786,0.808,0.000289,0.0822,-3.702,0.0882,105.027,4
+82,Baila Conmigo (feat. Kelly Ruiz),Baila Conmigo (feat. Kelly Ruiz),Dayvi,2018-12-28,189817,74,0.745,0.00903,0.745,0.972,0.465,0.297,-3.506,0.0774,128.031,4
+83,Bata Bata 2,Plan Calle,Latin Fresh,2006-01-01,208840,58,0.778,0.135,0.778,0.864,0.0,0.312,-3.043,0.297,96.771,4
+84,La Mujer del Pelotero,La Mujer del Pelotero,Baby Lores,2011-08-10,228746,46,0.686,0.0417,0.686,0.925,0.0,0.231,-4.561,0.0599,152.101,4
+85,"Follow the Leader ""Sigue al lider""",Dance Total,Various Artists,2010-08-16,245133,42,0.789,0.000256,0.789,0.894,7.04e-05,0.983,-7.066,0.0491,142.934,4
+86,Todos los días sale el sol,Todos los días sale el sol,Bongo Botrako,2010-10-31,146337,57,0.589,0.0299,0.589,0.91,0.0,0.02,-3.68,0.211,191.928,4
+87,Ella Me Levanto,El Cartel: The Big Boss,Daddy Yankee,2007-06-05,209493,71,0.76,0.0743,0.76,0.899,0.0,0.212,-4.744,0.0677,100.046,4
+88,Menea Tu Chapa,KlK Llego El Tipo the Album,Wilo D New,2014-02-05,175333,54,0.873,0.0798,0.873,0.924,0.44,0.0393,-1.781,0.0539,129.99,4
+89,Atrévete-Te-Te,Calle 13 (Explicit Version),Calle 13,2005,239306,72,0.829,0.0959,0.829,0.878,0.0,0.776,-5.951,0.101,87.991,4
+90,Dile,The Last Don,Don Omar,2003-01-01,204600,75,0.817,0.184,0.817,0.714,0.000132,0.042,-7.501,0.141,94.001,4
+91,Gasolina,Barrio Fino (Bonus Track Version),Daddy Yankee,2004-07-13,192600,77,0.857,0.332,0.857,0.801,1.2e-06,0.0789,-6.499,0.0618,96.009,4
+92,Sexy Movimiento,"Wisin Vs Yandel ""Los Extraterrestres""",Wisin & Yandel,2007-01-01,209680,68,0.815,0.382,0.815,0.757,3.28e-06,0.147,-6.16,0.039,104.986,4
+93,Pobre Diabla,200% Reguetón,Various Artists,2020-12-11,255680,54,0.741,0.217,0.741,0.787,0.0179,0.0835,-6.228,0.0525,91.993,4
+94,Rompe,La Casa del Perreo,Various Artists,2021-02-05,189040,18,0.687,0.0358,0.687,0.806,5.83e-06,0.0569,-6.019,0.0549,176.064,4
+95,Llamado de Emergencia,Talento de Barrio,Daddy Yankee,2008-08-12,239920,70,0.699,0.217,0.699,0.91,2.66e-06,0.146,-4.405,0.036,97.971,4
+96,Danza Kuduro,Fast Five (Original Motion Picture Soundtrack),Various Artists,2011-01-01,198386,64,0.701,0.0866,0.701,0.896,0.0,0.0572,-6.459,0.0814,130.067,4
+97,Pasame La Botella,Sopa de Letras,Various Artists,2019-12-01,181577,61,0.695,0.103,0.695,0.806,1.2e-06,0.0644,-5.064,0.0409,118.025,4
+98,Una Vaina Loca,Una Vaina Loca,Fuego,2011-11-02,188238,71,0.8,0.19,0.8,0.669,2.35e-05,0.0609,-12.898,0.0546,117.015,4
+99,¿Qué Tengo Que Hacer?,Talento de Barrio,Daddy Yankee,2008-08-12,218506,66,0.76,0.0758,0.76,0.893,8.21e-05,0.321,-3.913,0.0639,107.994,4

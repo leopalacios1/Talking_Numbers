@@ -1,0 +1,51 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Heart Of Glass [24-Bit Digitally Remastered 01],Parallel Lines (Remastered),Blondie,1978-09-01,350240,58,0.662,0.0078,0.662,0.633,0.0233,0.0689,-7.793,0.0433,115.007,4
+1,Just like Heaven,"Kiss Me, Kiss Me, Kiss Me",The Cure,1987-05-25,212000,66,0.43,0.0271,0.43,0.971,2.16e-05,0.185,-3.845,0.0524,151.219,4
+2,Love Will Tear Us Apart,The Best Of,Joy Division,2008-03-20,206866,69,0.443,5.24e-05,0.443,0.956,0.825,0.135,-6.198,0.0511,146.754,4
+3,How Soon Is Now? - 2011 Remaster,Hatful of Hollow,The Smiths,1984,408173,70,0.398,0.000854,0.398,0.93,0.121,0.0874,-6.76,0.0615,190.818,4
+4,Psycho Killer - 2005 Remaster,Talking Heads '77 (Deluxe Version),Talking Heads,1977-09-16,261413,73,0.721,0.0708,0.721,0.521,0.00545,0.127,-8.123,0.0613,123.118,4
+5,Making Plans For Nigel,Drums And Wires,XTC,1979-08-17,253800,60,0.632,0.0143,0.632,0.893,5.24e-06,0.0741,-6.04,0.0455,149.97,4
+6,The Passenger,Through The Looking Glass (Remastered And Expanded),Siouxsie and the Banshees,1987-03-02,309306,60,0.457,0.0309,0.457,0.93,6.27e-05,0.135,-4.544,0.0673,139.819,4
+7,Boys Don't Cry - Single Version,Three Imaginary Boys (Deluxe Edition),The Cure,1979-05-11,157533,64,0.465,0.00486,0.465,0.841,0.0,0.109,-5.767,0.0634,168.743,4
+8,Disorder - 2007 Remaster,Unknown Pleasures,Joy Division,1979-06-01,209039,2,0.32,0.00033,0.32,0.798,0.692,0.176,-7.078,0.124,84.696,4
+9,There Is a Light That Never Goes Out - 2011 Remaster,The Queen Is Dead,The Smiths,1986-06-16,244586,74,0.523,0.04,0.523,0.769,0.0,0.136,-5.855,0.0269,136.162,4
+10,This Is the Day,Soul Mining,The The,1983-03-13,297066,54,0.561,0.0149,0.561,0.871,0.000443,0.0694,-4.5,0.0531,141.638,4
+11,Blue Monday - 2016 Remaster,Singles (2016 Remaster),New Order,2005-09-30,450800,67,0.793,0.000726,0.793,0.703,0.88,0.075,-9.548,0.0581,130.27,4
+12,Ghost Town,Stereo-Typical,The Specials,2000-08-21,219306,0,0.665,0.0492,0.665,0.766,0.338,0.113,-9.454,0.0505,73.683,4
+13,This Must Be the Place (Naive Melody) - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,296146,72,0.942,0.331,0.942,0.641,0.179,0.028,-10.15,0.0333,114.443,4
+14,Save It For Later,Special Beat Service (Remastered),The English Beat,2012-01-01,213933,53,0.624,0.0307,0.624,0.719,0.0489,0.322,-9.87,0.0278,129.552,4
+15,Friday I'm in Love,Wish,The Cure,1992-04-21,214400,67,0.526,0.000972,0.526,0.762,0.000116,0.338,-12.437,0.0342,136.203,4
+16,Pump It Up,This Year's Model,Elvis Costello & The Attractions,1978-01-01,196680,62,0.644,0.00933,0.644,0.814,0.000617,0.107,-6.036,0.0385,138.999,4
+17,Roxanne - Remastered 2003,Outlandos D'Amour,The Police,1978-11-02,191946,1,0.608,0.026,0.608,0.746,2.39e-06,0.043,-8.851,0.354,134.03,4
+18,This Charming Man - 2011 Remaster,The Smiths,The Smiths,1984-02-20,162920,74,0.611,0.00509,0.611,0.846,0.0,0.0784,-5.9,0.0436,103.912,4
+19,Burning Down the House,Burning Down the House / I Get Wild / Wild Gravity,Talking Heads,1983-06-01,241920,66,0.779,0.00644,0.779,0.87,0.0107,0.0399,-13.141,0.0574,102.689,4
+20,Rise,Public Image Ltd.,Public Image Ltd.,1987-04-07,378360,47,0.526,0.00795,0.526,0.873,7.36e-06,0.339,-5.28,0.0754,86.313,4
+21,Echo Beach,Metro Music,Martha and the Muffins,1980,219866,58,0.54,0.13,0.54,0.746,8.73e-06,0.0976,-9.412,0.045,163.809,4
+22,Mirror In the Bathroom,I Just Can't Stop It (Remastered),The English Beat,2012-01-01,190333,51,0.632,0.0749,0.632,0.706,0.0413,0.0356,-7.391,0.0676,171.199,4
+23,Town Called Malice,The Gift,The Jam,1982-03-12,173320,69,0.542,0.00228,0.542,0.91,0.00524,0.0686,-8.924,0.0873,101.774,4
+24,Damaged Goods - Remastered,Entertainment! (Expanded & Remastered) [US Release],Gang Of Four,1979,206733,0,0.75,0.0155,0.75,0.796,0.0115,0.106,-5.952,0.116,157.545,4
+25,Every Little Thing She Does Is Magic - Remastered 2003,Ghost In The Machine,The Police,1981-10-02,260573,0,0.535,0.127,0.535,0.745,0.0792,0.179,-10.123,0.0335,163.913,4
+26,Love My Way,Forever Now,The Psychedelic Furs,1982,213973,68,0.637,0.00487,0.637,0.85,0.00018,0.152,-5.054,0.0351,126.106,4
+27,Call Me,Atomic/Atomix,Blondie,1999-01-01,212600,71,0.56,0.000785,0.56,0.825,0.00246,0.0892,-6.711,0.0347,142.669,4
+28,It's My Life - 1997 Remaster,It's My Life,Talk Talk,1984,232400,69,0.627,0.197,0.627,0.802,0.784,0.404,-8.432,0.0348,126.283,4
+29,Uncontrollable Urge,Q: Are We Not Men? A: We Are Devo!,DEVO,1978,191266,55,0.571,0.0551,0.571,0.858,0.665,0.0943,-7.066,0.0326,92.523,3
+30,Message In A Bottle - Remastered 2003,Reggatta De Blanc,The Police,1979-10-02,290280,0,0.582,0.0338,0.582,0.81,1.68e-05,0.202,-7.024,0.0396,151.006,4
+31,Bizarre Love Triangle,Brotherhood (Collector's Edition),New Order,1986-09-29,263213,66,0.613,0.0804,0.613,0.885,0.746,0.0997,-7.463,0.052,118.506,4
+32,Pretty in Pink,Talk Talk Talk,The Psychedelic Furs,1981,238106,58,0.386,0.105,0.386,0.916,0.00991,0.325,-5.955,0.0741,135.642,4
+33,Eighties - 2007 Digital Remaster,Night Time,Killing Joke,1985-02-04,239280,54,0.393,0.000735,0.393,0.964,0.0196,0.34,-8.838,0.144,151.898,4
+34,Paint By Number Heart - Remastered,Metro Music,Martha and the Muffins,1980,209933,40,0.641,0.0051,0.641,0.582,0.00521,0.175,-9.755,0.0579,164.642,4
+35,A Message to You Rudy - 2002 Remaster,The Specials (2002 Remaster),The Specials,1979-11-01,172600,64,0.906,0.149,0.906,0.45,0.000232,0.168,-8.003,0.0627,103.476,4
+36,Just What I Needed,The Cars,The Cars,1978-06-06,225626,70,0.619,0.0152,0.619,0.579,6.4e-05,0.0858,-9.307,0.0473,127.224,4
+37,My Sharona,Get The Knack,The Knack,1979-01-01,295400,73,0.586,0.0589,0.586,0.7,0.00125,0.0318,-9.558,0.0363,147.245,4
+38,One Way Or Another - Remastered,Parallel Lines (Remastered),Blondie,1978-09-01,215106,66,0.45,0.0305,0.45,0.914,1.42e-05,0.152,-5.4,0.0607,162.487,4
+39,Oliver's Army,Armed Forces,Elvis Costello & The Attractions,1979,179613,25,0.523,0.137,0.523,0.735,0.0,0.199,-9.199,0.0292,143.182,4
+40,Love Like Blood,Singles Collection 1979 - 2012,Killing Joke,2012-01-01,260519,43,0.399,0.0969,0.399,0.764,0.0203,0.372,-7.962,0.048,124.471,4
+41,White Wedding - Part 1 - 2001- Remaster,Billy Idol,Billy Idol,1982,250760,0,0.634,0.00363,0.634,0.804,0.00499,0.347,-6.74,0.0329,147.335,4
+42,Video Killed The Radio Star,The Age Of Plastic,The Buggles,1980-01-10,253800,65,0.675,0.0852,0.675,0.61,0.0188,0.159,-13.811,0.085,131.037,4
+43,Public Image - 2011 - Remaster,The Public Image Is Rotten (Songs From The Heart),Public Image Ltd.,2018-07-20,178733,0,0.286,4.79e-05,0.286,0.866,2.94e-05,0.697,-6.552,0.0723,155.366,4
+44,Cities In Dust,Tinderbox,Siouxsie and the Banshees,1986-04-21,231573,55,0.561,0.0572,0.561,0.974,0.0,0.244,-5.178,0.113,120.297,4
+45,Natural's Not in It,Entertainment!,Gang Of Four,1979-09-25,186760,46,0.763,0.0401,0.763,0.84,0.0652,0.0199,-6.974,0.288,161.34,4
+46,"Radio, Radio",This Year's Model,Elvis Costello & The Attractions,1978-01-01,186213,47,0.595,0.138,0.595,0.869,2.78e-06,0.278,-4.812,0.0767,146.75,4
+47,Our Lips Are Sealed - Single Version,Beauty And The Beat,The Go-Go's,1981-01-01,167960,60,0.608,0.0444,0.608,0.864,2.95e-06,0.0341,-7.101,0.0522,131.208,4
+48,Walk Like an Egyptian,Different Light,The Bangles,1985-07-11,204560,60,0.711,0.0117,0.711,0.788,2.05e-06,0.311,-14.705,0.0825,103.172,4
+49,99 Red Balloons,99 Luftballons,Nena,1984-08-21,284773,0,0.543,0.0853,0.543,0.482,9.22e-05,0.111,-12.789,0.194,193.513,4

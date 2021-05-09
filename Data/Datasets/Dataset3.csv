@@ -1,0 +1,51 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Mannish Boy,King Of The Electric Blues,Muddy Waters,1977,321133,63,0.598,0.44,0.598,0.735,0.000215,0.681,-10.882,0.0973,111.129,3
+1,Rollin' Stone,The Chess Box,Muddy Waters,1989-11-07,188160,52,0.629,0.989,0.629,0.0192,4.3e-05,0.106,-19.952,0.0833,169.254,4
+2,Got My Mojo Working,His Best 1956-1964 - The Chess 50th Anniversary Collection,Muddy Waters,1997-05-20,173040,49,0.519,0.573,0.519,0.779,8.13e-05,0.286,-9.159,0.0648,113.487,4
+3,Good Morning Little School Girl,The Folk Singer,Muddy Waters,1964-04-05,196040,47,0.626,0.689,0.626,0.307,0.00663,0.0843,-14.645,0.0836,173.652,4
+4,I'm Your Hoochie Coochie Man,King Of The Electric Blues,Muddy Waters,1977,238533,54,0.542,0.67,0.542,0.588,0.158,0.241,-9.268,0.0665,113.948,3
+5,I Love The Life I Live (I Live The Life I Love),The Chess Box,Muddy Waters,1989-11-07,171600,42,0.64,0.616,0.64,0.307,0.00206,0.1,-13.304,0.109,94.975,4
+6,Forty Days And Forty Nights,The Real Folk Blues,Muddy Waters,1966-01-01,174567,44,0.596,0.643,0.596,0.405,0.000289,0.205,-10.497,0.0313,88.593,4
+7,Champagne & Reefer - Live,"Muddy ""Mississippi"" Waters Live (Legacy Edition)",Muddy Waters,2003-09-02,292373,44,0.333,0.331,0.333,0.603,0.0268,0.982,-8.339,0.176,207.8,3
+8,I Can't Be Satisfied,The Best Of Muddy Waters,Muddy Waters,1957-04-02,162213,42,0.667,0.955,0.667,0.4,0.0178,0.0866,-9.003,0.0462,104.879,4
+9,My Home Is In The Delta,The Folk Singer,Muddy Waters,1964-04-05,241000,41,0.547,0.767,0.547,0.131,0.0214,0.0707,-15.434,0.0371,96.728,4
+10,I'm a King Bee,King Bee,Muddy Waters,1981,230893,36,0.533,0.282,0.533,0.804,0.00863,0.583,-7.928,0.114,103.06,4
+11,Mean Old Frisco Blues,King Of The Electric Blues,Muddy Waters,1977,225200,36,0.686,0.707,0.686,0.757,0.000153,0.653,-7.337,0.0267,107.712,4
+12,You Don't Have To Go - Live,Live At The Checkerboard Lounge,Muddy Waters,2012-07-09,339746,31,0.505,0.218,0.505,0.683,0.0333,0.69,-7.037,0.0298,86.574,4
+13,"Baby, Please Don't Go - Live","Muddy ""Mississippi"" Waters Live (Legacy Edition)",Muddy Waters,2003-09-02,248133,36,0.513,0.188,0.513,0.892,0.0913,0.947,-7.784,0.122,145.374,4
+14,You Can't Lose What You Ain't Never Had,The Folk Singer,Muddy Waters,1964-04-05,179760,34,0.537,0.617,0.537,0.387,0.000163,0.0671,-9.924,0.0304,108.67,4
+15,The Red Rooster,"The Super, Super Blues Band",Bo Diddley,1968-01-28,445026,33,0.584,0.156,0.584,0.332,0.0,0.174,-13.14,0.0608,90.532,4
+16,Tom Cat,Electric Mud,Muddy Waters,1968,217640,41,0.396,0.14,0.396,0.752,0.0135,0.113,-6.058,0.0455,176.372,4
+17,The Blues Had a Baby and They Named It Rock and Roll,King Of The Electric Blues,Muddy Waters,1977,214733,33,0.555,0.492,0.555,0.883,0.669,0.744,-8.052,0.0463,114.172,4
+18,Feel Like Going Home,The Folk Singer,Muddy Waters,1964-04-05,237973,45,0.573,0.793,0.573,0.0815,0.0825,0.0755,-21.29,0.0979,106.985,4
+19,I'm Ready,The Chess Box,Muddy Waters,1989-11-07,184906,33,0.744,0.789,0.744,0.354,0.0,0.0856,-13.479,0.044,121.001,4
+20,Dealin' With the Devil,"Breakin' It Up, Breakin' It Down",Muddy Waters,2007-06-05,470413,35,0.365,0.597,0.365,0.713,2.07e-05,0.971,-6.984,0.114,82.434,4
+21,Rollin' And Tumblin' - Pt. 1,The Real Folk Blues,Muddy Waters,1966-01-01,181760,33,0.907,0.949,0.907,0.269,0.0033,0.143,-14.653,0.0498,118.852,4
+22,The Same Thing,The Folk Singer,Muddy Waters,1964-04-05,165133,33,0.637,0.703,0.637,0.324,0.0,0.0599,-12.8,0.034,85.347,4
+23,Long Distance Call,The Chess Box,Muddy Waters,1989-11-07,161026,33,0.499,0.817,0.499,0.189,3.79e-05,0.213,-15.378,0.0468,183.168,3
+24,Howling Wolf - Live,King Of The Electric Blues,Muddy Waters,1977,363040,29,0.352,0.757,0.352,0.584,0.023,0.972,-10.011,0.0956,171.206,3
+25,Kansas City - Live,"Muddy ""Mississippi"" Waters Live (Legacy Edition)",Muddy Waters,2003-09-02,569933,31,0.559,0.388,0.559,0.685,0.00058,0.729,-8.641,0.0623,109.121,4
+26,Spoonful,"The Super, Super Blues Band",Bo Diddley,1968-01-28,253093,29,0.583,0.388,0.583,0.339,0.0,0.0473,-13.15,0.0558,140.756,4
+27,You Need Love,The Chess Box,Muddy Waters,1989-11-07,165106,36,0.549,0.0651,0.549,0.502,0.000171,0.282,-15.212,0.0871,89.685,4
+28,She's Alright,Electric Mud,Muddy Waters,1968,391733,30,0.301,0.00746,0.301,0.791,0.00211,0.0965,-7.321,0.0353,176.264,4
+29,County Jail - Live,Live At The Checkerboard Lounge,Muddy Waters,2012-07-09,293266,26,0.495,0.225,0.495,0.674,0.00218,0.907,-6.912,0.0268,79.515,3
+30,Bottom Of The Sea,After The Rain,Muddy Waters,1969-05-12,324386,24,0.425,0.00404,0.425,0.61,0.0191,0.0901,-8.261,0.03,98.992,4
+31,Louisiana Blues,The Best Of Muddy Waters,Muddy Waters,1957-04-02,174200,31,0.596,0.934,0.596,0.311,0.0232,0.194,-8.659,0.0386,145.133,4
+32,Let's Spend The Night Together,Electric Mud,Muddy Waters,1968,189026,31,0.552,0.355,0.552,0.795,5.38e-06,0.439,-5.811,0.04,116.546,4
+33,Sweet Little Angel - Live,Live At The Checkerboard Lounge,Muddy Waters,2012-07-09,216293,27,0.313,0.0486,0.313,0.708,5.93e-05,0.652,-5.354,0.0333,170.123,3
+34,My Captain,The Folk Singer,Muddy Waters,1964-04-05,313493,27,0.559,0.791,0.559,0.0309,0.0101,0.109,-26.644,0.0396,94.892,3
+35,Honey Bee,The Best Of Muddy Waters,Muddy Waters,1957-04-02,201760,29,0.77,0.951,0.77,0.387,0.00395,0.0648,-7.637,0.0374,95.96,1
+36,What Is That She Got - Live At Mr. Kelly's/1971,Muddy Waters: Live (At Mr. Kelly's) [Reissue],Muddy Waters,1971-12-01,280293,33,0.4,0.889,0.4,0.284,0.0238,0.909,-15.542,0.0702,176.781,3
+37,I Feel So Good,Muddy Waters Sings Big Bill Broonzy,Muddy Waters,1960-01-01,174573,29,0.671,0.811,0.671,0.455,1.23e-05,0.226,-7.104,0.0356,113.571,4
+38,Bus Driver,Hard Again,Muddy Waters,1977,465373,29,0.316,0.599,0.316,0.928,0.778,0.363,-5.381,0.0652,107.982,1
+39,Long Distance Call,"The Super, Super Blues Band",Bo Diddley,1968-01-28,554826,27,0.471,0.0591,0.471,0.418,6.28e-05,0.0986,-11.866,0.0413,171.428,4
+40,Walkin' Thru The Park,The Real Folk Blues,Muddy Waters,1966-01-01,164293,29,0.653,0.682,0.653,0.572,0.000896,0.327,-9.737,0.0347,132.9,4
+41,She's Nineteen Years Old - Live,King Of The Electric Blues,Muddy Waters,1977,314040,27,0.412,0.777,0.412,0.623,0.0251,0.962,-8.427,0.338,169.754,3
+42,I Want to Be Loved #2,Hard Again,Muddy Waters,1977,141466,28,0.464,0.373,0.464,0.933,0.00118,0.575,-5.118,0.103,111.962,4
+43,Mean Red Spider,The Chess Box,Muddy Waters,1989-11-07,137733,29,0.762,0.983,0.762,0.194,0.101,0.0894,-16.808,0.0804,94.438,4
+44,Gypsy Woman,The Real Folk Blues,Muddy Waters,1966-01-01,156240,27,0.654,0.882,0.654,0.276,3.88e-05,0.0785,-12.689,0.0374,124.379,3
+45,Caledonia,"Breakin' It Up, Breakin' It Down",Muddy Waters,2007-06-05,417613,28,0.405,0.535,0.405,0.914,1.3e-06,0.849,-6.711,0.403,173.41,4
+46,Crosseyed Cat,Hard Again,Muddy Waters,1977,360693,28,0.565,0.474,0.565,0.941,0.315,0.819,-4.851,0.0377,95.395,4
+47,When I Get To Thinking,Muddy Waters Sings Big Bill Broonzy,Muddy Waters,1960-01-01,185960,21,0.531,0.774,0.531,0.628,0.000833,0.28,-6.033,0.0381,82.826,4
+48,Herbert Harper's Free Press News - Electric Mud Album Version,Electric Mud,Muddy Waters,1968,276866,24,0.504,0.00389,0.504,0.874,0.00768,0.104,-5.687,0.0388,88.85,4
+49,Walkin' Blues,The Real Folk Blues,Muddy Waters,1966-01-01,178600,22,0.71,0.986,0.71,0.0958,0.00221,0.0606,-17.05,0.0599,71.067,4

@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Never (Lagos Never Gonna Be the Same),Rejoice,Tony Allen,2020-03-20,233680,46,0.766,0.178,0.766,0.742,0.02,0.0916,-8.458,0.0428,100.024,4
+1,Free My People,"Soul Jazz Records Presents Nigeria Soul Fever: Afro Funk, Disco And Boogie: West African Disco Mayhem!",Various Artists,1978,292680,0,0.601,0.136,0.601,0.711,0.00187,0.249,-10.698,0.106,119.385,4
+2,Akula Owu Onyeara,"Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",The Funkees,2012-03-19,448914,45,0.701,0.525,0.701,0.701,0.047,0.235,-10.323,0.123,110.718,4
+3,Born Black,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",Various Artists,2017-05-19,197666,40,0.708,0.2,0.708,0.867,0.116,0.0618,-5.188,0.0481,126.932,4
+4,Khala My Friend,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",Various Artists,2017-05-19,200933,45,0.549,0.113,0.549,0.517,0.255,0.205,-13.633,0.0239,88.003,4
+5,Wanna Do My Thing,Feelin' Funky,Matata,1994-01-01,187800,39,0.705,0.531,0.705,0.625,7.73e-06,0.348,-11.963,0.0639,97.831,4
+6,Love and Death,Love & Death,Ebo Taylor,2010-10-25,415090,51,0.742,0.135,0.742,0.896,0.461,0.12,-7.208,0.0501,102.451,4
+7,Afe Ato Yen Bio,Afro-Beat Airways: Ghana & Togo 1974-1978 (Analog Africa No. 14),Various Artists,2010-08-02,282070,42,0.814,0.404,0.814,0.856,0.000164,0.147,-4.97,0.0404,122.312,4
+8,Petit Sekou,Discothèque 76,Bembeya Jazz National,1976,355250,0,0.495,0.173,0.495,0.744,0.9,0.126,-5.372,0.0481,81.069,4
+9,Afro Beat Blues (Feat. Ojah),Presents the Chissa Years 1965-1975,Hugh Masekela,2006-07-24,407160,0,0.778,0.466,0.778,0.83,0.357,0.111,-7.093,0.072,95.887,4
+10,Tire Loma da Nigbehin,Tire Loma Da Nigbehin,Monomono,2011-07-17,288706,37,0.571,0.621,0.571,0.645,0.000317,0.0953,-8.012,0.0526,108.311,4
+11,Funky Lady,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",Various Artists,2017-05-19,369986,37,0.711,0.639,0.711,0.722,0.0,0.0505,-8.959,0.184,128.044,4
+12,Ohomi,The World Ends: Afro Rock & Psychedelia in 1970s Nigeria,Various Artists,2010-11-23,190653,0,0.689,0.298,0.689,0.789,0.0144,0.118,-5.593,0.054,117.89,4
+13,Chant To Mother Earth,Phases 1972-1982,BLO,2010-05-16,369133,37,0.403,0.791,0.403,0.447,0.531,0.146,-14.335,0.034,139.12,3
+14,Changa Namwele,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",Various Artists,2017-05-19,232426,35,0.464,0.351,0.464,0.547,1.04e-06,0.142,-9.768,0.161,189.662,4
+15,Fast,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",Various Artists,2017-05-19,289386,35,0.584,0.00252,0.584,0.916,0.168,0.276,-5.903,0.0339,125.814,4
+16,Running,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",Various Artists,2017-05-19,234800,39,0.884,0.8,0.884,0.86,0.318,0.145,-8.401,0.0366,129.306,4
+17,I Don't Know,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",Various Artists,2017-05-19,270386,35,0.416,0.68,0.416,0.679,0.00165,0.117,-5.28,0.0473,86.954,4
+18,Few Bana Zambia,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",Various Artists,2017-05-19,262373,41,0.634,0.882,0.634,0.98,0.094,0.275,-4.791,0.0588,88.85,4
+19,You Better Know,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",Various Artists,2017-05-19,210306,37,0.704,0.443,0.704,0.463,0.0156,0.125,-6.846,0.0293,127.616,4
+20,Hi Babe,"Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977)",Various Artists,2017-05-19,242613,36,0.777,0.916,0.777,0.721,0.0658,0.0972,-9.671,0.0783,122.657,4
+21,You Are My Heart,Nigeria 70 - Lagos Jump,Various Artists,2008-05-12,193000,48,0.664,0.481,0.664,0.681,0.0232,0.225,-7.458,0.0366,97.501,4
+22,It's Not Easy,Forge Your Own Chains: Heavy Psychedelic Ballads And Dirges 1968-1974,Top Drawer,2009-11-17,260879,48,0.52,0.324,0.52,0.824,4.76e-06,0.147,-4.286,0.0462,79.39,4
+23,Soubour,Music In Exile,Songhoy Blues,2015-02-24,212306,35,0.619,0.0154,0.619,0.875,0.378,0.345,-5.957,0.0257,101.891,4
+24,I Want a Break Thru,I Want a Break Thru,The Hykkers,2011-10-30,182786,36,0.79,0.414,0.79,0.854,0.801,0.268,-6.263,0.0671,101.646,4
+25,In the Jungle - Instrumental,Nigeria Rock Special: Psychedelic Afro-Rock & Fuzz Funk in 1970's Nigeria,Various Artists,2009-08-10,189106,0,0.735,0.337,0.735,0.87,0.218,0.149,-4.916,0.0454,104.287,4
+26,Awa adounia,Kel Tamasheq (Deluxe Edition),Terakaft,2012-08-28,284840,42,0.617,0.125,0.617,0.827,0.198,0.085,-8.936,0.0348,101.154,4
+27,Acid Rock,Nigeria Rock Special: Psychedelic Afro-Rock & Fuzz Funk in 1970's Nigeria,Various Artists,2009-08-10,174506,0,0.727,0.172,0.727,0.624,0.791,0.0928,-6.274,0.128,145.748,4
+28,She's A Dropout,"Ivory Music Classics, Vol. 1",Various Artists,2010-06-27,191533,32,0.668,0.137,0.668,0.675,0.00138,0.0929,-11.181,0.0524,106.271,4
+29,Gbomei Adesai,Psycho African Beat,The Psychedelic Aliens,2010-11-22,188586,34,0.618,0.671,0.618,0.726,0.418,0.12,-6.502,0.0374,115.918,4
+30,Kenimania,Nigeria Rock Special: Psychedelic Afro-Rock & Fuzz Funk in 1970's Nigeria,Various Artists,2009-08-10,277786,0,0.671,0.0847,0.671,0.86,0.834,0.154,-9.071,0.0432,96.674,4
+31,Obaa Sima,Obaa Sima,Ata Kak,2015-03-03,338409,44,0.907,0.0335,0.907,0.66,0.194,0.112,-11.951,0.0459,130.747,4
+32,Rough Rider,The World Ends: Afro Rock & Psychedelia in 1970s Nigeria,Various Artists,2010-11-23,233853,0,0.715,0.107,0.715,0.67,0.783,0.0943,-7.806,0.0348,111.877,4
+33,Greetings,Nigeria 70 - Funky Lagos,Various Artists,2009-03-23,373333,42,0.653,0.0164,0.653,0.875,0.0311,0.377,-5.232,0.125,116.956,4
+34,Akwa Kayi Ji Bia Nuwa,Soundway Records Presents The World Ends Afro Rock and Psychedelia in 1970s Nigeria,Various Artists,2010-07-12,329373,0,0.518,0.0626,0.518,0.915,9.68e-05,0.487,-7.634,0.0431,112.238,4
+35,Heaven,Life Stories,Ebo Taylor,1977,365693,44,0.655,0.124,0.655,0.771,0.509,0.0811,-7.321,0.0517,99.567,4
+36,Keleya,World Psychedelic Classics: Love's A Real Thing,Various Artists,2005-03-07,402333,33,0.79,0.907,0.79,0.63,0.0669,0.347,-9.657,0.102,121.101,4
+37,Secret Agent,Secret Agent,Tony Allen,2009-06-08,320493,0,0.721,0.28,0.721,0.604,0.216,0.225,-10.224,0.0302,119.98,4
+38,Heavy Heavy Heavy,Afro-Rock Vol. 1,Various Artists,1974,393280,34,0.662,0.129,0.662,0.868,0.409,0.126,-8.375,0.0496,136.071,4
+39,Blacky Joe,The World Ends: Afro Rock & Psychedelia in 1970s Nigeria,Various Artists,2010-11-23,299960,0,0.56,0.0104,0.56,0.704,0.00123,0.313,-8.237,0.0465,139.962,4
+40,Somebody's Gonna Lose or Win,The World Ends: Afro Rock & Psychedelia in 1970s Nigeria,Various Artists,2010-11-23,189160,0,0.731,0.434,0.731,0.748,0.00117,0.0742,-6.886,0.0817,102.648,4
+41,Fefe Naa Efe,Gentleman,Fela Kuti,1973-01-01,492293,32,0.77,0.602,0.77,0.733,0.0302,0.143,-8.028,0.135,93.079,4
+42,This Hustling World,Simigwa,Gyedu-Blay Ambolley,2012-10-15,258577,34,0.697,0.721,0.697,0.534,1.29e-05,0.32,-10.826,0.0567,110.378,4
+43,Onye Mmanya,"Dancing Time, the Best of Eastern Nigeria's Afro Rock Exponents 1973-77 (Soundway Records)",The Funkees,2012-03-19,352186,34,0.59,0.225,0.59,0.741,0.241,0.191,-9.662,0.0525,111.695,4
+44,Bargain,"Make It Fast, Make It Slow (Soundway Records)",Rob,2012-03-12,317684,38,0.811,0.515,0.811,0.561,0.304,0.127,-10.883,0.423,103.967,4
+45,Spoons,Mali Music,Malian Musicians,2002-04-15,319293,39,0.285,0.697,0.285,0.419,0.0205,0.249,-13.454,0.0427,120.026,4
+46,Hyena,Footsteps In Africa - The Soundtrack,Various Artists,2009-09-18,173000,0,0.679,0.47,0.679,0.474,0.841,0.0727,-15.384,0.0311,130.019,3
+47,Fafa,Fondo,Vieux Farka Touré,2009-05-26,303226,0,0.441,0.744,0.441,0.611,0.295,0.168,-5.61,0.0314,92.581,4
+48,Watch Your Life,Itadi,Itadi,2013-05-03,370469,37,0.629,0.213,0.629,0.734,0.175,0.113,-10.326,0.0467,88.093,4
+49,Toumast Tincha,Emmaar,Tinariwen,2014-02-10,260253,0,0.494,0.486,0.494,0.661,0.806,0.116,-7.54,0.047,89.659,4
+50,Rock the House,Gorillaz,Gorillaz,2001-03-26,249200,53,0.754,0.0748,0.754,0.825,7.18e-05,0.169,-6.498,0.237,171.948,4
+51,Human Animal,Human Animal,Total Giovanni,2014-10-31,356481,47,0.755,0.00504,0.755,0.852,0.0154,0.876,-5.965,0.0464,113.99,4
+52,Little L,A funk odyssey,Jamiroquai,2001-09-11,295400,66,0.878,0.168,0.878,0.724,0.0116,0.133,-5.373,0.129,121.906,4
+53,Kiss You Forever,Pacific Standard Time,Poolside,2012-07-09,332520,47,0.662,0.133,0.662,0.889,0.00566,0.044,-4.417,0.0401,96.012,4
+54,Tieduprightnow,Tieduprightnow,Parcels,2018-04-27,249956,69,0.863,0.291,0.863,0.533,0.00126,0.0794,-7.986,0.0484,102.025,4
+55,Sonate pacifique,Sonate pacifique - EP,L'Impératrice,2014-09-16,348944,0,0.557,0.627,0.557,0.534,0.0192,0.425,-8.863,0.0328,99.99,4
+56,Agitations tropicales,Odyssée - EP,L'Impératrice,2015-10-12,248892,63,0.76,0.564,0.76,0.401,0.259,0.0977,-9.537,0.0674,115.989,4
+57,Bad Bad News,Good Thing,Leon Bridges,2018-05-04,207306,64,0.783,0.231,0.783,0.629,0.000536,0.0881,-6.152,0.0607,111.978,4
+58,Fou,Tako Tsubo,L'Impératrice,2021-03-26,309586,53,0.86,0.0788,0.86,0.593,0.619,0.0395,-9.561,0.0563,108.051,4
+59,Heart It Races - Cover Version,Heart It Races,Architecture In Helsinki,2007-06-05,233128,66,0.705,0.443,0.705,0.474,0.0553,0.338,-13.081,0.0391,98.612,4
+60,Homage,Skiptracing,Mild High Club,2016-08-26,177493,74,0.546,0.153,0.546,0.468,0.00257,0.321,-8.167,0.0287,73.372,4
+61,Old Friends,Cardinal,Pinegrove,2016-02-12,207720,0,0.488,0.41,0.488,0.555,0.0,0.494,-7.315,0.0398,147.88,4
+62,Put It Back Together (feat. Damon Albarn),Palookaville,Fatboy Slim,2004-10-01,276640,38,0.603,0.145,0.603,0.611,0.000239,0.26,-6.628,0.0396,79.992,4
+63,Mr Bubbles,Mr Bubbles,The Ruminaters,2016-02-26,249488,43,0.646,0.517,0.646,0.71,0.000192,0.328,-6.383,0.0344,127.088,4
+64,Lonesome,Be The Void (Deluxe Edition),Dr. Dog,2012-02-07,198440,39,0.643,0.757,0.643,0.801,1.61e-06,0.0783,-4.985,0.0804,76.041,4
+65,Daydream,Daydream,The Lovin' Spoonful,1966-03,139093,58,0.822,0.834,0.822,0.332,0.0,0.11,-11.369,0.0506,110.802,4
+66,Here Comes Your Man,Doolittle,Pixies,1989-04-17,201693,15,0.669,0.0475,0.669,0.783,0.0296,0.115,-12.302,0.0295,124.518,4
+67,In the Summertime,In the Summertime,Mungo Jerry,1970-01-01,211880,68,0.754,0.724,0.754,0.449,0.0,0.162,-14.013,0.0615,82.751,4
+68,Lola,"Lola Versus Powerman and the Moneygoround, Pt. One",The Kinks,1970-11-27,241040,71,0.474,0.582,0.474,0.917,0.231,0.201,-4.19,0.0395,152.113,4
+69,Why Can't We Be Friends?,Why Can't We Be Friends?,War,1975-01-01,230066,6,0.776,0.19,0.776,0.714,0.0,0.506,-9.044,0.0388,92.448,4
+70,Sunny Afternoon - Mono Mix,Face to Face (Deluxe Edition),The Kinks,1966-10-28,210525,67,0.595,0.102,0.595,0.465,0.0,0.0641,-8.412,0.026,124.991,4
+71,Time Is On My Side,The Rolling Stones Songbook,Andrew Oldham Orchestra,1966-01-01,191986,12,0.409,0.529,0.409,0.745,0.51,0.736,-5.954,0.0497,119.48,4
+72,Ophelia - Remastered 2000,Northern Lights-Southern Cross (Expanded Edition),The Band,1975-11-01,212800,60,0.831,0.678,0.831,0.683,0.00197,0.332,-7.403,0.0285,92.31,4
+73,Picture Book - Stereo Mix,The Kinks Are the Village Green Preservation Society (Deluxe Expanded Edition),The Kinks,1968-11-22,156000,0,0.831,0.164,0.831,0.947,0.000253,0.322,-6.897,0.031,121.173,4
+74,Listen to the Music,Toulouse Street,The Doobie Brothers,1972,227266,76,0.645,0.221,0.645,0.598,3.53e-06,0.0721,-13.18,0.0335,105.929,4
+75,Have You Ever Seen The Rain?,Pendulum (40th Anniversary Edition),Creedence Clearwater Revival,1970-12-07,160133,0,0.741,0.0664,0.741,0.697,2.28e-05,0.133,-7.028,0.0277,116.109,4
+76,Anything Could Happen,Compilation,The Clean,1986-01-01,157066,0,0.622,0.343,0.622,0.535,0.843,0.217,-12.658,0.0367,125.821,4
+77,Make It Wit Chu,Era Vulgaris,Queens of the Stone Age,2007-01-01,290493,57,0.704,0.355,0.704,0.811,0.000189,0.13,-5.308,0.0277,91.97,4
+78,Send Me on My Way,Music From Party of Five,Various Artists,1996-11-12,263333,73,0.5,0.114,0.5,0.681,4.01e-05,0.139,-9.556,0.0672,119.46,4
+79,Tenderness,Wide Awake!,Parquet Courts,2018-05-18,186106,6,0.716,0.165,0.716,0.736,0.000171,0.0746,-3.761,0.0363,98.005,4
+80,Too Young to Burn,Tomorrow Is Alright,Sonny & The Sunsets,2010,199693,53,0.79,0.731,0.79,0.44,0.000429,0.24,-10.572,0.0335,110.129,4
+81,Make It Wit Chu,Era Vulgaris,Queens of the Stone Age,2007-01-01,290493,64,0.708,0.413,0.708,0.828,0.000104,0.12,-5.286,0.0286,91.977,4
+82,Two Weeks,Veckatimest,Grizzly Bear,2009-05-24,243160,69,0.537,0.289,0.537,0.712,0.00568,0.08,-5.597,0.0286,159.871,4
+83,Bum Bum Bum,Mangy Love,Cass McCombs,2016-08-26,299671,54,0.509,0.74,0.509,0.508,0.305,0.0979,-11.33,0.0319,79.923,4
+84,Shuggie,We Are the 21st Century Ambassadors of Peace & Magic,Foxygen,2013-01-22,201706,61,0.467,0.101,0.467,0.645,0.00524,0.144,-7.614,0.0364,127.947,3
+85,Anthems For A Seventeen Year-Old Girl,You Forgot It In People,Broken Social Scene,2003-03-11,275693,55,0.466,0.229,0.466,0.446,0.0168,0.125,-9.415,0.0322,80.154,4
+86,Lysergic Bliss,Satanic Panic In The Attic,of Montreal,2004-04-06,244013,49,0.481,0.373,0.481,0.747,0.0437,0.102,-6.27,0.0513,110.994,4
+87,Sunday Morning,Take A Picture,Margo Guryan,1968,140133,44,0.545,0.634,0.545,0.754,2.55e-06,0.118,-8.261,0.05,98.743,4
+88,The Old Man's Back Again (Dedicated To The Neo-Stalinist Regime),Scott 4,Scott Walker,1969-11-01,220573,50,0.419,0.58,0.419,0.454,4.38e-05,0.161,-16.458,0.0413,90.99,4
+89,Thirteen,#1 Record,Big Star,1972,154666,52,0.457,0.674,0.457,0.268,5.77e-06,0.11,-14.371,0.0319,117.141,4
+90,I Am The Changer,Paranoid Cocoon,Cotton Jones,2009-01-27,394840,56,0.634,0.784,0.634,0.529,0.000805,0.0902,-10.026,0.0284,122.015,4
+91,Walk Away Renee,Walk Away Renée/Pretty Ballerina,The Left Banke,1967-02-01,164813,45,0.405,0.735,0.405,0.563,0.0,0.198,-7.313,0.033,117.777,4
+92,Your Sweet Love,The Very Special World Of Lee Hazlewood (Expanded Edition),Lee Hazlewood,1966-09-17,245920,48,0.249,0.821,0.249,0.217,0.105,0.133,-14.875,0.0307,100.044,4
+93,The Boy With The Arab Strap,The Boy With The Arab Strap,Belle & Sebastian,1998-01-01,314066,48,0.577,0.361,0.577,0.83,0.0203,0.0681,-9.843,0.0588,142.376,4
+94,Sisyphus,My Finest Work Yet,Andrew Bird,2019-03-22,247493,61,0.631,0.23,0.631,0.792,0.000317,0.0756,-4.364,0.0427,82.901,4
+95,No Other,No Other,Gene Clark,1974-09-01,308533,46,0.467,0.42,0.467,0.617,0.724,0.137,-13.997,0.0404,96.878,4
+96,Sandra (When The Earth Dies),For the Recently Found Innocent,White Fence,2014-07-22,146280,34,0.758,0.202,0.758,0.446,0.00472,0.175,-10.971,0.195,84.484,4
+97,Sons & Daughters,The Crane Wife,The Decemberists,2006-10-03,313600,52,0.331,0.224,0.331,0.559,0.0,0.297,-8.263,0.0316,115.117,4
+98,Nantes,The Flying Club Cup,Beirut,2007-10-08,230200,62,0.437,0.782,0.437,0.533,0.0142,0.134,-9.552,0.0426,131.155,4
+99,Find Yourself,Hypnophobia,Jacco Gardner,2015-05-04,214175,32,0.577,0.0162,0.577,0.74,0.66,0.0996,-5.925,0.0282,150.078,4

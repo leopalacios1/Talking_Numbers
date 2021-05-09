@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,All My Friends,Sound of Silver,LCD Soundsystem,2007-03-12,462266,60,0.701,0.148,0.701,0.788,0.625,0.0977,-5.611,0.0425,142.584,4
+1,Dance Yrself Clean,This Is Happening,LCD Soundsystem,2010-05-17,536471,64,0.739,0.00557,0.739,0.611,0.725,0.04,-9.829,0.0622,98.004,4
+2,oh baby,american dream,LCD Soundsystem,2017-09-01,349693,63,0.58,0.0192,0.58,0.622,0.653,0.648,-12.005,0.0352,169.442,4
+3,Someone Great,Sound of Silver,LCD Soundsystem,2007-03-12,390013,59,0.722,0.0418,0.722,0.894,0.00374,0.11,-5.903,0.0325,113.003,4
+4,Losing My Edge,LCD Soundsystem,LCD Soundsystem,2005-01-24,473066,46,0.769,0.000208,0.769,0.959,0.631,0.331,-8.717,0.0634,116.168,4
+5,Home,This Is Happening,LCD Soundsystem,2010-05-17,473333,54,0.752,0.0462,0.752,0.844,0.131,0.0782,-8.705,0.0398,124.013,4
+6,Daft Punk Is Playing at My House,LCD Soundsystem,LCD Soundsystem,2005-01-24,314556,60,0.92,0.0222,0.92,0.914,7.62e-05,0.114,-4.555,0.0444,135.923,4
+7,emotional haircut,american dream,LCD Soundsystem,2017-09-01,329213,38,0.626,0.00339,0.626,0.949,0.627,0.119,-7.065,0.113,150.506,4
+8,I Can Change,This Is Happening,LCD Soundsystem,2010-05-17,352003,57,0.644,0.00215,0.644,0.73,0.00178,0.233,-6.565,0.0287,116.981,4
+9,change yr mind,american dream,LCD Soundsystem,2017-09-01,297546,38,0.763,0.0176,0.763,0.849,0.507,0.0872,-8.466,0.056,105.005,4
+10,"New York, I Love You but You're Bringing Me Down",Sound of Silver,LCD Soundsystem,2007-03-12,335480,56,0.39,0.474,0.39,0.37,0.00013,0.115,-8.288,0.0457,176.526,3
+11,Yeah,LCD Soundsystem,LCD Soundsystem,2005-01-24,561253,40,0.705,0.000227,0.705,0.861,0.543,0.388,-4.875,0.0296,131.999,4
+12,american dream,call the police / american dream,LCD Soundsystem,2017-05-05,373080,0,0.337,0.0365,0.337,0.462,0.0152,0.0782,-9.955,0.0294,199.991,3
+13,you can't hide / shame on you - live at madison square garden,the long goodbye (lcd soundsystem live at madison square garden),LCD Soundsystem,2014-04-19,297906,43,0.555,0.0496,0.555,0.705,0.0183,0.216,-9.67,0.0472,117.219,4
+14,tonite,american dream,LCD Soundsystem,2017-09-01,347346,42,0.767,0.0678,0.767,0.787,0.00509,0.43,-8.28,0.0566,121.102,4
+15,North American Scum,Sound of Silver,LCD Soundsystem,2007-03-12,328706,51,0.882,0.0136,0.882,0.842,0.0345,0.262,-4.534,0.0933,138.02,4
+16,Tribulations,LCD Soundsystem,LCD Soundsystem,2005-01-24,299000,51,0.694,3.27e-05,0.694,0.773,0.883,0.0761,-5.61,0.0352,132.012,4
+17,call the police,american dream,LCD Soundsystem,2017-09-01,418773,44,0.375,9.62e-05,0.375,0.728,0.00411,0.0781,-6.475,0.0442,151.011,4
+18,Never as Tired as When I'm Waking Up,LCD Soundsystem,LCD Soundsystem,2005-01-24,289893,46,0.647,0.408,0.647,0.482,0.0222,0.199,-6.631,0.0262,125.816,4
+19,Get Innocuous!,Sound of Silver,LCD Soundsystem,2007-03-12,431520,46,0.696,0.0105,0.696,0.963,0.857,0.0872,-6.625,0.0398,118.01,4
+20,Yr City's a Sucker,LCD Soundsystem,LCD Soundsystem,2005-01-24,562160,36,0.765,0.127,0.765,0.818,0.00167,0.0924,-6.109,0.0392,103.906,4
+21,Christmas Will Break Your Heart,Christmas Will Break Your Heart,LCD Soundsystem,2015-12-25,266866,31,0.473,0.194,0.473,0.267,0.0145,0.091,-11.099,0.0329,144.93,3
+22,us v them - live at madison square garden,the long goodbye (lcd soundsystem live at madison square garden),LCD Soundsystem,2014-04-19,561413,33,0.547,0.00341,0.547,0.821,0.0504,0.615,-11.935,0.0447,139.783,4
+23,Around the World,Homework,Daft Punk,1997-01-16,429533,76,0.956,0.00356,0.956,0.795,0.889,0.0906,-5.311,0.15,121.294,4
+24,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit],Daft Punk,2013-04-19,248413,79,0.794,0.0426,0.794,0.811,1.07e-06,0.101,-8.966,0.038,116.047,4
+25,One More Time,Discovery,Daft Punk,2001-03-12,320357,79,0.611,0.0193,0.611,0.697,0.0,0.332,-8.618,0.133,122.752,4
+26,Da Funk,Homework,Daft Punk,1997-01-16,328680,65,0.806,0.00196,0.806,0.7,0.891,0.267,-5.269,0.0752,111.215,4
+27,Instant Crush (feat. Julian Casablancas),Random Access Memories,Daft Punk,2013-05-17,337560,77,0.775,0.0422,0.775,0.585,0.619,0.077,-9.516,0.0271,109.942,4
+28,"Harder, Better, Faster, Stronger",Discovery,Daft Punk,2001-03-12,224693,75,0.817,0.0427,0.817,0.716,0.00263,0.358,-8.898,0.144,123.475,4
+29,I Feel It Coming,Starboy,The Weeknd,2016-11-25,269186,5,0.769,0.429,0.769,0.813,0.0,0.0952,-5.9,0.143,92.985,4
+30,Digital Love,Discovery,Daft Punk,2001-03-12,301373,68,0.644,0.0481,0.644,0.664,0.862,0.342,-8.398,0.0333,124.726,4
+31,Giorgio by Moroder,Random Access Memories,Daft Punk,2013-05-17,544626,67,0.74,0.0692,0.74,0.682,0.53,0.381,-10.42,0.0504,113.201,4
+32,Voyager,Discovery,Daft Punk,2001-03-12,227866,64,0.669,0.282,0.669,0.743,0.803,0.309,-11.488,0.0494,119.882,4
+33,Robot Rock,Human After All,Daft Punk,2005-03-14,287720,62,0.59,6.94e-06,0.59,0.787,0.845,0.0293,-5.766,0.0512,111.926,4
+34,Revolution 909,Homework,Daft Punk,1997-01-16,335026,58,0.745,0.0265,0.745,0.716,0.846,0.246,-7.918,0.136,126.527,4
+35,Starboy,Starboy,The Weeknd,2016-09-22,230466,0,0.68,0.159,0.68,0.594,2.35e-06,0.134,-7.021,0.28,186.04,4
+36,Lose Yourself to Dance (feat. Pharrell Williams),Random Access Memories,Daft Punk,2013-05-17,353893,71,0.832,0.0839,0.832,0.659,0.00114,0.0753,-7.828,0.057,100.163,4
+37,Veridis Quo,Discovery,Daft Punk,2001-03-12,345186,66,0.604,0.479,0.604,0.687,0.95,0.104,-13.928,0.045,106.896,4
+38,Touch (feat. Paul Williams),Random Access Memories,Daft Punk,2013-05-17,498960,63,0.29,0.477,0.29,0.412,0.0839,0.079,-12.659,0.0458,90.539,4
+39,Something About Us,Discovery,Daft Punk,2001-03-12,232666,71,0.875,0.44,0.875,0.475,0.72,0.046,-12.673,0.0986,99.958,4
+40,Within,Random Access Memories,Daft Punk,2013-05-17,228506,62,0.702,0.894,0.702,0.297,0.485,0.103,-14.116,0.0317,110.116,4
+41,Make Love,Human After All,Daft Punk,2005-03-14,289680,54,0.697,0.783,0.697,0.548,0.841,0.132,-9.087,0.0561,133.005,4
+42,Fragments of Time (feat. Todd Edwards),Random Access Memories,Daft Punk,2013-05-17,279773,61,0.807,0.041,0.807,0.51,0.115,0.104,-9.729,0.0433,130.118,4
+43,Aerodynamic - Daft Punk Remix,Daft Club,Daft Punk,2003-12-01,370986,55,0.568,0.413,0.568,0.928,0.572,0.111,-6.071,0.0733,122.892,4
+44,Technologic,Human After All,Daft Punk,2005-03-14,284280,58,0.812,0.000369,0.812,0.516,1.09e-05,0.0991,-6.963,0.224,127.498,4
+45,Rollin' & Scratchin',Homework,Daft Punk,1997-01-16,448626,54,0.822,0.00108,0.822,0.791,0.621,0.0567,-4.87,0.0414,130.059,4
+46,High Life,Discovery,Daft Punk,2001-03-12,201800,58,0.653,0.00445,0.653,0.869,0.398,0.334,-9.393,0.216,125.202,4
+47,Mothership Reconnection (feat.Parliament/Funkadelic) - (Daft Punk Remix),"Musique, Vol. 1",Daft Punk,2006-03-29,240533,51,0.846,0.0886,0.846,0.832,0.2,0.0737,-5.486,0.42,126.132,4
+48,Derezzed,TRON: Legacy,Daft Punk,2010-12-03,104120,45,0.536,0.00159,0.536,0.616,0.773,0.195,-10.019,0.0488,119.988,4
+49,Burnin',Homework,Daft Punk,1997-01-16,414173,51,0.87,0.192,0.87,0.875,0.357,0.0804,-8.501,0.205,124.298,4
+50,Doin' it Right (feat. Panda Bear),Random Access Memories,Daft Punk,2013-05-17,251293,65,0.804,0.388,0.804,0.451,2.17e-05,0.0924,-8.207,0.0949,178.061,4
+51,The Prime Time of Your Life,Human After All,Daft Punk,2005-03-14,263240,49,0.503,4.51e-05,0.503,0.507,0.514,0.288,-7.243,0.181,128.606,4
+52,Face to Face,Discovery,Daft Punk,2001-03-12,240173,63,0.874,0.00135,0.874,0.437,0.0296,0.0293,-10.234,0.0706,117.79,4
+53,Musique,Da Funk,Daft Punk,1995,413600,50,0.821,0.00164,0.821,0.885,0.848,0.0851,-6.996,0.0811,117.206,4
+54,Teachers,Homework,Daft Punk,1997-01-16,173493,51,0.98,0.03,0.98,0.486,0.823,0.0995,-7.31,0.251,123.206,4
+55,Short Circuit,Discovery,Daft Punk,2001-03-12,206866,56,0.535,0.00461,0.535,0.558,0.824,0.0821,-10.756,0.0741,109.69,4
+56,Alive,Homework,Daft Punk,1997-01-16,316253,52,0.723,5.42e-05,0.723,0.716,0.905,0.072,-6.407,0.0437,128.701,4
+57,Human After All,Human After All,Daft Punk,2005-03-14,319879,53,0.608,0.00139,0.608,0.725,0.0546,0.0802,-4.367,0.342,136.251,4
+58,Give Life Back to Music,Random Access Memories,Daft Punk,2013-05-17,275386,64,0.788,0.00286,0.788,0.616,0.549,0.0952,-10.671,0.0337,119.037,4
+59,Too Long,Discovery,Daft Punk,2001-03-12,600293,57,0.691,0.00212,0.691,0.582,0.0,0.177,-10.165,0.301,127.02,4
+60,The Son of Flynn,TRON: Legacy,Daft Punk,2010-12-03,95226,43,0.542,0.914,0.542,0.776,0.884,0.262,-17.679,0.0463,106.005,4
+61,The Game of Love,Random Access Memories,Daft Punk,2013-05-17,322146,61,0.712,0.825,0.712,0.5,0.314,0.106,-11.948,0.0338,90.039,4
+62,Ouverture,Daft Club,Daft Punk,2003-12-01,160626,46,0.592,0.0274,0.592,0.829,0.885,0.0817,-10.497,0.0415,122.999,4
+63,Beyond,Random Access Memories,Daft Punk,2013-05-17,290240,59,0.716,0.367,0.716,0.648,0.485,0.368,-11.33,0.0337,104.022,4
+64,Never Come Back,Suddenly,Caribou,2020-02-28,305480,60,0.776,0.405,0.776,0.684,0.559,0.0663,-8.934,0.0367,127.979,4
+65,Holidays (feat. Alan Palomo),Illumination,Miami Horror,2010-08-20,268233,0,0.667,0.103,0.667,0.926,0.000168,0.229,-3.792,0.0525,115.985,4
+66,I Feel High (with L'Impératrice),I Feel High (with L'Impératrice),Poolside,2021-04-20,262333,52,0.773,0.052,0.773,0.471,0.163,0.0963,-8.867,0.0554,101.99,4
+67,Tranz,The Now Now,Gorillaz,2018-06-29,162626,63,0.649,0.0324,0.649,0.883,0.0185,0.0658,-5.058,0.0306,135.141,4
+68,Live at Dominoes,Since I Left You,The Avalanches,2001-04-16,338946,29,0.602,0.0076,0.602,0.951,0.0165,0.978,-6.251,0.089,124.97,4
+69,Dear Skorpio Magazine,Vega Intl. Night School,Neon Indian,2015-10-16,236815,12,0.691,0.262,0.691,0.896,0.000474,0.277,-4.929,0.0966,103.959,4
+70,Find A Way,Life Left To Go,SafetySuit,2008-01-01,257440,40,0.448,0.0145,0.448,0.76,0.0255,0.299,-4.244,0.0322,148.014,4
+71,Everyday I Love You Less And Less,Employment,Kaiser Chiefs,2005,217706,57,0.49,0.00466,0.49,0.956,6.15e-06,0.242,-4.556,0.0407,160.028,4
+72,Do I Wanna Know?,AM,Arctic Monkeys,2013-09-09,272394,85,0.548,0.186,0.548,0.532,0.000263,0.217,-7.596,0.0323,85.03,4
+73,Let's Dance to Joy Division,"Proudly Present... A Guide to Love, Loss & Desperation",The Wombats,2007-11-05,191293,65,0.397,0.00125,0.397,0.839,0.0,0.576,-6.674,0.102,116.947,4
+74,Ordinary Pleasure,Outer Peace,Toro y Moi,2019-01-18,183752,51,0.883,0.152,0.883,0.781,0.0142,0.105,-7.384,0.141,115.011,4
+75,D.A.N.C.E,Justice,Justice,2007-06-11,242266,65,0.613,0.034,0.613,0.962,0.0,0.824,-5.07,0.278,113.015,4
+76,Vale,Kingdoms In Colour,Maribou State,2018-09-07,247622,54,0.693,0.388,0.693,0.67,0.772,0.152,-8.863,0.0425,145.01,4
+77,Little Journey,Since I Left You,The Avalanches,2001-04-16,96280,27,0.378,0.255,0.378,0.767,0.201,0.502,-10.234,0.178,116.984,4
+78,Fire Flies,The Now Now,Gorillaz,2018-06-29,233373,53,0.346,0.278,0.346,0.511,0.0456,0.122,-10.022,0.044,134.927,3
+79,Got to Be a Love - Paul Nice Remix,Soul Mosaic,Greyboy,2000-04-05,275786,49,0.808,0.19,0.808,0.728,0.0502,0.114,-5.811,0.0671,94.932,4
+80,Clap Your Hands,Clap Your Hands,Whilk & Misky,2014-09-01,305532,59,0.823,0.232,0.823,0.638,0.211,0.0961,-11.364,0.055,117.984,4
+81,Bees,The Milk of Human Kindness,Caribou,2005-04-18,323666,57,0.715,0.785,0.715,0.596,0.885,0.111,-12.811,0.0304,130.716,4
+82,Okay,Dynamics,Holy Ghost!,2013-09-09,273853,34,0.8,0.0135,0.8,0.637,0.0122,0.142,-5.367,0.0321,110.999,4
+83,Yum Yum Cult,Fucked up Friends,TOBACCO,2008-10-14,65746,31,0.639,0.446,0.639,0.69,0.0636,0.313,-6.903,0.029,127.288,4
+84,Games Continued (feat. Marie Plassard) - Radio Edit,Games (feat. Marie Plassard),Bakermat,2016-02-05,203706,59,0.656,0.0357,0.656,0.618,0.000325,0.315,-6.608,0.0284,127.034,4
+85,Cafe D'Athens,Part 1 Everything Not Saved Will Be Lost,Foals,2019-03-08,246867,39,0.37,0.0401,0.37,0.874,0.589,0.0731,-5.065,0.0577,136.03,4
+86,Master of None,Beach House,Beach House,2006-10-03,199413,62,0.492,0.674,0.492,0.344,0.531,0.0933,-15.259,0.0259,86.485,4
+87,The Look,The English Riviera,Metronomy,2011-04-11,277653,71,0.638,0.623,0.638,0.535,0.0391,0.0837,-7.792,0.0415,84.947,4
+88,Through Your Eyes (feat. La Mar),Through Your Eyes,YesYou,2015-11-20,229624,29,0.7,0.00639,0.7,0.627,0.00196,0.224,-7.39,0.045,105.983,4
+89,Sun,Swim,Caribou,2010-04-16,344920,45,0.69,0.0402,0.69,0.825,0.807,0.172,-7.373,0.038,127.983,4
+90,Easy Way Out,Making Mirrors,Gotye,2011-01-01,117708,39,0.725,0.0202,0.725,0.73,0.00184,0.667,-6.736,0.0441,130.908,4
+91,Brighter End of Dark,Voyage,De Lux,2014-04-07,393520,15,0.671,0.0913,0.671,0.963,0.0708,0.102,-1.499,0.0395,120.018,4
+92,Radar Detector,Radar Detector,Darwin Deez,2010-04-04,189826,18,0.749,0.102,0.749,0.714,0.00794,0.173,-5.055,0.199,96.515,4
+93,How Can I Thank You Enough?,Laugh About Life,Pipe-eye,2017-04-21,227253,19,0.519,0.126,0.519,0.84,0.89,0.293,-2.816,0.0367,155.302,4
+94,VCR,xx,The xx,2009-08-16,177093,58,0.755,0.891,0.755,0.482,0.818,0.1,-12.729,0.03,109.354,4
+95,Close to You,Since I Left You,The Avalanches,2001-04-16,236093,31,0.68,0.113,0.68,0.912,0.000541,0.866,-8.017,0.0585,111.898,4
+96,Dark Necessities,The Getaway,Red Hot Chili Peppers,2016-06-17,302000,73,0.7,0.0722,0.7,0.742,0.0199,0.11,-6.777,0.0716,91.959,4
+97,Rollin' (Air Raid Vehicle),Chocolate Starfish And The Hot Dog Flavored Water,Limp Bizkit,2000-10-17,213760,75,0.603,0.00591,0.603,0.933,0.0,0.206,-3.358,0.171,96.306,4
+98,Hollywood (feat. Snoop Dogg & Jamie Principle),The Now Now,Gorillaz,2018-06-29,293493,57,0.685,0.0249,0.685,0.631,7.67e-05,0.211,-10.338,0.0926,104.126,4
+99,Mean Streets,Ritual In Repeat (Deluxe),Tennis,2014-09-09,203240,37,0.553,0.165,0.553,0.679,0.0806,0.248,-6.387,0.0268,144.96,4

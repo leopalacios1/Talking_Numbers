@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Honest I Do,Spirit in the Dark,Aretha Franklin,1970-08-24,199200,20,0.565,0.595,0.565,0.476,0.000179,0.0659,-12.354,0.0503,119.891,4
+1,Spooky,"Music From The Motion Picture Lock, Stock And Two Smoking Barrels",Various Artists,1998,155133,49,0.683,0.518,0.683,0.708,2.08e-05,0.175,-6.852,0.0289,106.446,4
+2,A Sunday Kind Of Love - Single Version,At Last!,Etta James,1960,198866,0,0.363,0.85,0.363,0.268,0.0,0.216,-9.632,0.0301,68.885,5
+3,I'd Rather Go Blind,Tell Mama,Etta James,1968-04-18,156653,70,0.477,0.689,0.477,0.433,0.000195,0.151,-6.473,0.0247,82.52,3
+4,At Last,At Last!,Etta James,1960,179693,76,0.274,0.547,0.274,0.348,0.0133,0.334,-8.631,0.0293,87.43,3
+5,Stormy Weather,At Last!,Etta James,1960,187666,62,0.262,0.613,0.262,0.356,0.0,0.175,-8.031,0.0303,174.176,3
+6,What a Difference a Day Makes,Dinah Washington - The Great American Songbook,Dinah Washington,2011-08-09,152360,43,0.278,0.857,0.278,0.374,0.000224,0.279,-8.453,0.0328,165.385,3
+7,Dream A Little Dream Of Me - Single Version,"Love, Ella",Ella Fitzgerald,1957-01-01,185160,73,0.443,0.913,0.443,0.104,0.0,0.191,-17.042,0.101,76.497,4
+8,I Put A Spell On You,I Put A Spell On You,Nina Simone,1965-06-01,155026,67,0.42,0.755,0.42,0.398,0.000537,0.172,-9.13,0.0296,88.897,3
+9,I Just Want To Make Love To You - Single Version,At Last!,Etta James,1960,185626,64,0.642,0.772,0.642,0.523,3.26e-06,0.527,-8.579,0.11,101.635,4
+10,Fever,All Aglow Again!,Peggy Lee,1960-05-01,202693,56,0.833,0.314,0.833,0.0756,0.0,0.111,-20.822,0.147,136.007,4
+11,Cry Me A River,What A Diff'rence A Day Makes! (Expanded Edition),Dinah Washington,1959-02-19,150893,51,0.26,0.821,0.26,0.205,0.00102,0.074,-16.618,0.0312,99.912,3
+12,Cheek To Cheek,The Complete Ella And Louis On Verve,Ella Fitzgerald,1997-05-20,354533,68,0.663,0.706,0.663,0.264,0.0,0.1,-14.571,0.0914,122.482,4
+13,Feeling Good,I Put A Spell On You,Nina Simone,1965-06-01,174000,74,0.399,0.864,0.399,0.326,0.0,0.191,-9.239,0.0386,79.206,4
+14,Something's Got A Hold On Me,Heart & Soul: A Retrospective,Etta James,2011-10-18,169746,63,0.471,0.786,0.471,0.585,0.0,0.811,-6.105,0.0822,150.719,4
+15,Mean to Me,Sarah Vaughan In Hi-Fi,Sarah Vaughan,1949,172533,41,0.623,0.823,0.623,0.0986,0.0,0.23,-10.503,0.0413,123.772,4
+16,Mad About The Boy,The Complete Dinah Washington On Mercury Vol. 2 (1950-1952),Dinah Washington,1987-01-01,182573,59,0.344,0.922,0.344,0.147,0.00019,0.0482,-10.3,0.0369,177.192,3
+17,I Say a Little Prayer,Aretha Now,Aretha Franklin,1968-06-14,216773,76,0.592,0.478,0.592,0.355,0.0,0.0585,-14.051,0.0352,133.032,4
+18,Black Coffee,After Hours,Sarah Vaughan,1955-04-12,200440,55,0.38,0.973,0.38,0.155,1.7e-05,0.0977,-11.977,0.0311,94.23,3
+19,Respect,I Never Loved a Man the Way I Love You,Aretha Franklin,1967-03-10,147600,74,0.805,0.164,0.805,0.558,2.2e-05,0.0546,-5.226,0.041,114.95,4
+20,Think,Aretha Now,Aretha Franklin,1968-06-14,139733,68,0.687,0.251,0.687,0.63,0.0,0.221,-10.817,0.0389,110.051,4
+21,You Sent Me Flying / Cherry,Frank,Amy Winehouse,2003,410760,48,0.738,0.476,0.738,0.629,0.0,0.209,-6.453,0.136,99.895,4
+22,Nobody Knows You When You're Down and Out,The Best of Bessie Smith,Bessie Smith,1923,177133,40,0.614,0.996,0.614,0.0423,0.00293,0.183,-12.033,0.0535,89.822,4
+23,A Sunday Kind Of Love,At Last!,Etta James,1960,196133,70,0.421,0.829,0.421,0.285,1.55e-06,0.233,-9.43,0.0293,85.861,4
+24,There is No Greater Love,Love Songs,Etta James,1960,317680,8,0.402,0.349,0.402,0.272,0.0,0.142,-10.603,0.0468,66.857,4
+25,Teach Me Tonight,Love Songs,Etta James,1960,299306,8,0.475,0.727,0.475,0.259,5.36e-05,0.304,-9.8,0.0439,76.019,4
+26,Body And Soul,Love Songs,Etta James,1960,256106,18,0.428,0.797,0.428,0.191,0.0,0.165,-10.421,0.0429,204.091,3
+27,The Man I Love,Love Songs,Etta James,1960,267293,8,0.528,0.89,0.528,0.262,4.71e-06,0.0884,-10.997,0.0369,102.843,3
+28,Tell Mama,My Greatest Songs,Etta James,1992-01-01,143840,5,0.678,0.174,0.678,0.632,0.00707,0.124,-11.207,0.0454,119.471,4
+29,Tell Mama,The Essential Etta James,Etta James,1993-06-08,142506,4,0.685,0.131,0.685,0.614,0.0234,0.245,-11.245,0.038,119.701,4
+30,I Believe I Can Fly,All The Way,Etta James,2006-05-14,308266,20,0.502,0.594,0.502,0.446,0.0,0.339,-6.882,0.0308,111.924,4
+31,The Lady Is A Tramp,Ella Fitzgerald Sings The Rodgers And Hart Song Book,Ella Fitzgerald,1956-01-01,203560,33,0.438,0.842,0.438,0.385,0.0,0.0793,-10.129,0.07,82.536,4
+32,Love Me Or Leave Me,Lady Sings The Blues,Billie Holiday,1956-01-01,154853,44,0.62,0.855,0.62,0.208,0.0,0.12,-11.68,0.0751,113.472,4
+33,Love Me Or Leave Me,Ella Swings Brightly With Nelson,Ella Fitzgerald,1993-08-09,172600,13,0.493,0.788,0.493,0.305,0.0,0.407,-12.324,0.0719,111.393,4
+34,There Will Never Be Another You,North Sea Jazz Legendary Concerts,Ella Fitzgerald,2013-11-22,175693,7,0.462,0.644,0.462,0.624,0.0,0.972,-10.688,0.424,107.782,4
+35,I Ain't Got Nothing but the Blues (6/24/57),Complete Jazz Series : 1957,Ella Fitzgerald,1957,283933,1,0.512,0.761,0.512,0.174,0.0,0.0703,-12.706,0.053,117.643,3
+36,Puttin' On The Ritz,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,1958-01-01,138320,0,0.615,0.675,0.615,0.186,0.0,0.194,-12.382,0.0508,73.007,4
+37,I'm Beginning To See The Light,Ella Fitzgerald Sings The Duke Ellington Song Book,Ella Fitzgerald,1957-01-01,207466,27,0.611,0.708,0.611,0.309,0.0,0.167,-11.752,0.0499,132.407,4
+38,How High The Moon - 1st Take,Lullabies Of Birdland,Ella Fitzgerald,1954-01-01,195426,48,0.678,0.814,0.678,0.467,0.0,0.11,-5.177,0.0994,112.846,4
+39,Exactly Like You - Late Show - Live (1958/Chicago),Live At Mister Kelly's,Ella Fitzgerald,2007-01-01,457693,10,0.62,0.63,0.62,0.307,0.0,0.643,-15.083,0.0999,80.286,4
+40,Blue Skies,Get Happy! (Expanded Edition),Ella Fitzgerald,1959-01-01,226360,56,0.611,0.837,0.611,0.285,0.0,0.102,-10.225,0.0682,79.463,4
+41,Our Love Is Here To Stay,Unforgettable: With Love,Natalie Cole,1991,209960,58,0.39,0.867,0.39,0.0968,3.58e-06,0.0715,-14.966,0.0285,68.768,4
+42,What A Diff'rence A Day Made,What A Diff'rence A Day Makes! (Expanded Edition),Dinah Washington,1959-02-19,151866,63,0.387,0.925,0.387,0.117,0.000171,0.109,-17.803,0.0299,93.575,4
+43,Baby (You've Got What It Takes),The Two Of Us,Dinah Washington,1960-07-05,165760,59,0.67,0.852,0.67,0.596,0.00203,0.653,-9.347,0.0627,133.396,4
+44,September In The Rain,September In The Rain,Dinah Washington,1961-01-01,129333,58,0.401,0.346,0.401,0.213,1.05e-05,0.0596,-13.124,0.0545,110.611,4
+45,Teach Me Tonight,"The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",Dinah Washington,1988-01-01,167493,0,0.558,0.805,0.558,0.231,0.0,0.142,-11.436,0.0812,73.103,4
+46,Unforgettable,Unforgettable (Expanded Edition),Dinah Washington,1961-01-01,165800,34,0.322,0.885,0.322,0.19,0.00335,0.236,-14.916,0.0309,94.571,3
+47,Am I Blue,After Hours With Miss D,Dinah Washington,2004-01-01,192906,29,0.395,0.89,0.395,0.247,0.000709,0.135,-8.912,0.0526,65.142,4
+48,Blue Gardenia,The Bridges Of Madison County Original Sound Track,Various Artists,2005-09-13,317160,27,0.46,0.975,0.46,0.112,0.00444,0.123,-14.296,0.0455,172.061,5
+49,I Get A Kick Out Of You,For Those In Love (Expanded Edition),Dinah Washington,1955-01-01,381373,32,0.707,0.762,0.707,0.275,1.61e-05,0.271,-12.208,0.0403,134.979,4
+50,You Don't Know What Love Is,For Those In Love (Expanded Edition),Dinah Washington,1955-01-01,245000,27,0.516,0.966,0.516,0.101,3.89e-05,0.0906,-12.753,0.0513,137.832,4
+51,Devil's Gonna Git You,"The Complete Recordings, Vol. 4",Bessie Smith,1993-04-26,190026,36,0.653,0.993,0.653,0.0442,0.0,0.131,-12.269,0.0371,71.434,5
+52,"Baby, Won't You Please Come Home",Nobody Knows You When You're Down And Out,Bessie Smith,1924,175693,22,0.72,0.996,0.72,0.0423,0.00551,0.132,-14.979,0.0454,79.464,4
+53,St. Louis Blues,Nobody Knows You When You're Down And Out,Bessie Smith,1924,190026,19,0.423,0.993,0.423,0.124,4.29e-05,0.117,-10.488,0.0552,69.691,4
+54,After You've Gone,The Essential Bessie Smith,Bessie Smith,1997,175733,27,0.489,0.993,0.489,0.202,0.00021,0.216,-9.66,0.0337,93.657,4
+55,"Empty Bed Blues, Pt. 1","The Complete Recordings, Vol. 4",Bessie Smith,1993-04-26,180840,30,0.666,0.995,0.666,0.0613,0.00252,0.114,-12.191,0.044,84.798,4
+56,I Used to Be Your Sweet Mama,"The Complete Recordings, Vol. 3",Bessie Smith,1992-10-26,168626,21,0.717,0.99,0.717,0.115,0.0,0.0718,-8.011,0.085,86.15,4
+57,A Good Man Is Hard to Find,The Essential Bessie Smith,Bessie Smith,1997,178333,22,0.797,0.987,0.797,0.034,1.88e-06,0.125,-8.371,0.0612,83.84,4
+58,Feel Like I Wanna Cry,"H&L: Heritage of a Legend, Dinah Washington",Dinah Washington,2012-03-12,199933,0,0.624,0.952,0.624,0.173,0.00023,0.168,-12.988,0.0544,70.438,4
+59,Call Me Irresponsible,The Best Of Dinah Washington,Dinah Washington,1992-04-13,140413,11,0.573,0.772,0.573,0.24,0.0,0.301,-13.269,0.0444,74.513,4
+60,Drinking Again,Drinking Again,Dinah Washington,1962,211933,34,0.404,0.777,0.404,0.162,0.000931,0.0905,-13.592,0.0317,67.826,4
+61,Just Friends,Drinking Again,Dinah Washington,1962,198360,8,0.243,0.841,0.243,0.185,0.683,0.119,-17.205,0.0394,77.493,4
+62,I'm Gonna Laugh You out of My Life,Drinking Again,Dinah Washington,1962,173666,8,0.285,0.89,0.285,0.136,0.16,0.17,-17.978,0.0402,75.437,4
+63,I'll Be Around,Drinking Again,Dinah Washington,1962,177466,7,0.186,0.879,0.186,0.146,0.144,0.0806,-18.799,0.032,170.828,5
+64,"Lament (Love, I Found You Gone)",Drinking Again,Dinah Washington,1962,137773,6,0.34,0.941,0.34,0.148,0.162,0.133,-17.529,0.0499,79.131,4
+65,I Don't Know You Anymore,Drinking Again,Dinah Washington,1962,169066,7,0.465,0.827,0.465,0.227,0.000212,0.0562,-15.084,0.0476,106.624,4
+66,Baby Won't You Please Come Home,Drinking Again,Dinah Washington,1962,128893,8,0.481,0.904,0.481,0.275,8.07e-06,0.119,-14.85,0.0486,112.224,3
+67,Lover Man (Oh Where Can You Be),Drinking Again,Dinah Washington,1962,183306,23,0.291,0.908,0.291,0.143,0.0338,0.154,-15.415,0.0399,95.614,3
+68,The Man That Got Away,Drinking Again,Dinah Washington,1962,214133,10,0.436,0.855,0.436,0.201,2.53e-05,0.19,-13.95,0.0361,78.157,4
+69,For All We Know,Drinking Again,Dinah Washington,1962,195893,7,0.257,0.917,0.257,0.127,0.0693,0.108,-18.57,0.0322,76.979,4
+70,Say It Isn't So,Drinking Again,Dinah Washington,1962,190733,6,0.294,0.885,0.294,0.0901,6.93e-05,0.105,-16.98,0.0307,140.943,4
+71,On the Street of Regret,Drinking Again,Dinah Washington,1962,134640,6,0.279,0.853,0.279,0.136,0.0014,0.318,-16.121,0.0348,154.28,4
+72,I'm Beginning to See the Light,American Swing,Various Artists,2015-12-17,206400,0,0.526,0.762,0.526,0.364,0.0,0.233,-10.224,0.0671,131.255,4
+73,"Teach Me Tonight - Live At The Hootenanny, London / 2004",Frank,Amy Winehouse,2003,201533,40,0.485,0.566,0.485,0.327,2.91e-06,0.979,-9.454,0.0522,110.719,3
+74,"Gee Baby, Ain't I Good To You",Body and Soul,Billie Holiday,1957-01-01,334973,23,0.475,0.565,0.475,0.246,2.89e-06,0.0909,-13.061,0.0795,178.323,3
+75,"Gee, Baby, Ain't I Good To You?",The Complete Ella And Louis On Verve,Ella Fitzgerald,1997-05-20,255040,27,0.64,0.824,0.64,0.153,0.0,0.0965,-15.41,0.0532,85.432,4
+76,Since I Fell for You - Remastered,Bonnie Raitt (Remastered Version),Bonnie Raitt,1971,186200,34,0.385,0.838,0.385,0.362,0.000517,0.208,-11.016,0.0298,95.462,3
+77,Embraceable You,"The Complete Dinah Washington On Mercury, Vol.1 (1946 - 1949)",Dinah Washington,1987-09-05,177200,2,0.39,0.913,0.39,0.193,7.18e-05,0.0896,-9.399,0.0316,74.566,4
+78,I Get A Kick Out Of You,Ella Fitzgerald Sings The Cole Porter Song Book,Ella Fitzgerald,1956-01-01,241613,50,0.466,0.877,0.466,0.0456,0.0,0.129,-20.84,0.0416,130.752,4
+79,Lullaby Of Birdland,Lullabies Of Birdland,Ella Fitzgerald,1954-01-01,171000,21,0.528,0.916,0.528,0.382,0.0,0.231,-5.963,0.0327,110.736,4
+80,Lullaby Of Birdland,Vocal Jazz Hits,Various Artists,2020-09-18,240693,3,0.578,0.805,0.578,0.347,0.0,0.107,-12.422,0.1,122.928,4
+81,Feeling Good,I Put A Spell On You,Nina Simone,1965-06,174000,0,0.399,0.864,0.399,0.326,0.0,0.191,-9.239,0.0386,79.206,4
+82,You´d be so nice to come home to,Cole Porter: The Very Best,Various Artists,2007,259784,0,0.653,0.865,0.653,0.175,0.0189,0.19,-14.528,0.0349,129.707,4
+83,Blue Skies,Blue Skies,Dinah Washington,2012-09-28,655011,0,0.682,0.45,0.682,0.418,0.00189,0.221,-7.549,0.0457,124.667,4
+84,Cry Me a River,At Last - The Best Of,Etta James,2011-02-04,301693,17,0.404,0.767,0.404,0.219,0.0256,0.137,-13.586,0.0344,186.985,3
+85,Lullaby of Birdland,"All that Jazz, Vol.4 – Ella Fitzgerald: ""That's My Favorite Song""",Ella Fitzgerald,2014-04-01,168944,4,0.525,0.979,0.525,0.193,0.000139,0.154,-12.618,0.0402,111.028,4
+86,Teach Me Tonight,Jazz Divas Collection,Dinah Washington,2005-01-01,163893,0,0.58,0.84,0.58,0.232,0.0,0.503,-11.364,0.069,72.772,4
+87,Someone to Watch Over Me,My Gentleman Friend (Original Album Plus Bonus Tracks 1959),Blossom Dearie,2014-05-09,358296,0,0.435,0.988,0.435,0.0657,0.000463,0.149,-18.025,0.0453,80.367,3
+88,Twisted,King Pleasure Sings / Annie Ross Sings,King Pleasure,1987,158360,0,0.629,0.8,0.629,0.486,0.0,0.101,-11.631,0.057,82.509,4
+89,Dedicated To You,Ella Fitzgerald: The Voice Of Jazz,Ella Fitzgerald,2013-01-01,195933,0,0.759,0.99,0.759,0.0409,1.69e-05,0.0755,-13.501,0.0518,106.416,4
+90,Fly Me to the Moon,The Collection,Astrud Gilberto,2014-04-02,142000,0,0.579,0.468,0.579,0.313,0.00581,0.084,-13.696,0.0301,132.996,4
+91,Willow Weep for Me - 2004 Remaster,Triple Best Of,Nina Simone,2010-10-29,194186,8,0.352,0.701,0.352,0.33,0.0,0.335,-11.688,0.0383,109.245,4
+92,Strange Fruit,Extraordinary,Billie Holiday,2012-07-20,184173,0,0.453,0.974,0.453,0.109,3.47e-06,0.072,-11.08,0.0431,112.941,5
+93,A-tisket A-tasket,Jazz Infusion - Mildred Bailey,Mildred Bailey,2013-11-01,184253,0,0.653,0.862,0.653,0.301,0.000142,0.263,-12.435,0.394,180.33,4
+94,All of Me,Billie Holiday Love Songs,Billie Holiday,1996-01-30,181826,49,0.507,0.978,0.507,0.0677,2.74e-05,0.132,-13.766,0.0406,105.393,5
+95,Easy Living,Billie Holiday: Verve Ultimate Cool,Billie Holiday,2013-01-01,192933,9,0.443,0.983,0.443,0.0559,5.09e-05,0.0802,-17.374,0.0498,74.359,4
+96,Don’t Explain,Crying,Dinah Washington,2013-12-06,150651,0,0.294,0.715,0.294,0.234,0.00285,0.147,-14.343,0.0435,99.981,5
+97,They Can’t Take That Away from Me,Louis Armstrong & Friends,Various Artists,2007-09-11,278466,0,0.509,0.862,0.509,0.324,0.0,0.111,-11.779,0.0849,105.994,4
+98,Speak Low,In Person,Billie Holiday,2014-03-26,265933,0,0.616,0.896,0.616,0.266,0.00105,0.103,-13.477,0.0524,116.696,4
+99,Lousiana Fairy Tale,Joan Chamorro Presenta Andrea Motis,Joan Chamorro,2010-09-13,223333,35,0.664,0.942,0.664,0.218,4.12e-05,0.0911,-10.481,0.0418,110.661,4
