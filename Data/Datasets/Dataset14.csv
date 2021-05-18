@@ -5,7 +5,7 @@
 3,Buddy Holly,Weezer,Weezer,1994-05-10,159226,72,0.556,0.00271,0.556,0.92,0.00021,0.117,-4.606,0.0367,121.138,4
 4,No Rain,Blind Melon,Blind Melon,1992-01-01,217106,74,0.389,0.619,0.389,0.476,5.09e-05,0.255,-9.342,0.0316,148.117,4
 5,Universally Speaking,By the Way (Deluxe Edition),Red Hot Chili Peppers,2002-07-09,256959,60,0.558,0.0887,0.558,0.924,0.00326,0.263,-2.312,0.0367,117.111,4
-6,Let The Bad Times Roll,Let The Bad Times Roll,The Offspring,2021-04-16,198546,67,0.492,0.00237,0.492,0.975,0.0,0.0668,-0.912,0.0816,159.03,4
+6,Let The Bad Times Roll,Let The Bad Times Roll,The Offspring,2021-04-16,198546,68,0.492,0.00237,0.492,0.975,0.0,0.0668,-0.912,0.0816,159.03,4
 7,Everlong,The Colour And The Shape,Foo Fighters,1997-05-20,250546,78,0.413,5.99e-05,0.413,0.881,0.000308,0.0805,-5.541,0.0367,158.066,4
 8,Little Wing,Axis: Bold As Love,Jimi Hendrix,1967-12-01,145746,71,0.515,0.181,0.515,0.534,0.00278,0.0547,-8.045,0.0768,70.776,4
 9,"Tonight, Tonight - Remastered 2012",Mellon Collie And The Infinite Sadness (Deluxe Edition),The Smashing Pumpkins,1995,254626,68,0.277,6.28e-05,0.277,0.67,0.751,0.237,-9.381,0.0376,148.342,4
@@ -35,7 +35,7 @@
 33,The Sky Is A Neighborhood,Concrete and Gold,Foo Fighters,2017-09-15,244573,64,0.357,0.000798,0.357,0.549,0.00485,0.22,-7.843,0.0698,130.749,4
 34,Undone - The Sweater Song,Weezer,Weezer,1994-05-10,305533,67,0.457,0.00114,0.457,0.618,0.00257,0.0679,-6.682,0.0296,80.184,4
 35,Slow Cheetah,Stadium Arcadium,Red Hot Chili Peppers,2006-05-09,319933,57,0.39,0.082,0.39,0.344,0.000141,0.0715,-7.804,0.0376,178.102,4
-36,Guerrilla Radio,The Battle Of Los Angeles,Rage Against The Machine,1999-11-02,206200,70,0.599,0.0129,0.599,0.957,7.06e-05,0.155,-5.764,0.188,103.68,4
+36,Guerrilla Radio,The Battle Of Los Angeles,Rage Against The Machine,1999-11-02,206200,69,0.599,0.0129,0.599,0.957,7.06e-05,0.155,-5.764,0.188,103.68,4
 37,Would?,Dirt,Alice In Chains,1992-09-29,206773,71,0.305,0.000327,0.305,0.833,2.36e-05,0.091,-7.981,0.0398,100.675,4
 38,Undisclosed Desires,The Resistance,Muse,2009-09-10,235000,65,0.683,0.00819,0.683,0.585,0.0162,0.0797,-6.76,0.0323,115.997,4
 39,Learn to Fly,There Is Nothing Left To Lose,Foo Fighters,1999-11-02,235293,74,0.465,1.83e-05,0.465,0.919,2.07e-05,0.262,-4.025,0.0408,135.997,4
@@ -59,7 +59,7 @@
 57,No Son Of Mine,Medicine At Midnight,Foo Fighters,2021-02-05,208706,61,0.535,0.00131,0.535,0.972,0.000471,0.0788,-4.428,0.0844,124.971,4
 58,Superman,Hang-Ups,Goldfinger,1998-06-01,185026,65,0.429,0.000131,0.429,0.937,0.0002,0.0807,-3.986,0.0573,194.838,4
 59,Burnout,Dookie,Green Day,1994-02-01,127533,59,0.5,0.000165,0.5,0.921,0.00118,0.0959,-5.261,0.0355,90.861,4
-60,I'm Not Okay (I Promise),Three Cheers for Sweet Revenge,My Chemical Romance,2004-06-08,186480,75,0.21,0.00602,0.21,0.94,0.0,0.269,-3.427,0.123,179.722,4
+60,I'm Not Okay (I Promise),Three Cheers for Sweet Revenge,My Chemical Romance,2004-06-08,186480,74,0.21,0.00602,0.21,0.94,0.0,0.269,-3.427,0.123,179.722,4
 61,No Cigar,Pennybridge Pioneers,Millencolin,2000-02-22,163226,63,0.383,0.000287,0.383,0.986,0.0,0.179,-2.796,0.0617,157.871,4
 62,"Dance, Dance",From Under The Cork Tree,Fall Out Boy,2005-05-03,180266,75,0.622,0.00523,0.622,0.961,0.0,0.0854,-3.198,0.154,114.452,4
 63,Kill the DJ,¡UNO!,Green Day,2012-09-24,221626,54,0.67,0.000694,0.67,0.954,0.000271,0.133,-2.632,0.0363,105.998,4
@@ -69,12 +69,12 @@
 67,Pulling Teeth,Dookie,Green Day,1994-02-01,150826,52,0.531,0.00171,0.531,0.872,0.0863,0.109,-5.064,0.0492,128.211,4
 68,Making A Fire,Medicine At Midnight,Foo Fighters,2021-02-05,255106,65,0.506,2.21e-05,0.506,0.946,0.00226,0.0528,-4.173,0.0652,91.111,3
 69,How's It Going to Be,Third Eye Blind,Third Eye Blind,1997-04-08,253413,65,0.561,0.00327,0.561,0.593,0.00144,0.0967,-9.362,0.0264,80.282,4
-70,Teenagers,The Black Parade,My Chemical Romance,2006-10-23,161920,79,0.463,0.0506,0.463,0.857,0.0,0.184,-3.063,0.0632,111.647,4
+70,Teenagers,The Black Parade,My Chemical Romance,2006-10-23,161920,78,0.463,0.0506,0.463,0.857,0.0,0.184,-3.063,0.0632,111.647,4
 71,The Rock Show,Take Off Your Pants And Jacket,blink-182,2001,171600,68,0.41,0.000324,0.41,0.959,0.0,0.0766,-4.563,0.0869,193.155,4
 72,Oh Yeah!,Oh Yeah!,Green Day,2020-01-16,171160,58,0.623,7e-05,0.623,0.792,0.00467,0.159,-6.37,0.0664,127.041,4
 73,Original Prankster,Conspiracy Of One,The Offspring,2000-11-14,220946,62,0.664,0.000542,0.664,0.877,2.95e-05,0.284,-4.251,0.0334,146.804,4
 74,Times Like These,One By One (Expanded Edition),Foo Fighters,2002-10-22,265560,67,0.376,1.4e-05,0.376,0.908,1.4e-05,0.241,-3.793,0.0879,144.581,4
-75,I Need Some of That,I Need Some of That,Weezer,2021-04-21,199666,64,0.631,0.00227,0.631,0.763,7.75e-05,0.65,-5.582,0.0782,119.886,4
+75,I Need Some of That,I Need Some of That,Weezer,2021-04-21,199666,63,0.631,0.00227,0.631,0.763,7.75e-05,0.65,-5.582,0.0782,119.886,4
 76,The Sharpest Lives,The Black Parade,My Chemical Romance,2006-10-23,200880,64,0.513,0.000111,0.513,0.937,0.000102,0.083,-3.427,0.0532,155.015,4
 77,Basket Case,Dookie,Green Day,1994-02-01,181533,79,0.442,0.00293,0.442,0.943,8.71e-06,0.091,-3.205,0.0602,85.064,4
 78,Every Time I Look For You,Take Off Your Pants And Jacket,blink-182,2001,185466,61,0.502,0.00166,0.502,0.96,0.0,0.377,-2.998,0.0484,128.228,4

@@ -5,7 +5,7 @@
 3,Hungry Like the Wolf - 2001 Remaster,Rio (2001 Remaster),Duran Duran,1982-05-10,221733,34,0.689,0.0328,0.689,0.815,0.0,0.137,-6.685,0.0481,127.113,4
 4,Beat It,Thriller 25 Super Deluxe Edition,Michael Jackson,1982-11-30,258040,78,0.779,0.0491,0.779,0.867,7.98e-06,0.197,-3.704,0.0457,138.858,4
 5,Modern Love,Adventureland,Various Artists,2009-01-01,236626,0,0.323,0.00117,0.323,0.962,5.9e-05,0.0999,-3.628,0.0569,181.727,4
-6,When Doves Cry,Purple Rain,Prince,1984-06-25,352906,71,0.729,0.0102,0.729,0.989,4.45e-05,0.443,-4.613,0.049,126.47,4
+6,When Doves Cry,Purple Rain,Prince,1984-06-25,352906,72,0.729,0.0102,0.729,0.989,4.45e-05,0.443,-4.613,0.049,126.47,4
 7,Blue Monday - 2016 Remaster,Singles (2016 Remaster),New Order,2005-09-30,450800,67,0.793,0.000726,0.793,0.703,0.88,0.075,-9.548,0.0581,130.27,4
 8,Everybody Wants To Rule The World,Songs From The Big Chair (Super Deluxe Edition),Tears For Fears,1985-02-25,251488,83,0.645,0.347,0.645,0.795,0.00389,0.104,-12.095,0.0527,112.067,4
 9,Livin' On A Prayer,Slippery When Wet,Bon Jovi,1986-01-01,249293,1,0.534,0.0768,0.534,0.887,9.93e-05,0.325,-3.777,0.0345,122.494,4
@@ -91,7 +91,7 @@
 89,The Message (feat. Melle Mel & Duke Bootee),The Message,Grandmaster Flash & The Furious Five,1982-10-01,431800,52,0.947,0.0249,0.947,0.607,4.76e-06,0.0861,-10.58,0.202,100.619,4
 90,It Takes Two,Profilin': The Hits,Various Artists,1990-01-01,301893,56,0.767,0.0143,0.767,0.776,0.0,0.326,-8.915,0.144,111.686,4
 91,Tom Sawyer,Moving Pictures (2011 Remaster),Rush,1981-02-12,276880,72,0.536,0.00145,0.536,0.901,0.0186,0.06,-7.211,0.0374,87.559,4
-92,Limelight,Moving Pictures (2011 Remaster),Rush,1981-02-12,259839,65,0.581,0.00197,0.581,0.854,0.0013,0.111,-8.485,0.0428,131.18,4
+92,Limelight,Moving Pictures (2011 Remaster),Rush,1981-02-12,259839,64,0.581,0.00197,0.581,0.854,0.0013,0.111,-8.485,0.0428,131.18,4
 93,Owner of a Lonely Heart,90125 (Deluxe Version),Yes,1983-06-01,268506,70,0.744,0.175,0.744,0.798,0.00367,0.26,-5.981,0.0364,125.061,4
 94,Invisible Touch - 2007 Remaster,Invisible Touch,Genesis,1986-06-09,209586,61,0.659,0.339,0.659,0.878,0.000543,0.0731,-5.987,0.0298,131.037,4
 95,Back In Time,Greatest Hits: Huey Lewis And The News,Huey Lewis & The News,2006-01-01,258866,60,0.758,0.0311,0.758,0.835,0.0103,0.0712,-5.454,0.04,120.045,4
@@ -99,3 +99,55 @@
 97,Don't Bring Me Down,Discovery,Electric Light Orchestra,1979-05-31,243373,73,0.638,0.144,0.638,0.867,0.000733,0.0846,-6.469,0.0331,115.692,4
 98,Surrender,Heaven Tonight,Cheap Trick,1978-04,253733,69,0.524,0.00717,0.524,0.955,8.77e-06,0.659,-7.081,0.0411,133.849,4
 99,Uptown Girl,The Essential Billy Joel,Billy Joel,2001-10-02,194866,66,0.696,0.0736,0.696,0.943,0.0,0.653,-2.962,0.0431,129.003,4
+100,Nothing's Gonna Stop Us Now,No Protection,Starship,1987,270333,0,0.643,0.0298,0.643,0.801,0.0,0.0719,-4.921,0.0228,95.988,4
+101,I Ran (So Far Away),Playlist: The Very Best of A Flock of Seagulls,A Flock Of Seagulls,2008-08-19,306626,45,0.462,0.00125,0.462,0.859,0.735,0.216,-5.083,0.0466,146.16,4
+102,We're Not Gonna Take It,Stay Hungry,Twisted Sister,1984-05-10,219666,74,0.502,0.0127,0.502,0.924,0.0,0.162,-6.299,0.0503,149.186,4
+103,Jessie's Girl,Working Class Dog,Rick Springfield,1981,194120,71,0.727,0.165,0.727,0.834,0.0,0.105,-5.851,0.0496,131.7,4
+104,Don't Stop Believin',Escape,Journey,1981,250986,81,0.5,0.127,0.5,0.748,0.0,0.447,-9.072,0.0363,118.852,4
+105,Hit Me With Your Best Shot,Crimes Of Passion,Pat Benatar,1980-08-05,171266,71,0.741,0.117,0.741,0.58,3.31e-05,0.212,-9.05,0.0304,127.402,4
+106,Rock You Like A Hurricane,Love At First Sting,Scorpions,1984-05-04,252493,0,0.482,0.00853,0.482,0.601,0.000187,0.249,-12.846,0.0486,125.619,4
+107,Need You Tonight,Kick,INXS,1987,180517,65,0.801,0.0713,0.801,0.723,0.154,0.0675,-4.985,0.0689,109.03,4
+108,She Drives Me Crazy,The Raw And The Cooked,Fine Young Cannibals,1988,215773,0,0.799,0.193,0.799,0.687,0.000188,0.0307,-5.682,0.0431,108.804,4
+109,Cherry Pie,Cherry Pie (Expanded Edition),Warrant,1990-05-01,201106,62,0.407,0.0251,0.407,0.955,0.0,0.347,-4.164,0.164,177.48,4
+110,True - Single Edit,True - The Digital E.P.,Spandau Ballet,2008-04-25,329146,71,0.742,0.459,0.742,0.533,0.148,0.064,-9.098,0.0288,97.395,4
+111,September,"The Best Of Earth, Wind & Fire Vol. 1","Earth, Wind & Fire",1978-11-23,215093,0,0.697,0.168,0.697,0.832,0.00131,0.269,-7.264,0.0298,125.926,4
+112,Let's Groove,Raise!,"Earth, Wind & Fire",1981-11-14,339320,74,0.869,0.121,0.869,0.648,2.17e-05,0.126,-8.698,0.0633,125.035,4
+113,Here I Go Again 87 - 2017 Remastered Version,Whitesnake (30th Anniversary Remaster),Whitesnake,1987,275693,25,0.384,0.151,0.384,0.846,7.73e-05,0.0913,-5.591,0.0365,90.172,4
+114,More Than a Feeling,Boston,Boston,1976,285133,79,0.377,0.000894,0.377,0.682,0.00217,0.0504,-8.039,0.0299,108.736,4
+115,You Shook Me All Night Long,Back In Black,AC/DC,1980-07-25,210173,80,0.532,0.00287,0.532,0.767,0.000513,0.39,-5.509,0.0574,127.361,4
+116,Centerfold,Freeze Frame,The J. Geils Band,1981,216533,72,0.653,0.249,0.653,0.677,0.0,0.403,-12.244,0.0396,114.37,4
+117,867-5309 / Jenny,Tommy Tutone - 2,Tommy Tutone,1981-12-04,226200,63,0.584,0.0264,0.584,0.708,0.00364,0.112,-10.039,0.0593,137.657,4
+118,What I Like About You,The Romantics,The Romantics,1980,175266,63,0.514,0.282,0.514,0.942,6.6e-05,0.17,-8.433,0.0502,159.847,4
+119,The Safety Dance,Rhythm of Youth,Men Without Hats,1982,277480,43,0.779,0.0463,0.779,0.742,5.56e-05,0.157,-8.534,0.0368,100.2,4
+120,Wake Me Up Before You Go-Go,Make It Big,Wham!,1984-10-23,231333,79,0.62,0.271,0.62,0.573,0.0,0.0607,-11.893,0.0423,81.548,4
+121,Burning Down the House,Burning Down the House / I Get Wild / Wild Gravity,Talking Heads,1983-06-01,241920,65,0.779,0.00644,0.779,0.87,0.0107,0.0399,-13.141,0.0574,102.689,4
+122,Break My Stride,I Don't Speak The Language,Matthew Wilder,1983-03-19,184480,74,0.917,0.195,0.917,0.588,0.0,0.0914,-11.047,0.0607,110.077,4
+123,Take My Breath Away,Count Three & Pray,Berlin,1986-01-01,252000,0,0.474,0.218,0.474,0.583,0.0,0.521,-13.147,0.0271,96.144,4
+124,Raspberry Beret,Around the World in a Day,Prince,1985-04-22,215173,66,0.761,0.21,0.761,0.67,0.000426,0.0685,-12.759,0.0438,120.752,4
+125,New Sensation,Kick,INXS,1987,219813,56,0.68,0.0661,0.68,0.967,1.75e-06,0.0808,-2.771,0.0664,115.748,4
+126,Suicide Blonde,X,INXS,1990,232009,50,0.644,0.00274,0.644,0.97,0.000234,0.295,-3.166,0.111,120.328,4
+127,Age of Consent - 2015 Remaster,Power Corruption and Lies,New Order,1983-05-02,315333,66,0.372,0.00101,0.372,0.91,0.0944,0.13,-5.559,0.0392,161.964,4
+128,Let's Dance - 1999 Remaster,Let's Dance (1999 Remaster),David Bowie,1983-04-14,457133,19,0.619,0.00388,0.619,0.703,0.205,0.163,-9.414,0.0525,115.043,4
+129,Just Can't Get Enough - 2006 Remaster,Speak & Spell (2006 Remaster),Depeche Mode,1981-11-02,222760,62,0.765,0.41,0.765,0.766,0.052,0.177,-9.374,0.0348,128.177,4
+130,Personal Jesus - Original Single Version,Personal Jesus,Depeche Mode,1989,224906,63,0.637,0.0112,0.637,0.682,0.0234,0.0473,-11.625,0.0366,129.983,4
+131,Enjoy the Silence - Single Mix,Enjoy the Silence,Depeche Mode,1990,257333,66,0.641,0.155,0.641,0.812,4.43e-05,0.078,-7.945,0.0293,112.777,4
+132,This Must Be the Place (Naive Melody) - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,296146,71,0.942,0.331,0.942,0.641,0.179,0.028,-10.15,0.0333,114.443,4
+133,Marquee Moon,Marquee Moon,Television,1977-02-08,638426,58,0.49,0.0391,0.49,0.536,0.371,0.116,-10.83,0.0382,118.008,4
+134,My Tulpa - Remastered 2007,Real Life,Magazine,2007-01-01,291786,22,0.439,0.0173,0.439,0.913,0.00602,0.188,-7.117,0.0394,143.061,4
+135,Heroes - 2017 Remaster,"""Heroes"" (2017 Remaster)",David Bowie,1977,371413,75,0.49,0.000671,0.49,0.758,0.484,0.092,-6.491,0.0297,112.114,4
+136,Always on My Mind - 2003 Remaster,PopArt: The Hits,Pet Shop Boys,2003,237653,54,0.533,0.00366,0.533,0.889,0.0593,0.338,-4.566,0.0362,124.768,4
+137,What Have I Done to Deserve This? (with Dusty Springfield) - 2001 Remaster,Actually: Further Listening 1987-1988,Pet Shop Boys,1987-09-07,260413,5,0.711,0.129,0.711,0.875,0.00126,0.159,-5.24,0.0336,118.022,4
+138,Last Train to London,Discovery,Electric Light Orchestra,1979-05-31,270066,68,0.727,0.396,0.727,0.537,0.000789,0.349,-9.785,0.0295,121.493,4
+139,Not Alone Any More,"The Traveling Wilburys, Vol. 1",Traveling Wilburys,1988-10-18,204560,49,0.662,0.239,0.662,0.697,3.04e-06,0.0619,-6.225,0.0274,119.535,4
+140,End Of The Line,"The Traveling Wilburys, Vol. 1",Traveling Wilburys,1988-10-18,209520,69,0.578,0.163,0.578,0.836,1.36e-06,0.0583,-6.607,0.0512,167.026,4
+141,Lazy Nina,Pulse (Expanded Edition),Greg Phillinganes,1984,326613,45,0.625,0.183,0.625,0.5,3.37e-06,0.0378,-9.104,0.0873,202.318,4
+142,Forget Me Nots,Forget Me Nots,Patrice Rushen,2017-12-06,283453,48,0.858,0.118,0.858,0.554,0.0863,0.0398,-6.542,0.0363,113.683,4
+143,I Can't Go for That (No Can Do),Private Eyes (Expanded Edition),Daryl Hall & John Oates,1981,307306,65,0.889,0.0405,0.889,0.441,0.000788,0.038,-9.506,0.0379,110.565,4
+144,Dolce Vita,ZYX Italo Disco Collection,Various Artists,2009-12-04,451426,56,0.881,0.189,0.881,0.738,0.00205,0.0602,-9.124,0.0406,121.956,4
+145,Jack & Diane,American Fool,John Mellencamp,1982,254493,75,0.811,0.0365,0.811,0.41,6.63e-06,0.0799,-8.214,0.0391,103.965,4
+146,It's My Life - 1997 Remaster,It's My Life,Talk Talk,1984,232400,69,0.627,0.197,0.627,0.802,0.784,0.404,-8.432,0.0348,126.283,4
+147,Talking In Your Sleep,In Heat,The Romantics,1983-02-14,235093,61,0.72,0.0289,0.72,0.967,0.000345,0.142,-4.434,0.0343,129.766,4
+148,Don't Dream It's Over,Crowded House (Deluxe),Crowded House,1986-08-01,238173,65,0.451,0.00939,0.451,0.752,0.000202,0.0844,-6.993,0.0412,81.917,4
+149,Tarzan Boy,Living In The Background,Baltimora,1985-01-01,378946,68,0.684,0.318,0.684,0.573,0.028,0.306,-12.3,0.0261,107.363,4
+150,Valerie,Talking Back To The Night,Steve Winwood,1982-08-02,246666,66,0.717,0.567,0.717,0.527,0.00668,0.0785,-10.779,0.0292,116.288,4
+151,Don't You (Forget About Me) - 2001 Mix,Celebrate (Greatest Hits / Expanded Edition),Simple Minds,2013-03-25,260773,73,0.666,0.0884,0.666,0.788,0.0628,0.298,-7.02,0.0276,111.257,4
