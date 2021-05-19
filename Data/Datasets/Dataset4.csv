@@ -1,284 +1,284 @@
-,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
-0,Here Comes The Sun - Remastered,Abbey Road (Remastered),The Beatles,1969-09-26,185733,0,0.557,0.0339,0.557,0.54,0.00248,0.179,-10.484,0.0347,129.171,4
-1,Hey Jude - Remastered 2009,The Beatles 1967 - 1970 (Remastered),The Beatles,1973-04-02,431333,65,0.402,0.028,0.402,0.552,1.36e-05,0.0929,-10.158,0.0258,145.164,4
-2,Come Together - Remastered,Abbey Road (Remastered),The Beatles,1969-09-26,259946,0,0.533,0.0302,0.533,0.376,0.248,0.0926,-11.913,0.0393,165.007,4
-3,Let It Be - Remastered,Let It Be (Remastered),The Beatles,1970-05-08,243026,1,0.443,0.631,0.443,0.403,0.0,0.111,-8.339,0.0322,143.462,4
-4,I Want To Hold Your Hand - Remastered 2009,The Beatles 1962 - 1966 (Remastered),The Beatles,1973-04-01,146720,65,0.496,0.525,0.496,0.703,2.08e-06,0.305,-6.905,0.0376,130.915,4
-5,"Ob-La-Di, Ob-La-Da - Remastered 2009",The Beatles (Remastered),The Beatles,1968-11-22,188960,70,0.818,0.232,0.818,0.728,0.0642,0.251,-8.331,0.0314,113.059,4
-6,Help! - Remastered 2009,Help! (Remastered),The Beatles,1965-08-06,139560,71,0.534,0.188,0.534,0.725,0.0,0.0994,-7.576,0.0332,95.003,4
-7,In My Life - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,146333,0,0.688,0.449,0.688,0.435,0.0,0.113,-11.359,0.0323,103.239,4
-8,Eleanor Rigby - Remastered,Revolver (Remastered),The Beatles,1966-08-05,126533,0,0.581,0.936,0.581,0.28,1.56e-05,0.305,-9.091,0.0381,137.831,4
-9,Something - Remastered,Abbey Road (Remastered),The Beatles,1969-09-26,182293,0,0.396,0.198,0.396,0.338,2.62e-06,0.138,-10.872,0.0304,133.522,4
-10,Day Tripper - Remastered 2009,The Beatles 1962 - 1966 (Remastered),The Beatles,1973-04-01,169613,62,0.641,0.117,0.641,0.722,0.0,0.19,-10.553,0.0297,137.732,4
-11,All My Loving - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,127853,0,0.416,0.207,0.416,0.563,0.0,0.343,-8.724,0.0298,77.56,4
-12,Yesterday - Remastered,Help! (Remastered),The Beatles,1965-08-06,125666,0,0.332,0.879,0.332,0.179,0.0,0.0886,-11.83,0.0326,96.529,4
-13,Blackbird - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,138386,74,0.686,0.754,0.686,0.127,1.41e-05,0.0573,-14.361,0.0342,93.699,4
-14,Don't Let Me Down - Remastered,Past Masters (Vols. 1 & 2 / Remastered),The Beatles,1988-03-07,215613,0,0.592,0.563,0.592,0.295,0.00071,0.109,-10.534,0.0261,76.066,4
-15,Strawberry Fields Forever - Remastered,Magical Mystery Tour (Remastered),The Beatles,1967-11-27,247320,0,0.39,0.336,0.39,0.502,0.000138,0.0713,-12.277,0.178,97.871,4
-16,I Saw Her Standing There - Remastered,Please Please Me (Remastered),The Beatles,1963-03-22,173946,0,0.491,0.27,0.491,0.801,0.0,0.0665,-9.835,0.0361,160.109,4
-17,Penny Lane - Remastered,Magical Mystery Tour (Remastered),The Beatles,1967-11-27,180893,0,0.651,0.212,0.651,0.488,0.026,0.136,-8.22,0.0316,113.038,4
-18,Twist And Shout - Remastered,Please Please Me (Remastered),The Beatles,1963-03-22,155226,0,0.482,0.641,0.482,0.849,7.74e-06,0.0414,-9.198,0.0452,124.631,4
-19,"Hello, Goodbye - Remastered",Magical Mystery Tour (Remastered),The Beatles,1967-11-27,208840,0,0.479,0.306,0.479,0.733,2.4e-05,0.414,-8.753,0.0256,99.307,4
-20,Oh! Darling - Remastered,Abbey Road (Remastered),The Beatles,1969-09-26,207240,0,0.422,0.0126,0.422,0.656,0.0279,0.268,-8.412,0.0397,173.93,3
-21,Lucy In The Sky With Diamonds - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,208466,68,0.311,0.0469,0.311,0.325,0.0,0.139,-9.042,0.0283,65.09,1
-22,While My Guitar Gently Weeps - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,285000,69,0.453,0.0205,0.453,0.654,0.00395,0.172,-8.855,0.0317,115.0,4
-23,Love Me Do - Remastered 2009,Please Please Me (Remastered),The Beatles,1963-03-22,141693,68,0.52,0.386,0.52,0.829,6.2e-05,0.227,-6.228,0.0806,147.997,4
-24,Eight Days A Week - Remastered,Beatles For Sale (Remastered),The Beatles,1964-12-04,163600,0,0.652,0.412,0.652,0.583,0.0,0.119,-7.811,0.038,138.134,4
-25,A Hard Day's Night - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,154200,0,0.59,0.137,0.59,0.805,0.0,0.0996,-6.481,0.0371,138.514,4
-26,We Can Work It Out - Remastered 2009,The Beatles 1962 - 1966 (Remastered),The Beatles,1973-04-01,136120,58,0.381,0.113,0.381,0.608,0.0,0.148,-10.061,0.0268,106.299,4
-27,Ticket To Ride - Remastered,Help! (Remastered),The Beatles,1965-08-06,189680,0,0.519,0.0457,0.519,0.85,0.0,0.233,-6.777,0.0678,123.419,4
-28,And I Love Her - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,149693,0,0.767,0.64,0.767,0.331,0.0,0.0681,-10.777,0.0337,113.312,4
-29,With A Little Help From My Friends - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,164106,65,0.705,0.365,0.705,0.515,0.0,0.389,-9.343,0.0337,112.035,4
-30,She Loves You - Mono / Remastered,1 (Remastered),The Beatles,2000-11-13,140920,0,0.377,0.26,0.377,0.916,0.0,0.074,-3.199,0.0481,75.533,4
-31,Can't Buy Me Love - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,131866,0,0.483,0.283,0.483,0.677,0.0,0.321,-5.91,0.0593,170.72,4
-32,Get Back - Remastered,Let It Be (Remastered),The Beatles,1970-05-08,189386,0,0.761,0.492,0.761,0.592,0.00626,0.61,-9.836,0.0586,123.095,4
-33,Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,122893,63,0.451,0.0857,0.451,0.673,0.00225,0.797,-9.115,0.0734,95.513,4
-34,When I'm Sixty Four - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,157666,63,0.704,0.625,0.704,0.241,2.8e-05,0.0868,-13.258,0.0476,140.411,4
-35,Yellow Submarine - Remastered,Yellow Submarine (Remastered),The Beatles,1969-01-17,159720,0,0.605,0.518,0.605,0.536,0.0,0.528,-10.069,0.0421,110.849,4
-36,All You Need Is Love - Remastered,Magical Mystery Tour (Remastered),The Beatles,1967-11-27,230386,0,0.4,0.346,0.4,0.48,3.1e-05,0.155,-7.768,0.0295,103.436,4
-37,Back In The U.S.S.R. - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,163453,66,0.48,0.069,0.48,0.969,0.00022,0.0608,-7.464,0.0854,142.489,4
-38,Michelle - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,162373,0,0.578,0.652,0.578,0.29,0.0,0.105,-12.501,0.0341,117.403,4
-39,I Should Have Known Better - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,163080,0,0.682,0.257,0.682,0.444,0.0,0.115,-7.689,0.0289,130.704,4
-40,Across The Universe - Remastered,Let It Be (Remastered),The Beatles,1970-05-08,228133,0,0.257,0.361,0.257,0.412,8.68e-05,0.0702,-11.788,0.0287,152.126,4
-41,A Day In The Life - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,337413,65,0.364,0.29,0.364,0.457,0.000106,0.922,-14.162,0.0675,163.219,4
-42,If I Fell - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,139466,0,0.665,0.68,0.665,0.31,0.0,0.0877,-8.928,0.0278,108.211,4
-43,I Feel Fine - Remastered,Past Masters (Vols. 1 & 2 / Remastered),The Beatles,1988-03-07,139680,0,0.568,0.276,0.568,0.796,8.64e-06,0.203,-8.085,0.0465,90.063,4
-44,Revolution - Remastered,Past Masters (Vols. 1 & 2 / Remastered),The Beatles,1988-03-07,204560,0,0.432,0.0865,0.432,0.824,0.000427,0.288,-9.518,0.189,122.299,4
-45,Drive My Car - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,148893,0,0.754,0.0173,0.754,0.571,0.0,0.3,-8.547,0.0421,122.463,4
-46,Girl - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,151720,0,0.699,0.587,0.699,0.294,0.0,0.117,-13.205,0.0294,96.615,4
-47,I've Just Seen A Face - Remastered,Help! (Remastered),The Beatles,1965-08-06,125040,0,0.647,0.723,0.647,0.56,0.0,0.118,-8.809,0.0387,120.418,3
-48,Nowhere Man - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,163693,0,0.534,0.00797,0.534,0.624,0.0,0.128,-9.589,0.0462,121.402,4
-49,Do You Want To Know A Secret - Remastered,Please Please Me (Remastered),The Beatles,1963-03-22,117013,0,0.673,0.608,0.673,0.349,0.0,0.38,-12.414,0.0368,124.451,4
-50,I Am The Walrus - Remastered,Magical Mystery Tour (Remastered),The Beatles,1967-11-27,275866,0,0.401,0.0828,0.401,0.556,0.000359,0.589,-10.532,0.0513,85.206,4
-51,You've Got To Hide Your Love Away - Remastered,Help! (Remastered),The Beatles,1965-08-06,129120,0,0.398,0.207,0.398,0.392,0.0,0.102,-9.05,0.0282,184.267,3
-52,Till There Was You - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,133506,0,0.727,0.79,0.727,0.338,0.0,0.105,-13.887,0.0454,122.421,4
-53,Norwegian Wood (This Bird Has Flown) - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,124693,0,0.425,0.183,0.425,0.369,0.00126,0.112,-11.876,0.0379,176.625,3
-54,Lady Madonna - Remastered,Past Masters (Vols. 1 & 2 / Remastered),The Beatles,1988-03-07,137586,0,0.631,0.362,0.631,0.763,0.512,0.208,-7.487,0.0306,109.346,4
-55,Please Please Me - Remastered,Please Please Me (Remastered),The Beatles,1963-03-22,120853,0,0.527,0.334,0.527,0.48,0.0,0.0702,-9.61,0.028,139.388,4
-56,Paperback Writer - Remastered,The Beatles 1962 - 1966 (Remastered),The Beatles,1973-04-01,139186,0,0.502,0.179,0.502,0.685,6.45e-06,0.551,-8.679,0.0736,157.394,4
-57,I'm Looking Through You - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,146386,0,0.667,0.00772,0.667,0.498,0.0,0.0481,-11.027,0.0364,85.843,4
-58,No Reply - Remastered,Beatles For Sale (Remastered),The Beatles,1964-12-04,136066,0,0.718,0.67,0.718,0.593,0.0,0.172,-9.976,0.0377,124.251,4
-59,Golden Slumbers - Remastered,Abbey Road (Remastered),The Beatles,1969-09-26,91760,0,0.419,0.326,0.419,0.152,0.0034,0.113,-12.126,0.0277,80.608,4
-60,I Will - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,105933,63,0.631,0.742,0.631,0.387,0.000406,0.0822,-11.529,0.0262,103.11,4
-61,For No One - Remastered,Revolver (Remastered),The Beatles,1966-08-05,119813,0,0.483,0.783,0.483,0.351,0.0,0.115,-10.487,0.0278,81.208,4
-62,Got To Get You Into My Life - Remastered,Revolver (Remastered),The Beatles,1966-08-05,149240,0,0.521,0.42,0.521,0.524,9.27e-06,0.0838,-6.136,0.0302,136.679,4
-63,I'll Follow The Sun - Remastered,Beatles For Sale (Remastered),The Beatles,1964-12-04,108853,0,0.689,0.789,0.689,0.313,0.0,0.144,-10.073,0.0366,133.754,4
-64,Anna (Go To Him) - Remastered,Please Please Me (Remastered),The Beatles,1963-03-22,177133,0,0.608,0.635,0.608,0.565,0.0,0.0601,-11.06,0.0336,109.286,4
-65,You're Going To Lose That Girl - Remastered,Help! (Remastered),The Beatles,1965-08-06,138666,0,0.533,0.346,0.533,0.66,0.0,0.26,-7.694,0.0337,131.975,4
-66,Roll Over Beethoven - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,165466,0,0.351,0.289,0.351,0.749,0.0,0.0952,-9.435,0.0628,160.673,4
-67,You Really Got A Hold On Me - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,181346,0,0.373,0.525,0.373,0.388,0.0,0.267,-9.31,0.0337,77.643,4
-68,The Night Before - Remastered,Help! (Remastered),The Beatles,1965-08-06,154933,0,0.461,0.0537,0.461,0.762,0.0,0.238,-6.727,0.0379,84.496,4
-69,I'm Happy Just To Dance With You - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,116373,0,0.658,0.138,0.658,0.537,0.0,0.0572,-7.535,0.0307,132.115,4
-70,All I've Got To Do - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,122573,0,0.49,0.217,0.49,0.579,0.0,0.0644,-10.301,0.0344,119.403,4
-71,Carry That Weight - Remastered 2009,Abbey Road (Remastered),The Beatles,1969-09-26,96466,60,0.543,0.226,0.543,0.458,0.00663,0.298,-8.976,0.0274,84.319,4
-72,Getting Better - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,168120,58,0.632,0.313,0.632,0.471,5.08e-06,0.0712,-7.887,0.0348,121.672,4
-73,Things We Said Today - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,155333,0,0.551,0.239,0.551,0.575,0.0,0.112,-8.208,0.0332,137.054,4
-74,It Won't Be Long - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,133386,0,0.472,0.284,0.472,0.673,0.0,0.206,-8.853,0.0318,133.117,4
-75,The Long And Winding Road - Remastered,Let It Be (Remastered),The Beatles,1970-05-08,218186,0,0.299,0.756,0.299,0.329,0.0105,0.0559,-10.096,0.0279,132.282,4
-76,Baby It's You - Remastered,Please Please Me (Remastered),The Beatles,1963-03-22,160520,0,0.608,0.778,0.608,0.494,0.0,0.0926,-12.211,0.0345,112.421,4
-77,Dear Prudence - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,235773,60,0.388,0.16,0.388,0.529,0.0681,0.108,-10.533,0.0436,150.721,4
-78,She's Leaving Home - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,215160,61,0.381,0.944,0.381,0.214,0.0,0.106,-11.629,0.0337,127.581,3
-79,Run For Your Life - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,141093,0,0.563,0.0103,0.563,0.705,0.0,0.0552,-9.232,0.103,176.732,4
-80,You Won't See Me - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,199960,0,0.488,0.136,0.488,0.539,0.0,0.0538,-8.752,0.0304,115.941,4
-81,I'm Only Sleeping - Remastered,Revolver (Remastered),The Beatles,1966-08-05,180320,0,0.494,0.21,0.494,0.47,0.0,0.28,-9.599,0.0301,103.477,4
-82,And Your Bird Can Sing - Remastered,Revolver (Remastered),The Beatles,1966-08-05,120493,0,0.555,0.0067,0.555,0.65,0.0491,0.236,-6.936,0.0282,132.59,4
-83,Taxman - Remastered,Revolver (Remastered),The Beatles,1966-08-05,158853,0,0.469,0.0101,0.469,0.596,0.0,0.321,-8.348,0.0749,133.586,4
-84,Good Day Sunshine - Remastered,Revolver (Remastered),The Beatles,1966-08-05,129293,0,0.77,0.719,0.77,0.496,0.0,0.123,-8.45,0.0468,117.331,3
-85,Fixing A Hole - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,156826,57,0.469,0.382,0.469,0.507,0.0,0.0783,-8.917,0.0451,112.984,4
-86,Don't Bother Me - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,148253,0,0.371,0.554,0.371,0.724,0.0,0.299,-9.792,0.0562,170.377,4
-87,"Baby, You're A Rich Man - Remastered",Magical Mystery Tour (Remastered),The Beatles,1967-11-27,181306,0,0.619,0.0119,0.619,0.625,1.05e-06,0.152,-9.635,0.036,96.751,4
-88,Helter Skelter - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,269786,62,0.166,0.000606,0.166,0.831,0.846,0.811,-8.469,0.0894,167.518,4
-89,Within You Without You - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,304666,57,0.352,0.339,0.352,0.479,0.000353,0.486,-9.965,0.0338,126.166,4
-90,Gimme Shelter,Let It Bleed,The Rolling Stones,1969-12-05,270773,75,0.634,0.447,0.634,0.63,0.039,0.17,-8.277,0.031,118.628,4
-91,Sympathy For The Devil,Beggars Banquet,The Rolling Stones,1968-12-06,377746,0,0.668,0.581,0.668,0.672,1.09e-06,0.0403,-10.79,0.3,115.767,4
-92,Living In A Ghost Town,Living In A Ghost Town,The Rolling Stones,2020-04-23,247010,64,0.679,0.0148,0.679,0.697,0.0119,0.124,-5.369,0.0454,110.558,4
-93,Start Me Up - Remastered 2009,Tattoo You (2009 Re-Mastered),The Rolling Stones,1981-08-24,213066,76,0.631,0.0436,0.631,0.932,0.137,0.0918,-4.142,0.0354,122.429,4
-94,Jumpin' Jack Flash - Mono Version,"Through The Past, Darkly (Big Hits Vol. 2)",The Rolling Stones,1969-09-12,221746,58,0.571,0.0457,0.571,0.901,0.205,0.0753,-9.152,0.0568,137.317,4
-95,"Paint It, Black - (Original Single Mono Version)",Singles 1965-1967,The Rolling Stones,2004-07-12,224133,61,0.496,0.0135,0.496,0.859,0.065,0.349,-7.927,0.0934,159.694,4
-96,Brown Sugar - 2009 Mix,Sticky Fingers (Remastered),The Rolling Stones,1971-04-23,228666,70,0.633,0.219,0.633,0.934,0.00021,0.0592,-3.594,0.0344,128.606,4
-97,Under My Thumb,Aftermath,The Rolling Stones,1966-04-15,221533,64,0.732,0.299,0.732,0.494,0.205,0.0919,-13.571,0.0406,126.986,4
-98,Miss You - Remastered,Some Girls,The Rolling Stones,1978-06-09,288666,69,0.795,0.443,0.795,0.71,0.0215,0.344,-4.746,0.0392,109.689,4
-99,(I Can't Get No) Satisfaction - Mono Version,Out Of Our Heads,The Rolling Stones,1965-07-30,222813,77,0.723,0.0383,0.723,0.863,0.0317,0.128,-7.89,0.0338,136.302,4
-100,Honky Tonk Women - Mono Version,Hot Rocks (1964-1971),The Rolling Stones,1971-12-20,179386,62,0.562,0.363,0.562,0.779,0.0292,0.066,-6.705,0.0592,119.602,4
-101,Can't You Hear Me Knocking - 2009 Mix,Sticky Fingers (Remastered),The Rolling Stones,1971-04-23,436000,65,0.545,0.408,0.545,0.757,0.045,0.16,-5.228,0.0396,152.217,4
-102,Beast Of Burden - Remastered 1994,Some Girls,The Rolling Stones,1978-06-09,265173,73,0.783,0.39,0.783,0.878,0.000778,0.0426,-3.864,0.0308,100.626,4
-103,You Can't Always Get What You Want,Let It Bleed,The Rolling Stones,1969-12-05,448720,67,0.32,0.64,0.32,0.62,6.36e-05,0.253,-9.686,0.0594,86.327,4
-104,Rock And A Hard Place - 2009 Edit Re-Mastered Digital Version,"Jump Back - The Best Of The Rolling Stones, '71 - '93 (2009 Re-mastered)",The Rolling Stones,1993-11-22,251360,0,0.636,0.0108,0.636,0.944,9.82e-05,0.136,-4.713,0.0431,129.017,4
-105,Out Of Control,Bridges To Babylon,The Rolling Stones,1997-09-29,282250,0,0.736,0.314,0.736,0.533,0.0408,0.62,-8.669,0.0445,122.21,4
-106,Shine A Light,Exile On Main Street (2010 Re-Mastered),The Rolling Stones,1972-05-12,256826,56,0.365,0.522,0.365,0.839,0.000469,0.292,-5.148,0.0691,81.772,4
-107,Wild Horses - 2009 Mix,Sticky Fingers (Remastered),The Rolling Stones,1971-04-23,341773,71,0.432,0.687,0.432,0.389,0.0107,0.0788,-6.517,0.0255,139.506,4
-108,Heaven - Remastered,Tattoo You (2009 Re-Mastered),The Rolling Stones,1981-08-24,262400,57,0.617,0.222,0.617,0.459,0.0415,0.285,-9.292,0.0368,114.497,4
-109,Hate To See You Go,Blue & Lonesome,The Rolling Stones,2016-12-02,200786,51,0.418,0.399,0.418,0.828,0.669,0.146,-5.173,0.122,184.436,4
-110,Slipping Away,Steel Wheels,The Rolling Stones,1989-08-29,268933,0,0.623,0.355,0.623,0.462,1.84e-05,0.111,-12.077,0.0297,102.607,4
-111,Some Girls - Remastered,Some Girls,The Rolling Stones,1978-06-09,276933,51,0.474,0.527,0.474,0.938,0.52,0.299,-2.643,0.0898,71.995,4
-112,It's Only Rock'n'Roll (But I Like It) - Remastered 2009,It's Only Rock 'N' Roll (2009 Re-Mastered),The Rolling Stones,1974-10-18,307440,57,0.616,0.501,0.616,0.957,0.0115,0.318,-3.966,0.0508,128.517,4
-113,Moonlight Mile - 2009 Mix,Sticky Fingers (Remastered),The Rolling Stones,1971-04-23,357200,57,0.417,0.575,0.417,0.5,0.0883,0.102,-6.449,0.0263,130.531,4
-114,Fool To Cry - Remastered,Black And Blue,The Rolling Stones,1976-04-23,303893,0,0.464,0.939,0.464,0.338,0.16,0.111,-11.7,0.0437,70.131,4
-115,Time Is On My Side - Mono Version,The Rolling Stones No. 2,The Rolling Stones,1965-01-15,179133,52,0.508,0.291,0.508,0.645,3.25e-06,0.107,-9.012,0.0395,99.302,4
-116,She's A Rainbow - Full Version / With Intro,"Through The Past, Darkly (Big Hits Vol. 2)",The Rolling Stones,1969-09-12,251640,56,0.472,0.415,0.472,0.75,0.0206,0.369,-10.434,0.0371,109.251,4
-117,Everybody Needs Somebody To Love - Long Version,The Rolling Stones No. 2,The Rolling Stones,1965-01-15,303186,49,0.527,0.262,0.527,0.731,0.00276,0.112,-7.618,0.0668,177.978,4
-118,Let It Bleed,Let It Bleed,The Rolling Stones,1969-12-05,327880,52,0.558,0.433,0.558,0.684,0.00293,0.226,-8.246,0.0288,116.232,4
-119,Angie,Goats Head Soup (Remastered 2009),The Rolling Stones,1973-08-31,272000,73,0.429,0.67,0.429,0.554,0.000152,0.105,-6.128,0.0291,136.302,4
-120,Loving Cup,Exile On Main Street (Deluxe Version),The Rolling Stones,1972-05-12,264266,0,0.471,0.636,0.471,0.843,0.0402,0.773,-5.702,0.041,156.695,4
-121,Shattered - Remastered,Some Girls,The Rolling Stones,1978-06-09,226800,53,0.738,0.415,0.738,0.952,2.2e-05,0.116,-2.752,0.147,140.395,4
-122,Play With Fire - Mono Version,Out Of Our Heads,The Rolling Stones,1965-07-30,133320,55,0.578,0.178,0.578,0.429,6.01e-05,0.171,-9.601,0.0268,108.738,4
-123,She's So Cold - Remastered,Emotional Rescue (2009 Re-Mastered),The Rolling Stones,1980-06-20,253506,57,0.756,0.4,0.756,0.843,0.0104,0.0654,-5.315,0.0476,139.51,4
-124,Emotional Rescue - Remastered 2009,Emotional Rescue (2009 Re-Mastered),The Rolling Stones,1980-06-20,339400,56,0.678,0.111,0.678,0.621,0.0973,0.0394,-5.478,0.0623,113.389,4
-125,Street Fighting Man,Beggars Banquet,The Rolling Stones,1968-12-06,194733,0,0.57,0.0154,0.57,0.754,0.0133,0.184,-9.948,0.031,127.957,4
-126,Let's Spend The Night Together,Flowers,The Rolling Stones,1967-06-26,215760,50,0.566,0.689,0.566,0.795,0.0,0.249,-7.755,0.0498,140.859,4
-127,Doo Doo Doo Doo Doo (Heartbreaker),Goats Head Soup (Remastered 2009),The Rolling Stones,1973-08-31,206466,52,0.439,0.0646,0.439,0.827,0.374,0.0844,-4.593,0.0335,111.297,4
-128,Get Off Of My Cloud - Mono Version,December’s Children (And Everybody’s),The Rolling Stones,1965-12-04,175080,54,0.579,0.0289,0.579,0.877,0.571,0.0656,-8.83,0.0488,126.336,4
-129,Rocks Off,Exile On Main Street (2010 Re-Mastered),The Rolling Stones,1972-05-12,271933,54,0.485,0.0639,0.485,0.943,0.179,0.144,-4.423,0.0416,141.982,4
-130,Tumbling Dice,Exile On Main Street (2010 Re-Mastered),The Rolling Stones,1972-05-12,226333,60,0.615,0.5,0.615,0.91,0.511,0.281,-4.248,0.0347,111.013,4
-131,Mother's Little Helper,Aftermath (UK Version),The Rolling Stones,1966-04-15,164893,54,0.582,0.017,0.582,0.545,4.05e-06,0.229,-11.677,0.0298,101.691,4
-132,Dead Flowers - 2009 Mix,Sticky Fingers (Remastered),The Rolling Stones,1971-04-23,244533,58,0.54,0.33,0.54,0.862,1.7e-05,0.156,-4.599,0.0284,130.34,4
-133,Waiting On A Friend - Remastered 2009,Tattoo You (2009 Re-Mastered),The Rolling Stones,1981-08-24,274226,58,0.606,0.157,0.606,0.794,0.0406,0.568,-6.042,0.0282,116.93,4
-134,Sweet Virginia,Exile On Main Street (2010 Re-Mastered),The Rolling Stones,1972-05-12,266560,58,0.477,0.502,0.477,0.74,1.31e-06,0.263,-5.397,0.0446,107.384,4
-135,Happy,Exile On Main Street (Deluxe Version),The Rolling Stones,1972-05-12,184626,51,0.555,0.361,0.555,0.897,0.94,0.536,-3.469,0.0293,131.712,4
-136,Monkey Man,Let It Bleed,The Rolling Stones,1969-12-05,251453,54,0.406,0.507,0.406,0.768,0.0473,0.0825,-9.321,0.0374,99.855,4
-137,Ruby Tuesday,Between The Buttons,The Rolling Stones,1967-01-20,196493,62,0.524,0.831,0.524,0.553,0.0,0.174,-10.767,0.0292,104.578,4
-138,19th Nervous Breakdown - Mono Version,Hot Rocks (1964-1971),The Rolling Stones,1971-12-20,236400,50,0.477,0.0142,0.477,0.842,0.106,0.271,-7.356,0.0371,96.457,4
-139,As Tears Go By - Remastered 2002,Big Hits (High Tide and Green Grass),The Rolling Stones,1966-03-28,165266,0,0.373,0.75,0.373,0.279,0.00339,0.15,-11.108,0.0297,112.692,4
-140,The Last Time - Remastered 2002,Out Of Our Heads (Remastered),The Rolling Stones,1965-07-30,221493,0,0.329,0.129,0.329,0.926,0.852,0.745,-5.146,0.0629,167.435,4
-141,Day Tripper - Remastered 2015,1 (Remastered),The Beatles,2000-11-13,169000,63,0.665,0.12,0.665,0.782,4.19e-06,0.125,-8.438,0.0307,137.453,4
-142,Time of the Season - Mono Version,Odessey and Oracle,The Zombies,1968-04-19,214026,66,0.537,0.142,0.537,0.7,1.58e-06,0.383,-6.852,0.0366,117.111,4
-143,Summer in the City - Remastered,Hums Of The Lovin' Spoonful,The Lovin' Spoonful,1966-11,160306,64,0.423,0.0592,0.423,0.681,0.000177,0.0889,-9.756,0.0398,110.461,4
-144,Sunshine Superman,Sunshine Superman,Donovan,1966-09,195000,59,0.629,0.122,0.629,0.677,9.72e-06,0.0962,-7.239,0.0299,132.783,4
-145,Astral Weeks - 1999 Remaster,Astral Weeks,Van Morrison,1968-11-01,426053,53,0.451,0.539,0.451,0.348,3.19e-06,0.143,-14.805,0.032,80.964,3
-146,Oh Yoko! - Remastered 2010,Imagine,John Lennon,1971-09-09,260746,52,0.587,0.299,0.587,0.842,0.51,0.268,-10.463,0.0302,85.297,4
-147,Our House,Deja Vu,"Crosby, Stills, Nash & Young",1970-03-11,179760,68,0.593,0.896,0.593,0.205,5.46e-05,0.119,-14.601,0.0479,140.279,4
-148,God Only Knows - Remastered 1997 / Mono,Pet Sounds (Original Mono & Stereo Mix Versions),The Beach Boys,1966-06-16,173040,71,0.521,0.253,0.521,0.487,0.0,0.0579,-7.525,0.0299,117.072,4
-149,The Letter,The Letter/Neon Rainbow,The Box Tops,1967,112800,64,0.638,0.252,0.638,0.428,0.0,0.132,-12.156,0.0687,139.434,4
-150,Suzanne,Songs Of Leonard Cohen,Leonard Cohen,1967-12-27,229293,64,0.409,0.922,0.409,0.172,0.00112,0.111,-16.44,0.0389,132.151,4
-151,Look in Your Eyes,In Memorium,Scott McKenzie,2012-11-05,137640,34,0.521,0.603,0.521,0.437,0.0358,0.243,-11.806,0.0276,101.465,4
-152,Eleanor Rigby - Remastered 2009,Revolver (Remastered),The Beatles,1966-08-05,126533,69,0.581,0.936,0.581,0.28,1.56e-05,0.305,-9.091,0.0381,137.831,4
-153,My White Bicycle - 1999 Remaster,Tomorrow,Various Artists,1999-02-01,198333,29,0.447,0.000103,0.447,0.64,0.000287,0.104,-8.895,0.0492,143.725,4
-154,"Oh, Pretty Woman",The Essential Roy Orbison,Roy Orbison,2006-03-28,176933,61,0.609,0.725,0.609,0.584,0.0,0.0854,-9.734,0.0353,127.306,4
-155,It Don't Come Easy,Very Best Of,Ringo Starr,2007-01-01,181880,41,0.628,0.0838,0.628,0.738,0.00012,0.287,-7.082,0.0298,123.063,4
-156,Matchbox,Sun King Collection - Carl Perkins,Carl Perkins,2012-07-04,127533,42,0.524,0.324,0.524,0.937,0.00015,0.38,-6.449,0.0574,169.949,4
-157,Heart Full of Soul,The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling,The Yardbirds,2002-05-08,147893,55,0.494,0.229,0.494,0.666,5.69e-05,0.0469,-9.743,0.0351,140.832,4
-158,Daydream Believer,"The Birds, The Bees, & The Monkees",The Monkees,1968-04-22,179613,70,0.51,0.256,0.51,0.488,0.0,0.11,-10.304,0.0304,125.683,4
-159,"Sugar, Sugar",Party ohne Ende-es ist noch Bier da,Various Artists,2015-08-24,172920,0,0.771,0.718,0.771,0.632,0.0,0.0957,-10.125,0.0297,120.81,4
-160,The Way You Do The Things You Do,Meet The Temptations,The Temptations,1964,165744,64,0.618,0.159,0.618,0.704,0.000262,0.358,-4.686,0.0321,124.218,4
-161,I Want To Hold Your Hand - Remastered 2015,1 (Remastered),The Beatles,2000-11-13,145746,72,0.49,0.386,0.49,0.715,0.0,0.311,-5.549,0.0476,130.726,4
-162,#9 Dream - Remastered 2010,Walls And Bridges,John Lennon,1974-09-26,286813,53,0.406,0.0744,0.406,0.597,0.0133,0.254,-11.745,0.0336,115.474,4
-163,Ain't That A Shame? - Remastered 2002,The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them,Fats Domino,2002-01-01,150600,53,0.54,0.757,0.54,0.389,1.22e-05,0.0836,-7.212,0.0345,121.288,4
-164,Wouldn't It Be Nice - Mono / Remastered,Pet Sounds (Original Mono & Stereo Mix Versions),The Beach Boys,1966-06-16,145800,55,0.396,0.725,0.396,0.686,1.04e-06,0.17,-5.607,0.0341,124.318,4
-165,Under My Thumb,Hot Rocks (1964-1971),The Rolling Stones,1971-12-20,222746,43,0.729,0.346,0.729,0.569,0.0497,0.266,-11.452,0.0367,126.68,4
-166,All You Need Is Love - Remastered 2009,Magical Mystery Tour (Remastered),The Beatles,1967-11-27,230386,66,0.4,0.346,0.4,0.48,3.1e-05,0.155,-7.768,0.0295,103.436,4
-167,You've Made Me so Very Happy,Pop Classics Of The 60's,Various Artists,1989-04-25,254000,30,0.396,0.346,0.396,0.368,7.18e-06,0.322,-14.179,0.0403,92.355,4
-168,The Air That I Breathe - 2008 Remaster,Hollies,The Hollies,1974-03-01,257106,68,0.279,0.242,0.279,0.473,0.00164,0.158,-8.375,0.0309,167.792,4
-169,Don't Be Cruel,Elvis' Golden Records,Elvis Presley,1958-03-21,122893,60,0.697,0.856,0.697,0.55,3.44e-05,0.0907,-11.496,0.18,84.802,4
-170,Peggy Sue,Buddy Holly,Buddy Holly,1958,150960,61,0.676,0.947,0.676,0.424,0.000494,0.119,-8.132,0.0329,148.373,4
-171,Come And Get It - Remastered 2010,Magic Christian Music (Remastered 2010 / Deluxe Edition),Badfinger,1970-01-09,143213,51,0.616,0.0285,0.616,0.629,1.32e-06,0.208,-6.9,0.0263,94.004,4
-172,Journey To The Center of the Mind,Journey To The Center Of The Mind,The Amboy Dukes,1968-05-08,215439,42,0.32,0.165,0.32,0.778,0.000268,0.418,-10.477,0.0521,152.308,4
-173,Subterranean Homesick Blues,Bringing It All Back Home,Bob Dylan,1965-03-22,141293,58,0.576,0.702,0.576,0.727,0.0,0.324,-9.973,0.05,173.854,4
-174,L.S.D.,Get The Picture?,The Pretty Things,1965-12,144960,35,0.67,0.603,0.67,0.654,3.67e-05,0.286,-12.996,0.0321,126.756,4
-175,I Am The Walrus - Remastered 2009,Magical Mystery Tour (Remastered),The Beatles,1967-11-27,275866,63,0.401,0.0828,0.401,0.556,0.000359,0.589,-10.532,0.0513,85.206,4
-176,Gimme Shelter,Hot Rocks (1964-1971),The Rolling Stones,1971-12-20,270853,49,0.631,0.484,0.631,0.632,0.0316,0.121,-8.227,0.031,118.649,4
-177,Only the Lonely,Sings Lonely and Blue,Roy Orbison,1961,145533,63,0.57,0.377,0.57,0.529,0.00509,0.203,-10.769,0.028,123.273,4
-178,This Will Be Our Year,Odessey and Oracle,The Zombies,1968-04-19,127733,60,0.535,0.626,0.535,0.424,0.0,0.191,-7.491,0.0314,97.506,4
-179,The Night,Days Of Future Passed,The Moody Blues,1967-11-10,446480,40,0.18,0.209,0.18,0.422,0.00309,0.11,-7.77,0.0339,92.302,4
-180,Don't Let Me Down - Remastered 2009,The Beatles 1967 - 1970 (Remastered),The Beatles,1973-04-02,215733,67,0.593,0.568,0.593,0.289,0.000829,0.0928,-11.049,0.0259,77.119,4
-181,Do You Believe in Magic?,Do you Believe In Magic,The Lovin' Spoonful,1965-11,125826,68,0.553,0.213,0.553,0.738,0.0,0.339,-7.963,0.0457,138.602,4
-182,Beautiful Daughter,Shazam (2007 remaster),The Move,1970-02-02,162680,27,0.437,0.202,0.437,0.474,0.0,0.319,-9.02,0.0297,77.279,4
-183,Runaway,Runaway with Del Shannon,Del Shannon,1961-01-01,137306,61,0.594,0.153,0.594,0.533,1.49e-05,0.172,-7.993,0.0438,78.552,4
-184,Ain't That Cute - 2010 Remaster,Doris Troy,Doris Troy,1970,232746,29,0.665,0.0105,0.665,0.912,3.32e-05,0.0723,-8.498,0.0795,128.364,4
-185,What Is Life - Remastered 2014,All Things Must Pass (Remastered 2014),George Harrison,1970-11-27,264413,66,0.468,0.00654,0.468,0.833,0.000332,0.326,-5.847,0.0324,131.248,4
-186,On The Road To Find Out,Tea For The Tillerman (Remastered 2020),Yusuf / Cat Stevens,1970-11-23,308226,48,0.541,0.378,0.541,0.479,0.019,0.118,-9.901,0.0289,86.158,4
-187,A Time for Us,"Late Night Tales: Belle and Sebastian, Vol. 2",Belle & Sebastian,2012-03-26,195053,46,0.333,0.704,0.333,0.448,0.677,0.141,-14.122,0.0384,82.554,4
-188,You're Gonna Miss Me (2008 Remastered Original Mono LP Version),The Psychedelic Sounds of the 13th Floor Elevators - 2008 Remaster,13th Floor Elevators,2010,146737,53,0.428,0.0108,0.428,0.923,0.436,0.0985,-4.454,0.123,151.005,4
-189,Slip Inside This House - Stereo LP Version,Easter Everywhere,13th Floor Elevators,2010,482278,43,0.555,0.101,0.555,0.694,0.0,0.123,-8.453,0.0426,127.423,4
-190,(It's All over Now) Baby Blue - Mono LP Version,Easter Everywhere,13th Floor Elevators,2010,305482,35,0.402,0.2,0.402,0.546,0.272,0.167,-8.73,0.0313,97.513,4
-191,Midnight Hour,Psychedelic Summer 1967: Hits & Misses,Various Artists,2017-07-07,152026,0,0.365,0.00383,0.365,0.748,2.15e-06,0.208,-7.174,0.0521,139.352,4
-192,Can't Seem To Make You Mine,The Seeds,The Seeds,1966,185480,48,0.699,0.148,0.699,0.384,0.0,0.121,-13.691,0.044,109.573,4
-193,Mind Flowers,Behold & See,Ultimate Spinach,1968,580093,47,0.255,0.296,0.255,0.427,0.459,0.128,-10.235,0.0292,156.947,3
-194,I'm a Believer - 2006 Remaster,More of The Monkees (Deluxe Edition),The Monkees,1967-01-09,167373,74,0.526,0.707,0.526,0.775,2.05e-05,0.217,-6.05,0.0352,80.106,4
-195,Daydream,Daydream,The Lovin' Spoonful,1966-03,139093,58,0.822,0.834,0.822,0.332,0.0,0.11,-11.369,0.0506,110.802,4
-196,Happy Together,Happy Together,The Turtles,1967,176293,74,0.584,0.55,0.584,0.367,1.38e-05,0.0818,-9.638,0.0328,120.175,4
-197,Elenore,The Turtles Present The Battle of the Bands,The Turtles,1968,151306,58,0.63,0.6,0.63,0.625,1.52e-05,0.24,-8.407,0.0375,122.504,4
-198,She'd Rather Be With Me,Happy Together,The Turtles,1967,141840,45,0.489,0.271,0.489,0.775,0.000754,0.152,-11.057,0.0315,124.335,4
-199,Let's Live For Today,60's Gold,Various Artists,2006-06-27,166573,24,0.596,0.663,0.596,0.371,0.0,0.0533,-11.493,0.0355,115.567,4
-200,Alone Again Or - 2015 Remaster,Forever Changes (2015 Remastered Version),Love,1967,197274,60,0.318,0.664,0.318,0.303,0.000223,0.113,-15.572,0.0302,174.254,4
-201,Always See Your Face,Four Sail (Expanded Edition),Love,1969-09-01,209133,57,0.567,0.38,0.567,0.579,2.8e-05,0.0562,-12.565,0.029,109.84,4
-202,Everybody’s Gotta Live,Reel To Real,Love,1974,204521,60,0.805,0.607,0.805,0.281,0.0,0.116,-11.877,0.0961,105.873,4
-203,Be Thankful For What You Got,Reel To Real,Love,1974,273400,51,0.678,0.63,0.678,0.592,0.0436,0.0543,-11.678,0.199,99.293,4
-204,Shifting Sands,Part One,The West Coast Pop Art Experimental Band,1967,234600,50,0.226,0.128,0.226,0.585,0.0233,0.112,-9.965,0.0343,180.495,3
-205,Season of the Witch,Sunshine Superman,Donovan,1966-09,293933,60,0.516,0.159,0.516,0.513,0.00957,0.0612,-10.762,0.0288,99.735,4
-206,Mellow Yellow,Mellow Yellow,Donovan,1967-03,227226,53,0.71,0.534,0.71,0.319,0.0201,0.211,-12.387,0.0667,105.489,4
-207,Mr. Tambourine Man,Mr. Tambourine Man,The Byrds,1965-06-21,149466,64,0.456,0.513,0.456,0.47,3.76e-05,0.444,-9.564,0.0294,120.336,4
-208,Eight Miles High,Fifth Dimension,The Byrds,1966-07-18,214640,55,0.364,0.21,0.364,0.768,0.136,0.503,-10.492,0.0757,130.602,4
-209,Turn! Turn! Turn! (To Everything There Is a Season),Turn! Turn! Turn!,The Byrds,1965-12-06,229360,67,0.452,0.135,0.452,0.818,2.72e-05,0.052,-8.124,0.0439,124.474,4
-210,Mr. Soul,Buffalo Springfield Again,Buffalo Springfield,1967-10-30,172400,53,0.674,0.108,0.674,0.706,6.48e-06,0.114,-9.012,0.0384,133.789,4
-211,She's Not There,Begin Here,The Zombies,1965-03-01,145293,63,0.523,0.579,0.523,0.803,0.0,0.0948,-5.189,0.045,132.316,4
-212,Care Of Cell 44,Odessey and Oracle,The Zombies,1968-04-19,235826,51,0.421,0.265,0.421,0.58,0.0136,0.0973,-7.011,0.0285,129.959,4
-213,California Dreamin' - Single Version,If You Can Believe Your Eyes & Ears,The Mamas & The Papas,1966-03,162373,77,0.552,0.352,0.552,0.608,0.0,0.0533,-9.786,0.0345,112.367,4
-214,"Monday, Monday - Single Version",If You Can Believe Your Eyes & Ears,The Mamas & The Papas,1966-03,208293,63,0.488,0.742,0.488,0.464,0.0,0.57,-9.496,0.0284,109.853,4
-215,Long Cool Woman (In a Black Dress) - 1999 Remaster,Distant Light (Expanded Edition),The Hollies,1971-10-01,199200,69,0.757,0.411,0.757,0.868,0.00221,0.355,-9.326,0.062,138.923,4
-216,Do Wah Diddy Diddy - 2007 Remaster,Down the Road Apiece - the Recordings 1963-1966,Manfred Mann,1963,144146,59,0.66,0.282,0.66,0.583,0.0,0.0553,-7.361,0.0512,125.44,4
-217,I'm into Something Good,"A's, B's & EP's",Herman's Hermits,2004-03-01,153240,54,0.589,0.822,0.589,0.451,1.25e-06,0.151,-8.19,0.0315,134.082,4
-218,Kind of a Drag,The Hit Singles Collection,The Buckinghams,2015,126520,42,0.271,0.857,0.271,0.783,0.00965,0.285,-7.996,0.0457,138.836,4
-219,Don't You Care,Time & Charges,The Buckinghams,1967-06-01,148800,37,0.41,0.0967,0.41,0.566,0.0,0.263,-11.073,0.0443,142.037,4
-220,Never My Love - Remastered Version,Insight Out,The Association,1967,187693,55,0.435,0.171,0.435,0.428,0.000708,0.149,-11.747,0.0268,95.534,4
-221,I Think We're Alone Now - Single Version,I Think We're Alone Now,Tommy James & The Shondells,1967-01-05,130320,55,0.783,0.0722,0.783,0.42,0.0316,0.0692,-11.05,0.103,131.75,4
-222,The Rain The Park And Other Things,The Cowsills,The Cowsills,1967-01-01,184240,51,0.376,0.809,0.376,0.662,0.00131,0.683,-8.771,0.0404,131.582,4
-223,Five O'Clock World,The Vogues,The Vogues,2009-01-01,137613,47,0.497,0.588,0.497,0.768,0.0,0.151,-6.498,0.0361,126.763,4
-224,Today,Surrealistic Pillow,Jefferson Airplane,1967,177546,58,0.51,0.695,0.51,0.31,0.0,0.128,-13.647,0.0291,90.074,4
-225,Somebody to Love,Surrealistic Pillow,Jefferson Airplane,1967,174840,72,0.504,0.408,0.504,0.578,0.0,0.321,-9.302,0.031,132.411,4
-226,White Rabbit,Surrealistic Pillow,Jefferson Airplane,1967,150640,69,0.551,0.486,0.551,0.293,0.000273,0.0864,-12.503,0.0272,106.798,4
-227,Fresh Air - Remastered,Classic Masters,Quicksilver Messenger Service,2007-01-01,319586,47,0.452,0.409,0.452,0.757,0.344,0.135,-5.41,0.0396,115.546,4
-228,Lola,"Lola Versus Powerman and the Moneygoround, Pt. One",The Kinks,1970-11-27,241040,71,0.474,0.582,0.474,0.917,0.231,0.201,-4.19,0.0395,152.113,4
-229,All Day and All of the Night,Kinks,The Kinks,1964-10-02,141506,68,0.551,0.262,0.551,0.86,4.57e-06,0.0558,-7.839,0.0796,136.921,4
-230,Waterloo Sunset - Mono Mix,Something Else (Deluxe Edition),The Kinks,1967-09-15,194216,65,0.512,0.162,0.512,0.69,0.0,0.167,-6.969,0.0249,107.839,4
-231,Sunny Afternoon - Mono Mix,Face to Face (Deluxe Edition),The Kinks,1966-10-28,210525,67,0.595,0.102,0.595,0.465,0.0,0.0641,-8.412,0.026,124.991,4
-232,You Really Got Me - Mono Mix,Kinks,The Kinks,1964-10-02,134253,71,0.573,0.493,0.573,0.939,0.0,0.0994,-6.441,0.0808,137.382,4
-233,These Days,Chelsea Girl,Nico,1967-10-09,210653,63,0.401,0.989,0.401,0.13,0.305,0.101,-17.638,0.0312,93.091,4
-234,Venus,At Home,Shocking Blue,1969,187533,65,0.691,0.462,0.691,0.762,0.0286,0.0804,-6.47,0.0367,128.111,4
-235,(I'm Not Your) Steppin' Stone - 2006 Remaster,More of The Monkees (Deluxe Edition),The Monkees,1967-01-09,146533,53,0.537,0.0151,0.537,0.677,0.000199,0.0981,-4.437,0.0301,131.477,4
-236,Dance On Through,Nobody But Me,The Human Beinz,1968-01-01,187346,39,0.64,0.0172,0.64,0.558,0.0482,0.137,-10.75,0.036,109.704,4
-237,Aquarius/Let The Sunshine In (The Flesh Failures) [Remastered],The Age Of Aquarius,The 5th Dimension,1969,289293,59,0.293,0.446,0.293,0.74,0.00151,0.0998,-6.098,0.0399,118.23,4
-238,Just Dropped In (To See What Condition My Condition Was In),The First Edition,The First Edition,1967-01-01,201213,57,0.58,0.181,0.58,0.551,0.00719,0.15,-9.898,0.0582,115.896,4
-239,Do Wah Diddy Diddy,Groovin' with Manfred Mann,Manfred Mann,1964,143400,57,0.661,0.262,0.661,0.557,0.0,0.0557,-8.244,0.049,125.445,4
-240,Listen to the Music,Toulouse Street,The Doobie Brothers,1972,227266,76,0.645,0.221,0.645,0.598,3.53e-06,0.0721,-13.18,0.0335,105.929,4
-241,The Weight - Remastered,Music From Big Pink (Remastered),The Band,1968-07-01,274493,73,0.63,0.373,0.63,0.551,5.75e-05,0.103,-9.28,0.0549,143.868,4
-242,Melissa,Eat A Peach,Allman Brothers Band,1972-02-12,235223,63,0.533,0.478,0.533,0.362,0.245,0.0857,-14.791,0.0244,82.993,4
-243,Kashmir - 1990 Remaster,Physical Graffiti (1994 Remaster),Led Zeppelin,1975-02-24,508200,69,0.48,0.488,0.48,0.536,4.22e-05,0.155,-11.166,0.0427,80.617,3
-244,Should I Stay or Should I Go - Remastered,Combat Rock (Remastered),The Clash,1982,188986,78,0.743,0.0804,0.743,0.836,0.0,0.384,-6.465,0.116,113.375,4
-245,Proud Mary,Bayou Country (40th Anniversary Edition),Creedence Clearwater Revival,1969-01-05,187213,68,0.699,0.13,0.699,0.641,0.000218,0.0601,-7.564,0.0289,120.745,4
-246,Harvest Moon,Harvest Moon,Neil Young,1992-11-02,303213,70,0.648,0.526,0.648,0.309,0.000249,0.124,-12.432,0.0264,112.929,4
-247,Hold On - Remastered 2010,Plastic Ono Band,John Lennon,1970-12-11,112040,61,0.684,0.538,0.684,0.21,0.031,0.143,-18.204,0.0841,83.383,4
-248,Break on Through (To the Other Side),The Doors,The Doors,1967-01-04,145866,71,0.421,0.2,0.421,0.751,0.0,0.17,-9.584,0.0472,89.839,4
-249,Fortunate Son,Willy And The Poor Boys,Creedence Clearwater Revival,1969-11-02,140773,81,0.64,0.201,0.64,0.663,0.00806,0.152,-7.516,0.0374,132.77,4
-250,Band On The Run - Remastered 2010,Band On The Run (Standard),Wings,1973-12-05,313026,72,0.479,0.0832,0.479,0.601,0.00142,0.11,-8.806,0.0318,124.966,4
-251,"My My, Hey Hey (Out of the Blue) - 2016 Remaster",Rust Never Sleeps,Neil Young,1979-06-27,227705,67,0.502,0.856,0.502,0.4,0.000375,0.333,-13.697,0.0294,127.182,4
-252,Feelin' Alright,With A Little Help From My Friends,Joe Cocker,1969-05-01,250840,62,0.535,0.625,0.535,0.824,0.0379,0.299,-10.142,0.0391,90.12,4
-253,Imagine - Remastered 2010,Imagine,John Lennon,1971-09-09,187866,77,0.547,0.907,0.547,0.257,0.183,0.0935,-12.358,0.0252,75.752,4
-254,Cotton Fields,Willy And The Poor Boys,Creedence Clearwater Revival,1969-11-02,177266,65,0.582,0.237,0.582,0.641,0.0,0.132,-7.621,0.0297,148.634,4
-255,Perfect Day,Transformer,Lou Reed,1972-12-01,225000,69,0.4,0.744,0.4,0.267,0.00734,0.103,-12.488,0.0323,144.799,3
-256,Jumpin' Jack Flash - Mono,The Rolling Stones In Mono (Remastered 2016),The Rolling Stones,1966-01-01,219466,64,0.596,0.0362,0.596,0.901,0.749,0.0698,-7.373,0.0482,137.359,4
-257,Unchain My Heart,Unchain My Heart,Joe Cocker,1987-10-28,304293,63,0.751,0.0214,0.751,0.674,0.000143,0.32,-12.976,0.0425,117.969,4
-258,Wildflowers,Wildflowers,Tom Petty,1994-10-21,190320,69,0.537,0.588,0.537,0.315,2.29e-05,0.206,-13.79,0.0271,86.813,4
-259,If Not For You - Remastered 2014,All Things Must Pass (Remastered 2014),George Harrison,1970-11-27,210720,62,0.607,0.219,0.607,0.755,0.00399,0.082,-6.886,0.0317,116.119,4
-260,Pale Blue Eyes,The Velvet Underground (45th Anniversary),The Velvet Underground,1969,339533,67,0.637,0.911,0.637,0.107,0.00146,0.103,-18.759,0.0349,82.879,4
-261,Mary Jane's Last Dance,Greatest Hits,Tom Petty and the Heartbreakers,2008-05-20,273600,73,0.464,0.0272,0.464,0.655,1.34e-06,0.328,-9.058,0.0608,169.515,4
-262,Up Around The Bend,Cosmo's Factory,Creedence Clearwater Revival,1970-07-25,161466,70,0.589,0.0606,0.589,0.85,0.779,0.274,-6.143,0.0343,130.318,4
-263,Walk On the Wild Side,Transformer,Lou Reed,1972-12-01,254173,75,0.575,0.683,0.575,0.318,0.000202,0.0934,-16.729,0.109,104.522,4
-264,Let's Spend The Night Together,Between The Buttons,The Rolling Stones,1967-01-20,215920,52,0.562,0.705,0.562,0.793,0.0,0.222,-7.774,0.0526,140.838,4
-265,Bad To The Bone,BAD TO THE BONE,George Thorogood & The Destroyers,1982-01-01,292173,69,0.459,0.00614,0.459,0.727,0.0652,0.384,-11.777,0.0303,149.231,1
-266,The Man in Me,New Morning,Bob Dylan,1970-10-21,186213,61,0.419,0.532,0.419,0.517,0.0251,0.0785,-9.368,0.0284,145.109,4
-267,"Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",Unplugged (Deluxe Edition),Eric Clapton,1992-08-25,280000,73,0.695,0.8,0.695,0.336,0.00264,0.701,-12.999,0.0313,79.109,4
-268,Good Times Bad Times - 1993 Remaster,Led Zeppelin,Led Zeppelin,1969-01-12,166266,69,0.476,0.0382,0.476,0.717,7.61e-05,0.0818,-9.192,0.0949,93.584,4
-269,Long Train Runnin',The Captain and Me,The Doobie Brothers,1973,207266,72,0.575,0.0916,0.575,0.912,0.00211,0.0562,-7.275,0.0393,117.399,4
-270,Jet Airliner,Greatest Hits 1974-78,Steve Miller Band,1978-01-01,215666,67,0.574,0.0737,0.574,0.664,0.0,0.22,-11.5,0.0346,122.956,4
-271,Folsom Prison Blues - Live,Johnny Cash's America,Johnny Cash,2008,163426,0,0.602,0.0236,0.602,0.575,0.00469,0.83,-12.827,0.0559,110.951,4
-272,Hurt,American IV: The Man Comes Around,Johnny Cash,2002,216920,0,0.534,0.649,0.534,0.396,0.000469,0.0926,-7.678,0.0269,91.359,4
-273,I Walk the Line,I Walk the Line (Original Soundtrack Recording),Johnny Cash,1970-11-11,176533,67,0.713,0.877,0.713,0.258,0.00606,0.0967,-14.59,0.0384,98.805,4
-274,Ring of Fire,Ring Of Fire: The Best Of Johnny Cash,Johnny Cash,1963-08-06,158426,70,0.659,0.623,0.659,0.585,0.000213,0.348,-8.189,0.0288,104.111,4
-275,God's Gonna Cut You Down,American V: A Hundred Highways,Johnny Cash,2006-01-01,158573,64,0.617,0.868,0.617,0.485,3.44e-05,0.115,-8.227,0.115,82.228,4
-276,"A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash - 16 Biggest Hits,Johnny Cash,1999-02-02,223133,0,0.677,0.814,0.677,0.517,0.0,0.979,-10.37,0.114,101.882,4
-277,(Ghost) Riders in the Sky,Silver,Johnny Cash,1979-05-01,224813,62,0.572,0.355,0.572,0.668,0.0379,0.223,-9.382,0.0361,109.511,4
-278,"Busted - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",At Folsom Prison (Legacy Edition),Johnny Cash,1968,83906,0,0.693,0.604,0.693,0.503,0.00103,0.955,-13.379,0.0913,87.176,1
-279,Jackson,Carryin' On With Johnny Cash And June Carter,Johnny Cash,1967-08-01,165826,63,0.741,0.519,0.741,0.615,0.000344,0.408,-8.072,0.0358,128.496,4
-280,The Man Comes Around,American IV: The Man Comes Around,Johnny Cash,2002-01-01,266733,63,0.635,0.52,0.635,0.584,0.0951,0.962,-7.912,0.144,97.067,4
-281,Ain't No Grave,American VI: Ain't No Grave,Johnny Cash,2010-01-01,173266,60,0.52,0.894,0.52,0.35,0.000778,0.0895,-10.713,0.052,79.647,4
-282,She Used to Love Me a Lot,Out Among The Stars,Johnny Cash,2014-03-25,189506,56,0.556,0.708,0.556,0.438,9.86e-06,0.526,-9.722,0.0522,94.911,4
+,name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Here Comes The Sun - Remastered,Abbey Road (Remastered),The Beatles,1969-09-26,185733,0,0.0339,0.557,0.54,0.00248,0.179,-10.484,0.0347,129.171,4
+1,Hey Jude - Remastered 2009,The Beatles 1967 - 1970 (Remastered),The Beatles,1973-04-02,431333,66,0.028,0.402,0.552,1.36e-05,0.0929,-10.158,0.0258,145.164,4
+2,Come Together - Remastered,Abbey Road (Remastered),The Beatles,1969-09-26,259946,0,0.0302,0.533,0.376,0.248,0.0926,-11.913,0.0393,165.007,4
+3,Let It Be - Remastered,Let It Be (Remastered),The Beatles,1970-05-08,243026,0,0.631,0.443,0.403,0.0,0.111,-8.339,0.0322,143.462,4
+4,I Want To Hold Your Hand - Remastered 2009,The Beatles 1962 - 1966 (Remastered),The Beatles,1973-04-01,146720,65,0.525,0.496,0.703,2.08e-06,0.305,-6.905,0.0376,130.915,4
+5,"Ob-La-Di, Ob-La-Da - Remastered 2009",The Beatles (Remastered),The Beatles,1968-11-22,188960,70,0.232,0.818,0.728,0.0642,0.251,-8.331,0.0314,113.059,4
+6,Help! - Remastered 2009,Help! (Remastered),The Beatles,1965-08-06,139560,71,0.188,0.534,0.725,0.0,0.0994,-7.576,0.0332,95.003,4
+7,In My Life - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,146333,0,0.449,0.688,0.435,0.0,0.113,-11.359,0.0323,103.239,4
+8,Eleanor Rigby - Remastered,Revolver (Remastered),The Beatles,1966-08-05,126533,0,0.936,0.581,0.28,1.56e-05,0.305,-9.091,0.0381,137.831,4
+9,Something - Remastered,Abbey Road (Remastered),The Beatles,1969-09-26,182293,0,0.198,0.396,0.338,2.62e-06,0.138,-10.872,0.0304,133.522,4
+10,Day Tripper - Remastered 2009,The Beatles 1962 - 1966 (Remastered),The Beatles,1973-04-01,169613,62,0.117,0.641,0.722,0.0,0.19,-10.553,0.0297,137.732,4
+11,All My Loving - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,127853,0,0.207,0.416,0.563,0.0,0.343,-8.724,0.0298,77.56,4
+12,Yesterday - Remastered,Help! (Remastered),The Beatles,1965-08-06,125666,0,0.879,0.332,0.179,0.0,0.0886,-11.83,0.0326,96.529,4
+13,Blackbird - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,138386,74,0.754,0.686,0.127,1.41e-05,0.0573,-14.361,0.0342,93.699,4
+14,Don't Let Me Down - Remastered,Past Masters (Vols. 1 & 2 / Remastered),The Beatles,1988-03-07,215613,0,0.563,0.592,0.295,0.00071,0.109,-10.534,0.0261,76.066,4
+15,Strawberry Fields Forever - Remastered,Magical Mystery Tour (Remastered),The Beatles,1967-11-27,247320,0,0.336,0.39,0.502,0.000138,0.0713,-12.277,0.178,97.871,4
+16,I Saw Her Standing There - Remastered,Please Please Me (Remastered),The Beatles,1963-03-22,173946,0,0.27,0.491,0.801,0.0,0.0665,-9.835,0.0361,160.109,4
+17,Penny Lane - Remastered,Magical Mystery Tour (Remastered),The Beatles,1967-11-27,180893,0,0.212,0.651,0.488,0.026,0.136,-8.22,0.0316,113.038,4
+18,Twist And Shout - Remastered,Please Please Me (Remastered),The Beatles,1963-03-22,155226,0,0.641,0.482,0.849,7.74e-06,0.0414,-9.198,0.0452,124.631,4
+19,"Hello, Goodbye - Remastered",Magical Mystery Tour (Remastered),The Beatles,1967-11-27,208840,0,0.306,0.479,0.733,2.4e-05,0.414,-8.753,0.0256,99.307,4
+20,Oh! Darling - Remastered,Abbey Road (Remastered),The Beatles,1969-09-26,207240,0,0.0126,0.422,0.656,0.0279,0.268,-8.412,0.0397,173.93,3
+21,Lucy In The Sky With Diamonds - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,208466,68,0.0469,0.311,0.325,0.0,0.139,-9.042,0.0283,65.09,1
+22,While My Guitar Gently Weeps - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,285000,69,0.0205,0.453,0.654,0.00395,0.172,-8.855,0.0317,115.0,4
+23,Love Me Do - Remastered 2009,Please Please Me (Remastered),The Beatles,1963-03-22,141693,68,0.386,0.52,0.829,6.2e-05,0.227,-6.228,0.0806,147.997,4
+24,Eight Days A Week - Remastered,Beatles For Sale (Remastered),The Beatles,1964-12-04,163600,0,0.412,0.652,0.583,0.0,0.119,-7.811,0.038,138.134,4
+25,A Hard Day's Night - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,154200,0,0.137,0.59,0.805,0.0,0.0996,-6.481,0.0371,138.514,4
+26,We Can Work It Out - Remastered 2009,The Beatles 1962 - 1966 (Remastered),The Beatles,1973-04-01,136120,58,0.113,0.381,0.608,0.0,0.148,-10.061,0.0268,106.299,4
+27,Ticket To Ride - Remastered,Help! (Remastered),The Beatles,1965-08-06,189680,0,0.0457,0.519,0.85,0.0,0.233,-6.777,0.0678,123.419,4
+28,And I Love Her - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,149693,0,0.64,0.767,0.331,0.0,0.0681,-10.777,0.0337,113.312,4
+29,With A Little Help From My Friends - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,164106,65,0.365,0.705,0.515,0.0,0.389,-9.343,0.0337,112.035,4
+30,She Loves You - Mono / Remastered,1 (Remastered),The Beatles,2000-11-13,140920,0,0.26,0.377,0.916,0.0,0.074,-3.199,0.0481,75.533,4
+31,Can't Buy Me Love - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,131866,0,0.283,0.483,0.677,0.0,0.321,-5.91,0.0593,170.72,4
+32,Get Back - Remastered,Let It Be (Remastered),The Beatles,1970-05-08,189386,0,0.492,0.761,0.592,0.00626,0.61,-9.836,0.0586,123.095,4
+33,Sgt. Pepper's Lonely Hearts Club Band - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,122893,64,0.0857,0.451,0.673,0.00225,0.797,-9.115,0.0734,95.513,4
+34,When I'm Sixty Four - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,157666,63,0.625,0.704,0.241,2.8e-05,0.0868,-13.258,0.0476,140.411,4
+35,Yellow Submarine - Remastered,Yellow Submarine (Remastered),The Beatles,1969-01-17,159720,0,0.518,0.605,0.536,0.0,0.528,-10.069,0.0421,110.849,4
+36,All You Need Is Love - Remastered,Magical Mystery Tour (Remastered),The Beatles,1967-11-27,230386,0,0.346,0.4,0.48,3.1e-05,0.155,-7.768,0.0295,103.436,4
+37,Back In The U.S.S.R. - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,163453,67,0.069,0.48,0.969,0.00022,0.0608,-7.464,0.0854,142.489,4
+38,Michelle - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,162373,0,0.652,0.578,0.29,0.0,0.105,-12.501,0.0341,117.403,4
+39,I Should Have Known Better - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,163080,0,0.257,0.682,0.444,0.0,0.115,-7.689,0.0289,130.704,4
+40,Across The Universe - Remastered,Let It Be (Remastered),The Beatles,1970-05-08,228133,0,0.361,0.257,0.412,8.68e-05,0.0702,-11.788,0.0287,152.126,4
+41,A Day In The Life - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,337413,65,0.29,0.364,0.457,0.000106,0.922,-14.162,0.0675,163.219,4
+42,If I Fell - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,139466,0,0.68,0.665,0.31,0.0,0.0877,-8.928,0.0278,108.211,4
+43,I Feel Fine - Remastered,Past Masters (Vols. 1 & 2 / Remastered),The Beatles,1988-03-07,139680,0,0.276,0.568,0.796,8.64e-06,0.203,-8.085,0.0465,90.063,4
+44,Revolution - Remastered,Past Masters (Vols. 1 & 2 / Remastered),The Beatles,1988-03-07,204560,0,0.0865,0.432,0.824,0.000427,0.288,-9.518,0.189,122.299,4
+45,Drive My Car - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,148893,0,0.0173,0.754,0.571,0.0,0.3,-8.547,0.0421,122.463,4
+46,Girl - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,151720,0,0.587,0.699,0.294,0.0,0.117,-13.205,0.0294,96.615,4
+47,I've Just Seen A Face - Remastered,Help! (Remastered),The Beatles,1965-08-06,125040,0,0.723,0.647,0.56,0.0,0.118,-8.809,0.0387,120.418,3
+48,Nowhere Man - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,163693,0,0.00797,0.534,0.624,0.0,0.128,-9.589,0.0462,121.402,4
+49,Do You Want To Know A Secret - Remastered,Please Please Me (Remastered),The Beatles,1963-03-22,117013,0,0.608,0.673,0.349,0.0,0.38,-12.414,0.0368,124.451,4
+50,I Am The Walrus - Remastered,Magical Mystery Tour (Remastered),The Beatles,1967-11-27,275866,0,0.0828,0.401,0.556,0.000359,0.589,-10.532,0.0513,85.206,4
+51,You've Got To Hide Your Love Away - Remastered,Help! (Remastered),The Beatles,1965-08-06,129120,0,0.207,0.398,0.392,0.0,0.102,-9.05,0.0282,184.267,3
+52,Till There Was You - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,133506,0,0.79,0.727,0.338,0.0,0.105,-13.887,0.0454,122.421,4
+53,Norwegian Wood (This Bird Has Flown) - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,124693,0,0.183,0.425,0.369,0.00126,0.112,-11.876,0.0379,176.625,3
+54,Lady Madonna - Remastered,Past Masters (Vols. 1 & 2 / Remastered),The Beatles,1988-03-07,137586,0,0.362,0.631,0.763,0.512,0.208,-7.487,0.0306,109.346,4
+55,Please Please Me - Remastered,Please Please Me (Remastered),The Beatles,1963-03-22,120853,0,0.334,0.527,0.48,0.0,0.0702,-9.61,0.028,139.388,4
+56,Paperback Writer - Remastered,The Beatles 1962 - 1966 (Remastered),The Beatles,1973-04-01,139186,0,0.179,0.502,0.685,6.45e-06,0.551,-8.679,0.0736,157.394,4
+57,I'm Looking Through You - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,146386,0,0.00772,0.667,0.498,0.0,0.0481,-11.027,0.0364,85.843,4
+58,No Reply - Remastered,Beatles For Sale (Remastered),The Beatles,1964-12-04,136066,0,0.67,0.718,0.593,0.0,0.172,-9.976,0.0377,124.251,4
+59,Golden Slumbers - Remastered,Abbey Road (Remastered),The Beatles,1969-09-26,91760,0,0.326,0.419,0.152,0.0034,0.113,-12.126,0.0277,80.608,4
+60,I Will - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,105933,63,0.742,0.631,0.387,0.000406,0.0822,-11.529,0.0262,103.11,4
+61,For No One - Remastered,Revolver (Remastered),The Beatles,1966-08-05,119813,0,0.783,0.483,0.351,0.0,0.115,-10.487,0.0278,81.208,4
+62,Got To Get You Into My Life - Remastered,Revolver (Remastered),The Beatles,1966-08-05,149240,0,0.42,0.521,0.524,9.27e-06,0.0838,-6.136,0.0302,136.679,4
+63,I'll Follow The Sun - Remastered,Beatles For Sale (Remastered),The Beatles,1964-12-04,108853,0,0.789,0.689,0.313,0.0,0.144,-10.073,0.0366,133.754,4
+64,Anna (Go To Him) - Remastered,Please Please Me (Remastered),The Beatles,1963-03-22,177133,0,0.635,0.608,0.565,0.0,0.0601,-11.06,0.0336,109.286,4
+65,You're Going To Lose That Girl - Remastered,Help! (Remastered),The Beatles,1965-08-06,138666,0,0.346,0.533,0.66,0.0,0.26,-7.694,0.0337,131.975,4
+66,Roll Over Beethoven - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,165466,0,0.289,0.351,0.749,0.0,0.0952,-9.435,0.0628,160.673,4
+67,You Really Got A Hold On Me - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,181346,0,0.525,0.373,0.388,0.0,0.267,-9.31,0.0337,77.643,4
+68,The Night Before - Remastered,Help! (Remastered),The Beatles,1965-08-06,154933,0,0.0537,0.461,0.762,0.0,0.238,-6.727,0.0379,84.496,4
+69,I'm Happy Just To Dance With You - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,116373,0,0.138,0.658,0.537,0.0,0.0572,-7.535,0.0307,132.115,4
+70,All I've Got To Do - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,122573,0,0.217,0.49,0.579,0.0,0.0644,-10.301,0.0344,119.403,4
+71,Carry That Weight - Remastered 2009,Abbey Road (Remastered),The Beatles,1969-09-26,96466,60,0.226,0.543,0.458,0.00663,0.298,-8.976,0.0274,84.319,4
+72,Getting Better - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,168120,58,0.313,0.632,0.471,5.08e-06,0.0712,-7.887,0.0348,121.672,4
+73,Things We Said Today - Remastered,A Hard Day's Night (Remastered),The Beatles,1964-07-10,155333,0,0.239,0.551,0.575,0.0,0.112,-8.208,0.0332,137.054,4
+74,It Won't Be Long - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,133386,0,0.284,0.472,0.673,0.0,0.206,-8.853,0.0318,133.117,4
+75,The Long And Winding Road - Remastered,Let It Be (Remastered),The Beatles,1970-05-08,218186,0,0.756,0.299,0.329,0.0105,0.0559,-10.096,0.0279,132.282,4
+76,Baby It's You - Remastered,Please Please Me (Remastered),The Beatles,1963-03-22,160520,0,0.778,0.608,0.494,0.0,0.0926,-12.211,0.0345,112.421,4
+77,Dear Prudence - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,235773,61,0.16,0.388,0.529,0.0681,0.108,-10.533,0.0436,150.721,4
+78,She's Leaving Home - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,215160,61,0.944,0.381,0.214,0.0,0.106,-11.629,0.0337,127.581,3
+79,Run For Your Life - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,141093,0,0.0103,0.563,0.705,0.0,0.0552,-9.232,0.103,176.732,4
+80,You Won't See Me - Remastered,Rubber Soul (Remastered),The Beatles,1965-12-03,199960,0,0.136,0.488,0.539,0.0,0.0538,-8.752,0.0304,115.941,4
+81,I'm Only Sleeping - Remastered,Revolver (Remastered),The Beatles,1966-08-05,180320,0,0.21,0.494,0.47,0.0,0.28,-9.599,0.0301,103.477,4
+82,And Your Bird Can Sing - Remastered,Revolver (Remastered),The Beatles,1966-08-05,120493,0,0.0067,0.555,0.65,0.0491,0.236,-6.936,0.0282,132.59,4
+83,Taxman - Remastered,Revolver (Remastered),The Beatles,1966-08-05,158853,0,0.0101,0.469,0.596,0.0,0.321,-8.348,0.0749,133.586,4
+84,Good Day Sunshine - Remastered,Revolver (Remastered),The Beatles,1966-08-05,129293,0,0.719,0.77,0.496,0.0,0.123,-8.45,0.0468,117.331,3
+85,Fixing A Hole - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,156826,57,0.382,0.469,0.507,0.0,0.0783,-8.917,0.0451,112.984,4
+86,Don't Bother Me - Remastered,With The Beatles (Remastered),The Beatles,1963-11-22,148253,0,0.554,0.371,0.724,0.0,0.299,-9.792,0.0562,170.377,4
+87,"Baby, You're A Rich Man - Remastered",Magical Mystery Tour (Remastered),The Beatles,1967-11-27,181306,0,0.0119,0.619,0.625,1.05e-06,0.152,-9.635,0.036,96.751,4
+88,Helter Skelter - Remastered 2009,The Beatles (Remastered),The Beatles,1968-11-22,269786,62,0.000606,0.166,0.831,0.846,0.811,-8.469,0.0894,167.518,4
+89,Within You Without You - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,304666,57,0.339,0.352,0.479,0.000353,0.486,-9.965,0.0338,126.166,4
+90,Gimme Shelter,Let It Bleed,The Rolling Stones,1969-12-05,270773,75,0.447,0.634,0.63,0.039,0.17,-8.277,0.031,118.628,4
+91,Sympathy For The Devil,Beggars Banquet,The Rolling Stones,1968-12-06,377746,0,0.581,0.668,0.672,1.09e-06,0.0403,-10.79,0.3,115.767,4
+92,Living In A Ghost Town,Living In A Ghost Town,The Rolling Stones,2020-04-23,247010,64,0.0148,0.679,0.697,0.0119,0.124,-5.369,0.0454,110.558,4
+93,Start Me Up - Remastered 2009,Tattoo You (2009 Re-Mastered),The Rolling Stones,1981-08-24,213066,77,0.0436,0.631,0.932,0.137,0.0918,-4.142,0.0354,122.429,4
+94,Jumpin' Jack Flash - Mono Version,"Through The Past, Darkly (Big Hits Vol. 2)",The Rolling Stones,1969-09-12,221746,58,0.0457,0.571,0.901,0.205,0.0753,-9.152,0.0568,137.317,4
+95,"Paint It, Black - (Original Single Mono Version)",Singles 1965-1967,The Rolling Stones,2004-07-12,224133,61,0.0135,0.496,0.859,0.065,0.349,-7.927,0.0934,159.694,4
+96,Brown Sugar - 2009 Mix,Sticky Fingers (Remastered),The Rolling Stones,1971-04-23,228666,70,0.219,0.633,0.934,0.00021,0.0592,-3.594,0.0344,128.606,4
+97,Under My Thumb,Aftermath,The Rolling Stones,1966-04-15,221533,65,0.299,0.732,0.494,0.205,0.0919,-13.571,0.0406,126.986,4
+98,Miss You - Remastered,Some Girls,The Rolling Stones,1978-06-09,288666,69,0.443,0.795,0.71,0.0215,0.344,-4.746,0.0392,109.689,4
+99,(I Can't Get No) Satisfaction - Mono Version,Out Of Our Heads,The Rolling Stones,1965-07-30,222813,77,0.0383,0.723,0.863,0.0317,0.128,-7.89,0.0338,136.302,4
+100,Honky Tonk Women - Mono Version,Hot Rocks (1964-1971),The Rolling Stones,1971-12-20,179386,63,0.363,0.562,0.779,0.0292,0.066,-6.705,0.0592,119.602,4
+101,Can't You Hear Me Knocking - 2009 Mix,Sticky Fingers (Remastered),The Rolling Stones,1971-04-23,436000,65,0.408,0.545,0.757,0.045,0.16,-5.228,0.0396,152.217,4
+102,Beast Of Burden - Remastered 1994,Some Girls,The Rolling Stones,1978-06-09,265173,74,0.39,0.783,0.878,0.000778,0.0426,-3.864,0.0308,100.626,4
+103,You Can't Always Get What You Want,Let It Bleed,The Rolling Stones,1969-12-05,448720,67,0.64,0.32,0.62,6.36e-05,0.253,-9.686,0.0594,86.327,4
+104,Rock And A Hard Place - 2009 Edit Re-Mastered Digital Version,"Jump Back - The Best Of The Rolling Stones, '71 - '93 (2009 Re-mastered)",The Rolling Stones,1993-11-22,251360,0,0.0108,0.636,0.944,9.82e-05,0.136,-4.713,0.0431,129.017,4
+105,Out Of Control,Bridges To Babylon,The Rolling Stones,1997-09-29,282250,0,0.314,0.736,0.533,0.0408,0.62,-8.669,0.0445,122.21,4
+106,Shine A Light,Exile On Main Street (2010 Re-Mastered),The Rolling Stones,1972-05-12,256826,56,0.522,0.365,0.839,0.000469,0.292,-5.148,0.0691,81.772,4
+107,Wild Horses - 2009 Mix,Sticky Fingers (Remastered),The Rolling Stones,1971-04-23,341773,71,0.687,0.432,0.389,0.0107,0.0788,-6.517,0.0255,139.506,4
+108,Heaven - Remastered,Tattoo You (2009 Re-Mastered),The Rolling Stones,1981-08-24,262400,57,0.222,0.617,0.459,0.0415,0.285,-9.292,0.0368,114.497,4
+109,Hate To See You Go,Blue & Lonesome,The Rolling Stones,2016-12-02,200786,51,0.399,0.418,0.828,0.669,0.146,-5.173,0.122,184.436,4
+110,Slipping Away,Steel Wheels,The Rolling Stones,1989-08-29,268933,0,0.355,0.623,0.462,1.84e-05,0.111,-12.077,0.0297,102.607,4
+111,Some Girls - Remastered,Some Girls,The Rolling Stones,1978-06-09,276933,52,0.527,0.474,0.938,0.52,0.299,-2.643,0.0898,71.995,4
+112,It's Only Rock'n'Roll (But I Like It) - Remastered 2009,It's Only Rock 'N' Roll (2009 Re-Mastered),The Rolling Stones,1974-10-18,307440,57,0.501,0.616,0.957,0.0115,0.318,-3.966,0.0508,128.517,4
+113,Moonlight Mile - 2009 Mix,Sticky Fingers (Remastered),The Rolling Stones,1971-04-23,357200,57,0.575,0.417,0.5,0.0883,0.102,-6.449,0.0263,130.531,4
+114,Fool To Cry - Remastered,Black And Blue,The Rolling Stones,1976-04-23,303893,0,0.939,0.464,0.338,0.16,0.111,-11.7,0.0437,70.131,4
+115,Time Is On My Side - Mono Version,The Rolling Stones No. 2,The Rolling Stones,1965-01-15,179133,52,0.291,0.508,0.645,3.25e-06,0.107,-9.012,0.0395,99.302,4
+116,She's A Rainbow - Full Version / With Intro,"Through The Past, Darkly (Big Hits Vol. 2)",The Rolling Stones,1969-09-12,251640,56,0.415,0.472,0.75,0.0206,0.369,-10.434,0.0371,109.251,4
+117,Everybody Needs Somebody To Love - Long Version,The Rolling Stones No. 2,The Rolling Stones,1965-01-15,303186,50,0.262,0.527,0.731,0.00276,0.112,-7.618,0.0668,177.978,4
+118,Let It Bleed,Let It Bleed,The Rolling Stones,1969-12-05,327880,53,0.433,0.558,0.684,0.00293,0.226,-8.246,0.0288,116.232,4
+119,Angie,Goats Head Soup (Remastered 2009),The Rolling Stones,1973-08-31,272000,74,0.67,0.429,0.554,0.000152,0.105,-6.128,0.0291,136.302,4
+120,Loving Cup,Exile On Main Street (Deluxe Version),The Rolling Stones,1972-05-12,264266,0,0.636,0.471,0.843,0.0402,0.773,-5.702,0.041,156.695,4
+121,Shattered - Remastered,Some Girls,The Rolling Stones,1978-06-09,226800,53,0.415,0.738,0.952,2.2e-05,0.116,-2.752,0.147,140.395,4
+122,Play With Fire - Mono Version,Out Of Our Heads,The Rolling Stones,1965-07-30,133320,55,0.178,0.578,0.429,6.01e-05,0.171,-9.601,0.0268,108.738,4
+123,She's So Cold - Remastered,Emotional Rescue (2009 Re-Mastered),The Rolling Stones,1980-06-20,253506,57,0.4,0.756,0.843,0.0104,0.0654,-5.315,0.0476,139.51,4
+124,Emotional Rescue - Remastered 2009,Emotional Rescue (2009 Re-Mastered),The Rolling Stones,1980-06-20,339400,56,0.111,0.678,0.621,0.0973,0.0394,-5.478,0.0623,113.389,4
+125,Street Fighting Man,Beggars Banquet,The Rolling Stones,1968-12-06,194733,0,0.0154,0.57,0.754,0.0133,0.184,-9.948,0.031,127.957,4
+126,Let's Spend The Night Together,Flowers,The Rolling Stones,1967-06-26,215760,50,0.689,0.566,0.795,0.0,0.249,-7.755,0.0498,140.859,4
+127,Doo Doo Doo Doo Doo (Heartbreaker),Goats Head Soup (Remastered 2009),The Rolling Stones,1973-08-31,206466,53,0.0646,0.439,0.827,0.374,0.0844,-4.593,0.0335,111.297,4
+128,Get Off Of My Cloud - Mono Version,December’s Children (And Everybody’s),The Rolling Stones,1965-12-04,175080,55,0.0289,0.579,0.877,0.571,0.0656,-8.83,0.0488,126.336,4
+129,Rocks Off,Exile On Main Street (2010 Re-Mastered),The Rolling Stones,1972-05-12,271933,54,0.0639,0.485,0.943,0.179,0.144,-4.423,0.0416,141.982,4
+130,Tumbling Dice,Exile On Main Street (2010 Re-Mastered),The Rolling Stones,1972-05-12,226333,60,0.5,0.615,0.91,0.511,0.281,-4.248,0.0347,111.013,4
+131,Mother's Little Helper,Aftermath (UK Version),The Rolling Stones,1966-04-15,164893,54,0.017,0.582,0.545,4.05e-06,0.229,-11.677,0.0298,101.691,4
+132,Dead Flowers - 2009 Mix,Sticky Fingers (Remastered),The Rolling Stones,1971-04-23,244533,58,0.33,0.54,0.862,1.7e-05,0.156,-4.599,0.0284,130.34,4
+133,Waiting On A Friend - Remastered 2009,Tattoo You (2009 Re-Mastered),The Rolling Stones,1981-08-24,274226,58,0.157,0.606,0.794,0.0406,0.568,-6.042,0.0282,116.93,4
+134,Sweet Virginia,Exile On Main Street (2010 Re-Mastered),The Rolling Stones,1972-05-12,266560,58,0.502,0.477,0.74,1.31e-06,0.263,-5.397,0.0446,107.384,4
+135,Happy,Exile On Main Street (Deluxe Version),The Rolling Stones,1972-05-12,184626,51,0.361,0.555,0.897,0.94,0.536,-3.469,0.0293,131.712,4
+136,Monkey Man,Let It Bleed,The Rolling Stones,1969-12-05,251453,54,0.507,0.406,0.768,0.0473,0.0825,-9.321,0.0374,99.855,4
+137,Ruby Tuesday,Between The Buttons,The Rolling Stones,1967-01-20,196493,62,0.831,0.524,0.553,0.0,0.174,-10.767,0.0292,104.578,4
+138,19th Nervous Breakdown - Mono Version,Hot Rocks (1964-1971),The Rolling Stones,1971-12-20,236400,50,0.0142,0.477,0.842,0.106,0.271,-7.356,0.0371,96.457,4
+139,As Tears Go By - Remastered 2002,Big Hits (High Tide and Green Grass),The Rolling Stones,1966-03-28,165266,0,0.75,0.373,0.279,0.00339,0.15,-11.108,0.0297,112.692,4
+140,The Last Time - Remastered 2002,Out Of Our Heads (Remastered),The Rolling Stones,1965-07-30,221493,0,0.129,0.329,0.926,0.852,0.745,-5.146,0.0629,167.435,4
+141,Day Tripper - Remastered 2015,1 (Remastered),The Beatles,2000-11-13,169000,63,0.12,0.665,0.782,4.19e-06,0.125,-8.438,0.0307,137.453,4
+142,Time of the Season - Mono Version,Odessey and Oracle,The Zombies,1968-04-19,214026,66,0.142,0.537,0.7,1.58e-06,0.383,-6.852,0.0366,117.111,4
+143,Summer in the City - Remastered,Hums Of The Lovin' Spoonful,The Lovin' Spoonful,1966-11,160306,64,0.0592,0.423,0.681,0.000177,0.0889,-9.756,0.0398,110.461,4
+144,Sunshine Superman,Sunshine Superman,Donovan,1966-09,195000,59,0.122,0.629,0.677,9.72e-06,0.0962,-7.239,0.0299,132.783,4
+145,Astral Weeks - 1999 Remaster,Astral Weeks,Van Morrison,1968-11-01,426053,53,0.539,0.451,0.348,3.19e-06,0.143,-14.805,0.032,80.964,3
+146,Oh Yoko! - Remastered 2010,Imagine,John Lennon,1971-09-09,260746,52,0.299,0.587,0.842,0.51,0.268,-10.463,0.0302,85.297,4
+147,Our House,Deja Vu,"Crosby, Stills, Nash & Young",1970-03-11,179760,68,0.896,0.593,0.205,5.46e-05,0.119,-14.601,0.0479,140.279,4
+148,God Only Knows - Remastered 1997 / Mono,Pet Sounds (Original Mono & Stereo Mix Versions),The Beach Boys,1966-06-16,173040,71,0.253,0.521,0.487,0.0,0.0579,-7.525,0.0299,117.072,4
+149,The Letter,The Letter/Neon Rainbow,The Box Tops,1967,112800,64,0.252,0.638,0.428,0.0,0.132,-12.156,0.0687,139.434,4
+150,Suzanne,Songs Of Leonard Cohen,Leonard Cohen,1967-12-27,229293,64,0.922,0.409,0.172,0.00112,0.111,-16.44,0.0389,132.151,4
+151,Look in Your Eyes,In Memorium,Scott McKenzie,2012-11-05,137640,34,0.603,0.521,0.437,0.0358,0.243,-11.806,0.0276,101.465,4
+152,Eleanor Rigby - Remastered 2009,Revolver (Remastered),The Beatles,1966-08-05,126533,69,0.936,0.581,0.28,1.56e-05,0.305,-9.091,0.0381,137.831,4
+153,My White Bicycle - 1999 Remaster,Tomorrow,Various Artists,1999-02-01,198333,29,0.000103,0.447,0.64,0.000287,0.104,-8.895,0.0492,143.725,4
+154,"Oh, Pretty Woman",The Essential Roy Orbison,Roy Orbison,2006-03-28,176933,62,0.725,0.609,0.584,0.0,0.0854,-9.734,0.0353,127.306,4
+155,It Don't Come Easy,Very Best Of,Ringo Starr,2007-01-01,181880,41,0.0838,0.628,0.738,0.00012,0.287,-7.082,0.0298,123.063,4
+156,Matchbox,Sun King Collection - Carl Perkins,Carl Perkins,2012-07-04,127533,42,0.324,0.524,0.937,0.00015,0.38,-6.449,0.0574,169.949,4
+157,Heart Full of Soul,The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling,The Yardbirds,2002-05-08,147893,55,0.229,0.494,0.666,5.69e-05,0.0469,-9.743,0.0351,140.832,4
+158,Daydream Believer,"The Birds, The Bees, & The Monkees",The Monkees,1968-04-22,179613,70,0.256,0.51,0.488,0.0,0.11,-10.304,0.0304,125.683,4
+159,"Sugar, Sugar",Party ohne Ende-es ist noch Bier da,Various Artists,2015-08-24,172920,0,0.718,0.771,0.632,0.0,0.0957,-10.125,0.0297,120.81,4
+160,The Way You Do The Things You Do,Meet The Temptations,The Temptations,1964,165744,64,0.159,0.618,0.704,0.000262,0.358,-4.686,0.0321,124.218,4
+161,I Want To Hold Your Hand - Remastered 2015,1 (Remastered),The Beatles,2000-11-13,145746,72,0.386,0.49,0.715,0.0,0.311,-5.549,0.0476,130.726,4
+162,#9 Dream - Remastered 2010,Walls And Bridges,John Lennon,1974-09-26,286813,53,0.0744,0.406,0.597,0.0133,0.254,-11.745,0.0336,115.474,4
+163,Ain't That A Shame? - Remastered 2002,The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them,Fats Domino,2002-01-01,150600,53,0.757,0.54,0.389,1.22e-05,0.0836,-7.212,0.0345,121.288,4
+164,Wouldn't It Be Nice - Mono / Remastered,Pet Sounds (Original Mono & Stereo Mix Versions),The Beach Boys,1966-06-16,145800,55,0.725,0.396,0.686,1.04e-06,0.17,-5.607,0.0341,124.318,4
+165,Under My Thumb,Hot Rocks (1964-1971),The Rolling Stones,1971-12-20,222746,44,0.346,0.729,0.569,0.0497,0.266,-11.452,0.0367,126.68,4
+166,All You Need Is Love - Remastered 2009,Magical Mystery Tour (Remastered),The Beatles,1967-11-27,230386,66,0.346,0.4,0.48,3.1e-05,0.155,-7.768,0.0295,103.436,4
+167,You've Made Me so Very Happy,Pop Classics Of The 60's,Various Artists,1989-04-25,254000,30,0.346,0.396,0.368,7.18e-06,0.322,-14.179,0.0403,92.355,4
+168,The Air That I Breathe - 2008 Remaster,Hollies,The Hollies,1974-03-01,257106,68,0.242,0.279,0.473,0.00164,0.158,-8.375,0.0309,167.792,4
+169,Don't Be Cruel,Elvis' Golden Records,Elvis Presley,1958-03-21,122893,60,0.856,0.697,0.55,3.44e-05,0.0907,-11.496,0.18,84.802,4
+170,Peggy Sue,Buddy Holly,Buddy Holly,1958,150960,61,0.947,0.676,0.424,0.000494,0.119,-8.132,0.0329,148.373,4
+171,Come And Get It - Remastered 2010,Magic Christian Music (Remastered 2010 / Deluxe Edition),Badfinger,1970-01-09,143213,51,0.0285,0.616,0.629,1.32e-06,0.208,-6.9,0.0263,94.004,4
+172,Journey To The Center of the Mind,Journey To The Center Of The Mind,The Amboy Dukes,1968-05-08,215439,42,0.165,0.32,0.778,0.000268,0.418,-10.477,0.0521,152.308,4
+173,Subterranean Homesick Blues,Bringing It All Back Home,Bob Dylan,1965-03-22,141293,58,0.702,0.576,0.727,0.0,0.324,-9.973,0.05,173.854,4
+174,L.S.D.,Get The Picture?,The Pretty Things,1965-12,144960,35,0.603,0.67,0.654,3.67e-05,0.286,-12.996,0.0321,126.756,4
+175,I Am The Walrus - Remastered 2009,Magical Mystery Tour (Remastered),The Beatles,1967-11-27,275866,63,0.0828,0.401,0.556,0.000359,0.589,-10.532,0.0513,85.206,4
+176,Gimme Shelter,Hot Rocks (1964-1971),The Rolling Stones,1971-12-20,270853,49,0.484,0.631,0.632,0.0316,0.121,-8.227,0.031,118.649,4
+177,Only the Lonely,Sings Lonely and Blue,Roy Orbison,1961,145533,63,0.377,0.57,0.529,0.00509,0.203,-10.769,0.028,123.273,4
+178,This Will Be Our Year,Odessey and Oracle,The Zombies,1968-04-19,127733,60,0.626,0.535,0.424,0.0,0.191,-7.491,0.0314,97.506,4
+179,The Night,Days Of Future Passed,The Moody Blues,1967-11-10,446480,40,0.209,0.18,0.422,0.00309,0.11,-7.77,0.0339,92.302,4
+180,Don't Let Me Down - Remastered 2009,The Beatles 1967 - 1970 (Remastered),The Beatles,1973-04-02,215733,67,0.568,0.593,0.289,0.000829,0.0928,-11.049,0.0259,77.119,4
+181,Do You Believe in Magic?,Do you Believe In Magic,The Lovin' Spoonful,1965-11,125826,68,0.213,0.553,0.738,0.0,0.339,-7.963,0.0457,138.602,4
+182,Beautiful Daughter,Shazam (2007 remaster),The Move,1970-02-02,162680,27,0.202,0.437,0.474,0.0,0.319,-9.02,0.0297,77.279,4
+183,Runaway,Runaway with Del Shannon,Del Shannon,1961-01-01,137306,61,0.153,0.594,0.533,1.49e-05,0.172,-7.993,0.0438,78.552,4
+184,Ain't That Cute - 2010 Remaster,Doris Troy,Doris Troy,1970,232746,29,0.0105,0.665,0.912,3.32e-05,0.0723,-8.498,0.0795,128.364,4
+185,What Is Life - Remastered 2014,All Things Must Pass (Remastered 2014),George Harrison,1970-11-27,264413,67,0.00654,0.468,0.833,0.000332,0.326,-5.847,0.0324,131.248,4
+186,On The Road To Find Out,Tea For The Tillerman (Remastered 2020),Yusuf / Cat Stevens,1970-11-23,308226,49,0.378,0.541,0.479,0.019,0.118,-9.901,0.0289,86.158,4
+187,A Time for Us,"Late Night Tales: Belle and Sebastian, Vol. 2",Belle & Sebastian,2012-03-26,195053,46,0.704,0.333,0.448,0.677,0.141,-14.122,0.0384,82.554,4
+188,You're Gonna Miss Me (2008 Remastered Original Mono LP Version),The Psychedelic Sounds of the 13th Floor Elevators - 2008 Remaster,13th Floor Elevators,2010,146737,53,0.0108,0.428,0.923,0.436,0.0985,-4.454,0.123,151.005,4
+189,Slip Inside This House - Stereo LP Version,Easter Everywhere,13th Floor Elevators,2010,482278,43,0.101,0.555,0.694,0.0,0.123,-8.453,0.0426,127.423,4
+190,(It's All over Now) Baby Blue - Mono LP Version,Easter Everywhere,13th Floor Elevators,2010,305482,35,0.2,0.402,0.546,0.272,0.167,-8.73,0.0313,97.513,4
+191,Midnight Hour,Psychedelic Summer 1967: Hits & Misses,Various Artists,2017-07-07,152026,1,0.00383,0.365,0.748,2.15e-06,0.208,-7.174,0.0521,139.352,4
+192,Can't Seem To Make You Mine,The Seeds,The Seeds,1966,185480,49,0.148,0.699,0.384,0.0,0.121,-13.691,0.044,109.573,4
+193,Mind Flowers,Behold & See,Ultimate Spinach,1968,580093,48,0.296,0.255,0.427,0.459,0.128,-10.235,0.0292,156.947,3
+194,I'm a Believer - 2006 Remaster,More of The Monkees (Deluxe Edition),The Monkees,1967-01-09,167373,74,0.707,0.526,0.775,2.05e-05,0.217,-6.05,0.0352,80.106,4
+195,Daydream,Daydream,The Lovin' Spoonful,1966-03,139093,58,0.834,0.822,0.332,0.0,0.11,-11.369,0.0506,110.802,4
+196,Happy Together,Happy Together,The Turtles,1967,176293,74,0.55,0.584,0.367,1.38e-05,0.0818,-9.638,0.0328,120.175,4
+197,Elenore,The Turtles Present The Battle of the Bands,The Turtles,1968,151306,58,0.6,0.63,0.625,1.52e-05,0.24,-8.407,0.0375,122.504,4
+198,She'd Rather Be With Me,Happy Together,The Turtles,1967,141840,45,0.271,0.489,0.775,0.000754,0.152,-11.057,0.0315,124.335,4
+199,Let's Live For Today,60's Gold,Various Artists,2006-06-27,166573,23,0.663,0.596,0.371,0.0,0.0533,-11.493,0.0355,115.567,4
+200,Alone Again Or - 2015 Remaster,Forever Changes (2015 Remastered Version),Love,1967,197274,60,0.664,0.318,0.303,0.000223,0.113,-15.572,0.0302,174.254,4
+201,Always See Your Face,Four Sail (Expanded Edition),Love,1969-09-01,209133,57,0.38,0.567,0.579,2.8e-05,0.0562,-12.565,0.029,109.84,4
+202,Everybody’s Gotta Live,Reel To Real,Love,1974,204521,60,0.607,0.805,0.281,0.0,0.116,-11.877,0.0961,105.873,4
+203,Be Thankful For What You Got,Reel To Real,Love,1974,273400,51,0.63,0.678,0.592,0.0436,0.0543,-11.678,0.199,99.293,4
+204,Shifting Sands,Part One,The West Coast Pop Art Experimental Band,1967,234600,50,0.128,0.226,0.585,0.0233,0.112,-9.965,0.0343,180.495,3
+205,Season of the Witch,Sunshine Superman,Donovan,1966-09,293933,61,0.159,0.516,0.513,0.00957,0.0612,-10.762,0.0288,99.735,4
+206,Mellow Yellow,Mellow Yellow,Donovan,1967-03,227226,54,0.534,0.71,0.319,0.0201,0.211,-12.387,0.0667,105.489,4
+207,Mr. Tambourine Man,Mr. Tambourine Man,The Byrds,1965-06-21,149466,64,0.513,0.456,0.47,3.76e-05,0.444,-9.564,0.0294,120.336,4
+208,Eight Miles High,Fifth Dimension,The Byrds,1966-07-18,214640,55,0.21,0.364,0.768,0.136,0.503,-10.492,0.0757,130.602,4
+209,Turn! Turn! Turn! (To Everything There Is a Season),Turn! Turn! Turn!,The Byrds,1965-12-06,229360,67,0.135,0.452,0.818,2.72e-05,0.052,-8.124,0.0439,124.474,4
+210,Mr. Soul,Buffalo Springfield Again,Buffalo Springfield,1967-10-30,172400,53,0.108,0.674,0.706,6.48e-06,0.114,-9.012,0.0384,133.789,4
+211,She's Not There,Begin Here,The Zombies,1965-03-01,145293,63,0.579,0.523,0.803,0.0,0.0948,-5.189,0.045,132.316,4
+212,Care Of Cell 44,Odessey and Oracle,The Zombies,1968-04-19,235826,51,0.265,0.421,0.58,0.0136,0.0973,-7.011,0.0285,129.959,4
+213,California Dreamin' - Single Version,If You Can Believe Your Eyes & Ears,The Mamas & The Papas,1966-03,162373,77,0.352,0.552,0.608,0.0,0.0533,-9.786,0.0345,112.367,4
+214,"Monday, Monday - Single Version",If You Can Believe Your Eyes & Ears,The Mamas & The Papas,1966-03,208293,63,0.742,0.488,0.464,0.0,0.57,-9.496,0.0284,109.853,4
+215,Long Cool Woman (In a Black Dress) - 1999 Remaster,Distant Light (Expanded Edition),The Hollies,1971-10-01,199200,69,0.411,0.757,0.868,0.00221,0.355,-9.326,0.062,138.923,4
+216,Do Wah Diddy Diddy - 2007 Remaster,Down the Road Apiece - the Recordings 1963-1966,Manfred Mann,1963,144146,59,0.282,0.66,0.583,0.0,0.0553,-7.361,0.0512,125.44,4
+217,I'm into Something Good,"A's, B's & EP's",Herman's Hermits,2004-03-01,153240,54,0.822,0.589,0.451,1.25e-06,0.151,-8.19,0.0315,134.082,4
+218,Kind of a Drag,The Hit Singles Collection,The Buckinghams,2015,126520,42,0.857,0.271,0.783,0.00965,0.285,-7.996,0.0457,138.836,4
+219,Don't You Care,Time & Charges,The Buckinghams,1967-06-01,148800,38,0.0967,0.41,0.566,0.0,0.263,-11.073,0.0443,142.037,4
+220,Never My Love - Remastered Version,Insight Out,The Association,1967,187693,55,0.171,0.435,0.428,0.000708,0.149,-11.747,0.0268,95.534,4
+221,I Think We're Alone Now - Single Version,I Think We're Alone Now,Tommy James & The Shondells,1967-01-05,130320,55,0.0722,0.783,0.42,0.0316,0.0692,-11.05,0.103,131.75,4
+222,The Rain The Park And Other Things,The Cowsills,The Cowsills,1967-01-01,184240,51,0.809,0.376,0.662,0.00131,0.683,-8.771,0.0404,131.582,4
+223,Five O'Clock World,The Vogues,The Vogues,2009-01-01,137613,47,0.588,0.497,0.768,0.0,0.151,-6.498,0.0361,126.763,4
+224,Today,Surrealistic Pillow,Jefferson Airplane,1967,177546,58,0.695,0.51,0.31,0.0,0.128,-13.647,0.0291,90.074,4
+225,Somebody to Love,Surrealistic Pillow,Jefferson Airplane,1967,174840,73,0.408,0.504,0.578,0.0,0.321,-9.302,0.031,132.411,4
+226,White Rabbit,Surrealistic Pillow,Jefferson Airplane,1967,150640,69,0.486,0.551,0.293,0.000273,0.0864,-12.503,0.0272,106.798,4
+227,Fresh Air - Remastered,Classic Masters,Quicksilver Messenger Service,2007-01-01,319586,47,0.409,0.452,0.757,0.344,0.135,-5.41,0.0396,115.546,4
+228,Lola,"Lola Versus Powerman and the Moneygoround, Pt. One",The Kinks,1970-11-27,241040,71,0.582,0.474,0.917,0.231,0.201,-4.19,0.0395,152.113,4
+229,All Day and All of the Night,Kinks,The Kinks,1964-10-02,141506,68,0.262,0.551,0.86,4.57e-06,0.0558,-7.839,0.0796,136.921,4
+230,Waterloo Sunset - Mono Mix,Something Else (Deluxe Edition),The Kinks,1967-09-15,194216,65,0.162,0.512,0.69,0.0,0.167,-6.969,0.0249,107.839,4
+231,Sunny Afternoon - Mono Mix,Face to Face (Deluxe Edition),The Kinks,1966-10-28,210525,67,0.102,0.595,0.465,0.0,0.0641,-8.412,0.026,124.991,4
+232,You Really Got Me - Mono Mix,Kinks,The Kinks,1964-10-02,134253,72,0.493,0.573,0.939,0.0,0.0994,-6.441,0.0808,137.382,4
+233,These Days,Chelsea Girl,Nico,1967-10-09,210653,63,0.989,0.401,0.13,0.305,0.101,-17.638,0.0312,93.091,4
+234,Venus,At Home,Shocking Blue,1969,187533,66,0.462,0.691,0.762,0.0286,0.0804,-6.47,0.0367,128.111,4
+235,(I'm Not Your) Steppin' Stone - 2006 Remaster,More of The Monkees (Deluxe Edition),The Monkees,1967-01-09,146533,53,0.0151,0.537,0.677,0.000199,0.0981,-4.437,0.0301,131.477,4
+236,Dance On Through,Nobody But Me,The Human Beinz,1968-01-01,187346,39,0.0172,0.64,0.558,0.0482,0.137,-10.75,0.036,109.704,4
+237,Aquarius/Let The Sunshine In (The Flesh Failures) [Remastered],The Age Of Aquarius,The 5th Dimension,1969,289293,59,0.446,0.293,0.74,0.00151,0.0998,-6.098,0.0399,118.23,4
+238,Just Dropped In (To See What Condition My Condition Was In),The First Edition,The First Edition,1967-01-01,201213,57,0.181,0.58,0.551,0.00719,0.15,-9.898,0.0582,115.896,4
+239,Do Wah Diddy Diddy,Groovin' with Manfred Mann,Manfred Mann,1964,143400,57,0.262,0.661,0.557,0.0,0.0557,-8.244,0.049,125.445,4
+240,Listen to the Music,Toulouse Street,The Doobie Brothers,1972,227266,76,0.221,0.645,0.598,3.53e-06,0.0721,-13.18,0.0335,105.929,4
+241,The Weight - Remastered,Music From Big Pink (Remastered),The Band,1968-07-01,274493,73,0.373,0.63,0.551,5.75e-05,0.103,-9.28,0.0549,143.868,4
+242,Melissa,Eat A Peach,Allman Brothers Band,1972-02-12,235223,63,0.478,0.533,0.362,0.245,0.0857,-14.791,0.0244,82.993,4
+243,Kashmir - 1990 Remaster,Physical Graffiti (1994 Remaster),Led Zeppelin,1975-02-24,508200,69,0.488,0.48,0.536,4.22e-05,0.155,-11.166,0.0427,80.617,3
+244,Should I Stay or Should I Go - Remastered,Combat Rock (Remastered),The Clash,1982,188986,79,0.0804,0.743,0.836,0.0,0.384,-6.465,0.116,113.375,4
+245,Proud Mary,Bayou Country (40th Anniversary Edition),Creedence Clearwater Revival,1969-01-05,187213,68,0.13,0.699,0.641,0.000218,0.0601,-7.564,0.0289,120.745,4
+246,Harvest Moon,Harvest Moon,Neil Young,1992-11-02,303213,71,0.526,0.648,0.309,0.000249,0.124,-12.432,0.0264,112.929,4
+247,Hold On - Remastered 2010,Plastic Ono Band,John Lennon,1970-12-11,112040,62,0.538,0.684,0.21,0.031,0.143,-18.204,0.0841,83.383,4
+248,Break on Through (To the Other Side),The Doors,The Doors,1967-01-04,145866,71,0.2,0.421,0.751,0.0,0.17,-9.584,0.0472,89.839,4
+249,Fortunate Son,Willy And The Poor Boys,Creedence Clearwater Revival,1969-11-02,140773,81,0.201,0.64,0.663,0.00806,0.152,-7.516,0.0374,132.77,4
+250,Band On The Run - Remastered 2010,Band On The Run (Standard),Wings,1973-12-05,313026,72,0.0832,0.479,0.601,0.00142,0.11,-8.806,0.0318,124.966,4
+251,"My My, Hey Hey (Out of the Blue) - 2016 Remaster",Rust Never Sleeps,Neil Young,1979-06-27,227705,67,0.856,0.502,0.4,0.000375,0.333,-13.697,0.0294,127.182,4
+252,Feelin' Alright,With A Little Help From My Friends,Joe Cocker,1969-05-01,250840,62,0.625,0.535,0.824,0.0379,0.299,-10.142,0.0391,90.12,4
+253,Imagine - Remastered 2010,Imagine,John Lennon,1971-09-09,187866,78,0.907,0.547,0.257,0.183,0.0935,-12.358,0.0252,75.752,4
+254,Cotton Fields,Willy And The Poor Boys,Creedence Clearwater Revival,1969-11-02,177266,65,0.237,0.582,0.641,0.0,0.132,-7.621,0.0297,148.634,4
+255,Perfect Day,Transformer,Lou Reed,1972-12-01,225000,69,0.744,0.4,0.267,0.00734,0.103,-12.488,0.0323,144.799,3
+256,Jumpin' Jack Flash - Mono,The Rolling Stones In Mono (Remastered 2016),The Rolling Stones,1966-01-01,219466,64,0.0362,0.596,0.901,0.749,0.0698,-7.373,0.0482,137.359,4
+257,Unchain My Heart,Unchain My Heart,Joe Cocker,1987-10-28,304293,63,0.0214,0.751,0.674,0.000143,0.32,-12.976,0.0425,117.969,4
+258,Wildflowers,Wildflowers,Tom Petty,1994-10-21,190320,70,0.588,0.537,0.315,2.29e-05,0.206,-13.79,0.0271,86.813,4
+259,If Not For You - Remastered 2014,All Things Must Pass (Remastered 2014),George Harrison,1970-11-27,210720,62,0.219,0.607,0.755,0.00399,0.082,-6.886,0.0317,116.119,4
+260,Pale Blue Eyes,The Velvet Underground (45th Anniversary),The Velvet Underground,1969,339533,67,0.911,0.637,0.107,0.00146,0.103,-18.759,0.0349,82.879,4
+261,Mary Jane's Last Dance,Greatest Hits,Tom Petty and the Heartbreakers,2008-05-20,273600,73,0.0272,0.464,0.655,1.34e-06,0.328,-9.058,0.0608,169.515,4
+262,Up Around The Bend,Cosmo's Factory,Creedence Clearwater Revival,1970-07-25,161466,71,0.0606,0.589,0.85,0.779,0.274,-6.143,0.0343,130.318,4
+263,Walk On the Wild Side,Transformer,Lou Reed,1972-12-01,254173,75,0.683,0.575,0.318,0.000202,0.0934,-16.729,0.109,104.522,4
+264,Let's Spend The Night Together,Between The Buttons,The Rolling Stones,1967-01-20,215920,52,0.705,0.562,0.793,0.0,0.222,-7.774,0.0526,140.838,4
+265,Bad To The Bone,BAD TO THE BONE,George Thorogood & The Destroyers,1982-01-01,292173,69,0.00614,0.459,0.727,0.0652,0.384,-11.777,0.0303,149.231,1
+266,The Man in Me,New Morning,Bob Dylan,1970-10-21,186213,62,0.532,0.419,0.517,0.0251,0.0785,-9.368,0.0284,145.109,4
+267,"Tears in Heaven - Acoustic; Live at MTV Unplugged, Bray Film Studios, Windsor, England, UK, 1/16/1992; 2013 Remaster",Unplugged (Deluxe Edition),Eric Clapton,1992-08-25,280000,73,0.8,0.695,0.336,0.00264,0.701,-12.999,0.0313,79.109,4
+268,Good Times Bad Times - 1993 Remaster,Led Zeppelin,Led Zeppelin,1969-01-12,166266,69,0.0382,0.476,0.717,7.61e-05,0.0818,-9.192,0.0949,93.584,4
+269,Long Train Runnin',The Captain and Me,The Doobie Brothers,1973,207266,73,0.0916,0.575,0.912,0.00211,0.0562,-7.275,0.0393,117.399,4
+270,Jet Airliner,Greatest Hits 1974-78,Steve Miller Band,1978-01-01,215666,67,0.0737,0.574,0.664,0.0,0.22,-11.5,0.0346,122.956,4
+271,Folsom Prison Blues - Live,Johnny Cash's America,Johnny Cash,2008,163426,0,0.0236,0.602,0.575,0.00469,0.83,-12.827,0.0559,110.951,4
+272,Hurt,American IV: The Man Comes Around,Johnny Cash,2002,216920,0,0.649,0.534,0.396,0.000469,0.0926,-7.678,0.0269,91.359,4
+273,I Walk the Line,I Walk the Line (Original Soundtrack Recording),Johnny Cash,1970-11-11,176533,68,0.877,0.713,0.258,0.00606,0.0967,-14.59,0.0384,98.805,4
+274,Ring of Fire,Ring Of Fire: The Best Of Johnny Cash,Johnny Cash,1963-08-06,158426,71,0.623,0.659,0.585,0.000213,0.348,-8.189,0.0288,104.111,4
+275,God's Gonna Cut You Down,American V: A Hundred Highways,Johnny Cash,2006-01-01,158573,64,0.868,0.617,0.485,3.44e-05,0.115,-8.227,0.115,82.228,4
+276,"A Boy Named Sue - Live at San Quentin State Prison, San Quentin, CA - February 1969",Johnny Cash - 16 Biggest Hits,Johnny Cash,1999-02-02,223133,0,0.814,0.677,0.517,0.0,0.979,-10.37,0.114,101.882,4
+277,(Ghost) Riders in the Sky,Silver,Johnny Cash,1979-05-01,224813,63,0.355,0.572,0.668,0.0379,0.223,-9.382,0.0361,109.511,4
+278,"Busted - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",At Folsom Prison (Legacy Edition),Johnny Cash,1968,83906,0,0.604,0.693,0.503,0.00103,0.955,-13.379,0.0913,87.176,1
+279,Jackson,Carryin' On With Johnny Cash And June Carter,Johnny Cash,1967-08-01,165826,63,0.519,0.741,0.615,0.000344,0.408,-8.072,0.0358,128.496,4
+280,The Man Comes Around,American IV: The Man Comes Around,Johnny Cash,2002-01-01,266733,63,0.52,0.635,0.584,0.0951,0.962,-7.912,0.144,97.067,4
+281,Ain't No Grave,American VI: Ain't No Grave,Johnny Cash,2010-01-01,173266,60,0.894,0.52,0.35,0.000778,0.0895,-10.713,0.052,79.647,4
+282,She Used to Love Me a Lot,Out Among The Stars,Johnny Cash,2014-03-25,189506,56,0.708,0.556,0.438,9.86e-06,0.526,-9.722,0.0522,94.911,4

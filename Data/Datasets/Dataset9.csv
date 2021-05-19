@@ -1,566 +1,566 @@
-,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
-0,"A Love Supreme, Pt. I – Acknowledgement",A Love Supreme,John Coltrane,1965-02,462866,50,0.37,0.485,0.37,0.586,1.96e-06,0.348,-13.468,0.0581,121.573,4
-1,Giant Steps - 2020 Remaster,Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster],John Coltrane,2020-09-18,287843,42,0.417,0.186,0.417,0.42,0.00111,0.185,-13.046,0.06,147.143,4
-2,Blue World,Blue World,John Coltrane,2019-08-16,368253,44,0.477,0.732,0.477,0.733,0.0756,0.153,-8.301,0.0682,120.42,3
-3,My Favorite Things,My Favorite Things (Deluxe Edition),John Coltrane,1961,824133,55,0.277,0.694,0.277,0.242,0.464,0.113,-18.442,0.0342,175.384,3
-4,My One And Only Love,John Coltrane & Johnny Hartman,John Coltrane,1963,294306,54,0.466,0.984,0.466,0.0718,0.000931,0.107,-17.999,0.0375,121.769,4
-5,Equinox,Naima,John Coltrane,2018-05-17,487279,43,0.62,0.798,0.62,0.203,0.501,0.0649,-15.599,0.0341,116.8,4
-6,Untitled Original 11383 - Take 1,Both Directions At Once: The Lost Album (Deluxe Version),John Coltrane,2018-06-29,341213,40,0.429,0.706,0.429,0.368,1.96e-06,0.294,-14.071,0.0404,111.348,4
-7,Nature Boy,Both Directions At Once: The Lost Album (Deluxe Version),John Coltrane,2018-06-29,204013,39,0.544,0.369,0.544,0.339,0.0248,0.0986,-15.159,0.0378,107.115,3
-8,I Love You - Rudy Van Gelder Remaster,Lush Life,John Coltrane,1961,330733,37,0.51,0.861,0.51,0.492,0.584,0.106,-7.481,0.0606,81.519,4
-9,Theme For Ernie,Soultrane (Rudy Van Gelder),John Coltrane,1958,293240,0,0.456,0.985,0.456,0.189,0.566,0.104,-10.256,0.0383,126.933,4
-10,Afro-Blue - Live At The Half Note,"One Down, One Up: Live At The Half Note",John Coltrane,2005-01-01,764133,36,0.334,0.0997,0.334,0.597,0.211,0.35,-12.919,0.05,145.918,4
-11,How Deep Is The Ocean,Interplay [Box Set],John Coltrane,2007-01-01,906386,0,0.532,0.935,0.532,0.095,0.145,0.0765,-14.636,0.0448,101.659,4
-12,Slow Dance,Traneing In [Rudy Van Gelder edition] (Remastered),John Coltrane,1957,324826,0,0.479,0.922,0.479,0.119,0.779,0.113,-15.314,0.0381,105.012,4
-13,Violets For Your Furs - Rudy Van Gelder Remaster,Coltrane [Rudy Van Gelder Remaster] (RVGエディション),John Coltrane,1957,375066,0,0.587,0.958,0.587,0.236,0.568,0.104,-8.655,0.0323,68.2,4
-14,Aisha,Olé Coltrane (Deluxe Edition),John Coltrane,1962-02,465200,38,0.393,0.823,0.393,0.183,0.117,0.106,-15.203,0.035,168.035,3
-15,It's Easy To Remember,Ballads (Deluxe Edition),John Coltrane,1963,167920,0,0.463,0.912,0.463,0.128,0.019,0.088,-11.48,0.0353,129.42,4
-16,Time After Time,Stardust [Rudy Van Gelder edition] (RVGエディション),John Coltrane,1963,461626,0,0.605,0.946,0.605,0.23,0.544,0.152,-10.24,0.0358,91.495,4
-17,Lonnie's Lament,Crescent,John Coltrane,1964-01-01,707933,0,0.502,0.883,0.502,0.228,0.113,0.141,-15.801,0.037,107.823,4
-18,Everytime We Say Goodbye,My Favorite Things (Deluxe Edition),John Coltrane,1961,345266,42,0.447,0.803,0.447,0.121,0.777,0.0695,-21.562,0.0378,121.761,4
-19,26-2,Coltrane's Sound,John Coltrane,1964-06,373000,34,0.576,0.511,0.576,0.32,3.69e-05,0.253,-16.74,0.0338,97.637,4
-20,After The Rain,Impressions,John Coltrane,1963-01-01,249453,0,0.329,0.983,0.329,0.0556,0.176,0.145,-18.713,0.0363,124.905,4
-21,I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition,Blue Train (Expanded Edition),John Coltrane,1958,477760,51,0.394,0.931,0.394,0.23,0.497,0.0662,-10.475,0.0348,78.319,4
-22,Central Park West,Naima,John Coltrane,2018-05-17,251293,35,0.311,0.955,0.311,0.0312,0.855,0.0965,-21.88,0.036,73.467,4
-23,In A Sentimental Mood,Duke Ellington & John Coltrane,Duke Ellington,1963-02,255226,0,0.464,0.936,0.464,0.305,0.0846,0.208,-12.435,0.0316,108.231,4
-24,Mr. P.C.,Giant Steps (Deluxe Edition),John Coltrane,1960,423160,41,0.475,0.466,0.475,0.541,1.24e-05,0.319,-11.89,0.0749,131.121,4
-25,"A Love Supreme, Pt. IV - Psalm",A Love Supreme,John Coltrane,1965-02,422906,41,0.381,0.897,0.381,0.313,0.0432,0.135,-11.852,0.0312,127.106,4
-26,"Ruby, My Dear",Thelonious Monk with John Coltrane (OJC Remaster),Thelonious Monk,1961,381520,0,0.474,0.96,0.474,0.131,0.883,0.187,-14.809,0.0294,66.212,4
-27,My Little Brown Book,Duke Ellington & John Coltrane,Duke Ellington,1963-02,319733,0,0.372,0.942,0.372,0.187,0.139,0.161,-13.497,0.0323,70.334,4
-28,Satellite,Coltrane's Sound,John Coltrane,1964-06,351373,33,0.473,0.548,0.473,0.425,0.000134,0.126,-13.029,0.0546,125.523,5
-29,Greensleeves,Africa/Brass,John Coltrane Quartet,2007-01-01,597973,0,0.371,0.635,0.371,0.303,0.0826,0.114,-17.083,0.033,106.444,4
-30,I'll Wait and Pray,Coltrane Jazz,John Coltrane,1961-02,206360,42,0.475,0.89,0.475,0.0588,0.0238,0.129,-17.464,0.0418,115.642,4
-31,Come Rain Or Come Shine,The Last Trane,John Coltrane,1965,523906,0,0.562,0.788,0.562,0.288,0.163,0.271,-14.491,0.0371,108.558,4
-32,Stardust,Stardust [Rudy Van Gelder edition] (RVGエディション),John Coltrane,1963,641226,0,0.419,0.953,0.419,0.128,0.683,0.158,-16.13,0.0364,112.475,4
-33,Take The Coltrane,Duke Ellington & John Coltrane,Duke Ellington,1963-02,282600,0,0.433,0.199,0.433,0.631,0.0,0.271,-9.381,0.0458,129.496,4
-34,Crescent,Crescent,John Coltrane,1964-01-01,524266,0,0.324,0.538,0.324,0.423,4.96e-05,0.0892,-10.739,0.0365,63.425,4
-35,Moment's Notice - Rudy Van Gelder Edition/2003 Digital Remaster/24-Bit Mastering,Blue Train (Expanded Edition),John Coltrane,1958,550760,41,0.509,0.731,0.509,0.606,0.00361,0.256,-7.621,0.0365,123.351,4
-36,Lonnie's Lament,Crescent,John Coltrane,1964-01-01,707933,32,0.502,0.883,0.502,0.228,0.113,0.141,-15.801,0.037,107.823,4
-37,Lush Life,Lush Life (Rudy Van Gelder Remaster),John Coltrane,1961,837813,0,0.492,0.98,0.492,0.232,0.902,0.129,-11.977,0.0342,105.689,4
-38,Alabama,Live At Birdland,John Coltrane,1964,308933,0,0.428,0.774,0.428,0.0768,0.0487,0.123,-17.412,0.0413,107.712,4
-39,"A Love Supreme, Pt. II - Resolution",A Love Supreme,John Coltrane,1965-02,437840,47,0.341,0.581,0.341,0.57,0.0,0.0966,-11.71,0.0673,89.754,4
-40,Blue Train - Remastered 2003,Blue Train (Expanded Edition),John Coltrane,1958,644013,56,0.506,0.798,0.506,0.493,0.00355,0.307,-7.759,0.0427,134.77,4
-41,My Shining Hour,Coltrane Jazz,John Coltrane,1961-02,288986,32,0.65,0.72,0.65,0.345,5.18e-05,0.321,-12.921,0.0484,112.766,4
-42,"All of You - Live from Olympia Theatre, Paris - March 1960","The Final Tour: The Bootleg Series, Vol. 6",Miles Davis,2018-03-23,1025453,33,0.546,0.715,0.546,0.33,0.176,0.869,-13.743,0.0425,143.402,4
-43,You Leave Me Breathless - Rudy Van Gelder Remaster,Traneing In [Rudy Van Gelder edition],John Coltrane,1957,441053,27,0.501,0.955,0.501,0.148,0.713,0.076,-13.877,0.035,109.568,4
-44,Naima,Giant Steps (Deluxe Edition),John Coltrane,1960,258266,57,0.303,0.948,0.303,0.0141,0.0944,0.0792,-19.759,0.0418,171.439,3
-45,Living Space,Living Space,John Coltrane,1998-01-01,625200,30,0.272,0.675,0.272,0.581,0.0,0.258,-10.531,0.0507,115.369,5
-46,Summertime,My Favorite Things,John Coltrane,1961,697946,36,0.364,0.497,0.364,0.541,0.0827,0.119,-10.379,0.0545,80.339,4
-47,Iris,Stellar Regions,John Coltrane,1995-10-10,230693,25,0.405,0.448,0.405,0.513,0.0,0.306,-10.311,0.124,145.569,3
-48,Straight Street - Rudy Van Gelder Remaster,Coltrane [Rudy Van Gelder Remaster],John Coltrane,1957,377013,30,0.46,0.671,0.46,0.483,0.173,0.282,-9.239,0.0342,96.48,4
-49,The Father And The Son And The Holy Ghost,Meditations,John Coltrane,1966-09,771320,30,0.191,0.198,0.191,0.974,4.95e-06,0.393,-6.683,0.15,75.737,4
-50,You'd Be So Nice To Come Home To,Coleman Hawkins Encounters Ben Webster (Expanded Edition),Coleman Hawkins,1959-11-01,255626,45,0.655,0.809,0.655,0.245,0.384,0.178,-13.662,0.0469,79.76,4
-51,Night Train,Night Train (Expanded Edition),Oscar Peterson Trio,1963-01-01,290160,49,0.693,0.905,0.693,0.0742,0.431,0.15,-24.38,0.0597,104.331,4
-52,Tequila,Tequila (Expanded Edition),Wes Montgomery,1966-12-03,201440,44,0.704,0.854,0.704,0.297,0.775,0.117,-18.407,0.0637,89.882,4
-53,I Can't Get Started,The President Plays With The Oscar Peterson Trio,Lester Young,1959-06-02,217760,47,0.588,0.981,0.588,0.0207,0.688,0.105,-21.139,0.0794,116.882,4
-54,Bang Bang,Talkin' Verve,Dizzy Gillespie,1997-05-23,183333,52,0.788,0.644,0.788,0.533,0.00189,0.0646,-10.645,0.0467,134.644,4
-55,Feeling Good,Super Best,Ahmad Jamal,2018-01-11,172016,44,0.689,0.814,0.689,0.353,0.00201,0.12,-13.69,0.0371,81.995,4
-56,Maybe Tomorrow,Visions,Grant Green,1971-05-21,295520,47,0.52,0.958,0.52,0.165,0.904,0.226,-15.827,0.0429,113.999,4
-57,April In Paris,April In Paris: The Genius Of Charlie Parker #2,Charlie Parker,1957-08-08,187394,45,0.417,0.952,0.417,0.375,0.28,0.119,-7.978,0.029,108.747,4
-58,Days Of Wine And Roses,Boss Guitar,Wes Montgomery,1963,226200,52,0.47,0.991,0.47,0.0296,0.948,0.0976,-25.411,0.0352,89.408,4
-59,These Foolish Things - Remastered 1995,The Complete Aladdin Recordings Of Lester Young,Lester Young,1995-01-01,190933,55,0.593,0.986,0.593,0.103,0.6,0.12,-14.961,0.081,66.283,4
-60,You Don't Know What Love Is - Rudy Van Gelder Remaster,Saxophone Colossus,Sonny Rollins,1957-04,387480,43,0.548,0.928,0.548,0.272,0.731,0.131,-8.381,0.0424,142.717,4
-61,Alone Together - Rudy Van Gelder Remaster,Quiet Kenny,Kenny Dorham,1992-01-01,190400,54,0.336,0.985,0.336,0.0619,0.891,0.11,-20.494,0.0363,60.705,4
-62,Dolphin Dance,The Awakening,Ahmad Jamal Trio,1970,306200,45,0.378,0.87,0.378,0.232,0.948,0.1,-18.05,0.0303,148.531,4
-63,Time After Time,Stardust [Rudy Van Gelder edition],John Coltrane,2007-01-01,461626,46,0.595,0.947,0.595,0.233,0.627,0.151,-10.341,0.0379,91.299,4
-64,Bumpin' On Sunset,Tequila (Expanded Edition),Wes Montgomery,1966-12-03,289000,50,0.759,0.875,0.759,0.247,0.432,0.0978,-19.827,0.0521,107.601,4
-65,There Will Never Be Another You,The President Plays With The Oscar Peterson Trio,Lester Young,1959-06-02,205666,58,0.588,0.978,0.588,0.0387,0.823,0.116,-17.944,0.06,83.4,4
-66,Ahmad's Blues,Poinciana,Ahmad Jamal,1951,174000,46,0.508,0.99,0.508,0.15,0.899,0.144,-20.844,0.0418,173.36,3
-67,Love Theme From Spartacus - Remastered,Eastern Sounds,Yusef Lateef,1961,251600,55,0.522,0.635,0.522,0.379,0.925,0.114,-14.096,0.0286,133.698,3
-68,Autumn Leaves,Portrait In Jazz [Keepnews Collection],Bill Evans,1960,360546,46,0.611,0.951,0.611,0.24,0.773,0.0815,-16.534,0.0387,102.436,4
-69,Lazy Afternoon,Ballads,Joe Henderson,1997-01-01,332133,44,0.286,0.982,0.286,0.0553,0.592,0.0989,-20.216,0.034,52.789,4
-70,Bag's Groove,Night Train (Expanded Edition),Oscar Peterson Trio,1963-01-01,340333,43,0.641,0.872,0.641,0.0366,0.155,0.107,-26.04,0.0428,102.778,4
-71,Little Sunflower,Backlash,Freddie Hubbard,1967,475200,42,0.541,0.787,0.541,0.186,0.914,0.0905,-21.91,0.0324,136.965,4
-72,Dancing In The Dark,Somethin' Else (Rudy Van Gelder Edition),Cannonball Adderley,1958,247200,46,0.377,0.904,0.377,0.251,0.131,0.0586,-7.503,0.036,185.445,3
-73,Gary's Theme - Remastered,You Must Believe In Spring,Bill Evans,1981-02-02,257693,57,0.42,0.905,0.42,0.0802,0.857,0.135,-21.795,0.04,122.041,3
-74,Le Coiffeur,Gettin' Around,Dexter Gordon,1966-08-01,422400,43,0.686,0.78,0.686,0.372,2.73e-05,0.101,-12.663,0.0356,118.562,4
-75,They Say It's Wonderful,1963: New Directions,John Coltrane,2018-11-16,321066,36,0.43,0.964,0.43,0.147,0.24,0.122,-15.644,0.0333,110.868,5
-76,You Look Good To Me,We Get Requests,Oscar Peterson Trio,1964,292066,47,0.41,0.736,0.41,0.257,0.281,0.106,-17.621,0.0363,91.516,4
-77,Moanin' - Remastered,Moanin' (Expanded Edition),Art Blakey & The Jazz Messengers,1959-01-01,570720,55,0.612,0.804,0.612,0.493,0.266,0.202,-8.589,0.0467,126.358,4
-78,Love For Sale - Remastered,Somethin' Else (Rudy Van Gelder Edition),Cannonball Adderley,1958,424640,44,0.582,0.735,0.582,0.343,0.0,0.125,-8.004,0.0428,88.144,4
-79,Like Someone In Love,Time Remembered,Bill Evans Trio,1963,385493,43,0.389,0.994,0.389,0.0288,0.923,0.0793,-26.056,0.0603,80.181,4
-80,Giant Steps,Giant Steps (Deluxe Edition),John Coltrane,1960,283439,51,0.431,0.441,0.431,0.491,0.000458,0.134,-10.746,0.0562,148.243,4
-81,I'll Never Stop Loving You,Happy Moods,Ahmad Jamal,1960-01-07,183066,47,0.524,0.982,0.524,0.0877,0.891,0.129,-21.657,0.0394,79.894,4
-82,Joy Spring,Clifford Brown And Max Roach,Clifford Brown,1954-12-01,410666,47,0.654,0.702,0.654,0.334,0.714,0.114,-12.662,0.0521,81.544,4
-83,Along Came Betty - Remastered,Moanin' (Expanded Edition),Art Blakey & The Jazz Messengers,1959-01-01,368746,45,0.665,0.801,0.665,0.359,0.106,0.145,-8.887,0.0326,111.639,4
-84,"8 Humoresques, Op. 101, B. 187: No. 7. Poco lento e grazioso in G-Flat Major (arr. A. Tatum)",Art Tatum - The Standard Transcriptions,Art Tatum,2011-04-01,139533,42,0.343,0.977,0.343,0.287,0.861,0.106,-16.541,0.0333,70.71,3
-85,Quiet Nights Of Quiet Stars (Corcovado),We Get Requests,Oscar Peterson Trio,1964,172400,54,0.615,0.784,0.615,0.336,0.85,0.113,-18.634,0.0589,90.472,4
-86,Easy To Love,Happy Moods,Ahmad Jamal,1960-01-07,200986,45,0.724,0.838,0.724,0.203,0.784,0.123,-13.794,0.039,135.144,4
-87,I'm Confessin' (That I Love You),Solo Monk,Thelonious Monk,1964,157026,53,0.624,0.965,0.624,0.359,0.905,0.101,-9.457,0.0521,104.357,4
-88,Django - Rudy Van Gelder Edition / Remastered 1999,Idle Moments,Grant Green,1999-01-01,524093,46,0.653,0.875,0.653,0.368,0.00305,0.0972,-11.567,0.0439,117.161,4
-89,Speak No Evil - Remastered 1998 / Rudy Van Gelder Edition,Speak No Evil,Wayne Shorter,1999-01-01,503786,45,0.46,0.613,0.46,0.633,0.0,0.274,-7.153,0.0404,106.331,3
-90,Have You Met Miss Jones?,We Get Requests,Oscar Peterson Trio,1964,253840,42,0.698,0.861,0.698,0.0926,0.49,0.0887,-20.716,0.05,81.187,4
-91,Old Folks,Someday My Prince Will Come,Miles Davis,1961-12-11,314160,47,0.545,0.965,0.545,0.111,0.000629,0.0773,-14.692,0.0439,104.446,4
-92,Poinciana,Poinciana,Ahmad Jamal,1951,273760,50,0.553,0.984,0.553,0.0902,0.91,0.1,-21.491,0.043,89.369,4
-93,Patricia,The Return Of Art Pepper,Art Pepper,1988-01-01,218000,43,0.654,0.973,0.654,0.0494,0.519,0.0842,-17.504,0.0753,126.24,4
-94,Infant Eyes - Remastered1998/Rudy Van Gelder Edition,Speak No Evil,Wayne Shorter,1999-01-01,414240,50,0.34,0.985,0.34,0.0837,0.761,0.0945,-12.072,0.042,138.689,3
-95,Honest I Do,Spirit in the Dark,Aretha Franklin,1970-08-24,199200,20,0.565,0.595,0.565,0.476,0.000179,0.0659,-12.354,0.0503,119.891,4
-96,Spooky,"Music From The Motion Picture Lock, Stock And Two Smoking Barrels",Various Artists,1998,155133,48,0.683,0.518,0.683,0.708,2.08e-05,0.175,-6.852,0.0289,106.446,4
-97,A Sunday Kind Of Love - Single Version,At Last!,Etta James,1960,198866,0,0.363,0.85,0.363,0.268,0.0,0.216,-9.632,0.0301,68.885,5
-98,I'd Rather Go Blind,Tell Mama,Etta James,1968-04-18,156653,70,0.477,0.689,0.477,0.433,0.000195,0.151,-6.473,0.0247,82.52,3
-99,At Last,At Last!,Etta James,1960,179693,75,0.274,0.547,0.274,0.348,0.0133,0.334,-8.631,0.0293,87.43,3
-100,Stormy Weather,At Last!,Etta James,1960,187666,63,0.262,0.613,0.262,0.356,0.0,0.175,-8.031,0.0303,174.176,3
-101,What a Difference a Day Makes,Dinah Washington - The Great American Songbook,Dinah Washington,2011-08-09,152360,44,0.278,0.857,0.278,0.374,0.000224,0.279,-8.453,0.0328,165.385,3
-102,Dream A Little Dream Of Me - Single Version,"Love, Ella",Ella Fitzgerald,1957-01-01,185160,72,0.443,0.913,0.443,0.104,0.0,0.191,-17.042,0.101,76.497,4
-103,I Put A Spell On You,I Put A Spell On You,Nina Simone,1965-06-01,155026,67,0.42,0.755,0.42,0.398,0.000537,0.172,-9.13,0.0296,88.897,3
-104,I Just Want To Make Love To You - Single Version,At Last!,Etta James,1960,185626,63,0.642,0.772,0.642,0.523,3.26e-06,0.527,-8.579,0.11,101.635,4
-105,Fever,All Aglow Again!,Peggy Lee,1960-05-01,202693,53,0.833,0.314,0.833,0.0756,0.0,0.111,-20.822,0.147,136.007,4
-106,Cry Me A River,What A Diff'rence A Day Makes! (Expanded Edition),Dinah Washington,1959-02-19,150893,53,0.26,0.821,0.26,0.205,0.00102,0.074,-16.618,0.0312,99.912,3
-107,Cheek To Cheek,The Complete Ella And Louis On Verve,Ella Fitzgerald,1997-05-20,354533,67,0.663,0.706,0.663,0.264,0.0,0.1,-14.571,0.0914,122.482,4
-108,Feeling Good,I Put A Spell On You,Nina Simone,1965-06-01,174000,74,0.399,0.864,0.399,0.326,0.0,0.191,-9.239,0.0386,79.206,4
-109,Something's Got A Hold On Me,Heart & Soul: A Retrospective,Etta James,2011-10-18,169746,62,0.471,0.786,0.471,0.585,0.0,0.811,-6.105,0.0822,150.719,4
-110,Mean to Me,Sarah Vaughan In Hi-Fi,Sarah Vaughan,1949,172533,38,0.623,0.823,0.623,0.0986,0.0,0.23,-10.503,0.0413,123.772,4
-111,Mad About The Boy,The Complete Dinah Washington On Mercury Vol. 2 (1950-1952),Dinah Washington,1987-01-01,182573,59,0.344,0.922,0.344,0.147,0.00019,0.0482,-10.3,0.0369,177.192,3
-112,I Say a Little Prayer,Aretha Now,Aretha Franklin,1968-06-14,216773,75,0.592,0.478,0.592,0.355,0.0,0.0585,-14.051,0.0352,133.032,4
-113,Black Coffee,After Hours,Sarah Vaughan,1955-04-12,200440,55,0.38,0.973,0.38,0.155,1.7e-05,0.0977,-11.977,0.0311,94.23,3
-114,Respect,I Never Loved a Man the Way I Love You,Aretha Franklin,1967-03-10,147600,73,0.805,0.164,0.805,0.558,2.2e-05,0.0546,-5.226,0.041,114.95,4
-115,Think,Aretha Now,Aretha Franklin,1968-06-14,139733,68,0.687,0.251,0.687,0.63,0.0,0.221,-10.817,0.0389,110.051,4
-116,You Sent Me Flying / Cherry,Frank,Amy Winehouse,2003,410760,47,0.738,0.476,0.738,0.629,0.0,0.209,-6.453,0.136,99.895,4
-117,Nobody Knows You When You're Down and Out,The Best of Bessie Smith,Bessie Smith,1923,177133,39,0.614,0.996,0.614,0.0423,0.00293,0.183,-12.033,0.0535,89.822,4
-118,A Sunday Kind Of Love,At Last!,Etta James,1960,196133,70,0.421,0.829,0.421,0.285,1.55e-06,0.233,-9.43,0.0293,85.861,4
-119,There is No Greater Love,Love Songs,Etta James,1960,317680,8,0.402,0.349,0.402,0.272,0.0,0.142,-10.603,0.0468,66.857,4
-120,Teach Me Tonight,Love Songs,Etta James,1960,299306,8,0.475,0.727,0.475,0.259,5.36e-05,0.304,-9.8,0.0439,76.019,4
-121,Body And Soul,Love Songs,Etta James,1960,256106,16,0.428,0.797,0.428,0.191,0.0,0.165,-10.421,0.0429,204.091,3
-122,The Man I Love,Love Songs,Etta James,1960,267293,7,0.528,0.89,0.528,0.262,4.71e-06,0.0884,-10.997,0.0369,102.843,3
-123,Tell Mama,My Greatest Songs,Etta James,1992-01-01,143840,5,0.678,0.174,0.678,0.632,0.00707,0.124,-11.207,0.0454,119.471,4
-124,Tell Mama,The Essential Etta James,Etta James,1993-06-08,142506,4,0.685,0.131,0.685,0.614,0.0234,0.245,-11.245,0.038,119.701,4
-125,I Believe I Can Fly,All The Way,Etta James,2006-05-14,308266,19,0.502,0.594,0.502,0.446,0.0,0.339,-6.882,0.0308,111.924,4
-126,The Lady Is A Tramp,Ella Fitzgerald Sings The Rodgers And Hart Song Book,Ella Fitzgerald,1956-01-01,203560,31,0.438,0.842,0.438,0.385,0.0,0.0793,-10.129,0.07,82.536,4
-127,Love Me Or Leave Me,Lady Sings The Blues,Billie Holiday,1956-01-01,154853,41,0.62,0.855,0.62,0.208,0.0,0.12,-11.68,0.0751,113.472,4
-128,Love Me Or Leave Me,Ella Swings Brightly With Nelson,Ella Fitzgerald,1993-08-09,172600,12,0.493,0.788,0.493,0.305,0.0,0.407,-12.324,0.0719,111.393,4
-129,There Will Never Be Another You,North Sea Jazz Legendary Concerts,Ella Fitzgerald,2013-11-22,175693,8,0.462,0.644,0.462,0.624,0.0,0.972,-10.688,0.424,107.782,4
-130,I Ain't Got Nothing but the Blues (6/24/57),Complete Jazz Series : 1957,Ella Fitzgerald,1957,283933,1,0.512,0.761,0.512,0.174,0.0,0.0703,-12.706,0.053,117.643,3
-131,Puttin' On The Ritz,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,1958-01-01,138320,0,0.615,0.675,0.615,0.186,0.0,0.194,-12.382,0.0508,73.007,4
-132,I'm Beginning To See The Light,Ella Fitzgerald Sings The Duke Ellington Song Book,Ella Fitzgerald,1957-01-01,207466,27,0.611,0.708,0.611,0.309,0.0,0.167,-11.752,0.0499,132.407,4
-133,How High The Moon - 1st Take,Lullabies Of Birdland,Ella Fitzgerald,1954-01-01,195426,47,0.678,0.814,0.678,0.467,0.0,0.11,-5.177,0.0994,112.846,4
-134,Exactly Like You - Late Show - Live (1958/Chicago),Live At Mister Kelly's,Ella Fitzgerald,2007-01-01,457693,10,0.62,0.63,0.62,0.307,0.0,0.643,-15.083,0.0999,80.286,4
-135,Blue Skies,Get Happy! (Expanded Edition),Ella Fitzgerald,1959-01-01,226360,56,0.611,0.837,0.611,0.285,0.0,0.102,-10.225,0.0682,79.463,4
-136,Our Love Is Here To Stay,Unforgettable: With Love,Natalie Cole,1991,209960,57,0.39,0.867,0.39,0.0968,3.58e-06,0.0715,-14.966,0.0285,68.768,4
-137,What A Diff'rence A Day Made,What A Diff'rence A Day Makes! (Expanded Edition),Dinah Washington,1959-02-19,151866,63,0.387,0.925,0.387,0.117,0.000171,0.109,-17.803,0.0299,93.575,4
-138,Baby (You've Got What It Takes),The Two Of Us,Dinah Washington,1960-07-05,165760,59,0.67,0.852,0.67,0.596,0.00203,0.653,-9.347,0.0627,133.396,4
-139,September In The Rain,September In The Rain,Dinah Washington,1961-01-01,129333,57,0.401,0.346,0.401,0.213,1.05e-05,0.0596,-13.124,0.0545,110.611,4
-140,Teach Me Tonight,"The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",Dinah Washington,1988-01-01,167493,0,0.558,0.805,0.558,0.231,0.0,0.142,-11.436,0.0812,73.103,4
-141,Unforgettable,Unforgettable (Expanded Edition),Dinah Washington,1961-01-01,165800,33,0.322,0.885,0.322,0.19,0.00335,0.236,-14.916,0.0309,94.571,3
-142,Am I Blue,After Hours With Miss D,Dinah Washington,2004-01-01,192906,28,0.395,0.89,0.395,0.247,0.000709,0.135,-8.912,0.0526,65.142,4
-143,Blue Gardenia,The Bridges Of Madison County Original Sound Track,Various Artists,2005-09-13,317160,27,0.46,0.975,0.46,0.112,0.00444,0.123,-14.296,0.0455,172.061,5
-144,I Get A Kick Out Of You,For Those In Love (Expanded Edition),Dinah Washington,1955-01-01,381373,31,0.707,0.762,0.707,0.275,1.61e-05,0.271,-12.208,0.0403,134.979,4
-145,You Don't Know What Love Is,For Those In Love (Expanded Edition),Dinah Washington,1955-01-01,245000,26,0.516,0.966,0.516,0.101,3.89e-05,0.0906,-12.753,0.0513,137.832,4
-146,Devil's Gonna Git You,"The Complete Recordings, Vol. 4",Bessie Smith,1993-04-26,190026,36,0.653,0.993,0.653,0.0442,0.0,0.131,-12.269,0.0371,71.434,5
-147,"Baby, Won't You Please Come Home",Nobody Knows You When You're Down And Out,Bessie Smith,1924,175693,20,0.72,0.996,0.72,0.0423,0.00551,0.132,-14.979,0.0454,79.464,4
-148,St. Louis Blues,Nobody Knows You When You're Down And Out,Bessie Smith,1924,190026,18,0.423,0.993,0.423,0.124,4.29e-05,0.117,-10.488,0.0552,69.691,4
-149,After You've Gone,The Essential Bessie Smith,Bessie Smith,1997,175733,25,0.489,0.993,0.489,0.202,0.00021,0.216,-9.66,0.0337,93.657,4
-150,"Empty Bed Blues, Pt. 1","The Complete Recordings, Vol. 4",Bessie Smith,1993-04-26,180840,29,0.666,0.995,0.666,0.0613,0.00252,0.114,-12.191,0.044,84.798,4
-151,I Used to Be Your Sweet Mama,"The Complete Recordings, Vol. 3",Bessie Smith,1992-10-26,168626,18,0.717,0.99,0.717,0.115,0.0,0.0718,-8.011,0.085,86.15,4
-152,A Good Man Is Hard to Find,The Essential Bessie Smith,Bessie Smith,1997,178333,22,0.797,0.987,0.797,0.034,1.88e-06,0.125,-8.371,0.0612,83.84,4
-153,Feel Like I Wanna Cry,"H&L: Heritage of a Legend, Dinah Washington",Dinah Washington,2012-03-12,199933,0,0.624,0.952,0.624,0.173,0.00023,0.168,-12.988,0.0544,70.438,4
-154,Call Me Irresponsible,The Best Of Dinah Washington,Dinah Washington,1992-04-13,140413,9,0.573,0.772,0.573,0.24,0.0,0.301,-13.269,0.0444,74.513,4
-155,Drinking Again,Drinking Again,Dinah Washington,1962,211933,34,0.404,0.777,0.404,0.162,0.000931,0.0905,-13.592,0.0317,67.826,4
-156,Just Friends,Drinking Again,Dinah Washington,1962,198360,7,0.243,0.841,0.243,0.185,0.683,0.119,-17.205,0.0394,77.493,4
-157,I'm Gonna Laugh You out of My Life,Drinking Again,Dinah Washington,1962,173666,8,0.285,0.89,0.285,0.136,0.16,0.17,-17.978,0.0402,75.437,4
-158,I'll Be Around,Drinking Again,Dinah Washington,1962,177466,6,0.186,0.879,0.186,0.146,0.144,0.0806,-18.799,0.032,170.828,5
-159,"Lament (Love, I Found You Gone)",Drinking Again,Dinah Washington,1962,137773,4,0.34,0.941,0.34,0.148,0.162,0.133,-17.529,0.0499,79.131,4
-160,I Don't Know You Anymore,Drinking Again,Dinah Washington,1962,169066,6,0.465,0.827,0.465,0.227,0.000212,0.0562,-15.084,0.0476,106.624,4
-161,Baby Won't You Please Come Home,Drinking Again,Dinah Washington,1962,128893,7,0.481,0.904,0.481,0.275,8.07e-06,0.119,-14.85,0.0486,112.224,3
-162,Lover Man (Oh Where Can You Be),Drinking Again,Dinah Washington,1962,183306,19,0.291,0.908,0.291,0.143,0.0338,0.154,-15.415,0.0399,95.614,3
-163,The Man That Got Away,Drinking Again,Dinah Washington,1962,214133,9,0.436,0.855,0.436,0.201,2.53e-05,0.19,-13.95,0.0361,78.157,4
-164,For All We Know,Drinking Again,Dinah Washington,1962,195893,6,0.257,0.917,0.257,0.127,0.0693,0.108,-18.57,0.0322,76.979,4
-165,Say It Isn't So,Drinking Again,Dinah Washington,1962,190733,5,0.294,0.885,0.294,0.0901,6.93e-05,0.105,-16.98,0.0307,140.943,4
-166,On the Street of Regret,Drinking Again,Dinah Washington,1962,134640,5,0.279,0.853,0.279,0.136,0.0014,0.318,-16.121,0.0348,154.28,4
-167,I'm Beginning to See the Light,American Swing,Various Artists,2015-12-17,206400,0,0.526,0.762,0.526,0.364,0.0,0.233,-10.224,0.0671,131.255,4
-168,"Teach Me Tonight - Live At The Hootenanny, London / 2004",Frank,Amy Winehouse,2003,201533,40,0.485,0.566,0.485,0.327,2.91e-06,0.979,-9.454,0.0522,110.719,3
-169,"Gee Baby, Ain't I Good To You",Body and Soul,Billie Holiday,1957-01-01,334973,22,0.475,0.565,0.475,0.246,2.89e-06,0.0909,-13.061,0.0795,178.323,3
-170,"Gee, Baby, Ain't I Good To You?",The Complete Ella And Louis On Verve,Ella Fitzgerald,1997-05-20,255040,26,0.64,0.824,0.64,0.153,0.0,0.0965,-15.41,0.0532,85.432,4
-171,Since I Fell for You - Remastered,Bonnie Raitt (Remastered Version),Bonnie Raitt,1971,186200,33,0.385,0.838,0.385,0.362,0.000517,0.208,-11.016,0.0298,95.462,3
-172,Embraceable You,"The Complete Dinah Washington On Mercury, Vol.1 (1946 - 1949)",Dinah Washington,1987-09-05,177200,1,0.39,0.913,0.39,0.193,7.18e-05,0.0896,-9.399,0.0316,74.566,4
-173,I Get A Kick Out Of You,Ella Fitzgerald Sings The Cole Porter Song Book,Ella Fitzgerald,1956-01-01,241613,49,0.466,0.877,0.466,0.0456,0.0,0.129,-20.84,0.0416,130.752,4
-174,Lullaby Of Birdland,Lullabies Of Birdland,Ella Fitzgerald,1954-01-01,171000,20,0.528,0.916,0.528,0.382,0.0,0.231,-5.963,0.0327,110.736,4
-175,Lullaby Of Birdland,Vocal Jazz Hits,Various Artists,2020-09-18,240693,3,0.578,0.805,0.578,0.347,0.0,0.107,-12.422,0.1,122.928,4
-176,Feeling Good,I Put A Spell On You,Nina Simone,1965-06,174000,0,0.399,0.864,0.399,0.326,0.0,0.191,-9.239,0.0386,79.206,4
-177,You´d be so nice to come home to,Cole Porter: The Very Best,Various Artists,2007,259784,0,0.653,0.865,0.653,0.175,0.0189,0.19,-14.528,0.0349,129.707,4
-178,Blue Skies,Blue Skies,Dinah Washington,2012-09-28,655011,0,0.682,0.45,0.682,0.418,0.00189,0.221,-7.549,0.0457,124.667,4
-179,Cry Me a River,At Last - The Best Of,Etta James,2011-02-04,301693,16,0.404,0.767,0.404,0.219,0.0256,0.137,-13.586,0.0344,186.985,3
-180,Lullaby of Birdland,"All that Jazz, Vol.4 – Ella Fitzgerald: ""That's My Favorite Song""",Ella Fitzgerald,2014-04-01,168944,6,0.525,0.979,0.525,0.193,0.000139,0.154,-12.618,0.0402,111.028,4
-181,Teach Me Tonight,Jazz Divas Collection,Dinah Washington,2005-01-01,163893,0,0.58,0.84,0.58,0.232,0.0,0.503,-11.364,0.069,72.772,4
-182,Someone to Watch Over Me,My Gentleman Friend (Original Album Plus Bonus Tracks 1959),Blossom Dearie,2014-05-09,358296,0,0.435,0.988,0.435,0.0657,0.000463,0.149,-18.025,0.0453,80.367,3
-183,Twisted,King Pleasure Sings / Annie Ross Sings,King Pleasure,1987,158360,0,0.629,0.8,0.629,0.486,0.0,0.101,-11.631,0.057,82.509,4
-184,Dedicated To You,Ella Fitzgerald: The Voice Of Jazz,Ella Fitzgerald,2013-01-01,195933,0,0.759,0.99,0.759,0.0409,1.69e-05,0.0755,-13.501,0.0518,106.416,4
-185,Fly Me to the Moon,The Collection,Astrud Gilberto,2014-04-02,142000,0,0.579,0.468,0.579,0.313,0.00581,0.084,-13.696,0.0301,132.996,4
-186,Willow Weep for Me - 2004 Remaster,Triple Best Of,Nina Simone,2010-10-29,194186,7,0.352,0.701,0.352,0.33,0.0,0.335,-11.688,0.0383,109.245,4
-187,Strange Fruit,Extraordinary,Billie Holiday,2012-07-20,184173,0,0.453,0.974,0.453,0.109,3.47e-06,0.072,-11.08,0.0431,112.941,5
-188,A-tisket A-tasket,Jazz Infusion - Mildred Bailey,Mildred Bailey,2013-11-01,184253,0,0.653,0.862,0.653,0.301,0.000142,0.263,-12.435,0.394,180.33,4
-189,All of Me,Billie Holiday Love Songs,Billie Holiday,1996-01-30,181826,47,0.507,0.978,0.507,0.0677,2.74e-05,0.132,-13.766,0.0406,105.393,5
-190,Easy Living,Billie Holiday: Verve Ultimate Cool,Billie Holiday,2013-01-01,192933,13,0.443,0.983,0.443,0.0559,5.09e-05,0.0802,-17.374,0.0498,74.359,4
-191,Don’t Explain,Crying,Dinah Washington,2013-12-06,150651,0,0.294,0.715,0.294,0.234,0.00285,0.147,-14.343,0.0435,99.981,5
-192,They Can’t Take That Away from Me,Louis Armstrong & Friends,Various Artists,2007-09-11,278466,0,0.509,0.862,0.509,0.324,0.0,0.111,-11.779,0.0849,105.994,4
-193,Speak Low,In Person,Billie Holiday,2014-03-26,265933,0,0.616,0.896,0.616,0.266,0.00105,0.103,-13.477,0.0524,116.696,4
-194,Lousiana Fairy Tale,Joan Chamorro Presenta Andrea Motis,Joan Chamorro,2010-09-13,223333,34,0.664,0.942,0.664,0.218,4.12e-05,0.0911,-10.481,0.0418,110.661,4
-195,Blue Moon,Solitude,Billie Holiday,1956-01-01,207826,67,0.639,0.982,0.639,0.269,0.12,0.141,-11.435,0.0698,124.866,4
-196,If You Can't Sing It You'll Have To Swing It (Mr Paganini),Dear Ella (Reissue),Dee Dee Bridgewater,1997-01-01,393960,3,0.49,0.789,0.49,0.34,0.0,0.114,-8.387,0.06,135.321,4
-197,Solitude,Magic (Remastered Version),Ella Fitzgerald,2013-11-08,129333,0,0.368,0.976,0.368,0.0337,0.000118,0.101,-20.473,0.0357,113.671,4
-198,Body And Soul,The Complete Billie Holiday,Billie Holiday,2009-06-30,180946,0,0.537,0.992,0.537,0.145,7.82e-06,0.149,-12.916,0.0453,81.888,4
-199,Beale Street Mama,"The Complete Recordings, Vol. 1",Bessie Smith,1991-04-08,214573,8,0.503,0.996,0.503,0.0956,0.00105,0.284,-15.161,0.0475,101.949,4
-200,Gulf Coast Blues,"The Complete Recordings, Vol. 1",Bessie Smith,1991-04-08,184200,16,0.601,0.996,0.601,0.0796,0.0883,0.282,-16.68,0.0421,93.374,4
-201,Aggravatin' Papa,"The Complete Recordings, Vol. 1",Bessie Smith,1991-04-08,196426,3,0.597,0.996,0.597,0.185,0.00276,0.227,-14.113,0.0612,108.081,4
-202,Lady Luck Blues,"The Complete Recordings, Vol. 1",Bessie Smith,1991-04-08,186626,4,0.55,0.996,0.55,0.0468,4.5e-05,0.106,-16.242,0.0422,74.677,4
-203,It's A Lovely Day Today,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,1958-01-01,148266,56,0.573,0.84,0.573,0.275,0.0,0.196,-10.684,0.0534,140.9,4
-204,Sunshine of Your Love,Sunshine of Your Love,Ella Fitzgerald,2014-01-31,197973,39,0.51,0.163,0.51,0.457,6.27e-05,0.366,-8.056,0.0466,109.327,4
-205,Love Me or Leave Me - 2013 Remastered Version,Little Girl Blue (2013 Remastered Version),Nina Simone,1958-06-24,201390,43,0.462,0.817,0.462,0.343,0.0,0.0876,-13.367,0.119,175.977,4
-206,My Baby Just Cares for Me - 2013 Remastered Version,Little Girl Blue (2013 Remastered Version),Nina Simone,1958-06-24,215746,69,0.746,0.829,0.746,0.243,1.02e-06,0.0905,-15.134,0.123,118.578,4
-207,Mood Indigo - 2013 Remastered Version,Little Girl Blue (2013 Remastered Version),Nina Simone,1958-06-24,240610,35,0.659,0.666,0.659,0.364,1.52e-05,0.139,-13.356,0.0405,102.946,4
-208,Someone To Watch Over Me,Ella Sings Gershwin,Ella Fitzgerald,1950-09-11,196666,55,0.354,0.99,0.354,0.0851,4.49e-06,0.123,-13.738,0.0345,97.684,1
-209,My One And Only,Ella Sings Gershwin,Ella Fitzgerald,1950-09-11,196960,23,0.635,0.984,0.635,0.0984,0.0,0.0971,-12.335,0.0509,117.812,4
-210,Looking For A Boy,Ella Sings Gershwin,Ella Fitzgerald,1950-09-11,189600,21,0.424,0.986,0.424,0.109,0.0,0.105,-12.266,0.0427,179.219,5
-211,I've Got A Crush On You,Ella Sings Gershwin,Ella Fitzgerald,1950-09-11,196440,54,0.455,0.986,0.455,0.106,0.0,0.122,-14.086,0.0422,66.807,4
-212,You Can Have Him,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,1958-01-01,226613,27,0.613,0.845,0.613,0.174,0.0,0.0642,-14.402,0.0918,122.167,4
-213,Cheek To Cheek,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,1958-01-01,228066,36,0.632,0.766,0.632,0.202,0.0,0.146,-13.068,0.0587,134.298,3
-214,You Let My Love Grow Cold - Single Version,"The Complete Dinah Washington On Mercury, Vol. 3 (1952-1954)",Dinah Washington,1988-01-01,178160,2,0.493,0.954,0.493,0.226,0.0115,0.0601,-11.034,0.0337,90.509,4
-215,Fat Daddy,"The Complete Dinah Washington On Mercury, Vol. 3 (1952-1954)",Dinah Washington,1988-01-01,148826,2,0.638,0.945,0.638,0.391,0.0,0.0762,-10.013,0.218,155.308,4
-216,Go Pretty Daddy,"The Complete Dinah Washington On Mercury, Vol. 3 (1952-1954)",Dinah Washington,1988-01-01,145666,1,0.626,0.836,0.626,0.345,0.0,0.234,-10.259,0.171,94.055,4
-217,Someone To Watch Over Me,Someone To Watch Over Me,Ella Fitzgerald,2017-09-29,205800,34,0.278,0.955,0.278,0.155,6.89e-06,0.112,-13.45,0.0328,130.334,5
-218,I Get A Kick Out Of You,Someone To Watch Over Me,Ella Fitzgerald,2017-09-29,255480,25,0.323,0.748,0.323,0.259,0.0,0.279,-12.67,0.0322,131.778,4
-219,These Foolish Things (Remind Me Of You),Someone To Watch Over Me,Ella Fitzgerald,2017-09-29,266173,24,0.199,0.901,0.199,0.19,1.77e-05,0.109,-13.692,0.0298,83.326,3
-220,Let's Call The Whole Thing Off,Someone To Watch Over Me,Ella Fitzgerald,2017-09-29,262200,22,0.463,0.513,0.463,0.429,0.0,0.174,-11.55,0.0584,122.275,4
-221,Moodi's Mood for Love,Live at Jamboree - Barcelona,Andrea Motis,2013-11-26,347333,23,0.531,0.949,0.531,0.39,0.000336,0.788,-8.424,0.0787,91.32,3
-222,Moody's Mood For Love / Teo Licks,Frank,Amy Winehouse,2003,208933,46,0.511,0.0559,0.511,0.591,6.62e-06,0.135,-7.594,0.245,151.845,4
-223,Someone To Watch Over Me - Demo,Frank,Amy Winehouse,2003,268306,45,0.514,0.842,0.514,0.254,6.48e-05,0.118,-11.879,0.0361,109.53,4
-224,What It Is - Demo,Frank,Amy Winehouse,2003,283466,40,0.597,0.74,0.597,0.194,0.0,0.119,-9.035,0.0487,139.576,4
-225,I Heard Love Is Blind,Frank,Amy Winehouse,2003,130080,46,0.594,0.742,0.594,0.309,0.0,0.117,-9.809,0.0454,75.958,4
-226,I Heard Love Is Blind - Live,Frank,Amy Winehouse,2003,147466,35,0.708,0.24,0.708,0.403,0.0,0.972,-9.266,0.0767,73.847,4
-227,"(There Is) No Greater Love - Live, Janice Long Session, Miami/2008",Frank,Amy Winehouse,2003,156826,34,0.455,0.769,0.455,0.26,6.61e-05,0.972,-10.172,0.0525,141.924,4
-228,L.O.V.E,Joan Chamorro Presenta Andrea Motis,Joan Chamorro,2010-09-13,162240,39,0.612,0.964,0.612,0.319,0.0186,0.0906,-9.162,0.104,207.881,4
-229,Smile,Joan Chamorro Presenta Andrea Motis,Joan Chamorro,2010-09-13,268640,23,0.526,0.972,0.526,0.0793,0.000263,0.109,-13.472,0.0404,125.516,4
-230,You'd Be So Nice To Come Home To,Emotional Dance,Andrea Motis,2017-02-17,263160,20,0.589,0.877,0.589,0.36,0.0399,0.131,-8.817,0.0656,92.032,4
-231,I Hear Music,Ella & Oscar,Ella Fitzgerald,1976-01-01,308666,43,0.675,0.907,0.675,0.257,0.000104,0.108,-13.846,0.0699,80.334,4
-232,Don't Play That Song,Spirit in the Dark,Aretha Franklin,1970-08-24,182040,49,0.513,0.563,0.513,0.537,1.43e-06,0.212,-9.563,0.042,108.475,4
-233,All Of Me,Ella Swings Gently With Nelson,Ella Fitzgerald,1962-01-21,202226,36,0.551,0.813,0.551,0.49,0.0,0.0832,-7.713,0.0613,74.031,4
-234,My Funny Valentine,Ella Fitzgerald Sings The Rodgers And Hart Song Book,Ella Fitzgerald,1956-01-01,235200,54,0.188,0.942,0.188,0.192,9.53e-06,0.166,-14.204,0.0339,86.169,4
-235,My Funny Valentine,Time After Time,Etta James,1995,346866,35,0.359,0.965,0.359,0.0681,0.00154,0.109,-14.629,0.0338,76.098,4
-236,Beautiful Love,Anita,Anita O'Day,1955-01-01,160853,41,0.647,0.912,0.647,0.175,1.77e-06,0.0822,-17.677,0.0395,82.635,3
-237,Satin Doll,Ella Fitzgerald Sings The Duke Ellington Song Book,Ella Fitzgerald,1957-01-01,209160,34,0.595,0.917,0.595,0.0937,0.0,0.0999,-15.269,0.0391,98.918,4
-238,Summertime,Lady Day: The Complete Billie Holiday On Columbia (1933-1944),Billie Holiday,1933,173493,51,0.628,0.903,0.628,0.226,5.66e-06,0.171,-14.075,0.0371,99.392,4
-239,Summertime,Porgy And Bess,Louis Armstrong,1958-01-01,298133,66,0.172,0.916,0.172,0.0696,0.00199,0.137,-21.295,0.0339,167.974,5
-240,I'll Build A Stairway To Paradise,Sarah Vaughan Sings George Gershwin,Sarah Vaughan,1957-01-01,164778,9,0.536,0.827,0.536,0.418,0.0,0.46,-8.274,0.0339,94.742,4
-241,What a Little Moonlight Can Do,"Milestones of Jazz Legends - Oscar Peterson & The Greatest Singers, Vol. 8",Oscar Peterson,2019-08-02,192240,13,0.561,0.707,0.561,0.456,0.0,0.381,-13.358,0.0717,134.643,4
-242,What a Little Moonlight Can Do,Jazzing 6 Vol. 1,Sant Andreu Jazz Band,2016-05-16,152706,5,0.614,0.91,0.614,0.435,0.00246,0.0822,-8.101,0.0391,81.714,4
-243,Águas De Março,Jazzing 6 Vol. 1,Sant Andreu Jazz Band,2016-05-16,266386,25,0.583,0.86,0.583,0.602,7.33e-06,0.686,-7.164,0.0978,77.414,4
-244,Stormy Weather - 2003 Remastered Version,Blue Moon,Billie Holiday,1952-03-26,222306,42,0.416,0.729,0.416,0.226,0.000392,0.122,-11.852,0.0465,179.435,3
-245,Body And Soul,Body and Soul,Billie Holiday,1957-01-01,378400,45,0.435,0.809,0.435,0.0901,1.19e-05,0.101,-15.469,0.0582,178.85,3
-246,I've Got You Under My Skin,Ella Fitzgerald Sings The Cole Porter Song Book,Ella Fitzgerald,1956-01-01,163333,34,0.626,0.675,0.626,0.1,0.0,0.0852,-14.999,0.0523,135.387,4
-247,The Man I Love,Lady Day: The Complete Billie Holiday On Columbia (1933-1944),Billie Holiday,1933,184440,46,0.485,0.965,0.485,0.177,7.37e-05,0.252,-14.282,0.0428,88.411,4
-248,After You've Gone,The Complete Dinah Washington On Mercury Vol.5 (1956-1958),Dinah Washington,1991-07-01,218000,37,0.702,0.782,0.702,0.165,0.00025,0.111,-17.362,0.0482,70.12,4
-249,Cheek To Cheek,All Or Nothing At All,Billie Holiday,1958-01-01,217506,33,0.582,0.809,0.582,0.351,0.0,0.133,-10.785,0.0755,144.87,4
-250,Black Coffee - Single Version,Black Coffee,Peggy Lee,1956-01-01,186333,44,0.52,0.845,0.52,0.182,1.87e-06,0.266,-11.472,0.0423,130.331,4
-251,Side by Side,Jazzing 6 Vol. 1,Sant Andreu Jazz Band,2016-05-16,169520,4,0.666,0.94,0.666,0.542,0.000608,0.699,-8.13,0.058,109.061,4
-252,"Do Nothing Till You Hear From Me - Live On The Ed Sullivan Show, March 7, 1965","Do Nothing Till You Hear From Me (Live On The Ed Sullivan Show, March 7, 1965)",Ella Fitzgerald,2020-07-10,170970,20,0.285,0.941,0.285,0.367,0.0,0.652,-10.815,0.0365,86.926,4
-253,Do Nothin' Till You Hear from Me,Jazzing 6 Vol. 1,Sant Andreu Jazz Band,2016-05-16,310267,5,0.492,0.932,0.492,0.302,1.55e-05,0.213,-8.3,0.0278,82.759,4
-254,A Tisket A Tasket,"Love, Ella",Ella Fitzgerald,1957-01-01,157240,45,0.644,0.882,0.644,0.305,0.0,0.318,-12.244,0.169,164.182,4
-255,The Lady Is A Tramp,"Love, Ella",Ella Fitzgerald,1957-01-01,201760,38,0.458,0.816,0.458,0.303,0.0,0.152,-12.238,0.0967,81.739,4
-256,You'll Have To Swing It (Mr. Paganini) - Pt. 1 & 2,"Love, Ella",Ella Fitzgerald,1957-01-01,308173,27,0.469,0.83,0.469,0.138,0.0,0.279,-13.22,0.0587,74.16,4
-257,Reaching For The Moon,"Love, Ella",Ella Fitzgerald,1957-01-01,135360,32,0.223,0.957,0.223,0.0594,0.000648,0.268,-20.51,0.043,98.521,1
-258,Desafinado,Jukebox Ella: The Complete Verve Singles (Vol. 1),Ella Fitzgerald,2003-09-30,129919,25,0.429,0.801,0.429,0.552,0.0,0.258,-7.128,0.108,82.991,4
-259,Can Anyone Explain - 2002 Remastered Version,Mr Paganini,Ella Fitzgerald,2002-11-04,188653,35,0.527,0.739,0.527,0.243,0.0,0.559,-9.309,0.0917,99.323,4
-260,Oops - 2002 Remastered Version,Mr Paganini,Ella Fitzgerald,2002-11-04,189240,4,0.663,0.787,0.663,0.32,0.0,0.416,-8.076,0.0838,126.822,4
-261,Moonlight In Vermont,Body and Soul,Billie Holiday,1957-01-01,227613,26,0.52,0.882,0.52,0.0817,2.16e-05,0.111,-18.061,0.0438,107.998,4
-262,Moonlight In Vermont,Sarah Vaughan's Golden Hits,Sarah Vaughan,1958-07-07,196706,24,0.251,0.944,0.251,0.223,1.05e-06,0.123,-12.892,0.0292,73.918,4
-263,They Can't Take That Away From Me,Swingin' Easy,Sarah Vaughan,1957-03-01,164000,32,0.638,0.885,0.638,0.152,0.0,0.0932,-14.543,0.0628,126.079,4
-264,They Can't Take That Away From Me,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,250906,20,0.605,0.261,0.605,0.299,4.14e-06,0.0831,-12.388,0.0525,106.184,4
-265,Tenderly,An Introduction To Sarah Vaughan,Sarah Vaughan,1995,151373,52,0.209,0.903,0.209,0.125,0.0,0.136,-15.836,0.0412,69.563,5
-266,Tenderly,Solitude,Billie Holiday,1956-01-01,199186,45,0.473,0.967,0.473,0.123,0.000464,0.114,-13.164,0.0489,78.717,4
-267,Stars Fell On Alabama,Songs For Distingué Lovers,Billie Holiday,1957-01-01,271426,27,0.477,0.629,0.477,0.294,0.0,0.25,-12.86,0.083,91.177,4
-268,April In Paris,Sarah Vaughan,Sarah Vaughan,1954-12-01,374750,35,0.421,0.958,0.421,0.0873,7.28e-05,0.234,-16.897,0.0397,117.069,4
-269,April In Paris,All Or Nothing At All,Billie Holiday,1958-01-01,185586,61,0.496,0.927,0.496,0.127,7.07e-05,0.132,-14.211,0.0382,74.746,4
-270,Don't Be That Way,Take Love Easy,Ella Fitzgerald,1973,274933,16,0.522,0.979,0.522,0.0225,4.24e-06,0.118,-20.059,0.0328,69.469,4
-271,Makin' Whoopee,Work From Home with Ella Fitzgerald,Ella Fitzgerald,2020-04-24,226226,17,0.489,0.758,0.489,0.311,0.0,0.246,-10.516,0.0571,88.625,4
-272,Willow Weep For Me,Lady Sings The Blues,Billie Holiday,1956-01-01,186560,27,0.539,0.935,0.539,0.151,0.0,0.103,-12.906,0.0387,130.731,3
-273,Willow Weep for Me - Mono; Single Edit; 2017 Remaster,The Colpix Singles (Mono; 2017 Remaster),Nina Simone,2018-02-23,190146,14,0.266,0.835,0.266,0.263,2.64e-06,0.261,-14.739,0.0413,71.724,4
-274,Do You Know What It Means to Miss New Orleans,Jazzing 2,Sant Andreu Jazz Band,2011-05-05,314973,7,0.67,0.915,0.67,0.201,5.6e-05,0.797,-11.644,0.0403,101.397,4
-275,L.O.V.E.,Jazzing 2,Sant Andreu Jazz Band,2011-05-05,186786,11,0.757,0.831,0.757,0.304,1.9e-05,0.189,-10.118,0.17,108.377,4
-276,On the Sunny Side of the Street,Jazzing 2,Sant Andreu Jazz Band,2011-05-05,266200,5,0.604,0.763,0.604,0.29,0.0,0.779,-13.052,0.0699,133.206,4
-277,What A Little Moonlight Can Do,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,190400,21,0.581,0.735,0.581,0.556,0.0,0.204,-9.498,0.0958,134.799,4
-278,Speak Low,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,266333,21,0.623,0.876,0.623,0.236,6.3e-05,0.0776,-14.259,0.051,116.724,4
-279,I've Got My Love To Keep Me Warm,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,239146,21,0.534,0.771,0.534,0.398,7.86e-06,0.301,-10.382,0.0807,154.19,4
-280,Gimme A Pigfoot And A Bottle Of Beer - Single Version,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,164973,20,0.698,0.844,0.698,0.163,0.0,0.235,-13.522,0.0643,97.632,4
-281,April In Paris,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,182600,21,0.425,0.882,0.425,0.0751,3.89e-06,0.206,-18.798,0.0372,71.682,4
-282,Comes Love - Master Take 4,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,239960,19,0.715,0.554,0.715,0.208,6.86e-06,0.108,-14.211,0.0434,106.148,4
-283,Embraceable You,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,195386,19,0.331,0.982,0.331,0.0426,0.00201,0.0681,-17.5,0.0459,71.447,4
-284,"Gee, Baby, Ain't I Good To You? - Live At Carnegie Hall,1946",Work From Home with Billie Holiday,Billie Holiday,2020-04-03,140533,18,0.447,0.964,0.447,0.199,0.0,0.953,-18.57,0.0596,137.693,4
-285,Stars Fell On Alabama,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,269466,18,0.545,0.506,0.545,0.275,1.42e-06,0.407,-13.223,0.0753,90.196,4
-286,On The Sunny Side Of The Street,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,181653,18,0.714,0.913,0.714,0.089,5.79e-06,0.088,-14.349,0.0634,118.372,3
-287,Autumn In New York,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,232506,23,0.441,0.958,0.441,0.06,0.0,0.0728,-20.203,0.0439,136.562,4
-288,Blue Moon,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,208666,23,0.657,0.987,0.657,0.172,0.0332,0.138,-14.647,0.0607,125.313,4
-289,Love Is Here To Stay,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,221706,22,0.626,0.689,0.626,0.246,0.00014,0.251,-13.108,0.0509,125.159,3
-290,On The Sunny Side Of The Street,Ella And Basie,Ella Fitzgerald,1963-09,184933,29,0.644,0.851,0.644,0.202,0.0,0.106,-14.264,0.0417,102.631,4
-291,Do You Know What It Means to Miss New Orleans - Live,"Jazzing 1 (Live at Casa Fuster, Barcelona)",Joan Chamorro,2009-09-23,191106,18,0.596,0.933,0.596,0.255,7.74e-06,0.774,-9.222,0.0302,96.698,4
-292,Bei Mir Bist Du Schoen (12-21-37),Best of - 50 Tracks,Ella Fitzgerald,1955,188266,22,0.63,0.93,0.63,0.233,0.0,0.406,-10.732,0.284,169.865,4
-293,Frim Fram Sauce,All For You (A Dedication To The Nat King Cole Trio),Diana Krall,1996-03-12,300893,36,0.778,0.928,0.778,0.226,0.000161,0.0822,-14.612,0.0538,117.103,4
-294,Completely,The Shocking Miss Emerald (Deluxe Edition),Caro Emerald,2014-05-27,149440,0,0.823,0.539,0.823,0.555,5.44e-05,0.0965,-7.602,0.0408,128.014,4
-295,Stealin' Apples,BeBop Jazz Essentials,Various Artists,2007-12-18,189960,0,0.697,0.95,0.697,0.229,0.0623,0.274,-12.626,0.0604,106.414,4
-296,The Talk Of The Town,BeBop Jazz Essentials,Various Artists,2007-12-18,174200,0,0.542,0.992,0.542,0.285,0.381,0.156,-10.46,0.0481,76.678,3
-297,Something For You,BeBop Jazz Essentials,Various Artists,2007-12-18,150226,0,0.575,0.91,0.575,0.8,0.389,0.381,-6.793,0.106,117.284,4
-298,Ah-Leu-Cha,BeBop Jazz Essentials,Various Artists,2007-12-18,177600,0,0.5,0.938,0.5,0.394,0.571,0.184,-8.312,0.0573,87.333,4
-299,The Chase,BeBop Jazz Essentials,Various Artists,2007-12-18,412346,0,0.689,0.993,0.689,0.253,0.914,0.171,-11.674,0.079,113.717,4
-300,What is This Thing Called Love,BeBop Jazz Essentials,Various Artists,2007-12-18,159973,0,0.613,0.97,0.613,0.344,0.234,0.25,-8.833,0.0511,70.26,4
-301,I'll Keep Loving You,BeBop Jazz Essentials,Various Artists,2007-12-18,162426,0,0.51,0.996,0.51,0.19,0.921,0.138,-17.698,0.0445,73.938,3
-302,Israel,BeBop Jazz Essentials,Various Artists,2007-12-18,138893,0,0.362,0.756,0.362,0.45,5.26e-05,0.0973,-7.564,0.043,173.512,4
-303,Bone-O-Logy,BeBop Jazz Essentials,Various Artists,2007-12-18,182933,0,0.612,0.988,0.612,0.185,0.841,0.187,-14.366,0.0471,137.853,3
-304,Professor Bop,BeBop Jazz Essentials,Various Artists,2007-12-18,148040,0,0.53,0.957,0.53,0.197,0.00397,0.125,-16.905,0.177,197.498,4
-305,Euphoria,BeBop Jazz Essentials,Various Artists,2007-12-18,395080,0,0.501,0.717,0.501,0.506,0.00778,0.561,-11.346,0.0827,115.464,4
-306,Nostalgia,BeBop Jazz Essentials,Various Artists,2007-12-18,165706,0,0.564,0.896,0.564,0.271,0.0146,0.123,-10.111,0.13,80.853,4
-307,"All Night, All Frantic",BeBop Jazz Essentials,Various Artists,2007-12-18,158466,0,0.699,0.982,0.699,0.29,0.385,0.144,-13.826,0.046,111.911,3
-308,A Night In Tunisia,BeBop Jazz Essentials,Various Artists,2007-12-18,185640,0,0.436,0.881,0.436,0.349,0.788,0.0965,-10.32,0.0708,181.307,5
-309,Confirmation,BeBop Jazz Essentials,Various Artists,2007-12-18,337333,0,0.471,0.692,0.471,0.45,0.00204,0.685,-10.439,0.146,166.568,4
-310,Dodo's Bounce,BeBop Jazz Essentials,Various Artists,2007-12-18,102960,0,0.532,0.971,0.532,0.334,0.91,0.0929,-11.543,0.0465,93.907,4
-311,Good Bait,BeBop Jazz Essentials,Various Artists,2007-12-18,180960,0,0.537,0.688,0.537,0.461,0.243,0.0535,-8.615,0.0367,131.075,4
-312,Opus Be Bop,BeBop Jazz Essentials,Various Artists,2007-12-18,154520,0,0.431,0.684,0.431,0.747,0.823,0.33,-7.163,0.144,144.543,4
-313,Confirmation,BeBop Jazz Essentials,Various Artists,2007-12-18,158960,0,0.628,0.966,0.628,0.388,0.79,0.129,-10.795,0.0435,84.217,4
-314,Parker's Mood,BeBop Jazz Essentials,Various Artists,2007-12-18,185573,0,0.632,0.991,0.632,0.158,0.879,0.121,-10.074,0.0477,77.387,4
-315,Yardbird Suite,BeBop Jazz Essentials,Various Artists,2007-12-18,201680,0,0.616,0.702,0.616,0.423,0.212,0.101,-10.886,0.0833,84.44,4
-316,Reverse The Charges,BeBop Jazz Essentials,Various Artists,2007-12-18,175573,0,0.573,0.991,0.573,0.268,0.727,0.131,-10.794,0.0635,140.385,4
-317,In Walked Bud,BeBop Jazz Essentials,Various Artists,2007-12-18,176640,0,0.38,0.862,0.38,0.585,0.0262,0.197,-8.714,0.0504,183.285,3
-318,Twisted,BeBop Jazz Essentials,Various Artists,2007-12-18,189533,0,0.416,0.636,0.416,0.449,0.00797,0.0956,-9.975,0.0563,166.512,4
-319,Casbah,BeBop Jazz Essentials,Various Artists,2007-12-18,181400,0,0.485,0.715,0.485,0.453,0.385,0.102,-11.908,0.137,156.553,4
-320,Our Delight,BeBop Jazz Essentials,Various Artists,2007-12-18,150706,0,0.461,0.874,0.461,0.528,0.949,0.19,-6.197,0.0558,183.179,4
-321,Blue Brew,BeBop Jazz Essentials,Various Artists,2007-12-18,176080,0,0.588,0.991,0.588,0.189,0.929,0.111,-13.081,0.0518,85.491,4
-322,Webb City,BeBop Jazz Essentials,Various Artists,2007-12-18,338586,0,0.605,0.834,0.605,0.426,0.76,0.249,-11.686,0.179,124.766,4
-323,How High The Moon,BeBop Jazz Essentials,Various Artists,2007-12-18,195346,0,0.762,0.818,0.762,0.343,0.0,0.136,-8.873,0.126,112.064,4
-324,Jam For Boppers,BeBop Jazz Essentials,Various Artists,2007-12-18,312706,0,0.426,0.8,0.426,0.608,0.0106,0.223,-12.557,0.0898,119.986,4
-325,Four Brothers,BeBop Jazz Essentials,Various Artists,2007-12-18,197760,0,0.571,0.567,0.571,0.518,0.0,0.328,-8.615,0.0369,109.581,4
-326,Ow!,BeBop Jazz Essentials,Various Artists,2007-12-18,178293,0,0.419,0.922,0.419,0.339,0.875,0.112,-11.992,0.0612,170.105,4
-327,Cu-Ba,BeBop Jazz Essentials,Various Artists,2007-12-18,156186,0,0.672,0.94,0.672,0.661,0.778,0.109,-13.559,0.0471,128.558,4
-328,Move,BeBop Jazz Essentials,Various Artists,2007-12-18,333880,0,0.43,0.138,0.43,0.595,0.796,0.401,-12.602,0.156,79.65,4
-329,Oop-Pop-A-Da,BeBop Jazz Essentials,Various Artists,2007-12-18,172973,0,0.687,0.96,0.687,0.424,2.79e-05,0.103,-12.129,0.0372,93.635,4
-330,Donna Lee,BeBop Jazz Essentials,Various Artists,2007-12-18,185426,0,0.572,0.756,0.572,0.504,7.33e-05,0.0893,-8.309,0.0675,118.112,3
-331,A Night In Tunisia,BeBop Jazz Essentials,Various Artists,2007-12-18,187320,0,0.407,0.988,0.407,0.28,0.954,0.181,-14.412,0.0635,154.656,4
-332,Bluebird,BeBop Jazz Essentials,Various Artists,2007-12-18,176546,0,0.689,0.952,0.689,0.202,0.765,0.221,-12.965,0.0902,122.296,4
-333,The Duel,BeBop Jazz Essentials,Various Artists,2007-12-18,331733,0,0.575,0.96,0.575,0.551,0.918,0.203,-8.578,0.28,138.854,4
-334,The Thin Man,BeBop Jazz Essentials,Various Artists,2007-12-18,180440,0,0.554,0.916,0.554,0.541,0.00194,0.161,-11.569,0.0323,100.957,4
-335,Hot House,BeBop Jazz Essentials,Various Artists,2007-12-18,186920,0,0.745,0.99,0.745,0.358,0.839,0.15,-10.546,0.0728,86.516,4
-336,Milestones,BeBop Jazz Essentials,Various Artists,2007-12-18,167213,0,0.522,0.974,0.522,0.253,0.83,0.122,-12.956,0.134,80.498,3
-337,Scrapple From The Apple,BeBop Jazz Essentials,Various Artists,2007-12-18,179546,0,0.593,0.816,0.593,0.409,3.05e-05,0.177,-12.699,0.0402,98.375,4
-338,Woodchopper's Holiday,BeBop Jazz Essentials,Various Artists,2007-12-18,175880,0,0.717,0.988,0.717,0.267,0.934,0.107,-14.231,0.0649,116.506,4
-339,Mad Lad,BeBop Jazz Essentials,Various Artists,2007-12-18,154133,0,0.503,0.502,0.503,0.608,0.797,0.106,-10.544,0.132,138.863,4
-340,Crazy Chords,BeBop Jazz Essentials,Various Artists,2007-12-18,156640,0,0.43,0.746,0.43,0.478,9.94e-05,0.103,-11.838,0.0295,130.672,4
-341,Opus X,BeBop Jazz Essentials,Various Artists,2007-12-18,150906,0,0.621,0.885,0.621,0.446,0.415,0.35,-8.662,0.0531,119.532,4
-342,That's Right,BeBop Jazz Essentials,Various Artists,2007-12-18,184960,0,0.492,0.625,0.492,0.658,0.496,0.183,-8.083,0.179,72.004,4
-343,Dexter's Mood,BeBop Jazz Essentials,Various Artists,2007-12-18,174306,0,0.661,0.91,0.661,0.231,0.803,0.112,-10.094,0.0562,127.109,3
-344,Manteca,BeBop Jazz Essentials,Various Artists,2007-12-18,186000,0,0.425,0.787,0.425,0.645,0.937,0.108,-8.711,0.143,175.731,4
-345,Foo's,BeBop Jazz Essentials,Various Artists,2007-12-18,172080,0,0.665,0.775,0.665,0.24,0.919,0.157,-14.507,0.166,101.42,4
-346,Smooth Sailing,BeBop Jazz Essentials,Various Artists,2007-12-18,159666,0,0.605,0.818,0.605,0.393,0.491,0.143,-10.833,0.0406,125.104,4
-347,Tiny's Tempo,BeBop Jazz Essentials,Various Artists,2007-12-18,175613,0,0.712,0.977,0.712,0.409,0.91,0.425,-12.933,0.0924,105.872,4
-348,Loverman,BeBop Jazz Essentials,Various Artists,2007-12-18,202093,0,0.529,0.993,0.529,0.142,9.42e-05,0.136,-11.287,0.0376,112.591,4
-349,Victory Ball,BeBop Jazz Essentials,Various Artists,2007-12-18,254626,0,0.633,0.636,0.633,0.506,0.418,0.312,-11.976,0.059,122.5,4
-350,Woody'n You,BeBop Jazz Essentials,Various Artists,2007-12-18,175840,0,0.449,0.981,0.449,0.586,0.895,0.106,-8.927,0.0398,102.101,4
-351,The Squirrel,BeBop Jazz Essentials,Various Artists,2007-12-18,180146,0,0.425,0.831,0.425,0.495,0.00741,0.0811,-8.899,0.0854,181.516,4
-352,Double Talk,BeBop Jazz Essentials,Various Artists,2007-12-18,335000,0,0.537,0.776,0.537,0.581,0.516,0.0945,-8.164,0.0397,114.33,4
-353,Undercurrent Blues,BeBop Jazz Essentials,Various Artists,2007-12-18,188880,0,0.508,0.805,0.508,0.485,0.074,0.205,-10.927,0.0567,96.792,4
-354,Ornithology,BeBop Jazz Essentials,Various Artists,2007-12-18,181680,0,0.647,0.7,0.647,0.441,0.0539,0.177,-10.586,0.0598,110.851,4
-355,The Skunk,BeBop Jazz Essentials,Various Artists,2007-12-18,178013,0,0.462,0.902,0.462,0.393,0.349,0.0714,-8.453,0.038,166.972,3
-356,Epistrophy,BeBop Jazz Essentials,Various Artists,2007-12-18,187053,0,0.612,0.942,0.612,0.357,0.000145,0.142,-9.507,0.0354,134.483,4
-357,Cool Breeze,BeBop Jazz Essentials,Various Artists,2007-12-18,166373,0,0.439,0.278,0.439,0.614,0.103,0.218,-9.254,0.0552,101.398,4
-358,Tin Tin Deo,BeBop Jazz Essentials,Various Artists,2007-12-18,168000,0,0.635,0.951,0.635,0.457,0.151,0.262,-13.85,0.111,153.671,4
-359,Dexter's - Riff,BeBop Jazz Essentials,Various Artists,2007-12-18,181546,0,0.593,0.769,0.593,0.277,0.844,0.13,-12.502,0.0655,131.57,3
-360,Things To Come,BeBop Jazz Essentials,Various Artists,2007-12-18,164640,0,0.432,0.901,0.432,0.599,0.000156,0.363,-10.051,0.122,118.671,5
-361,In The Middle,BeBop Jazz Essentials,Various Artists,2007-12-18,192760,0,0.419,0.99,0.419,0.513,0.87,0.231,-10.057,0.197,182.058,4
-362,Wallington's Godchild,BeBop Jazz Essentials,Various Artists,2007-12-18,173733,0,0.471,0.901,0.471,0.578,0.00893,0.117,-8.678,0.0381,96.723,1
-363,Wail,BeBop Jazz Essentials,Various Artists,2007-12-18,164386,0,0.453,0.861,0.453,0.575,0.815,0.1,-9.994,0.0785,102.511,4
-364,Tempus Fugit,BeBop Jazz Essentials,Various Artists,2007-12-18,148413,0,0.421,0.957,0.421,0.456,0.952,0.139,-15.774,0.0306,78.733,4
-365,Embraceable You,BeBop Jazz Essentials,Various Artists,2007-12-18,204893,0,0.484,0.906,0.484,0.253,0.311,0.104,-11.571,0.0407,67.82,4
-366,The Moose,BeBop Jazz Essentials,Various Artists,2007-12-18,155253,0,0.64,0.859,0.64,0.324,0.667,0.149,-13.197,0.0394,144.48,4
-367,If You Could See Me Now,BeBop Jazz Essentials,Various Artists,2007-12-18,170546,0,0.295,0.817,0.295,0.156,0.412,0.165,-13.362,0.0333,84.956,4
-368,Disorder At The Border,BeBop Jazz Essentials,Various Artists,2007-12-18,172880,0,0.533,0.991,0.533,0.366,0.834,0.123,-10.696,0.0504,166.175,4
-369,How High The Moon,BeBop Jazz Essentials,Various Artists,2007-12-18,151240,0,0.388,0.408,0.388,0.465,0.0245,0.0401,-11.325,0.145,195.675,4
-370,Hallelujah,BeBop Jazz Essentials,Various Artists,2007-12-18,238920,0,0.68,0.9,0.68,0.403,0.421,0.2,-8.359,0.0528,148.742,4
-371,Bop Alley,BeBop Jazz Essentials,Various Artists,2007-12-18,187813,0,0.468,0.849,0.468,0.603,0.00312,0.0807,-10.849,0.0427,138.176,3
-372,Koko,BeBop Jazz Essentials,Various Artists,2007-12-18,176840,0,0.549,0.93,0.549,0.512,0.196,0.0771,-8.301,0.036,148.721,4
-373,Bebop In Pastel,BeBop Jazz Essentials,Various Artists,2007-12-18,177706,0,0.505,0.986,0.505,0.375,0.817,0.112,-9.883,0.0449,180.997,4
-374,Dizzy Atmosphere,BeBop Jazz Essentials,Various Artists,2007-12-18,166746,0,0.529,0.988,0.529,0.482,0.781,0.129,-9.876,0.0707,132.319,4
-375,Groovin' High,BeBop Jazz Essentials,Various Artists,2007-12-18,158746,0,0.557,0.97,0.557,0.439,0.933,0.149,-12.603,0.0665,96.914,4
-376,Jay Bird,BeBop Jazz Essentials,Various Artists,2007-12-18,181133,0,0.7,0.991,0.7,0.394,0.919,0.144,-13.066,0.0545,114.524,4
-377,Crossing The Channel,BeBop Jazz Essentials,Various Artists,2007-12-18,171626,0,0.352,0.879,0.352,0.727,0.00358,0.263,-9.103,0.0539,147.076,4
-378,Indiana,BeBop Jazz Essentials,Various Artists,2007-12-18,158906,0,0.382,0.984,0.382,0.404,0.889,0.129,-17.359,0.0381,169.015,4
-379,Ruby My Dear,BeBop Jazz Essentials,Various Artists,2007-12-18,188840,0,0.589,0.976,0.589,0.216,0.557,0.128,-15.355,0.0447,72.858,4
-380,Focus,BeBop Jazz Essentials,Various Artists,2007-12-18,182026,0,0.46,0.961,0.46,0.235,0.874,0.164,-14.289,0.0345,174.745,4
-381,Disc Jockey Jump,BeBop Jazz Essentials,Various Artists,2007-12-18,190840,0,0.679,0.916,0.679,0.541,0.545,0.125,-8.581,0.17,110.113,4
-382,Blue Lou,BeBop Jazz Essentials,Various Artists,2007-12-18,181813,0,0.648,0.685,0.648,0.467,0.116,0.232,-11.439,0.0852,110.935,4
-383,Jumpin' There,BeBop Jazz Essentials,Various Artists,2007-12-18,188400,0,0.432,0.881,0.432,0.437,0.275,0.112,-10.512,0.0933,156.118,4
-384,All God's Children Got Rhythm,BeBop Jazz Essentials,Various Artists,2007-12-18,169506,0,0.574,0.744,0.574,0.397,0.377,0.0697,-10.485,0.0985,146.367,4
-385,Ool-Ya-Koo,BeBop Jazz Essentials,Various Artists,2007-12-18,171080,0,0.734,0.948,0.734,0.716,0.000394,0.465,-10.204,0.4,115.39,4
-386,The Man I Love,BeBop Jazz Essentials,Various Artists,2007-12-18,203013,0,0.582,0.825,0.582,0.197,0.824,0.0724,-12.686,0.0688,62.152,4
-387,Thrivin' On A Riff,BeBop Jazz Essentials,Various Artists,2007-12-18,185653,0,0.599,0.819,0.599,0.366,0.00773,0.111,-11.618,0.0645,118.106,4
-388,Wee Dot,BeBop Jazz Essentials,Various Artists,2007-12-18,149440,0,0.5,0.884,0.5,0.36,0.777,0.102,-9.43,0.0456,161.145,4
-389,Bebop Spoken Here,BeBop Jazz Essentials,Various Artists,2007-12-18,168800,0,0.532,0.893,0.532,0.321,1.31e-06,0.225,-9.31,0.137,151.518,4
-390,Second Balcony Jump,BeBop Jazz Essentials,Various Artists,2007-12-18,174893,0,0.486,0.869,0.486,0.464,0.889,0.0841,-8.248,0.165,85.778,4
-391,Move,BeBop Jazz Essentials,Various Artists,2007-12-18,155426,0,0.503,0.797,0.503,0.415,0.0156,0.137,-12.2,0.093,134.949,4
-392,Okiedoke,Bird: The Complete Charlie Parker On Verve,Charlie Parker,1988-01-01,181866,0,0.59,0.878,0.59,0.713,0.802,0.267,-8.328,0.0454,106.582,4
-393,Ornithology - Live - Storyville,100 Best Of Blue Note,Various Artists,2010,265853,0,0.601,0.833,0.601,0.407,0.055,0.133,-13.615,0.0532,116.426,4
-394,Salt Peanuts,The Quintet Live in Toronto,Various Artists,2012-01-17,463440,0,0.474,0.31,0.474,0.435,0.652,0.31,-17.207,0.0457,153.981,3
-395,The Hunt (Rocks 'n Shoals),Bebop Live Concerts Vol. 5 (1947),Charlie Shavers,2008,1088279,0,0.565,0.937,0.565,0.673,0.757,0.819,-10.797,0.0891,117.393,4
-396,Crow's Nest,Live in 'Frisco,Stan Getz,2012-01-16,485026,0,0.423,0.963,0.423,0.419,0.0464,0.1,-13.89,0.0449,196.126,4
-397,Big Bear,Live in 'Frisco,Stan Getz,2012-01-16,265786,0,0.619,0.978,0.619,0.336,0.272,0.111,-14.833,0.0321,104.156,4
-398,How Deep Is the Ocean,Moonlight in Vermont,Stan Getz,2012-04-24,171015,0,0.44,0.973,0.44,0.169,0.00327,0.142,-15.705,0.0454,174.178,4
-399,Minor Blues,Moonlight in Vermont,Stan Getz,2012-04-24,422418,0,0.507,0.97,0.507,0.165,0.86,0.109,-16.25,0.0446,144.719,4
-400,Fat Boy Parts 1 & 2,Bebop: Volume 1,Various Artists,1997,344405,0,0.596,0.995,0.596,0.232,0.905,0.638,-14.647,0.0712,103.399,4
-401,Manteca,Bebop: Volume 1,Various Artists,1997,186893,0,0.553,0.982,0.553,0.488,0.891,0.0991,-15.901,0.0812,87.727,4
-402,Donna Lee,Bebop: Volume 1,Various Artists,1997,156640,0,0.693,0.985,0.693,0.389,0.842,0.581,-11.764,0.0584,112.599,3
-403,The Chase,Bebop: Volume 1,Various Artists,1997,409653,0,0.631,0.994,0.631,0.26,0.911,0.111,-11.41,0.115,114.423,4
-404,Royal Roost,Bebop: Volume 1,Various Artists,1997,176133,0,0.733,0.994,0.733,0.334,0.92,0.109,-11.516,0.0473,104.049,4
-405,Four Brothers,Bebop: Volume 1,Various Artists,1997,197733,0,0.588,0.968,0.588,0.592,0.418,0.44,-7.742,0.0433,109.69,4
-406,Yardbird Suite,Bebop: Volume 1,Various Artists,1997,200106,0,0.503,0.971,0.503,0.391,0.808,0.19,-11.07,0.215,169.592,4
-407,52nd Street Theme,Bebop: Volume 1,Various Artists,1997,168693,0,0.742,0.99,0.742,0.483,0.911,0.384,-8.421,0.0379,109.413,4
-408,Half Step Down Please,Bebop: Volume 1,Various Artists,1997,184706,0,0.674,0.968,0.674,0.496,0.928,0.0628,-9.041,0.0398,94.565,4
-409,Allen's Alley,Bebop: Volume 1,Various Artists,1997,183226,0,0.655,0.994,0.655,0.371,0.829,0.174,-10.662,0.0563,131.695,4
-410,Off Minor,Bebop: Volume 1,Various Artists,1997,137266,0,0.586,0.994,0.586,0.281,0.884,0.154,-17.338,0.0299,97.679,4
-411,The Street Beat,Bebop: Volume 1,Various Artists,1997,153213,0,0.7,0.936,0.7,0.519,0.892,0.24,-9.733,0.0559,113.523,4
-412,'Round Midnight,Bebop: Volume 1,Various Artists,1997,191893,0,0.555,0.992,0.555,0.191,0.89,0.115,-15.48,0.0457,120.144,4
-413,Salt Peanuts,Bebop: Volume 1,Various Artists,1997,194986,0,0.606,0.946,0.606,0.455,0.527,0.304,-7.834,0.135,100.975,3
-414,Night in Tunisia,Bebop: Volume 1,Various Artists,1997,184880,0,0.489,0.96,0.489,0.428,0.516,0.102,-9.117,0.0502,175.626,4
-415,Milestones,Bebop: Volume 1,Various Artists,1997,158426,0,0.538,0.992,0.538,0.18,0.604,0.139,-14.85,0.0981,160.894,3
-416,Epistrophy,Bebop: Volume 1,Various Artists,1997,188613,0,0.583,0.984,0.583,0.346,0.0198,0.149,-9.523,0.0391,133.593,4
-417,Bud's Bubble,Bebop: Volume 1,Various Artists,1997,150146,0,0.412,0.99,0.412,0.431,0.915,0.258,-14.589,0.0348,142.453,4
-418,Now's the Time,Bebop: Volume 1,Various Artists,1997,198866,0,0.645,0.989,0.645,0.215,0.933,0.131,-9.841,0.0426,127.351,4
-419,Lester's Be Bop,Bebop: Volume 1,Various Artists,1997,194546,0,0.591,0.716,0.591,0.324,0.4,0.0689,-13.034,0.065,148.935,4
-420,January V,M'Boom,Max Roach,1980,203600,20,0.368,0.856,0.368,0.163,0.00381,0.116,-17.181,0.0437,169.173,5
-421,Like Young (Perry Como w/Michael Ayres),The Beat Generation - Music & Poetry,Various Artists,2010-09-01,173000,0,0.595,0.847,0.595,0.227,0.0,0.366,-12.603,0.049,110.015,4
-422,Scrapple From The Apple,The Beat Generation - Music & Poetry,Various Artists,2010-09-01,173400,0,0.643,0.954,0.643,0.456,0.804,0.167,-9.141,0.0403,99.982,4
-423,Bebopper,The Beat Generation - Music & Poetry,Various Artists,2010-09-01,164466,0,0.607,0.935,0.607,0.141,0.0,0.148,-15.438,0.0599,115.028,4
-424,Yip Roc Heresy,The Beat Generation - Music & Poetry,Various Artists,2010-09-01,148973,0,0.697,0.593,0.697,0.52,0.0,0.185,-11.889,0.246,79.741,4
-425,Nutty,The Beat Generation - Music & Poetry,Various Artists,2010-09-01,397600,0,0.542,0.486,0.542,0.367,7.25e-06,0.177,-10.243,0.0351,139.063,4
-426,Vout Oreenee,Vout For Voutoreenees,Slim Gaillard,2000-01-01,185266,0,0.806,0.953,0.806,0.0396,8.15e-05,0.0531,-16.602,0.0628,108.9,4
-427,Boppin' a Riff Part 1 and Part 2 (1946),New York City 46 47 48 (Remastered),Fats Navarro,2012-10-04,329082,0,0.594,0.972,0.594,0.504,0.447,0.132,-4.09,0.0756,94.146,4
-428,Fat Boy Part 1 and Part 2 (1946),New York City 46 47 48 (Remastered),Fats Navarro,2012-10-04,340004,0,0.569,0.924,0.569,0.523,0.0929,0.559,-3.592,0.0413,106.904,4
-429,Everything's Cool Part 1 and 2 (1946),New York City 46 47 48 (Remastered),Fats Navarro,2012-10-04,346930,0,0.55,0.937,0.55,0.582,0.0312,0.0862,-3.236,0.0574,88.253,4
-430,Fat Girl (1946),New York City 46 47 48 (Remastered),Fats Navarro,2012-10-04,139272,0,0.656,0.857,0.656,0.67,2.67e-05,0.672,-2.031,0.0802,98.482,4
-431,All God's Chillun Got Rhythm,"Sonny Stitt, Bud Powell, J.J. Johnson",Sonny Stitt,1982,177640,0,0.458,0.797,0.458,0.559,0.0714,0.463,-9.826,0.0357,138.632,4
-432,People Will Say We're in Love,Tranquility,Lee Konitz,2013-05-25,295880,7,0.621,0.945,0.621,0.132,0.305,0.129,-17.852,0.0536,108.46,4
-433,Hi Beck,Jazz at Storyville,Lee Konitz,2013-05-25,511706,5,0.563,0.9,0.563,0.401,0.127,0.402,-11.439,0.126,122.871,4
-434,Profression,"Subconscious Lee, Konitz Meets Mulligan, the Real Lee Konitz : Tranquility",Lee Konitz,2012-06-30,182256,6,0.68,0.973,0.68,0.337,0.00466,0.341,-15.013,0.0402,118.003,4
-435,Progression,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,178703,0,0.653,0.744,0.653,0.599,0.000435,0.224,-7.644,0.035,118.508,4
-436,Tautology,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,164612,0,0.624,0.792,0.624,0.444,0.0103,0.303,-7.891,0.0382,117.493,4
-437,Retrospection,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,186732,0,0.488,0.991,0.488,0.296,0.634,0.312,-10.833,0.0336,127.925,4
-438,Subconscius Lee,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,167879,0,0.678,0.859,0.678,0.473,0.00194,0.185,-9.798,0.0442,123.419,3
-439,Judy,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,172933,0,0.478,0.982,0.478,0.258,0.8,0.156,-14.109,0.0368,141.588,4
-440,Wow,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,200599,0,0.554,0.89,0.554,0.44,0.016,0.183,-7.649,0.0389,87.219,4
-441,Crosscurrent,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,169706,0,0.665,0.802,0.665,0.298,0.0718,0.574,-10.132,0.053,128.124,4
-442,Yesterdays,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,167853,0,0.343,0.933,0.343,0.356,0.751,0.147,-11.065,0.0298,144.727,4
-443,Marionette,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,182693,0,0.386,0.797,0.386,0.268,0.00202,0.294,-11.971,0.0406,172.658,4
-444,Sax Of A Kind,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,179599,0,0.6,0.789,0.6,0.297,1.57e-05,0.354,-10.632,0.0416,129.179,3
-445,Intuition,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,146533,0,0.579,0.965,0.579,0.246,0.68,0.137,-10.754,0.0526,122.295,4
-446,Digression,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,181573,0,0.402,0.961,0.402,0.212,0.912,0.101,-12.297,0.0305,108.011,4
-447,Ju-Ju,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,134546,0,0.525,0.91,0.525,0.549,0.0202,0.313,-8.738,0.0336,127.474,4
-448,Pastime,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,218453,0,0.32,0.917,0.32,0.372,0.019,0.241,-9.941,0.0312,83.458,4
-449,Line Up,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,211546,0,0.434,0.848,0.434,0.549,0.0134,0.168,-9.263,0.0301,131.109,3
-450,Requiem,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,290826,0,0.507,0.994,0.507,0.437,0.924,0.116,-10.339,0.0732,113.016,4
-451,Turkish Mambo,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,218119,0,0.675,0.983,0.675,0.442,0.911,0.0922,-8.414,0.0306,153.751,5
-452,East Thirty-Second,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,270413,0,0.468,0.853,0.468,0.603,0.11,0.321,-8.98,0.0293,129.262,4
-453,Out On A Limb,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,160890,0,0.484,0.991,0.484,0.286,0.897,0.122,-14.298,0.0333,157.623,3
-454,I Can't Get Started - Sessionversion 1,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,174893,0,0.491,0.994,0.491,0.303,0.924,0.107,-14.054,0.0339,142.184,4
-455,I Surrender Dear,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,186240,0,0.464,0.989,0.464,0.28,0.93,0.108,-16.488,0.033,138.702,4
-456,Interlude,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,185720,0,0.414,0.992,0.414,0.281,0.913,0.103,-14.36,0.0401,184.089,4
-457,I Can't Get Started - Sessionversion 2,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,173600,0,0.46,0.995,0.46,0.309,0.939,0.129,-14.572,0.0332,152.135,4
-458,Night In Tunisia,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,141186,0,0.499,0.994,0.499,0.183,0.921,0.108,-16.53,0.0555,182.867,4
-459,Blue Boy,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,168920,0,0.714,0.986,0.714,0.231,0.86,0.112,-14.508,0.0363,98.802,4
-460,Atonement,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,146746,0,0.557,0.995,0.557,0.194,0.905,0.105,-15.055,0.0342,74.512,4
-461,Coolin’ Off With Ulanov,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,168706,0,0.508,0.99,0.508,0.271,0.845,0.128,-13.371,0.0382,167.582,4
-462,Supersonic,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,199133,0,0.38,0.99,0.38,0.398,0.949,0.12,-9.36,0.0333,165.929,4
-463,On A Planet,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,197839,0,0.376,0.994,0.376,0.319,0.882,0.113,-10.749,0.0408,199.425,3
-464,Air Pocket,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,164946,0,0.604,0.993,0.604,0.419,0.88,0.178,-8.922,0.0323,122.501,4
-465,Celestia,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,174453,0,0.468,0.995,0.468,0.336,0.908,0.132,-10.675,0.0336,141.429,4
-466,Freedom,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,217880,0,0.545,0.974,0.545,0.336,0.908,0.115,-14.339,0.0333,97.556,4
-467,Parallel,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,147920,0,0.527,0.993,0.527,0.389,0.856,0.123,-10.716,0.037,110.084,4
-468,Apellation,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,113626,0,0.48,0.995,0.48,0.37,0.898,0.11,-12.732,0.0343,140.574,4
-469,Abstraction,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,159026,0,0.586,0.996,0.586,0.266,0.949,0.112,-15.068,0.0396,133.126,4
-470,Palimpsest,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,157493,0,0.625,0.996,0.625,0.229,0.876,0.105,-15.087,0.0609,115.054,4
-471,Dissonance,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,157213,0,0.435,0.99,0.435,0.355,0.857,0.314,-14.178,0.0381,204.652,4
-472,Through These Portals,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,135760,0,0.532,0.987,0.532,0.459,0.577,0.355,-9.605,0.0377,92.832,4
-473,Speculation,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,143999,0,0.452,0.994,0.452,0.392,0.929,0.343,-10.729,0.0336,71.315,4
-474,New Sound,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,136186,0,0.626,0.984,0.626,0.483,0.859,0.226,-8.195,0.0387,87.977,4
-475,Resemblance,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,141586,0,0.448,0.989,0.448,0.383,0.941,0.186,-11.132,0.0527,177.211,4
-476,Subconscious Lee,From Newport to Nice,Lee Konitz,2013-02-17,327209,3,0.564,0.295,0.564,0.355,3.07e-05,0.248,-13.737,0.0616,143.756,4
-477,Bopland (Byas-a-Drink) - Live,"Bopland: The Legendary Elks Club Concert, L.A. 1947",Dexter Gordon,2010-01-27,1209893,0,0.454,0.693,0.454,0.714,0.0435,0.709,-7.536,0.101,77.991,4
-478,Sugar Hips,Wardell Gray Vol. 2 (1948-49),Wardell Gray,2008,171906,5,0.59,0.939,0.59,0.2,0.285,0.131,-12.765,0.0445,139.941,4
-479,Light Gray,Wardell Gray Vol. 2 (1948-49),Wardell Gray,2008,154703,5,0.609,0.975,0.609,0.538,0.639,0.108,-8.704,0.0334,136.733,4
-480,Blue 'N' Boogie,Be-Bop Classics,Various Artists,2009-11-02,175800,0,0.644,0.894,0.644,0.418,0.0606,0.0941,-13.224,0.0527,100.843,4
-481,Groovin' High,Be-Bop Classics,Various Artists,2009-11-02,160066,0,0.716,0.941,0.716,0.276,0.0258,0.125,-11.417,0.0398,95.339,4
-482,The Street Beat,Be-Bop Classics,Various Artists,2009-11-02,151133,0,0.651,0.692,0.651,0.449,0.651,0.242,-13.257,0.0715,113.281,4
-483,Ko Ko,Be-Bop Classics,Various Artists,2009-11-02,174466,0,0.526,0.926,0.526,0.426,0.0581,0.192,-11.153,0.0412,149.576,4
-484,Anthropology,Be-Bop Classics,Various Artists,2009-11-02,160666,0,0.727,0.707,0.727,0.507,0.113,0.0555,-11.162,0.0457,121.348,4
-485,Night In Tunisia,Be-Bop Classics,Various Artists,2009-11-02,187866,0,0.508,0.908,0.508,0.355,0.0132,0.116,-14.303,0.0982,170.4,4
-486,Ornithology,Be-Bop Classics,Various Artists,2009-11-02,180933,0,0.497,0.911,0.497,0.327,0.00385,0.136,-14.318,0.164,74.643,3
-487,Oop Bop Sh' Bam,Be-Bop Classics,Various Artists,2009-11-02,178733,0,0.654,0.749,0.654,0.385,0.232,0.239,-14.995,0.074,78.204,4
-488,Lover Man,Be-Bop Classics,Various Artists,2009-11-02,199066,0,0.606,0.979,0.606,0.136,0.673,0.556,-14.934,0.0472,130.552,4
-489,Cool Blues,Be-Bop Classics,Various Artists,2009-11-02,141333,0,0.65,0.971,0.65,0.165,0.845,0.184,-16.664,0.0504,111.324,4
-490,Cheryl,Be-Bop Classics,Various Artists,2009-11-02,179600,0,0.403,0.872,0.403,0.501,0.000324,0.236,-11.909,0.14,177.7,4
-491,Bean-A-Re-Bop,Be-Bop Classics,Various Artists,2009-11-02,156400,0,0.463,0.794,0.463,0.416,0.039,0.127,-9.991,0.183,198.126,3
-492,Oop-Pop-A-Da,Be-Bop Classics,Various Artists,2009-11-02,189400,0,0.609,0.938,0.609,0.353,0.0751,0.105,-12.89,0.068,91.817,4
-493,Constellation,Be-Bop Classics,Various Artists,2009-11-02,146600,0,0.48,0.863,0.48,0.468,0.00999,0.342,-12.855,0.126,84.529,4
-494,Boperation,Be-Bop Classics,Various Artists,2009-11-02,186933,0,0.452,0.963,0.452,0.337,0.322,0.283,-12.774,0.0585,173.092,4
-495,Sid's Delight,Be-Bop Classics,Various Artists,2009-11-02,172266,0,0.447,0.556,0.447,0.407,0.00239,0.286,-12.324,0.0504,163.156,4
-496,Capitolizing,Be-Bop Classics,Various Artists,2009-11-02,161866,0,0.735,0.943,0.735,0.249,2.49e-05,0.174,-17.661,0.0764,125.485,4
-497,Passport,Be-Bop Classics,Various Artists,2009-11-02,177600,0,0.437,0.899,0.437,0.344,0.0703,0.187,-15.468,0.101,200.642,4
-498,Dance Of The Infidels,Be-Bop Classics,Various Artists,2009-11-02,172466,0,0.434,0.956,0.434,0.298,0.868,0.06,-15.323,0.0392,176.269,4
-499,Leap Frog,Be-Bop Classics,Various Artists,2009-11-02,148400,0,0.416,0.726,0.416,0.685,0.0595,0.0932,-10.761,0.0648,164.801,4
-500,Swedish Schnapps,Be-Bop Classics,Various Artists,2009-11-02,194000,0,0.541,0.984,0.541,0.362,0.862,0.17,-15.176,0.0417,102.594,4
-501,April Skies,Be-Bop Classics,Various Artists,2009-11-02,182466,0,0.683,0.937,0.683,0.27,0.315,0.629,-14.34,0.0609,148.575,4
-502,Get Happy,Be-Bop Classics,Various Artists,2009-11-02,293200,0,0.48,0.857,0.48,0.461,0.0339,0.367,-14.981,0.0435,135.442,4
-503,Now's The Time,Be-Bop Classics,Various Artists,2009-11-02,181466,0,0.39,0.705,0.39,0.422,0.00538,0.354,-14.424,0.0487,200.611,4
-504,Norman's Blues,New York Jazz,Sonny Stitt,1956-01-01,159240,0,0.524,0.169,0.524,0.617,0.000251,0.0462,-9.19,0.043,126.64,4
-505,I Know That You Know,New York Jazz,Sonny Stitt,1956-01-01,266800,0,0.503,0.239,0.503,0.556,6e-05,0.116,-9.073,0.108,118.438,4
-506,If I Had You,New York Jazz,Sonny Stitt,1956-01-01,376653,0,0.585,0.833,0.585,0.225,0.0345,0.171,-10.568,0.0381,113.331,4
-507,Alone Together,New York Jazz,Sonny Stitt,1956-01-01,291840,0,0.562,0.508,0.562,0.35,0.00316,0.11,-10.469,0.0423,118.481,3
-508,Twelfth Street Rag,New York Jazz,Sonny Stitt,1956-01-01,211346,0,0.524,0.127,0.524,0.637,0.00858,0.142,-9.034,0.0468,154.211,4
-509,Down Home Blues,New York Jazz,Sonny Stitt,1956-01-01,310746,0,0.467,0.629,0.467,0.394,0.0105,0.226,-9.215,0.0437,76.943,4
-510,Sonny's Tune,New York Jazz,Sonny Stitt,1956-01-01,330266,0,0.556,0.132,0.556,0.556,5.55e-05,0.295,-9.454,0.0373,92.658,4
-511,Stars Fell On Alabama,New York Jazz,Sonny Stitt,1956-01-01,249306,0,0.568,0.68,0.568,0.27,0.00283,0.077,-9.526,0.0373,135.07,4
-512,Body And Soul,New York Jazz,Sonny Stitt,1956-01-01,268493,0,0.59,0.626,0.59,0.342,0.0976,0.11,-11.069,0.0511,126.682,4
-513,Between The Devil And The Deep Blue Sea,New York Jazz,Sonny Stitt,1956-01-01,277826,0,0.403,0.228,0.403,0.532,0.0,0.126,-9.372,0.0498,183.56,4
-514,Paraphernalia,Miles In The Sky (Expanded Edition),Miles Davis,1968-07-22,756133,29,0.487,0.376,0.487,0.422,0.0284,0.378,-13.061,0.0469,125.98,3
-515,In A Sentimental Mood,Duke Ellington & John Coltrane,Duke Ellington,1963-02,255226,66,0.464,0.936,0.464,0.305,0.0846,0.208,-12.435,0.0316,108.229,4
-516,Haupe,Anatomy of a Murder,Duke Ellington,1959,156306,50,0.415,0.905,0.415,0.0187,0.194,0.0979,-20.209,0.0363,111.42,4
-517,"Take the ""A"" Train",Piano In The Background,Duke Ellington,2004-07-27,331800,52,0.479,0.278,0.479,0.318,0.0959,0.107,-13.836,0.0395,94.036,4
-518,The Single Petal Of A Rose - The Queen's Suite,The Ellington Suites,Duke Ellington,1976-01-01,244933,51,0.331,0.991,0.331,0.0294,0.883,0.107,-22.342,0.0445,85.674,4
-519,My Little Brown Book,Duke Ellington & John Coltrane,Duke Ellington,1963-02,319733,60,0.372,0.942,0.372,0.187,0.139,0.161,-13.497,0.0323,70.334,4
-520,Fleurette Africaine (African Flower) - Remastered,Money Jungle,Duke Ellington,2002-01-01,216333,40,0.431,0.937,0.431,0.21,0.921,0.108,-19.24,0.0299,118.996,4
-521,All I Need Is The Girl,Francis A. & Edward K.,Frank Sinatra,1968-01,299106,51,0.632,0.409,0.632,0.263,0.0,0.225,-13.271,0.0352,113.77,4
-522,Satin Doll,Jazz Profile: Duke Ellington,Duke Ellington,1997-01-01,179333,42,0.611,0.745,0.611,0.0975,0.856,0.101,-11.57,0.0289,88.835,4
-523,The Feeling Of Jazz,Duke Ellington & John Coltrane,Duke Ellington,1963-02,329986,42,0.467,0.48,0.467,0.389,0.0,0.0835,-10.633,0.0305,103.379,4
-524,Very Special - Remastered,Money Jungle,Duke Ellington,2002-01-01,266133,36,0.59,0.499,0.59,0.549,0.00244,0.212,-9.221,0.0255,95.355,4
-525,Don't Get Around Much Anymore,The Duke: The Columbia Years (1927-1962),Duke Ellington,2000-01-31,183693,41,0.6,0.819,0.6,0.278,4.55e-05,0.415,-10.712,0.0431,95.528,4
-526,It Don't Mean a Thing (If It Ain't Got That Swing),The Great Reunion,Louis Armstrong,1963,240040,49,0.714,0.543,0.714,0.226,0.0255,0.593,-13.247,0.197,96.247,4
-527,Take The Coltrane,Duke Ellington & John Coltrane,Duke Ellington,1963-02,282600,46,0.433,0.199,0.433,0.631,0.0,0.271,-9.381,0.0458,129.493,4
-528,Money Jungle - Remastered,Money Jungle,Duke Ellington,2002-01-01,329666,34,0.516,0.583,0.516,0.696,0.0222,0.106,-9.016,0.029,105.879,4
-529,Solitude,In a Sentimental Mood,Duke Ellington,2018-03-02,191293,32,0.4,0.993,0.4,0.0881,0.569,0.107,-14.588,0.0273,80.883,4
-530,Jeep's Blues,The Duke: The Columbia Years (1927-1962),Duke Ellington,2000-01-31,279026,44,0.349,0.838,0.349,0.173,0.00369,0.902,-16.072,0.0356,64.417,4
-531,Big Nick,Duke Ellington & John Coltrane,Duke Ellington,1963-02,267133,41,0.478,0.21,0.478,0.517,0.0006,0.523,-11.592,0.0447,122.97,4
-532,Caravan - Remastered,Money Jungle,Duke Ellington,2002-01-01,252866,35,0.448,0.811,0.448,0.656,0.393,0.0991,-7.993,0.0295,108.394,4
-533,"New York, New York",New York New York 1970-72,Duke Ellington,2008-05-20,168906,42,0.541,0.99,0.541,0.256,0.602,0.213,-16.317,0.0892,62.84,4
-534,Mood Indigo,In a Sentimental Mood,Duke Ellington,2018-03-02,159773,34,0.336,0.993,0.336,0.136,0.832,0.288,-12.604,0.0408,76.831,3
-535,The Star-Crossed Lovers (aka Pretty Girl),Such Sweet Thunder,Duke Ellington,1956,240000,40,0.273,0.955,0.273,0.0578,0.809,0.106,-17.078,0.0333,103.554,4
-536,Warm Valley - Remastered,Money Jungle,Duke Ellington,2002-01-01,212666,33,0.418,0.979,0.418,0.156,0.903,0.121,-13.928,0.0326,82.513,4
-537,Creole Love Call,The Duke (Remastered 2014),Duke Ellington,2014-07-29,226283,34,0.308,0.503,0.308,0.127,0.279,0.0987,-14.659,0.031,77.867,4
-538,Tourist Point of View,Far East Suite,Duke Ellington,1967,307026,27,0.313,0.188,0.313,0.422,0.000397,0.368,-12.098,0.0302,149.064,4
-539,Part V (with Mahalia Jackson) - (aka Come Sunday) [Alternate Take],"Black, Brown, & Beige (with Mahalia Jackson)",Duke Ellington,1958,350906,30,0.0728,0.966,0.0728,0.0212,0.404,0.219,-27.053,0.0432,73.047,3
-540,Wig Wise - Remastered,Money Jungle,Duke Ellington,2002-01-01,200826,29,0.442,0.672,0.442,0.533,0.0669,0.285,-8.991,0.0313,113.033,4
-541,Le Sucrier Velours - The Queen's Suite,The Ellington Suites,Duke Ellington,1976-01-01,162133,29,0.191,0.957,0.191,0.0262,0.283,0.127,-22.313,0.0309,79.802,4
-542,Isfahan,Far East Suite,Duke Ellington,1967,245880,41,0.247,0.975,0.247,0.072,0.631,0.101,-13.544,0.032,173.372,3
-543,"Take The ""A"" Train",Ella Fitzgerald Sings The Duke Ellington Song Book,Ella Fitzgerald,1957-01-01,404880,42,0.43,0.564,0.43,0.356,0.0,0.0841,-11.444,0.0542,91.765,4
-544,Stardust,Jazz Profile: Duke Ellington,Duke Ellington,1997-01-01,149293,32,0.461,0.95,0.461,0.229,0.924,0.112,-8.163,0.0297,75.91,4
-545,"La Plus Belle Africaine - Live At Cote D'Azur, France, 7/28/1966",Soul Call (Live / Expanded Edition),Duke Ellington,1967-01-01,840933,34,0.457,0.774,0.457,0.19,0.375,0.191,-23.082,0.0787,137.128,4
-546,Sophisticated Lady,In a Sentimental Mood,Duke Ellington,2018-03-02,194000,33,0.437,0.988,0.437,0.229,0.715,0.309,-14.145,0.0382,87.567,4
-547,Blood Count,And His Mother Called Him Bill,Duke Ellington,1968,259160,31,0.26,0.945,0.26,0.0859,0.0728,0.197,-12.496,0.0316,79.408,3
-548,Jumpin' at the Woodside,First Time! The Count Meets The Duke,Duke Ellington,1961,188733,35,0.419,0.451,0.419,0.626,0.024,0.0884,-10.262,0.0981,133.629,4
-549,Lightning Bugs And Frogs - The Queen's Suite,The Ellington Suites,Duke Ellington,1976-01-01,169293,27,0.293,0.82,0.293,0.104,0.0158,0.0808,-18.978,0.0293,86.161,4
-550,Angelica,Duke Ellington & John Coltrane,Duke Ellington,1963-02,353560,38,0.499,0.414,0.499,0.422,0.00108,0.094,-12.215,0.0377,134.398,4
-551,Azalea,The Great Reunion,Louis Armstrong,1963,303173,44,0.676,0.6,0.676,0.113,1.56e-05,0.0696,-17.238,0.055,71.11,4
-552,It Don't Mean a Thing (If It Ain't Got That Swing),Ken Burns Jazz-Duke Ellington,Duke Ellington,2000-10-30,189000,37,0.709,0.973,0.709,0.387,0.0586,0.119,-11.245,0.371,106.736,3
-553,Jack the Bear,The Duke (Remastered 2014),Duke Ellington,2014-07-29,199413,33,0.533,0.466,0.533,0.28,9.83e-05,0.344,-12.809,0.0653,78.352,4
-554,Mount Harissa,Far East Suite,Duke Ellington,1967,462093,25,0.36,0.574,0.36,0.683,0.641,0.176,-10.706,0.0371,137.758,4
-555,Sunset And The Mocking Bird - The Queen's Suite,The Ellington Suites,Duke Ellington,1976-01-01,227426,29,0.418,0.784,0.418,0.126,0.832,0.0807,-18.577,0.034,74.253,4
-556,"Come Sunday (From Black, Brown and Beige) (with Mahalia Jackson) - Accapella","Black, Brown, & Beige (with Mahalia Jackson)",Duke Ellington,1958,347200,30,0.325,0.965,0.325,0.0135,5.64e-05,0.0984,-19.276,0.0418,84.331,4
-557,Prelude to a Kiss,In a Sentimental Mood,Duke Ellington,2018-03-02,176133,27,0.326,0.983,0.326,0.152,0.947,0.126,-16.155,0.0342,81.981,4
-558,Loveless Love,Duke Ellington Essentials,Duke Ellington,2020-02-11,427160,29,0.637,0.857,0.637,0.0403,0.000599,0.121,-22.357,0.0455,90.874,4
-559,In a Mellow Tone,The Duke (Remastered 2014),Duke Ellington,2014-07-29,173632,29,0.504,0.481,0.504,0.305,0.0,0.0306,-11.671,0.0401,148.26,4
-560,I Got It Bad (And That Ain't Good) - Live,Ellington at Newport 1956 (Complete),Duke Ellington,1956,218466,28,0.339,0.893,0.339,0.117,0.211,0.986,-19.002,0.0328,77.797,5
-561,Mood Indigo,The Complete Louis Armstrong - Duke Ellington Sessions,Louis Armstrong,1990,240040,41,0.404,0.905,0.404,0.0722,0.372,0.122,-17.763,0.0421,70.094,4
-562,All Too Soon,Piano Reflections,Duke Ellington,1989-01-01,188066,25,0.659,0.986,0.659,0.0615,0.93,0.0995,-16.521,0.0615,74.551,4
-563,Perdido - Remastered - Take 1,Jazz Indispensable,Duke Ellington,2001-03-13,190960,31,0.648,0.868,0.648,0.321,0.115,0.108,-10.513,0.0476,61.04,4
-564,Diminuendo In Blue - Live,Ellington at Newport 1956 (Complete),Duke Ellington,1956,854666,27,0.352,0.691,0.352,0.488,7.85e-05,0.646,-15.414,0.14,206.919,4
+,name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,"A Love Supreme, Pt. I – Acknowledgement",A Love Supreme,John Coltrane,1965-02,462866,50,0.485,0.37,0.586,1.96e-06,0.348,-13.468,0.0581,121.573,4
+1,Giant Steps - 2020 Remaster,Giant Steps (60th Anniversary Super Deluxe Edition) [2020 Remaster],John Coltrane,2020-09-18,287843,43,0.186,0.417,0.42,0.00111,0.185,-13.046,0.06,147.143,4
+2,Blue World,Blue World,John Coltrane,2019-08-16,368253,42,0.732,0.477,0.733,0.0756,0.153,-8.301,0.0682,120.42,3
+3,My Favorite Things,My Favorite Things (Deluxe Edition),John Coltrane,1961,824133,55,0.694,0.277,0.242,0.464,0.113,-18.442,0.0342,175.384,3
+4,My One And Only Love,John Coltrane & Johnny Hartman,John Coltrane,1963,294306,51,0.984,0.466,0.0718,0.000931,0.107,-17.999,0.0375,121.769,4
+5,Equinox,Naima,John Coltrane,2018-05-17,487279,43,0.798,0.62,0.203,0.501,0.0649,-15.599,0.0341,116.8,4
+6,Untitled Original 11383 - Take 1,Both Directions At Once: The Lost Album (Deluxe Version),John Coltrane,2018-06-29,341213,40,0.706,0.429,0.368,1.96e-06,0.294,-14.071,0.0404,111.348,4
+7,Nature Boy,Both Directions At Once: The Lost Album (Deluxe Version),John Coltrane,2018-06-29,204013,39,0.369,0.544,0.339,0.0248,0.0986,-15.159,0.0378,107.115,3
+8,I Love You - Rudy Van Gelder Remaster,Lush Life,John Coltrane,1961,330733,37,0.861,0.51,0.492,0.584,0.106,-7.481,0.0606,81.519,4
+9,Theme For Ernie,Soultrane (Rudy Van Gelder),John Coltrane,1958,293240,0,0.985,0.456,0.189,0.566,0.104,-10.256,0.0383,126.933,4
+10,Afro-Blue - Live At The Half Note,"One Down, One Up: Live At The Half Note",John Coltrane,2005-01-01,764133,36,0.0997,0.334,0.597,0.211,0.35,-12.919,0.05,145.918,4
+11,How Deep Is The Ocean,Interplay [Box Set],John Coltrane,2007-01-01,906386,0,0.935,0.532,0.095,0.145,0.0765,-14.636,0.0448,101.659,4
+12,Slow Dance,Traneing In [Rudy Van Gelder edition] (Remastered),John Coltrane,1957,324826,0,0.922,0.479,0.119,0.779,0.113,-15.314,0.0381,105.012,4
+13,Violets For Your Furs - Rudy Van Gelder Remaster,Coltrane [Rudy Van Gelder Remaster] (RVGエディション),John Coltrane,1957,375066,0,0.958,0.587,0.236,0.568,0.104,-8.655,0.0323,68.2,4
+14,Aisha,Olé Coltrane (Deluxe Edition),John Coltrane,1962-02,465200,38,0.823,0.393,0.183,0.117,0.106,-15.203,0.035,168.035,3
+15,It's Easy To Remember,Ballads (Deluxe Edition),John Coltrane,1963,167920,0,0.912,0.463,0.128,0.019,0.088,-11.48,0.0353,129.42,4
+16,Time After Time,Stardust [Rudy Van Gelder edition] (RVGエディション),John Coltrane,1963,461626,0,0.946,0.605,0.23,0.544,0.152,-10.24,0.0358,91.495,4
+17,Lonnie's Lament,Crescent,John Coltrane,1964-01-01,707933,0,0.883,0.502,0.228,0.113,0.141,-15.801,0.037,107.823,4
+18,Everytime We Say Goodbye,My Favorite Things (Deluxe Edition),John Coltrane,1961,345266,43,0.803,0.447,0.121,0.777,0.0695,-21.562,0.0378,121.761,4
+19,26-2,Coltrane's Sound,John Coltrane,1964-06,373000,34,0.511,0.576,0.32,3.69e-05,0.253,-16.74,0.0338,97.637,4
+20,After The Rain,Impressions,John Coltrane,1963-01-01,249453,0,0.983,0.329,0.0556,0.176,0.145,-18.713,0.0363,124.905,4
+21,I'm Old Fashioned - Remastered 2003/Rudy Van Gelder Edition,Blue Train (Expanded Edition),John Coltrane,1958,477760,51,0.931,0.394,0.23,0.497,0.0662,-10.475,0.0348,78.319,4
+22,Central Park West,Naima,John Coltrane,2018-05-17,251293,36,0.955,0.311,0.0312,0.855,0.0965,-21.88,0.036,73.467,4
+23,In A Sentimental Mood,Duke Ellington & John Coltrane,Duke Ellington,1963-02,255226,0,0.936,0.464,0.305,0.0846,0.208,-12.435,0.0316,108.231,4
+24,Mr. P.C.,Giant Steps (Deluxe Edition),John Coltrane,1960,423160,41,0.466,0.475,0.541,1.24e-05,0.319,-11.89,0.0749,131.121,4
+25,"A Love Supreme, Pt. IV - Psalm",A Love Supreme,John Coltrane,1965-02,422906,41,0.897,0.381,0.313,0.0432,0.135,-11.852,0.0312,127.106,4
+26,"Ruby, My Dear",Thelonious Monk with John Coltrane (OJC Remaster),Thelonious Monk,1961,381520,0,0.96,0.474,0.131,0.883,0.187,-14.809,0.0294,66.212,4
+27,My Little Brown Book,Duke Ellington & John Coltrane,Duke Ellington,1963-02,319733,0,0.942,0.372,0.187,0.139,0.161,-13.497,0.0323,70.334,4
+28,Satellite,Coltrane's Sound,John Coltrane,1964-06,351373,33,0.548,0.473,0.425,0.000134,0.126,-13.029,0.0546,125.523,5
+29,Greensleeves,Africa/Brass,John Coltrane Quartet,2007-01-01,597973,0,0.635,0.371,0.303,0.0826,0.114,-17.083,0.033,106.444,4
+30,I'll Wait and Pray,Coltrane Jazz,John Coltrane,1961-02,206360,42,0.89,0.475,0.0588,0.0238,0.129,-17.464,0.0418,115.642,4
+31,Come Rain Or Come Shine,The Last Trane,John Coltrane,1965,523906,0,0.788,0.562,0.288,0.163,0.271,-14.491,0.0371,108.558,4
+32,Stardust,Stardust [Rudy Van Gelder edition] (RVGエディション),John Coltrane,1963,641226,0,0.953,0.419,0.128,0.683,0.158,-16.13,0.0364,112.475,4
+33,Take The Coltrane,Duke Ellington & John Coltrane,Duke Ellington,1963-02,282600,0,0.199,0.433,0.631,0.0,0.271,-9.381,0.0458,129.496,4
+34,Crescent,Crescent,John Coltrane,1964-01-01,524266,0,0.538,0.324,0.423,4.96e-05,0.0892,-10.739,0.0365,63.425,4
+35,Moment's Notice - Rudy Van Gelder Edition/2003 Digital Remaster/24-Bit Mastering,Blue Train (Expanded Edition),John Coltrane,1958,550760,41,0.731,0.509,0.606,0.00361,0.256,-7.621,0.0365,123.351,4
+36,Lonnie's Lament,Crescent,John Coltrane,1964-01-01,707933,32,0.883,0.502,0.228,0.113,0.141,-15.801,0.037,107.823,4
+37,Lush Life,Lush Life (Rudy Van Gelder Remaster),John Coltrane,1961,837813,0,0.98,0.492,0.232,0.902,0.129,-11.977,0.0342,105.689,4
+38,Alabama,Live At Birdland,John Coltrane,1964,308933,0,0.774,0.428,0.0768,0.0487,0.123,-17.412,0.0413,107.712,4
+39,"A Love Supreme, Pt. II - Resolution",A Love Supreme,John Coltrane,1965-02,437840,47,0.581,0.341,0.57,0.0,0.0966,-11.71,0.0673,89.754,4
+40,Blue Train - Remastered 2003,Blue Train (Expanded Edition),John Coltrane,1958,644013,56,0.798,0.506,0.493,0.00355,0.307,-7.759,0.0427,134.77,4
+41,My Shining Hour,Coltrane Jazz,John Coltrane,1961-02,288986,32,0.72,0.65,0.345,5.18e-05,0.321,-12.921,0.0484,112.766,4
+42,"All of You - Live from Olympia Theatre, Paris - March 1960","The Final Tour: The Bootleg Series, Vol. 6",Miles Davis,2018-03-23,1025453,33,0.715,0.546,0.33,0.176,0.869,-13.743,0.0425,143.402,4
+43,You Leave Me Breathless - Rudy Van Gelder Remaster,Traneing In [Rudy Van Gelder edition],John Coltrane,1957,441053,27,0.955,0.501,0.148,0.713,0.076,-13.877,0.035,109.568,4
+44,Naima,Giant Steps (Deluxe Edition),John Coltrane,1960,258266,57,0.948,0.303,0.0141,0.0944,0.0792,-19.759,0.0418,171.439,3
+45,Living Space,Living Space,John Coltrane,1998-01-01,625200,30,0.675,0.272,0.581,0.0,0.258,-10.531,0.0507,115.369,5
+46,Summertime,My Favorite Things,John Coltrane,1961,697946,36,0.497,0.364,0.541,0.0827,0.119,-10.379,0.0545,80.339,4
+47,Iris,Stellar Regions,John Coltrane,1995-10-10,230693,25,0.448,0.405,0.513,0.0,0.306,-10.311,0.124,145.569,3
+48,Straight Street - Rudy Van Gelder Remaster,Coltrane [Rudy Van Gelder Remaster],John Coltrane,1957,377013,31,0.671,0.46,0.483,0.173,0.282,-9.239,0.0342,96.48,4
+49,The Father And The Son And The Holy Ghost,Meditations,John Coltrane,1966-09,771320,30,0.198,0.191,0.974,4.95e-06,0.393,-6.683,0.15,75.737,4
+50,You'd Be So Nice To Come Home To,Coleman Hawkins Encounters Ben Webster (Expanded Edition),Coleman Hawkins,1959-11-01,255626,45,0.809,0.655,0.245,0.384,0.178,-13.662,0.0469,79.76,4
+51,Night Train,Night Train (Expanded Edition),Oscar Peterson Trio,1963-01-01,290160,49,0.905,0.693,0.0742,0.431,0.15,-24.38,0.0597,104.331,4
+52,Tequila,Tequila (Expanded Edition),Wes Montgomery,1966-12-03,201440,44,0.854,0.704,0.297,0.775,0.117,-18.407,0.0637,89.882,4
+53,I Can't Get Started,The President Plays With The Oscar Peterson Trio,Lester Young,1959-06-02,217760,47,0.981,0.588,0.0207,0.688,0.105,-21.139,0.0794,116.882,4
+54,Bang Bang,Talkin' Verve,Dizzy Gillespie,1997-05-23,183333,53,0.644,0.788,0.533,0.00189,0.0646,-10.645,0.0467,134.644,4
+55,Feeling Good,Super Best,Ahmad Jamal,2018-01-11,172016,42,0.815,0.689,0.353,0.00207,0.12,-13.69,0.037,81.995,4
+56,Maybe Tomorrow,Visions,Grant Green,1971-05-21,295520,47,0.958,0.52,0.165,0.904,0.226,-15.827,0.0429,113.999,4
+57,April In Paris,April In Paris: The Genius Of Charlie Parker #2,Charlie Parker,1957-08-08,187394,45,0.952,0.417,0.375,0.28,0.119,-7.978,0.029,108.747,4
+58,Days Of Wine And Roses,Boss Guitar,Wes Montgomery,1963,226200,52,0.991,0.47,0.0296,0.948,0.0976,-25.411,0.0352,89.408,4
+59,These Foolish Things - Remastered 1995,The Complete Aladdin Recordings Of Lester Young,Lester Young,1995-01-01,190933,55,0.986,0.593,0.103,0.6,0.12,-14.961,0.081,66.283,4
+60,You Don't Know What Love Is - Rudy Van Gelder Remaster,Saxophone Colossus,Sonny Rollins,1957-04,387480,43,0.928,0.548,0.272,0.731,0.131,-8.381,0.0424,142.717,4
+61,Alone Together - Rudy Van Gelder Remaster,Quiet Kenny,Kenny Dorham,1992-01-01,190400,54,0.985,0.336,0.0619,0.891,0.11,-20.494,0.0363,60.705,4
+62,Dolphin Dance,The Awakening,Ahmad Jamal Trio,1970,306200,46,0.87,0.378,0.232,0.948,0.1,-18.05,0.0303,148.531,4
+63,Time After Time,Stardust [Rudy Van Gelder edition],John Coltrane,2007-01-01,461626,46,0.947,0.595,0.233,0.627,0.151,-10.341,0.0379,91.299,4
+64,Bumpin' On Sunset,Tequila (Expanded Edition),Wes Montgomery,1966-12-03,289000,50,0.875,0.759,0.247,0.432,0.0978,-19.827,0.0521,107.601,4
+65,There Will Never Be Another You,The President Plays With The Oscar Peterson Trio,Lester Young,1959-06-02,205666,58,0.978,0.588,0.0387,0.823,0.116,-17.944,0.06,83.4,4
+66,Ahmad's Blues,Poinciana,Ahmad Jamal,1951,174000,46,0.99,0.508,0.15,0.899,0.144,-20.844,0.0418,173.36,3
+67,Love Theme From Spartacus - Remastered,Eastern Sounds,Yusef Lateef,1961,251600,55,0.635,0.522,0.379,0.925,0.114,-14.096,0.0286,133.698,3
+68,Autumn Leaves,Portrait In Jazz [Keepnews Collection],Bill Evans,1960,360546,46,0.951,0.611,0.24,0.773,0.0815,-16.534,0.0387,102.436,4
+69,Lazy Afternoon,Ballads,Joe Henderson,1997-01-01,332133,44,0.982,0.286,0.0553,0.592,0.0989,-20.216,0.034,52.789,4
+70,Bag's Groove,Night Train (Expanded Edition),Oscar Peterson Trio,1963-01-01,340333,44,0.872,0.641,0.0366,0.155,0.107,-26.04,0.0428,102.778,4
+71,Little Sunflower,Backlash,Freddie Hubbard,1967,475200,43,0.787,0.541,0.186,0.914,0.0905,-21.91,0.0324,136.965,4
+72,Dancing In The Dark,Somethin' Else (Rudy Van Gelder Edition),Cannonball Adderley,1958,247200,46,0.904,0.377,0.251,0.131,0.0586,-7.503,0.036,185.445,3
+73,Gary's Theme - Remastered,You Must Believe In Spring,Bill Evans,1981-02-02,257693,57,0.905,0.42,0.0802,0.857,0.135,-21.795,0.04,122.041,3
+74,Le Coiffeur,Gettin' Around,Dexter Gordon,1966-08-01,422400,44,0.78,0.686,0.372,2.73e-05,0.101,-12.663,0.0356,118.562,4
+75,They Say It's Wonderful,1963: New Directions,John Coltrane,2018-11-16,321066,37,0.964,0.43,0.147,0.24,0.122,-15.644,0.0333,110.868,5
+76,You Look Good To Me,We Get Requests,Oscar Peterson Trio,1964,292066,47,0.736,0.41,0.257,0.281,0.106,-17.621,0.0363,91.516,4
+77,Moanin' - Remastered,Moanin' (Expanded Edition),Art Blakey & The Jazz Messengers,1959-01-01,570720,55,0.804,0.612,0.493,0.266,0.202,-8.589,0.0467,126.358,4
+78,Love For Sale - Remastered,Somethin' Else (Rudy Van Gelder Edition),Cannonball Adderley,1958,424640,44,0.735,0.582,0.343,0.0,0.125,-8.004,0.0428,88.144,4
+79,Like Someone In Love,Time Remembered,Bill Evans Trio,1963,385493,43,0.994,0.389,0.0288,0.923,0.0793,-26.056,0.0603,80.181,4
+80,Giant Steps,Giant Steps (Deluxe Edition),John Coltrane,1960,283439,51,0.441,0.431,0.491,0.000458,0.134,-10.746,0.0562,148.243,4
+81,I'll Never Stop Loving You,Happy Moods,Ahmad Jamal,1960-01-07,183066,47,0.982,0.524,0.0877,0.891,0.129,-21.657,0.0394,79.894,4
+82,Joy Spring,Clifford Brown And Max Roach,Clifford Brown,1954-12-01,410666,48,0.702,0.654,0.334,0.714,0.114,-12.662,0.0521,81.544,4
+83,Along Came Betty - Remastered,Moanin' (Expanded Edition),Art Blakey & The Jazz Messengers,1959-01-01,368746,45,0.801,0.665,0.359,0.106,0.145,-8.887,0.0326,111.639,4
+84,"8 Humoresques, Op. 101, B. 187: No. 7. Poco lento e grazioso in G-Flat Major (arr. A. Tatum)",Art Tatum - The Standard Transcriptions,Art Tatum,2011-04-01,139533,42,0.977,0.343,0.287,0.861,0.106,-16.541,0.0333,70.71,3
+85,Quiet Nights Of Quiet Stars (Corcovado),We Get Requests,Oscar Peterson Trio,1964,172400,54,0.784,0.615,0.336,0.85,0.113,-18.634,0.0589,90.472,4
+86,Easy To Love,Happy Moods,Ahmad Jamal,1960-01-07,200986,45,0.838,0.724,0.203,0.784,0.123,-13.794,0.039,135.144,4
+87,I'm Confessin' (That I Love You),Solo Monk,Thelonious Monk,1964,157026,53,0.965,0.624,0.359,0.905,0.101,-9.457,0.0521,104.357,4
+88,Django - Rudy Van Gelder Edition / Remastered 1999,Idle Moments,Grant Green,1999-01-01,524093,46,0.875,0.653,0.368,0.00305,0.0972,-11.567,0.0439,117.161,4
+89,Speak No Evil - Remastered 1998 / Rudy Van Gelder Edition,Speak No Evil,Wayne Shorter,1999-01-01,503786,45,0.613,0.46,0.633,0.0,0.274,-7.153,0.0404,106.331,3
+90,Have You Met Miss Jones?,We Get Requests,Oscar Peterson Trio,1964,253840,43,0.861,0.698,0.0926,0.49,0.0887,-20.716,0.05,81.187,4
+91,Old Folks,Someday My Prince Will Come,Miles Davis,1961-12-11,314160,46,0.965,0.545,0.111,0.000629,0.0773,-14.692,0.0439,104.446,4
+92,Poinciana,Poinciana,Ahmad Jamal,1951,273760,50,0.984,0.553,0.0902,0.91,0.1,-21.491,0.043,89.369,4
+93,Patricia,The Return Of Art Pepper,Art Pepper,1988-01-01,218000,43,0.973,0.654,0.0494,0.519,0.0842,-17.504,0.0753,126.24,4
+94,Infant Eyes - Remastered1998/Rudy Van Gelder Edition,Speak No Evil,Wayne Shorter,1999-01-01,414240,50,0.985,0.34,0.0837,0.761,0.0945,-12.072,0.042,138.689,3
+95,Honest I Do,Spirit in the Dark,Aretha Franklin,1970-08-24,199200,20,0.595,0.565,0.476,0.000179,0.0659,-12.354,0.0503,119.891,4
+96,Spooky,"Music From The Motion Picture Lock, Stock And Two Smoking Barrels",Various Artists,1998,155133,48,0.518,0.683,0.708,2.08e-05,0.175,-6.852,0.0289,106.446,4
+97,A Sunday Kind Of Love - Single Version,At Last!,Etta James,1960,198866,0,0.85,0.363,0.268,0.0,0.216,-9.632,0.0301,68.885,5
+98,I'd Rather Go Blind,Tell Mama,Etta James,1968-04-18,156653,70,0.689,0.477,0.433,0.000195,0.151,-6.473,0.0247,82.52,3
+99,At Last,At Last!,Etta James,1960,179693,75,0.547,0.274,0.348,0.0133,0.334,-8.631,0.0293,87.43,3
+100,Stormy Weather,At Last!,Etta James,1960,187666,63,0.613,0.262,0.356,0.0,0.175,-8.031,0.0303,174.176,3
+101,What a Difference a Day Makes,Dinah Washington - The Great American Songbook,Dinah Washington,2011-08-09,152360,44,0.857,0.278,0.374,0.000224,0.279,-8.453,0.0328,165.385,3
+102,Dream A Little Dream Of Me - Single Version,"Love, Ella",Ella Fitzgerald,1957-01-01,185160,73,0.913,0.443,0.104,0.0,0.191,-17.042,0.101,76.497,4
+103,I Put A Spell On You,I Put A Spell On You,Nina Simone,1965-06-01,155026,67,0.755,0.42,0.398,0.000537,0.172,-9.13,0.0296,88.897,3
+104,I Just Want To Make Love To You - Single Version,At Last!,Etta James,1960,185626,64,0.772,0.642,0.523,3.26e-06,0.527,-8.579,0.11,101.635,4
+105,Fever,All Aglow Again!,Peggy Lee,1960-05-01,202693,53,0.314,0.833,0.0756,0.0,0.111,-20.822,0.147,136.007,4
+106,Cry Me A River,What A Diff'rence A Day Makes! (Expanded Edition),Dinah Washington,1959-02-19,150893,53,0.821,0.26,0.205,0.00102,0.074,-16.618,0.0312,99.912,3
+107,Cheek To Cheek,The Complete Ella And Louis On Verve,Ella Fitzgerald,1997-05-20,354533,67,0.706,0.663,0.264,0.0,0.1,-14.571,0.0914,122.482,4
+108,Feeling Good,I Put A Spell On You,Nina Simone,1965-06-01,174000,74,0.864,0.399,0.326,0.0,0.191,-9.239,0.0386,79.206,4
+109,Something's Got A Hold On Me,Heart & Soul: A Retrospective,Etta James,2011-10-18,169746,62,0.786,0.471,0.585,0.0,0.811,-6.105,0.0822,150.719,4
+110,Mean to Me,Sarah Vaughan In Hi-Fi,Sarah Vaughan,1949,172533,38,0.823,0.623,0.0986,0.0,0.23,-10.503,0.0413,123.772,4
+111,Mad About The Boy,The Complete Dinah Washington On Mercury Vol. 2 (1950-1952),Dinah Washington,1987-01-01,182573,59,0.922,0.344,0.147,0.00019,0.0482,-10.3,0.0369,177.192,3
+112,I Say a Little Prayer,Aretha Now,Aretha Franklin,1968-06-14,216773,75,0.478,0.592,0.355,0.0,0.0585,-14.051,0.0352,133.032,4
+113,Black Coffee,After Hours,Sarah Vaughan,1955-04-12,200440,55,0.973,0.38,0.155,1.7e-05,0.0977,-11.977,0.0311,94.23,3
+114,Respect,I Never Loved a Man the Way I Love You,Aretha Franklin,1967-03-10,147600,73,0.164,0.805,0.558,2.2e-05,0.0546,-5.226,0.041,114.95,4
+115,Think,Aretha Now,Aretha Franklin,1968-06-14,139733,68,0.251,0.687,0.63,0.0,0.221,-10.817,0.0389,110.051,4
+116,You Sent Me Flying / Cherry,Frank,Amy Winehouse,2003,410760,48,0.476,0.738,0.629,0.0,0.209,-6.453,0.136,99.895,4
+117,Nobody Knows You When You're Down and Out,The Best of Bessie Smith,Bessie Smith,1923,177133,39,0.996,0.614,0.0423,0.00293,0.183,-12.033,0.0535,89.822,4
+118,A Sunday Kind Of Love,At Last!,Etta James,1960,196133,70,0.829,0.421,0.285,1.55e-06,0.233,-9.43,0.0293,85.861,4
+119,There is No Greater Love,Love Songs,Etta James,1960,317680,8,0.349,0.402,0.272,0.0,0.142,-10.603,0.0468,66.857,4
+120,Teach Me Tonight,Love Songs,Etta James,1960,299306,8,0.727,0.475,0.259,5.36e-05,0.304,-9.8,0.0439,76.019,4
+121,Body And Soul,Love Songs,Etta James,1960,256106,17,0.797,0.428,0.191,0.0,0.165,-10.421,0.0429,204.091,3
+122,The Man I Love,Love Songs,Etta James,1960,267293,8,0.89,0.528,0.262,4.71e-06,0.0884,-10.997,0.0369,102.843,3
+123,Tell Mama,My Greatest Songs,Etta James,1992-01-01,143840,5,0.174,0.678,0.632,0.00707,0.124,-11.207,0.0454,119.471,4
+124,Tell Mama,The Essential Etta James,Etta James,1993-06-08,142506,4,0.131,0.685,0.614,0.0234,0.245,-11.245,0.038,119.701,4
+125,I Believe I Can Fly,All The Way,Etta James,2006-05-14,308266,19,0.594,0.502,0.446,0.0,0.339,-6.882,0.0308,111.924,4
+126,The Lady Is A Tramp,Ella Fitzgerald Sings The Rodgers And Hart Song Book,Ella Fitzgerald,1956-01-01,203560,31,0.842,0.438,0.385,0.0,0.0793,-10.129,0.07,82.536,4
+127,Love Me Or Leave Me,Lady Sings The Blues,Billie Holiday,1956-01-01,154853,41,0.855,0.62,0.208,0.0,0.12,-11.68,0.0751,113.472,4
+128,Love Me Or Leave Me,Ella Swings Brightly With Nelson,Ella Fitzgerald,1993-08-09,172600,13,0.788,0.493,0.305,0.0,0.407,-12.324,0.0719,111.393,4
+129,There Will Never Be Another You,North Sea Jazz Legendary Concerts,Ella Fitzgerald,2013-11-22,175693,8,0.644,0.462,0.624,0.0,0.972,-10.688,0.424,107.782,4
+130,I Ain't Got Nothing but the Blues (6/24/57),Complete Jazz Series : 1957,Ella Fitzgerald,1957,283933,1,0.761,0.512,0.174,0.0,0.0703,-12.706,0.053,117.643,3
+131,Puttin' On The Ritz,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,1958-01-01,138320,0,0.675,0.615,0.186,0.0,0.194,-12.382,0.0508,73.007,4
+132,I'm Beginning To See The Light,Ella Fitzgerald Sings The Duke Ellington Song Book,Ella Fitzgerald,1957-01-01,207466,27,0.708,0.611,0.309,0.0,0.167,-11.752,0.0499,132.407,4
+133,How High The Moon - 1st Take,Lullabies Of Birdland,Ella Fitzgerald,1954-01-01,195426,47,0.814,0.678,0.467,0.0,0.11,-5.177,0.0994,112.846,4
+134,Exactly Like You - Late Show - Live (1958/Chicago),Live At Mister Kelly's,Ella Fitzgerald,2007-01-01,457693,10,0.63,0.62,0.307,0.0,0.643,-15.083,0.0999,80.286,4
+135,Blue Skies,Get Happy! (Expanded Edition),Ella Fitzgerald,1959-01-01,226360,56,0.837,0.611,0.285,0.0,0.102,-10.225,0.0682,79.463,4
+136,Our Love Is Here To Stay,Unforgettable: With Love,Natalie Cole,1991,209960,57,0.867,0.39,0.0968,3.58e-06,0.0715,-14.966,0.0285,68.768,4
+137,What A Diff'rence A Day Made,What A Diff'rence A Day Makes! (Expanded Edition),Dinah Washington,1959-02-19,151866,63,0.925,0.387,0.117,0.000171,0.109,-17.803,0.0299,93.575,4
+138,Baby (You've Got What It Takes),The Two Of Us,Dinah Washington,1960-07-05,165760,59,0.852,0.67,0.596,0.00203,0.653,-9.347,0.0627,133.396,4
+139,September In The Rain,September In The Rain,Dinah Washington,1961-01-01,129333,57,0.346,0.401,0.213,1.05e-05,0.0596,-13.124,0.0545,110.611,4
+140,Teach Me Tonight,"The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",Dinah Washington,1988-01-01,167493,0,0.805,0.558,0.231,0.0,0.142,-11.436,0.0812,73.103,4
+141,Unforgettable,Unforgettable (Expanded Edition),Dinah Washington,1961-01-01,165800,33,0.885,0.322,0.19,0.00335,0.236,-14.916,0.0309,94.571,3
+142,Am I Blue,After Hours With Miss D,Dinah Washington,2004-01-01,192906,28,0.89,0.395,0.247,0.000709,0.135,-8.912,0.0526,65.142,4
+143,Blue Gardenia,The Bridges Of Madison County Original Sound Track,Various Artists,2005-09-13,317160,27,0.975,0.46,0.112,0.00444,0.123,-14.296,0.0455,172.061,5
+144,I Get A Kick Out Of You,For Those In Love (Expanded Edition),Dinah Washington,1955-01-01,381373,31,0.762,0.707,0.275,1.61e-05,0.271,-12.208,0.0403,134.979,4
+145,You Don't Know What Love Is,For Those In Love (Expanded Edition),Dinah Washington,1955-01-01,245000,26,0.966,0.516,0.101,3.89e-05,0.0906,-12.753,0.0513,137.832,4
+146,Devil's Gonna Git You,"The Complete Recordings, Vol. 4",Bessie Smith,1993-04-26,190026,36,0.993,0.653,0.0442,0.0,0.131,-12.269,0.0371,71.434,5
+147,"Baby, Won't You Please Come Home",Nobody Knows You When You're Down And Out,Bessie Smith,1924,175693,20,0.996,0.72,0.0423,0.00551,0.132,-14.979,0.0454,79.464,4
+148,St. Louis Blues,Nobody Knows You When You're Down And Out,Bessie Smith,1924,190026,18,0.993,0.423,0.124,4.29e-05,0.117,-10.488,0.0552,69.691,4
+149,After You've Gone,The Essential Bessie Smith,Bessie Smith,1997,175733,25,0.993,0.489,0.202,0.00021,0.216,-9.66,0.0337,93.657,4
+150,"Empty Bed Blues, Pt. 1","The Complete Recordings, Vol. 4",Bessie Smith,1993-04-26,180840,29,0.995,0.666,0.0613,0.00252,0.114,-12.191,0.044,84.798,4
+151,I Used to Be Your Sweet Mama,"The Complete Recordings, Vol. 3",Bessie Smith,1992-10-26,168626,18,0.99,0.717,0.115,0.0,0.0718,-8.011,0.085,86.15,4
+152,A Good Man Is Hard to Find,The Essential Bessie Smith,Bessie Smith,1997,178333,22,0.987,0.797,0.034,1.88e-06,0.125,-8.371,0.0612,83.84,4
+153,Feel Like I Wanna Cry,"H&L: Heritage of a Legend, Dinah Washington",Dinah Washington,2012-03-12,199933,0,0.952,0.624,0.173,0.00023,0.168,-12.988,0.0544,70.438,4
+154,Call Me Irresponsible,The Best Of Dinah Washington,Dinah Washington,1992-04-13,140413,9,0.772,0.573,0.24,0.0,0.301,-13.269,0.0444,74.513,4
+155,Drinking Again,Drinking Again,Dinah Washington,1962,211933,34,0.777,0.404,0.162,0.000931,0.0905,-13.592,0.0317,67.826,4
+156,Just Friends,Drinking Again,Dinah Washington,1962,198360,7,0.841,0.243,0.185,0.683,0.119,-17.205,0.0394,77.493,4
+157,I'm Gonna Laugh You out of My Life,Drinking Again,Dinah Washington,1962,173666,8,0.89,0.285,0.136,0.16,0.17,-17.978,0.0402,75.437,4
+158,I'll Be Around,Drinking Again,Dinah Washington,1962,177466,5,0.879,0.186,0.146,0.144,0.0806,-18.799,0.032,170.828,5
+159,"Lament (Love, I Found You Gone)",Drinking Again,Dinah Washington,1962,137773,4,0.941,0.34,0.148,0.162,0.133,-17.529,0.0499,79.131,4
+160,I Don't Know You Anymore,Drinking Again,Dinah Washington,1962,169066,6,0.827,0.465,0.227,0.000212,0.0562,-15.084,0.0476,106.624,4
+161,Baby Won't You Please Come Home,Drinking Again,Dinah Washington,1962,128893,8,0.904,0.481,0.275,8.07e-06,0.119,-14.85,0.0486,112.224,3
+162,Lover Man (Oh Where Can You Be),Drinking Again,Dinah Washington,1962,183306,19,0.908,0.291,0.143,0.0338,0.154,-15.415,0.0399,95.614,3
+163,The Man That Got Away,Drinking Again,Dinah Washington,1962,214133,9,0.855,0.436,0.201,2.53e-05,0.19,-13.95,0.0361,78.157,4
+164,For All We Know,Drinking Again,Dinah Washington,1962,195893,6,0.917,0.257,0.127,0.0693,0.108,-18.57,0.0322,76.979,4
+165,Say It Isn't So,Drinking Again,Dinah Washington,1962,190733,6,0.885,0.294,0.0901,6.93e-05,0.105,-16.98,0.0307,140.943,4
+166,On the Street of Regret,Drinking Again,Dinah Washington,1962,134640,5,0.853,0.279,0.136,0.0014,0.318,-16.121,0.0348,154.28,4
+167,I'm Beginning to See the Light,American Swing,Various Artists,2015-12-17,206400,0,0.762,0.526,0.364,0.0,0.233,-10.224,0.0671,131.255,4
+168,"Teach Me Tonight - Live At The Hootenanny, London / 2004",Frank,Amy Winehouse,2003,201533,40,0.566,0.485,0.327,2.91e-06,0.979,-9.454,0.0522,110.719,3
+169,"Gee Baby, Ain't I Good To You",Body and Soul,Billie Holiday,1957-01-01,334973,23,0.565,0.475,0.246,2.89e-06,0.0909,-13.061,0.0795,178.323,3
+170,"Gee, Baby, Ain't I Good To You?",The Complete Ella And Louis On Verve,Ella Fitzgerald,1997-05-20,255040,26,0.824,0.64,0.153,0.0,0.0965,-15.41,0.0532,85.432,4
+171,Since I Fell for You - Remastered,Bonnie Raitt (Remastered Version),Bonnie Raitt,1971,186200,33,0.838,0.385,0.362,0.000517,0.208,-11.016,0.0298,95.462,3
+172,Embraceable You,"The Complete Dinah Washington On Mercury, Vol.1 (1946 - 1949)",Dinah Washington,1987-09-05,177200,2,0.913,0.39,0.193,7.18e-05,0.0896,-9.399,0.0316,74.566,4
+173,I Get A Kick Out Of You,Ella Fitzgerald Sings The Cole Porter Song Book,Ella Fitzgerald,1956-01-01,241613,49,0.877,0.466,0.0456,0.0,0.129,-20.84,0.0416,130.752,4
+174,Lullaby Of Birdland,Lullabies Of Birdland,Ella Fitzgerald,1954-01-01,171000,20,0.916,0.528,0.382,0.0,0.231,-5.963,0.0327,110.736,4
+175,Lullaby Of Birdland,Vocal Jazz Hits,Various Artists,2020-09-18,240693,3,0.805,0.578,0.347,0.0,0.107,-12.422,0.1,122.928,4
+176,Feeling Good,I Put A Spell On You,Nina Simone,1965-06,174000,0,0.864,0.399,0.326,0.0,0.191,-9.239,0.0386,79.206,4
+177,You´d be so nice to come home to,Cole Porter: The Very Best,Various Artists,2007,259784,0,0.865,0.653,0.175,0.0189,0.19,-14.528,0.0349,129.707,4
+178,Blue Skies,Blue Skies,Dinah Washington,2012-09-28,655011,0,0.45,0.682,0.418,0.00189,0.221,-7.549,0.0457,124.667,4
+179,Cry Me a River,At Last - The Best Of,Etta James,2011-02-04,301693,16,0.767,0.404,0.219,0.0256,0.137,-13.586,0.0344,186.985,3
+180,Lullaby of Birdland,"All that Jazz, Vol.4 – Ella Fitzgerald: ""That's My Favorite Song""",Ella Fitzgerald,2014-04-01,168944,6,0.979,0.525,0.193,0.000139,0.154,-12.618,0.0402,111.028,4
+181,Teach Me Tonight,Jazz Divas Collection,Dinah Washington,2005-01-01,163893,0,0.84,0.58,0.232,0.0,0.503,-11.364,0.069,72.772,4
+182,Someone to Watch Over Me,My Gentleman Friend (Original Album Plus Bonus Tracks 1959),Blossom Dearie,2014-05-09,358296,0,0.988,0.435,0.0657,0.000463,0.149,-18.025,0.0453,80.367,3
+183,Twisted,King Pleasure Sings / Annie Ross Sings,King Pleasure,1987,158360,0,0.8,0.629,0.486,0.0,0.101,-11.631,0.057,82.509,4
+184,Dedicated To You,Ella Fitzgerald: The Voice Of Jazz,Ella Fitzgerald,2013-01-01,195933,0,0.99,0.759,0.0409,1.69e-05,0.0755,-13.501,0.0518,106.416,4
+185,Fly Me to the Moon,The Collection,Astrud Gilberto,2014-04-02,142000,0,0.468,0.579,0.313,0.00581,0.084,-13.696,0.0301,132.996,4
+186,Willow Weep for Me - 2004 Remaster,Triple Best Of,Nina Simone,2010-10-29,194186,8,0.701,0.352,0.33,0.0,0.335,-11.688,0.0383,109.245,4
+187,Strange Fruit,Extraordinary,Billie Holiday,2012-07-20,184173,0,0.974,0.453,0.109,3.47e-06,0.072,-11.08,0.0431,112.941,5
+188,A-tisket A-tasket,Jazz Infusion - Mildred Bailey,Mildred Bailey,2013-11-01,184253,0,0.862,0.653,0.301,0.000142,0.263,-12.435,0.394,180.33,4
+189,All of Me,Billie Holiday Love Songs,Billie Holiday,1996-01-30,181826,47,0.978,0.507,0.0677,2.74e-05,0.132,-13.766,0.0406,105.393,5
+190,Easy Living,Billie Holiday: Verve Ultimate Cool,Billie Holiday,2013-01-01,192933,12,0.983,0.443,0.0559,5.09e-05,0.0802,-17.374,0.0498,74.359,4
+191,Don’t Explain,Crying,Dinah Washington,2013-12-06,150651,0,0.715,0.294,0.234,0.00285,0.147,-14.343,0.0435,99.981,5
+192,They Can’t Take That Away from Me,Louis Armstrong & Friends,Various Artists,2007-09-11,278466,0,0.862,0.509,0.324,0.0,0.111,-11.779,0.0849,105.994,4
+193,Speak Low,In Person,Billie Holiday,2014-03-26,265933,0,0.896,0.616,0.266,0.00105,0.103,-13.477,0.0524,116.696,4
+194,Lousiana Fairy Tale,Joan Chamorro Presenta Andrea Motis,Joan Chamorro,2010-09-13,223333,34,0.942,0.664,0.218,4.12e-05,0.0911,-10.481,0.0418,110.661,4
+195,Blue Moon,Solitude,Billie Holiday,1956-01-01,207826,68,0.982,0.639,0.269,0.12,0.141,-11.435,0.0698,124.866,4
+196,If You Can't Sing It You'll Have To Swing It (Mr Paganini),Dear Ella (Reissue),Dee Dee Bridgewater,1997-01-01,393960,4,0.789,0.49,0.34,0.0,0.114,-8.387,0.06,135.321,4
+197,Solitude,Magic (Remastered Version),Ella Fitzgerald,2013-11-08,129333,0,0.976,0.368,0.0337,0.000118,0.101,-20.473,0.0357,113.671,4
+198,Body And Soul,The Complete Billie Holiday,Billie Holiday,2009-06-30,180946,0,0.992,0.537,0.145,7.82e-06,0.149,-12.916,0.0453,81.888,4
+199,Beale Street Mama,"The Complete Recordings, Vol. 1",Bessie Smith,1991-04-08,214573,9,0.996,0.503,0.0956,0.00105,0.284,-15.161,0.0475,101.949,4
+200,Gulf Coast Blues,"The Complete Recordings, Vol. 1",Bessie Smith,1991-04-08,184200,16,0.996,0.601,0.0796,0.0883,0.282,-16.68,0.0421,93.374,4
+201,Aggravatin' Papa,"The Complete Recordings, Vol. 1",Bessie Smith,1991-04-08,196426,4,0.996,0.597,0.185,0.00276,0.227,-14.113,0.0612,108.081,4
+202,Lady Luck Blues,"The Complete Recordings, Vol. 1",Bessie Smith,1991-04-08,186626,4,0.996,0.55,0.0468,4.5e-05,0.106,-16.242,0.0422,74.677,4
+203,It's A Lovely Day Today,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,1958-01-01,148266,56,0.84,0.573,0.275,0.0,0.196,-10.684,0.0534,140.9,4
+204,Sunshine of Your Love,Sunshine of Your Love,Ella Fitzgerald,2014-01-31,197973,39,0.163,0.51,0.457,6.27e-05,0.366,-8.056,0.0466,109.327,4
+205,Love Me or Leave Me - 2013 Remastered Version,Little Girl Blue (2013 Remastered Version),Nina Simone,1958-06-24,201390,44,0.817,0.462,0.343,0.0,0.0876,-13.367,0.119,175.977,4
+206,My Baby Just Cares for Me - 2013 Remastered Version,Little Girl Blue (2013 Remastered Version),Nina Simone,1958-06-24,215746,69,0.829,0.746,0.243,1.02e-06,0.0905,-15.134,0.123,118.578,4
+207,Mood Indigo - 2013 Remastered Version,Little Girl Blue (2013 Remastered Version),Nina Simone,1958-06-24,240610,36,0.666,0.659,0.364,1.52e-05,0.139,-13.356,0.0405,102.946,4
+208,Someone To Watch Over Me,Ella Sings Gershwin,Ella Fitzgerald,1950-09-11,196666,55,0.99,0.354,0.0851,4.49e-06,0.123,-13.738,0.0345,97.684,1
+209,My One And Only,Ella Sings Gershwin,Ella Fitzgerald,1950-09-11,196960,23,0.984,0.635,0.0984,0.0,0.0971,-12.335,0.0509,117.812,4
+210,Looking For A Boy,Ella Sings Gershwin,Ella Fitzgerald,1950-09-11,189600,22,0.986,0.424,0.109,0.0,0.105,-12.266,0.0427,179.219,5
+211,I've Got A Crush On You,Ella Sings Gershwin,Ella Fitzgerald,1950-09-11,196440,54,0.986,0.455,0.106,0.0,0.122,-14.086,0.0422,66.807,4
+212,You Can Have Him,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,1958-01-01,226613,29,0.845,0.613,0.174,0.0,0.0642,-14.402,0.0918,122.167,4
+213,Cheek To Cheek,Ella Fitzgerald Sings The Irving Berlin Song Book,Ella Fitzgerald,1958-01-01,228066,36,0.766,0.632,0.202,0.0,0.146,-13.068,0.0587,134.298,3
+214,You Let My Love Grow Cold - Single Version,"The Complete Dinah Washington On Mercury, Vol. 3 (1952-1954)",Dinah Washington,1988-01-01,178160,2,0.954,0.493,0.226,0.0115,0.0601,-11.034,0.0337,90.509,4
+215,Fat Daddy,"The Complete Dinah Washington On Mercury, Vol. 3 (1952-1954)",Dinah Washington,1988-01-01,148826,2,0.945,0.638,0.391,0.0,0.0762,-10.013,0.218,155.308,4
+216,Go Pretty Daddy,"The Complete Dinah Washington On Mercury, Vol. 3 (1952-1954)",Dinah Washington,1988-01-01,145666,1,0.836,0.626,0.345,0.0,0.234,-10.259,0.171,94.055,4
+217,Someone To Watch Over Me,Someone To Watch Over Me,Ella Fitzgerald,2017-09-29,205800,34,0.955,0.278,0.155,6.89e-06,0.112,-13.45,0.0328,130.334,5
+218,I Get A Kick Out Of You,Someone To Watch Over Me,Ella Fitzgerald,2017-09-29,255480,25,0.748,0.323,0.259,0.0,0.279,-12.67,0.0322,131.778,4
+219,These Foolish Things (Remind Me Of You),Someone To Watch Over Me,Ella Fitzgerald,2017-09-29,266173,24,0.901,0.199,0.19,1.77e-05,0.109,-13.692,0.0298,83.326,3
+220,Let's Call The Whole Thing Off,Someone To Watch Over Me,Ella Fitzgerald,2017-09-29,262200,22,0.513,0.463,0.429,0.0,0.174,-11.55,0.0584,122.275,4
+221,Moodi's Mood for Love,Live at Jamboree - Barcelona,Andrea Motis,2013-11-26,347333,23,0.949,0.531,0.39,0.000336,0.788,-8.424,0.0787,91.32,3
+222,Moody's Mood For Love / Teo Licks,Frank,Amy Winehouse,2003,208933,46,0.0559,0.511,0.591,6.62e-06,0.135,-7.594,0.245,151.845,4
+223,Someone To Watch Over Me - Demo,Frank,Amy Winehouse,2003,268306,45,0.842,0.514,0.254,6.48e-05,0.118,-11.879,0.0361,109.53,4
+224,What It Is - Demo,Frank,Amy Winehouse,2003,283466,40,0.74,0.597,0.194,0.0,0.119,-9.035,0.0487,139.576,4
+225,I Heard Love Is Blind,Frank,Amy Winehouse,2003,130080,46,0.742,0.594,0.309,0.0,0.117,-9.809,0.0454,75.958,4
+226,I Heard Love Is Blind - Live,Frank,Amy Winehouse,2003,147466,35,0.24,0.708,0.403,0.0,0.972,-9.266,0.0767,73.847,4
+227,"(There Is) No Greater Love - Live, Janice Long Session, Miami/2008",Frank,Amy Winehouse,2003,156826,34,0.769,0.455,0.26,6.61e-05,0.972,-10.172,0.0525,141.924,4
+228,L.O.V.E,Joan Chamorro Presenta Andrea Motis,Joan Chamorro,2010-09-13,162240,39,0.964,0.612,0.319,0.0186,0.0906,-9.162,0.104,207.881,4
+229,Smile,Joan Chamorro Presenta Andrea Motis,Joan Chamorro,2010-09-13,268640,24,0.972,0.526,0.0793,0.000263,0.109,-13.472,0.0404,125.516,4
+230,You'd Be So Nice To Come Home To,Emotional Dance,Andrea Motis,2017-02-17,263160,20,0.877,0.589,0.36,0.0399,0.131,-8.817,0.0656,92.032,4
+231,I Hear Music,Ella & Oscar,Ella Fitzgerald,1976-01-01,308666,43,0.907,0.675,0.257,0.000104,0.108,-13.846,0.0699,80.334,4
+232,Don't Play That Song,Spirit in the Dark,Aretha Franklin,1970-08-24,182040,49,0.563,0.513,0.537,1.43e-06,0.212,-9.563,0.042,108.475,4
+233,All Of Me,Ella Swings Gently With Nelson,Ella Fitzgerald,1962-01-21,202226,36,0.813,0.551,0.49,0.0,0.0832,-7.713,0.0613,74.031,4
+234,My Funny Valentine,Ella Fitzgerald Sings The Rodgers And Hart Song Book,Ella Fitzgerald,1956-01-01,235200,54,0.942,0.188,0.192,9.53e-06,0.166,-14.204,0.0339,86.169,4
+235,My Funny Valentine,Time After Time,Etta James,1995,346866,35,0.965,0.359,0.0681,0.00154,0.109,-14.629,0.0338,76.098,4
+236,Beautiful Love,Anita,Anita O'Day,1955-01-01,160853,41,0.912,0.647,0.175,1.77e-06,0.0822,-17.677,0.0395,82.635,3
+237,Satin Doll,Ella Fitzgerald Sings The Duke Ellington Song Book,Ella Fitzgerald,1957-01-01,209160,34,0.917,0.595,0.0937,0.0,0.0999,-15.269,0.0391,98.918,4
+238,Summertime,Lady Day: The Complete Billie Holiday On Columbia (1933-1944),Billie Holiday,1933,173493,52,0.903,0.628,0.226,5.66e-06,0.171,-14.075,0.0371,99.392,4
+239,Summertime,Porgy And Bess,Louis Armstrong,1958-01-01,298133,66,0.916,0.172,0.0696,0.00199,0.137,-21.295,0.0339,167.974,5
+240,I'll Build A Stairway To Paradise,Sarah Vaughan Sings George Gershwin,Sarah Vaughan,1957-01-01,164778,8,0.827,0.536,0.418,0.0,0.46,-8.274,0.0339,94.742,4
+241,What a Little Moonlight Can Do,"Milestones of Jazz Legends - Oscar Peterson & The Greatest Singers, Vol. 8",Oscar Peterson,2019-08-02,192240,15,0.707,0.561,0.456,0.0,0.381,-13.358,0.0717,134.643,4
+242,What a Little Moonlight Can Do,Jazzing 6 Vol. 1,Sant Andreu Jazz Band,2016-05-16,152706,5,0.91,0.614,0.435,0.00246,0.0822,-8.101,0.0391,81.714,4
+243,Águas De Março,Jazzing 6 Vol. 1,Sant Andreu Jazz Band,2016-05-16,266386,26,0.86,0.583,0.602,7.33e-06,0.686,-7.164,0.0978,77.414,4
+244,Stormy Weather - 2003 Remastered Version,Blue Moon,Billie Holiday,1952-03-26,222306,42,0.729,0.416,0.226,0.000392,0.122,-11.852,0.0465,179.435,3
+245,Body And Soul,Body and Soul,Billie Holiday,1957-01-01,378400,45,0.809,0.435,0.0901,1.19e-05,0.101,-15.469,0.0582,178.85,3
+246,I've Got You Under My Skin,Ella Fitzgerald Sings The Cole Porter Song Book,Ella Fitzgerald,1956-01-01,163333,34,0.675,0.626,0.1,0.0,0.0852,-14.999,0.0523,135.387,4
+247,The Man I Love,Lady Day: The Complete Billie Holiday On Columbia (1933-1944),Billie Holiday,1933,184440,46,0.965,0.485,0.177,7.37e-05,0.252,-14.282,0.0428,88.411,4
+248,After You've Gone,The Complete Dinah Washington On Mercury Vol.5 (1956-1958),Dinah Washington,1991-07-01,218000,38,0.782,0.702,0.165,0.00025,0.111,-17.362,0.0482,70.12,4
+249,Cheek To Cheek,All Or Nothing At All,Billie Holiday,1958-01-01,217506,33,0.809,0.582,0.351,0.0,0.133,-10.785,0.0755,144.87,4
+250,Black Coffee - Single Version,Black Coffee,Peggy Lee,1956-01-01,186333,44,0.845,0.52,0.182,1.87e-06,0.266,-11.472,0.0423,130.331,4
+251,Side by Side,Jazzing 6 Vol. 1,Sant Andreu Jazz Band,2016-05-16,169520,4,0.94,0.666,0.542,0.000608,0.699,-8.13,0.058,109.061,4
+252,"Do Nothing Till You Hear From Me - Live On The Ed Sullivan Show, March 7, 1965","Do Nothing Till You Hear From Me (Live On The Ed Sullivan Show, March 7, 1965)",Ella Fitzgerald,2020-07-10,170970,19,0.941,0.285,0.367,0.0,0.652,-10.815,0.0365,86.926,4
+253,Do Nothin' Till You Hear from Me,Jazzing 6 Vol. 1,Sant Andreu Jazz Band,2016-05-16,310267,5,0.932,0.492,0.302,1.55e-05,0.213,-8.3,0.0278,82.759,4
+254,A Tisket A Tasket,"Love, Ella",Ella Fitzgerald,1957-01-01,157240,45,0.882,0.644,0.305,0.0,0.318,-12.244,0.169,164.182,4
+255,The Lady Is A Tramp,"Love, Ella",Ella Fitzgerald,1957-01-01,201760,39,0.816,0.458,0.303,0.0,0.152,-12.238,0.0967,81.739,4
+256,You'll Have To Swing It (Mr. Paganini) - Pt. 1 & 2,"Love, Ella",Ella Fitzgerald,1957-01-01,308173,28,0.83,0.469,0.138,0.0,0.279,-13.22,0.0587,74.16,4
+257,Reaching For The Moon,"Love, Ella",Ella Fitzgerald,1957-01-01,135360,32,0.957,0.223,0.0594,0.000648,0.268,-20.51,0.043,98.521,1
+258,Desafinado,Jukebox Ella: The Complete Verve Singles (Vol. 1),Ella Fitzgerald,2003-09-30,129919,25,0.801,0.429,0.552,0.0,0.258,-7.128,0.108,82.991,4
+259,Can Anyone Explain - 2002 Remastered Version,Mr Paganini,Ella Fitzgerald,2002-11-04,188653,35,0.739,0.527,0.243,0.0,0.559,-9.309,0.0917,99.323,4
+260,Oops - 2002 Remastered Version,Mr Paganini,Ella Fitzgerald,2002-11-04,189240,4,0.787,0.663,0.32,0.0,0.416,-8.076,0.0838,126.822,4
+261,Moonlight In Vermont,Body and Soul,Billie Holiday,1957-01-01,227613,26,0.882,0.52,0.0817,2.16e-05,0.111,-18.061,0.0438,107.998,4
+262,Moonlight In Vermont,Sarah Vaughan's Golden Hits,Sarah Vaughan,1958-07-07,196706,24,0.944,0.251,0.223,1.05e-06,0.123,-12.892,0.0292,73.918,4
+263,They Can't Take That Away From Me,Swingin' Easy,Sarah Vaughan,1957-03-01,164000,32,0.885,0.638,0.152,0.0,0.0932,-14.543,0.0628,126.079,4
+264,They Can't Take That Away From Me,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,250906,20,0.261,0.605,0.299,4.14e-06,0.0831,-12.388,0.0525,106.184,4
+265,Tenderly,An Introduction To Sarah Vaughan,Sarah Vaughan,1995,151373,52,0.903,0.209,0.125,0.0,0.136,-15.836,0.0412,69.563,5
+266,Tenderly,Solitude,Billie Holiday,1956-01-01,199186,45,0.967,0.473,0.123,0.000464,0.114,-13.164,0.0489,78.717,4
+267,Stars Fell On Alabama,Songs For Distingué Lovers,Billie Holiday,1957-01-01,271426,27,0.629,0.477,0.294,0.0,0.25,-12.86,0.083,91.177,4
+268,April In Paris,Sarah Vaughan,Sarah Vaughan,1954-12-01,374750,36,0.958,0.421,0.0873,7.28e-05,0.234,-16.897,0.0397,117.069,4
+269,April In Paris,All Or Nothing At All,Billie Holiday,1958-01-01,185586,61,0.927,0.496,0.127,7.07e-05,0.132,-14.211,0.0382,74.746,4
+270,Don't Be That Way,Take Love Easy,Ella Fitzgerald,1973,274933,15,0.979,0.522,0.0225,4.24e-06,0.118,-20.059,0.0328,69.469,4
+271,Makin' Whoopee,Work From Home with Ella Fitzgerald,Ella Fitzgerald,2020-04-24,226226,17,0.758,0.489,0.311,0.0,0.246,-10.516,0.0571,88.625,4
+272,Willow Weep For Me,Lady Sings The Blues,Billie Holiday,1956-01-01,186560,28,0.935,0.539,0.151,0.0,0.103,-12.906,0.0387,130.731,3
+273,Willow Weep for Me - Mono; Single Edit; 2017 Remaster,The Colpix Singles (Mono; 2017 Remaster),Nina Simone,2018-02-23,190146,14,0.835,0.266,0.263,2.64e-06,0.261,-14.739,0.0413,71.724,4
+274,Do You Know What It Means to Miss New Orleans,Jazzing 2,Sant Andreu Jazz Band,2011-05-05,314973,7,0.915,0.67,0.201,5.6e-05,0.797,-11.644,0.0403,101.397,4
+275,L.O.V.E.,Jazzing 2,Sant Andreu Jazz Band,2011-05-05,186786,12,0.831,0.757,0.304,1.9e-05,0.189,-10.118,0.17,108.377,4
+276,On the Sunny Side of the Street,Jazzing 2,Sant Andreu Jazz Band,2011-05-05,266200,5,0.763,0.604,0.29,0.0,0.779,-13.052,0.0699,133.206,4
+277,What A Little Moonlight Can Do,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,190400,20,0.735,0.581,0.556,0.0,0.204,-9.498,0.0958,134.799,4
+278,Speak Low,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,266333,20,0.876,0.623,0.236,6.3e-05,0.0776,-14.259,0.051,116.724,4
+279,I've Got My Love To Keep Me Warm,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,239146,20,0.771,0.534,0.398,7.86e-06,0.301,-10.382,0.0807,154.19,4
+280,Gimme A Pigfoot And A Bottle Of Beer - Single Version,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,164973,19,0.844,0.698,0.163,0.0,0.235,-13.522,0.0643,97.632,4
+281,April In Paris,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,182600,20,0.882,0.425,0.0751,3.89e-06,0.206,-18.798,0.0372,71.682,4
+282,Comes Love - Master Take 4,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,239960,18,0.554,0.715,0.208,6.86e-06,0.108,-14.211,0.0434,106.148,4
+283,Embraceable You,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,195386,18,0.982,0.331,0.0426,0.00201,0.0681,-17.5,0.0459,71.447,4
+284,"Gee, Baby, Ain't I Good To You? - Live At Carnegie Hall,1946",Work From Home with Billie Holiday,Billie Holiday,2020-04-03,140533,17,0.964,0.447,0.199,0.0,0.953,-18.57,0.0596,137.693,4
+285,Stars Fell On Alabama,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,269466,17,0.506,0.545,0.275,1.42e-06,0.407,-13.223,0.0753,90.196,4
+286,On The Sunny Side Of The Street,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,181653,17,0.913,0.714,0.089,5.79e-06,0.088,-14.349,0.0634,118.372,3
+287,Autumn In New York,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,232506,22,0.958,0.441,0.06,0.0,0.0728,-20.203,0.0439,136.562,4
+288,Blue Moon,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,208666,22,0.987,0.657,0.172,0.0332,0.138,-14.647,0.0607,125.313,4
+289,Love Is Here To Stay,Work From Home with Billie Holiday,Billie Holiday,2020-04-03,221706,21,0.689,0.626,0.246,0.00014,0.251,-13.108,0.0509,125.159,3
+290,On The Sunny Side Of The Street,Ella And Basie,Ella Fitzgerald,1963-09,184933,29,0.851,0.644,0.202,0.0,0.106,-14.264,0.0417,102.631,4
+291,Do You Know What It Means to Miss New Orleans - Live,"Jazzing 1 (Live at Casa Fuster, Barcelona)",Joan Chamorro,2009-09-23,191106,18,0.933,0.596,0.255,7.74e-06,0.774,-9.222,0.0302,96.698,4
+292,Bei Mir Bist Du Schoen (12-21-37),Best of - 50 Tracks,Ella Fitzgerald,1955,188266,23,0.93,0.63,0.233,0.0,0.406,-10.732,0.284,169.865,4
+293,Frim Fram Sauce,All For You (A Dedication To The Nat King Cole Trio),Diana Krall,1996-03-12,300893,37,0.928,0.778,0.226,0.000161,0.0822,-14.612,0.0538,117.103,4
+294,Completely,The Shocking Miss Emerald (Deluxe Edition),Caro Emerald,2014-05-27,149440,0,0.539,0.823,0.555,5.44e-05,0.0965,-7.602,0.0408,128.014,4
+295,Stealin' Apples,BeBop Jazz Essentials,Various Artists,2007-12-18,189960,0,0.95,0.697,0.229,0.0623,0.274,-12.626,0.0604,106.414,4
+296,The Talk Of The Town,BeBop Jazz Essentials,Various Artists,2007-12-18,174200,0,0.992,0.542,0.285,0.381,0.156,-10.46,0.0481,76.678,3
+297,Something For You,BeBop Jazz Essentials,Various Artists,2007-12-18,150226,0,0.91,0.575,0.8,0.389,0.381,-6.793,0.106,117.284,4
+298,Ah-Leu-Cha,BeBop Jazz Essentials,Various Artists,2007-12-18,177600,0,0.938,0.5,0.394,0.571,0.184,-8.312,0.0573,87.333,4
+299,The Chase,BeBop Jazz Essentials,Various Artists,2007-12-18,412346,0,0.993,0.689,0.253,0.914,0.171,-11.674,0.079,113.717,4
+300,What is This Thing Called Love,BeBop Jazz Essentials,Various Artists,2007-12-18,159973,0,0.97,0.613,0.344,0.234,0.25,-8.833,0.0511,70.26,4
+301,I'll Keep Loving You,BeBop Jazz Essentials,Various Artists,2007-12-18,162426,0,0.996,0.51,0.19,0.921,0.138,-17.698,0.0445,73.938,3
+302,Israel,BeBop Jazz Essentials,Various Artists,2007-12-18,138893,0,0.756,0.362,0.45,5.26e-05,0.0973,-7.564,0.043,173.512,4
+303,Bone-O-Logy,BeBop Jazz Essentials,Various Artists,2007-12-18,182933,0,0.988,0.612,0.185,0.841,0.187,-14.366,0.0471,137.853,3
+304,Professor Bop,BeBop Jazz Essentials,Various Artists,2007-12-18,148040,0,0.957,0.53,0.197,0.00397,0.125,-16.905,0.177,197.498,4
+305,Euphoria,BeBop Jazz Essentials,Various Artists,2007-12-18,395080,0,0.717,0.501,0.506,0.00778,0.561,-11.346,0.0827,115.464,4
+306,Nostalgia,BeBop Jazz Essentials,Various Artists,2007-12-18,165706,0,0.896,0.564,0.271,0.0146,0.123,-10.111,0.13,80.853,4
+307,"All Night, All Frantic",BeBop Jazz Essentials,Various Artists,2007-12-18,158466,0,0.982,0.699,0.29,0.385,0.144,-13.826,0.046,111.911,3
+308,A Night In Tunisia,BeBop Jazz Essentials,Various Artists,2007-12-18,185640,0,0.881,0.436,0.349,0.788,0.0965,-10.32,0.0708,181.307,5
+309,Confirmation,BeBop Jazz Essentials,Various Artists,2007-12-18,337333,0,0.692,0.471,0.45,0.00204,0.685,-10.439,0.146,166.568,4
+310,Dodo's Bounce,BeBop Jazz Essentials,Various Artists,2007-12-18,102960,0,0.971,0.532,0.334,0.91,0.0929,-11.543,0.0465,93.907,4
+311,Good Bait,BeBop Jazz Essentials,Various Artists,2007-12-18,180960,0,0.688,0.537,0.461,0.243,0.0535,-8.615,0.0367,131.075,4
+312,Opus Be Bop,BeBop Jazz Essentials,Various Artists,2007-12-18,154520,0,0.684,0.431,0.747,0.823,0.33,-7.163,0.144,144.543,4
+313,Confirmation,BeBop Jazz Essentials,Various Artists,2007-12-18,158960,0,0.966,0.628,0.388,0.79,0.129,-10.795,0.0435,84.217,4
+314,Parker's Mood,BeBop Jazz Essentials,Various Artists,2007-12-18,185573,0,0.991,0.632,0.158,0.879,0.121,-10.074,0.0477,77.387,4
+315,Yardbird Suite,BeBop Jazz Essentials,Various Artists,2007-12-18,201680,0,0.702,0.616,0.423,0.212,0.101,-10.886,0.0833,84.44,4
+316,Reverse The Charges,BeBop Jazz Essentials,Various Artists,2007-12-18,175573,0,0.991,0.573,0.268,0.727,0.131,-10.794,0.0635,140.385,4
+317,In Walked Bud,BeBop Jazz Essentials,Various Artists,2007-12-18,176640,0,0.862,0.38,0.585,0.0262,0.197,-8.714,0.0504,183.285,3
+318,Twisted,BeBop Jazz Essentials,Various Artists,2007-12-18,189533,0,0.636,0.416,0.449,0.00797,0.0956,-9.975,0.0563,166.512,4
+319,Casbah,BeBop Jazz Essentials,Various Artists,2007-12-18,181400,0,0.715,0.485,0.453,0.385,0.102,-11.908,0.137,156.553,4
+320,Our Delight,BeBop Jazz Essentials,Various Artists,2007-12-18,150706,0,0.874,0.461,0.528,0.949,0.19,-6.197,0.0558,183.179,4
+321,Blue Brew,BeBop Jazz Essentials,Various Artists,2007-12-18,176080,0,0.991,0.588,0.189,0.929,0.111,-13.081,0.0518,85.491,4
+322,Webb City,BeBop Jazz Essentials,Various Artists,2007-12-18,338586,0,0.834,0.605,0.426,0.76,0.249,-11.686,0.179,124.766,4
+323,How High The Moon,BeBop Jazz Essentials,Various Artists,2007-12-18,195346,0,0.818,0.762,0.343,0.0,0.136,-8.873,0.126,112.064,4
+324,Jam For Boppers,BeBop Jazz Essentials,Various Artists,2007-12-18,312706,0,0.8,0.426,0.608,0.0106,0.223,-12.557,0.0898,119.986,4
+325,Four Brothers,BeBop Jazz Essentials,Various Artists,2007-12-18,197760,0,0.567,0.571,0.518,0.0,0.328,-8.615,0.0369,109.581,4
+326,Ow!,BeBop Jazz Essentials,Various Artists,2007-12-18,178293,0,0.922,0.419,0.339,0.875,0.112,-11.992,0.0612,170.105,4
+327,Cu-Ba,BeBop Jazz Essentials,Various Artists,2007-12-18,156186,0,0.94,0.672,0.661,0.778,0.109,-13.559,0.0471,128.558,4
+328,Move,BeBop Jazz Essentials,Various Artists,2007-12-18,333880,0,0.138,0.43,0.595,0.796,0.401,-12.602,0.156,79.65,4
+329,Oop-Pop-A-Da,BeBop Jazz Essentials,Various Artists,2007-12-18,172973,0,0.96,0.687,0.424,2.79e-05,0.103,-12.129,0.0372,93.635,4
+330,Donna Lee,BeBop Jazz Essentials,Various Artists,2007-12-18,185426,0,0.756,0.572,0.504,7.33e-05,0.0893,-8.309,0.0675,118.112,3
+331,A Night In Tunisia,BeBop Jazz Essentials,Various Artists,2007-12-18,187320,0,0.988,0.407,0.28,0.954,0.181,-14.412,0.0635,154.656,4
+332,Bluebird,BeBop Jazz Essentials,Various Artists,2007-12-18,176546,0,0.952,0.689,0.202,0.765,0.221,-12.965,0.0902,122.296,4
+333,The Duel,BeBop Jazz Essentials,Various Artists,2007-12-18,331733,0,0.96,0.575,0.551,0.918,0.203,-8.578,0.28,138.854,4
+334,The Thin Man,BeBop Jazz Essentials,Various Artists,2007-12-18,180440,0,0.916,0.554,0.541,0.00194,0.161,-11.569,0.0323,100.957,4
+335,Hot House,BeBop Jazz Essentials,Various Artists,2007-12-18,186920,0,0.99,0.745,0.358,0.839,0.15,-10.546,0.0728,86.516,4
+336,Milestones,BeBop Jazz Essentials,Various Artists,2007-12-18,167213,0,0.974,0.522,0.253,0.83,0.122,-12.956,0.134,80.498,3
+337,Scrapple From The Apple,BeBop Jazz Essentials,Various Artists,2007-12-18,179546,0,0.816,0.593,0.409,3.05e-05,0.177,-12.699,0.0402,98.375,4
+338,Woodchopper's Holiday,BeBop Jazz Essentials,Various Artists,2007-12-18,175880,0,0.988,0.717,0.267,0.934,0.107,-14.231,0.0649,116.506,4
+339,Mad Lad,BeBop Jazz Essentials,Various Artists,2007-12-18,154133,0,0.502,0.503,0.608,0.797,0.106,-10.544,0.132,138.863,4
+340,Crazy Chords,BeBop Jazz Essentials,Various Artists,2007-12-18,156640,0,0.746,0.43,0.478,9.94e-05,0.103,-11.838,0.0295,130.672,4
+341,Opus X,BeBop Jazz Essentials,Various Artists,2007-12-18,150906,0,0.885,0.621,0.446,0.415,0.35,-8.662,0.0531,119.532,4
+342,That's Right,BeBop Jazz Essentials,Various Artists,2007-12-18,184960,0,0.625,0.492,0.658,0.496,0.183,-8.083,0.179,72.004,4
+343,Dexter's Mood,BeBop Jazz Essentials,Various Artists,2007-12-18,174306,0,0.91,0.661,0.231,0.803,0.112,-10.094,0.0562,127.109,3
+344,Manteca,BeBop Jazz Essentials,Various Artists,2007-12-18,186000,0,0.787,0.425,0.645,0.937,0.108,-8.711,0.143,175.731,4
+345,Foo's,BeBop Jazz Essentials,Various Artists,2007-12-18,172080,0,0.775,0.665,0.24,0.919,0.157,-14.507,0.166,101.42,4
+346,Smooth Sailing,BeBop Jazz Essentials,Various Artists,2007-12-18,159666,0,0.818,0.605,0.393,0.491,0.143,-10.833,0.0406,125.104,4
+347,Tiny's Tempo,BeBop Jazz Essentials,Various Artists,2007-12-18,175613,0,0.977,0.712,0.409,0.91,0.425,-12.933,0.0924,105.872,4
+348,Loverman,BeBop Jazz Essentials,Various Artists,2007-12-18,202093,0,0.993,0.529,0.142,9.42e-05,0.136,-11.287,0.0376,112.591,4
+349,Victory Ball,BeBop Jazz Essentials,Various Artists,2007-12-18,254626,0,0.636,0.633,0.506,0.418,0.312,-11.976,0.059,122.5,4
+350,Woody'n You,BeBop Jazz Essentials,Various Artists,2007-12-18,175840,0,0.981,0.449,0.586,0.895,0.106,-8.927,0.0398,102.101,4
+351,The Squirrel,BeBop Jazz Essentials,Various Artists,2007-12-18,180146,0,0.831,0.425,0.495,0.00741,0.0811,-8.899,0.0854,181.516,4
+352,Double Talk,BeBop Jazz Essentials,Various Artists,2007-12-18,335000,0,0.776,0.537,0.581,0.516,0.0945,-8.164,0.0397,114.33,4
+353,Undercurrent Blues,BeBop Jazz Essentials,Various Artists,2007-12-18,188880,0,0.805,0.508,0.485,0.074,0.205,-10.927,0.0567,96.792,4
+354,Ornithology,BeBop Jazz Essentials,Various Artists,2007-12-18,181680,0,0.7,0.647,0.441,0.0539,0.177,-10.586,0.0598,110.851,4
+355,The Skunk,BeBop Jazz Essentials,Various Artists,2007-12-18,178013,0,0.902,0.462,0.393,0.349,0.0714,-8.453,0.038,166.972,3
+356,Epistrophy,BeBop Jazz Essentials,Various Artists,2007-12-18,187053,0,0.942,0.612,0.357,0.000145,0.142,-9.507,0.0354,134.483,4
+357,Cool Breeze,BeBop Jazz Essentials,Various Artists,2007-12-18,166373,0,0.278,0.439,0.614,0.103,0.218,-9.254,0.0552,101.398,4
+358,Tin Tin Deo,BeBop Jazz Essentials,Various Artists,2007-12-18,168000,0,0.951,0.635,0.457,0.151,0.262,-13.85,0.111,153.671,4
+359,Dexter's - Riff,BeBop Jazz Essentials,Various Artists,2007-12-18,181546,0,0.769,0.593,0.277,0.844,0.13,-12.502,0.0655,131.57,3
+360,Things To Come,BeBop Jazz Essentials,Various Artists,2007-12-18,164640,0,0.901,0.432,0.599,0.000156,0.363,-10.051,0.122,118.671,5
+361,In The Middle,BeBop Jazz Essentials,Various Artists,2007-12-18,192760,0,0.99,0.419,0.513,0.87,0.231,-10.057,0.197,182.058,4
+362,Wallington's Godchild,BeBop Jazz Essentials,Various Artists,2007-12-18,173733,0,0.901,0.471,0.578,0.00893,0.117,-8.678,0.0381,96.723,1
+363,Wail,BeBop Jazz Essentials,Various Artists,2007-12-18,164386,0,0.861,0.453,0.575,0.815,0.1,-9.994,0.0785,102.511,4
+364,Tempus Fugit,BeBop Jazz Essentials,Various Artists,2007-12-18,148413,0,0.957,0.421,0.456,0.952,0.139,-15.774,0.0306,78.733,4
+365,Embraceable You,BeBop Jazz Essentials,Various Artists,2007-12-18,204893,0,0.906,0.484,0.253,0.311,0.104,-11.571,0.0407,67.82,4
+366,The Moose,BeBop Jazz Essentials,Various Artists,2007-12-18,155253,0,0.859,0.64,0.324,0.667,0.149,-13.197,0.0394,144.48,4
+367,If You Could See Me Now,BeBop Jazz Essentials,Various Artists,2007-12-18,170546,0,0.817,0.295,0.156,0.412,0.165,-13.362,0.0333,84.956,4
+368,Disorder At The Border,BeBop Jazz Essentials,Various Artists,2007-12-18,172880,0,0.991,0.533,0.366,0.834,0.123,-10.696,0.0504,166.175,4
+369,How High The Moon,BeBop Jazz Essentials,Various Artists,2007-12-18,151240,0,0.408,0.388,0.465,0.0245,0.0401,-11.325,0.145,195.675,4
+370,Hallelujah,BeBop Jazz Essentials,Various Artists,2007-12-18,238920,0,0.9,0.68,0.403,0.421,0.2,-8.359,0.0528,148.742,4
+371,Bop Alley,BeBop Jazz Essentials,Various Artists,2007-12-18,187813,0,0.849,0.468,0.603,0.00312,0.0807,-10.849,0.0427,138.176,3
+372,Koko,BeBop Jazz Essentials,Various Artists,2007-12-18,176840,0,0.93,0.549,0.512,0.196,0.0771,-8.301,0.036,148.721,4
+373,Bebop In Pastel,BeBop Jazz Essentials,Various Artists,2007-12-18,177706,0,0.986,0.505,0.375,0.817,0.112,-9.883,0.0449,180.997,4
+374,Dizzy Atmosphere,BeBop Jazz Essentials,Various Artists,2007-12-18,166746,0,0.988,0.529,0.482,0.781,0.129,-9.876,0.0707,132.319,4
+375,Groovin' High,BeBop Jazz Essentials,Various Artists,2007-12-18,158746,0,0.97,0.557,0.439,0.933,0.149,-12.603,0.0665,96.914,4
+376,Jay Bird,BeBop Jazz Essentials,Various Artists,2007-12-18,181133,0,0.991,0.7,0.394,0.919,0.144,-13.066,0.0545,114.524,4
+377,Crossing The Channel,BeBop Jazz Essentials,Various Artists,2007-12-18,171626,0,0.879,0.352,0.727,0.00358,0.263,-9.103,0.0539,147.076,4
+378,Indiana,BeBop Jazz Essentials,Various Artists,2007-12-18,158906,0,0.984,0.382,0.404,0.889,0.129,-17.359,0.0381,169.015,4
+379,Ruby My Dear,BeBop Jazz Essentials,Various Artists,2007-12-18,188840,0,0.976,0.589,0.216,0.557,0.128,-15.355,0.0447,72.858,4
+380,Focus,BeBop Jazz Essentials,Various Artists,2007-12-18,182026,0,0.961,0.46,0.235,0.874,0.164,-14.289,0.0345,174.745,4
+381,Disc Jockey Jump,BeBop Jazz Essentials,Various Artists,2007-12-18,190840,0,0.916,0.679,0.541,0.545,0.125,-8.581,0.17,110.113,4
+382,Blue Lou,BeBop Jazz Essentials,Various Artists,2007-12-18,181813,0,0.685,0.648,0.467,0.116,0.232,-11.439,0.0852,110.935,4
+383,Jumpin' There,BeBop Jazz Essentials,Various Artists,2007-12-18,188400,0,0.881,0.432,0.437,0.275,0.112,-10.512,0.0933,156.118,4
+384,All God's Children Got Rhythm,BeBop Jazz Essentials,Various Artists,2007-12-18,169506,0,0.744,0.574,0.397,0.377,0.0697,-10.485,0.0985,146.367,4
+385,Ool-Ya-Koo,BeBop Jazz Essentials,Various Artists,2007-12-18,171080,0,0.948,0.734,0.716,0.000394,0.465,-10.204,0.4,115.39,4
+386,The Man I Love,BeBop Jazz Essentials,Various Artists,2007-12-18,203013,0,0.825,0.582,0.197,0.824,0.0724,-12.686,0.0688,62.152,4
+387,Thrivin' On A Riff,BeBop Jazz Essentials,Various Artists,2007-12-18,185653,0,0.819,0.599,0.366,0.00773,0.111,-11.618,0.0645,118.106,4
+388,Wee Dot,BeBop Jazz Essentials,Various Artists,2007-12-18,149440,0,0.884,0.5,0.36,0.777,0.102,-9.43,0.0456,161.145,4
+389,Bebop Spoken Here,BeBop Jazz Essentials,Various Artists,2007-12-18,168800,0,0.893,0.532,0.321,1.31e-06,0.225,-9.31,0.137,151.518,4
+390,Second Balcony Jump,BeBop Jazz Essentials,Various Artists,2007-12-18,174893,0,0.869,0.486,0.464,0.889,0.0841,-8.248,0.165,85.778,4
+391,Move,BeBop Jazz Essentials,Various Artists,2007-12-18,155426,0,0.797,0.503,0.415,0.0156,0.137,-12.2,0.093,134.949,4
+392,Okiedoke,Bird: The Complete Charlie Parker On Verve,Charlie Parker,1988-01-01,181866,0,0.878,0.59,0.713,0.802,0.267,-8.328,0.0454,106.582,4
+393,Ornithology - Live - Storyville,100 Best Of Blue Note,Various Artists,2010,265853,0,0.833,0.601,0.407,0.055,0.133,-13.615,0.0532,116.426,4
+394,Salt Peanuts,The Quintet Live in Toronto,Various Artists,2012-01-17,463440,0,0.31,0.474,0.435,0.652,0.31,-17.207,0.0457,153.981,3
+395,The Hunt (Rocks 'n Shoals),Bebop Live Concerts Vol. 5 (1947),Charlie Shavers,2008,1088279,0,0.937,0.565,0.673,0.757,0.819,-10.797,0.0891,117.393,4
+396,Crow's Nest,Live in 'Frisco,Stan Getz,2012-01-16,485026,0,0.963,0.423,0.419,0.0464,0.1,-13.89,0.0449,196.126,4
+397,Big Bear,Live in 'Frisco,Stan Getz,2012-01-16,265786,0,0.978,0.619,0.336,0.272,0.111,-14.833,0.0321,104.156,4
+398,How Deep Is the Ocean,Moonlight in Vermont,Stan Getz,2012-04-24,171015,0,0.973,0.44,0.169,0.00327,0.142,-15.705,0.0454,174.178,4
+399,Minor Blues,Moonlight in Vermont,Stan Getz,2012-04-24,422418,0,0.97,0.507,0.165,0.86,0.109,-16.25,0.0446,144.719,4
+400,Fat Boy Parts 1 & 2,Bebop: Volume 1,Various Artists,1997,344405,0,0.995,0.596,0.232,0.905,0.638,-14.647,0.0712,103.399,4
+401,Manteca,Bebop: Volume 1,Various Artists,1997,186893,0,0.982,0.553,0.488,0.891,0.0991,-15.901,0.0812,87.727,4
+402,Donna Lee,Bebop: Volume 1,Various Artists,1997,156640,0,0.985,0.693,0.389,0.842,0.581,-11.764,0.0584,112.599,3
+403,The Chase,Bebop: Volume 1,Various Artists,1997,409653,0,0.994,0.631,0.26,0.911,0.111,-11.41,0.115,114.423,4
+404,Royal Roost,Bebop: Volume 1,Various Artists,1997,176133,0,0.994,0.733,0.334,0.92,0.109,-11.516,0.0473,104.049,4
+405,Four Brothers,Bebop: Volume 1,Various Artists,1997,197733,0,0.968,0.588,0.592,0.418,0.44,-7.742,0.0433,109.69,4
+406,Yardbird Suite,Bebop: Volume 1,Various Artists,1997,200106,0,0.971,0.503,0.391,0.808,0.19,-11.07,0.215,169.592,4
+407,52nd Street Theme,Bebop: Volume 1,Various Artists,1997,168693,0,0.99,0.742,0.483,0.911,0.384,-8.421,0.0379,109.413,4
+408,Half Step Down Please,Bebop: Volume 1,Various Artists,1997,184706,0,0.968,0.674,0.496,0.928,0.0628,-9.041,0.0398,94.565,4
+409,Allen's Alley,Bebop: Volume 1,Various Artists,1997,183226,0,0.994,0.655,0.371,0.829,0.174,-10.662,0.0563,131.695,4
+410,Off Minor,Bebop: Volume 1,Various Artists,1997,137266,0,0.994,0.586,0.281,0.884,0.154,-17.338,0.0299,97.679,4
+411,The Street Beat,Bebop: Volume 1,Various Artists,1997,153213,0,0.936,0.7,0.519,0.892,0.24,-9.733,0.0559,113.523,4
+412,'Round Midnight,Bebop: Volume 1,Various Artists,1997,191893,0,0.992,0.555,0.191,0.89,0.115,-15.48,0.0457,120.144,4
+413,Salt Peanuts,Bebop: Volume 1,Various Artists,1997,194986,0,0.946,0.606,0.455,0.527,0.304,-7.834,0.135,100.975,3
+414,Night in Tunisia,Bebop: Volume 1,Various Artists,1997,184880,0,0.96,0.489,0.428,0.516,0.102,-9.117,0.0502,175.626,4
+415,Milestones,Bebop: Volume 1,Various Artists,1997,158426,0,0.992,0.538,0.18,0.604,0.139,-14.85,0.0981,160.894,3
+416,Epistrophy,Bebop: Volume 1,Various Artists,1997,188613,0,0.984,0.583,0.346,0.0198,0.149,-9.523,0.0391,133.593,4
+417,Bud's Bubble,Bebop: Volume 1,Various Artists,1997,150146,0,0.99,0.412,0.431,0.915,0.258,-14.589,0.0348,142.453,4
+418,Now's the Time,Bebop: Volume 1,Various Artists,1997,198866,0,0.989,0.645,0.215,0.933,0.131,-9.841,0.0426,127.351,4
+419,Lester's Be Bop,Bebop: Volume 1,Various Artists,1997,194546,0,0.716,0.591,0.324,0.4,0.0689,-13.034,0.065,148.935,4
+420,January V,M'Boom,Max Roach,1980,203600,20,0.856,0.368,0.163,0.00381,0.116,-17.181,0.0437,169.173,5
+421,Like Young (Perry Como w/Michael Ayres),The Beat Generation - Music & Poetry,Various Artists,2010-09-01,173000,0,0.847,0.595,0.227,0.0,0.366,-12.603,0.049,110.015,4
+422,Scrapple From The Apple,The Beat Generation - Music & Poetry,Various Artists,2010-09-01,173400,0,0.954,0.643,0.456,0.804,0.167,-9.141,0.0403,99.982,4
+423,Bebopper,The Beat Generation - Music & Poetry,Various Artists,2010-09-01,164466,0,0.935,0.607,0.141,0.0,0.148,-15.438,0.0599,115.028,4
+424,Yip Roc Heresy,The Beat Generation - Music & Poetry,Various Artists,2010-09-01,148973,0,0.593,0.697,0.52,0.0,0.185,-11.889,0.246,79.741,4
+425,Nutty,The Beat Generation - Music & Poetry,Various Artists,2010-09-01,397600,0,0.486,0.542,0.367,7.25e-06,0.177,-10.243,0.0351,139.063,4
+426,Vout Oreenee,Vout For Voutoreenees,Slim Gaillard,2000-01-01,185266,0,0.953,0.806,0.0396,8.15e-05,0.0531,-16.602,0.0628,108.9,4
+427,Boppin' a Riff Part 1 and Part 2 (1946),New York City 46 47 48 (Remastered),Fats Navarro,2012-10-04,329082,0,0.972,0.594,0.504,0.447,0.132,-4.09,0.0756,94.146,4
+428,Fat Boy Part 1 and Part 2 (1946),New York City 46 47 48 (Remastered),Fats Navarro,2012-10-04,340004,0,0.924,0.569,0.523,0.0929,0.559,-3.592,0.0413,106.904,4
+429,Everything's Cool Part 1 and 2 (1946),New York City 46 47 48 (Remastered),Fats Navarro,2012-10-04,346930,0,0.937,0.55,0.582,0.0312,0.0862,-3.236,0.0574,88.253,4
+430,Fat Girl (1946),New York City 46 47 48 (Remastered),Fats Navarro,2012-10-04,139272,0,0.857,0.656,0.67,2.67e-05,0.672,-2.031,0.0802,98.482,4
+431,All God's Chillun Got Rhythm,"Sonny Stitt, Bud Powell, J.J. Johnson",Sonny Stitt,1982,177640,0,0.797,0.458,0.559,0.0714,0.463,-9.826,0.0357,138.632,4
+432,People Will Say We're in Love,Tranquility,Lee Konitz,2013-05-25,295880,7,0.945,0.621,0.132,0.305,0.129,-17.852,0.0536,108.46,4
+433,Hi Beck,Jazz at Storyville,Lee Konitz,2013-05-25,511706,5,0.9,0.563,0.401,0.127,0.402,-11.439,0.126,122.871,4
+434,Profression,"Subconscious Lee, Konitz Meets Mulligan, the Real Lee Konitz : Tranquility",Lee Konitz,2012-06-30,182256,6,0.973,0.68,0.337,0.00466,0.341,-15.013,0.0402,118.003,4
+435,Progression,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,178703,0,0.744,0.653,0.599,0.000435,0.224,-7.644,0.035,118.508,4
+436,Tautology,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,164612,0,0.792,0.624,0.444,0.0103,0.303,-7.891,0.0382,117.493,4
+437,Retrospection,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,186732,0,0.991,0.488,0.296,0.634,0.312,-10.833,0.0336,127.925,4
+438,Subconscius Lee,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,167879,0,0.859,0.678,0.473,0.00194,0.185,-9.798,0.0442,123.419,3
+439,Judy,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,172933,0,0.982,0.478,0.258,0.8,0.156,-14.109,0.0368,141.588,4
+440,Wow,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,200599,0,0.89,0.554,0.44,0.016,0.183,-7.649,0.0389,87.219,4
+441,Crosscurrent,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,169706,0,0.802,0.665,0.298,0.0718,0.574,-10.132,0.053,128.124,4
+442,Yesterdays,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,167853,0,0.933,0.343,0.356,0.751,0.147,-11.065,0.0298,144.727,4
+443,Marionette,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,182693,0,0.797,0.386,0.268,0.00202,0.294,-11.971,0.0406,172.658,4
+444,Sax Of A Kind,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,179599,0,0.789,0.6,0.297,1.57e-05,0.354,-10.632,0.0416,129.179,3
+445,Intuition,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,146533,0,0.965,0.579,0.246,0.68,0.137,-10.754,0.0526,122.295,4
+446,Digression,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,181573,0,0.961,0.402,0.212,0.912,0.101,-12.297,0.0305,108.011,4
+447,Ju-Ju,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,134546,0,0.91,0.525,0.549,0.0202,0.313,-8.738,0.0336,127.474,4
+448,Pastime,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,218453,0,0.917,0.32,0.372,0.019,0.241,-9.941,0.0312,83.458,4
+449,Line Up,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,211546,0,0.848,0.434,0.549,0.0134,0.168,-9.263,0.0301,131.109,3
+450,Requiem,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,290826,0,0.994,0.507,0.437,0.924,0.116,-10.339,0.0732,113.016,4
+451,Turkish Mambo,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,218119,0,0.983,0.675,0.442,0.911,0.0922,-8.414,0.0306,153.751,5
+452,East Thirty-Second,Lennie Tristano Vol. 2 (1949-55),Lennie Tristano,2008,270413,0,0.853,0.468,0.603,0.11,0.321,-8.98,0.0293,129.262,4
+453,Out On A Limb,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,160890,0,0.991,0.484,0.286,0.897,0.122,-14.298,0.0333,157.623,3
+454,I Can't Get Started - Sessionversion 1,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,174893,0,0.994,0.491,0.303,0.924,0.107,-14.054,0.0339,142.184,4
+455,I Surrender Dear,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,186240,0,0.989,0.464,0.28,0.93,0.108,-16.488,0.033,138.702,4
+456,Interlude,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,185720,0,0.992,0.414,0.281,0.913,0.103,-14.36,0.0401,184.089,4
+457,I Can't Get Started - Sessionversion 2,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,173600,0,0.995,0.46,0.309,0.939,0.129,-14.572,0.0332,152.135,4
+458,Night In Tunisia,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,141186,0,0.994,0.499,0.183,0.921,0.108,-16.53,0.0555,182.867,4
+459,Blue Boy,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,168920,0,0.986,0.714,0.231,0.86,0.112,-14.508,0.0363,98.802,4
+460,Atonement,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,146746,0,0.995,0.557,0.194,0.905,0.105,-15.055,0.0342,74.512,4
+461,Coolin’ Off With Ulanov,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,168706,0,0.99,0.508,0.271,0.845,0.128,-13.371,0.0382,167.582,4
+462,Supersonic,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,199133,0,0.99,0.38,0.398,0.949,0.12,-9.36,0.0333,165.929,4
+463,On A Planet,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,197839,0,0.994,0.376,0.319,0.882,0.113,-10.749,0.0408,199.425,3
+464,Air Pocket,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,164946,0,0.993,0.604,0.419,0.88,0.178,-8.922,0.0323,122.501,4
+465,Celestia,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,174453,0,0.995,0.468,0.336,0.908,0.132,-10.675,0.0336,141.429,4
+466,Freedom,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,217880,0,0.974,0.545,0.336,0.908,0.115,-14.339,0.0333,97.556,4
+467,Parallel,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,147920,0,0.993,0.527,0.389,0.856,0.123,-10.716,0.037,110.084,4
+468,Apellation,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,113626,0,0.995,0.48,0.37,0.898,0.11,-12.732,0.0343,140.574,4
+469,Abstraction,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,159026,0,0.996,0.586,0.266,0.949,0.112,-15.068,0.0396,133.126,4
+470,Palimpsest,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,157493,0,0.996,0.625,0.229,0.876,0.105,-15.087,0.0609,115.054,4
+471,Dissonance,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,157213,0,0.99,0.435,0.355,0.857,0.314,-14.178,0.0381,204.652,4
+472,Through These Portals,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,135760,0,0.987,0.532,0.459,0.577,0.355,-9.605,0.0377,92.832,4
+473,Speculation,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,143999,0,0.994,0.452,0.392,0.929,0.343,-10.729,0.0336,71.315,4
+474,New Sound,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,136186,0,0.984,0.626,0.483,0.859,0.226,-8.195,0.0387,87.977,4
+475,Resemblance,Lennie Tristano Vol. 1 (1946-49),Lennie Tristano,2008,141586,0,0.989,0.448,0.383,0.941,0.186,-11.132,0.0527,177.211,4
+476,Subconscious Lee,From Newport to Nice,Lee Konitz,2013-02-17,327209,3,0.295,0.564,0.355,3.07e-05,0.248,-13.737,0.0616,143.756,4
+477,Bopland (Byas-a-Drink) - Live,"Bopland: The Legendary Elks Club Concert, L.A. 1947",Dexter Gordon,2010-01-27,1209893,0,0.693,0.454,0.714,0.0435,0.709,-7.536,0.101,77.991,4
+478,Sugar Hips,Wardell Gray Vol. 2 (1948-49),Wardell Gray,2008,171906,5,0.939,0.59,0.2,0.285,0.131,-12.765,0.0445,139.941,4
+479,Light Gray,Wardell Gray Vol. 2 (1948-49),Wardell Gray,2008,154703,5,0.975,0.609,0.538,0.639,0.108,-8.704,0.0334,136.733,4
+480,Blue 'N' Boogie,Be-Bop Classics,Various Artists,2009-11-02,175800,0,0.894,0.644,0.418,0.0606,0.0941,-13.224,0.0527,100.843,4
+481,Groovin' High,Be-Bop Classics,Various Artists,2009-11-02,160066,0,0.941,0.716,0.276,0.0258,0.125,-11.417,0.0398,95.339,4
+482,The Street Beat,Be-Bop Classics,Various Artists,2009-11-02,151133,0,0.692,0.651,0.449,0.651,0.242,-13.257,0.0715,113.281,4
+483,Ko Ko,Be-Bop Classics,Various Artists,2009-11-02,174466,0,0.926,0.526,0.426,0.0581,0.192,-11.153,0.0412,149.576,4
+484,Anthropology,Be-Bop Classics,Various Artists,2009-11-02,160666,0,0.707,0.727,0.507,0.113,0.0555,-11.162,0.0457,121.348,4
+485,Night In Tunisia,Be-Bop Classics,Various Artists,2009-11-02,187866,0,0.908,0.508,0.355,0.0132,0.116,-14.303,0.0982,170.4,4
+486,Ornithology,Be-Bop Classics,Various Artists,2009-11-02,180933,0,0.911,0.497,0.327,0.00385,0.136,-14.318,0.164,74.643,3
+487,Oop Bop Sh' Bam,Be-Bop Classics,Various Artists,2009-11-02,178733,0,0.749,0.654,0.385,0.232,0.239,-14.995,0.074,78.204,4
+488,Lover Man,Be-Bop Classics,Various Artists,2009-11-02,199066,0,0.979,0.606,0.136,0.673,0.556,-14.934,0.0472,130.552,4
+489,Cool Blues,Be-Bop Classics,Various Artists,2009-11-02,141333,0,0.971,0.65,0.165,0.845,0.184,-16.664,0.0504,111.324,4
+490,Cheryl,Be-Bop Classics,Various Artists,2009-11-02,179600,0,0.872,0.403,0.501,0.000324,0.236,-11.909,0.14,177.7,4
+491,Bean-A-Re-Bop,Be-Bop Classics,Various Artists,2009-11-02,156400,0,0.794,0.463,0.416,0.039,0.127,-9.991,0.183,198.126,3
+492,Oop-Pop-A-Da,Be-Bop Classics,Various Artists,2009-11-02,189400,0,0.938,0.609,0.353,0.0751,0.105,-12.89,0.068,91.817,4
+493,Constellation,Be-Bop Classics,Various Artists,2009-11-02,146600,0,0.863,0.48,0.468,0.00999,0.342,-12.855,0.126,84.529,4
+494,Boperation,Be-Bop Classics,Various Artists,2009-11-02,186933,0,0.963,0.452,0.337,0.322,0.283,-12.774,0.0585,173.092,4
+495,Sid's Delight,Be-Bop Classics,Various Artists,2009-11-02,172266,0,0.556,0.447,0.407,0.00239,0.286,-12.324,0.0504,163.156,4
+496,Capitolizing,Be-Bop Classics,Various Artists,2009-11-02,161866,0,0.943,0.735,0.249,2.49e-05,0.174,-17.661,0.0764,125.485,4
+497,Passport,Be-Bop Classics,Various Artists,2009-11-02,177600,0,0.899,0.437,0.344,0.0703,0.187,-15.468,0.101,200.642,4
+498,Dance Of The Infidels,Be-Bop Classics,Various Artists,2009-11-02,172466,0,0.956,0.434,0.298,0.868,0.06,-15.323,0.0392,176.269,4
+499,Leap Frog,Be-Bop Classics,Various Artists,2009-11-02,148400,0,0.726,0.416,0.685,0.0595,0.0932,-10.761,0.0648,164.801,4
+500,Swedish Schnapps,Be-Bop Classics,Various Artists,2009-11-02,194000,0,0.984,0.541,0.362,0.862,0.17,-15.176,0.0417,102.594,4
+501,April Skies,Be-Bop Classics,Various Artists,2009-11-02,182466,0,0.937,0.683,0.27,0.315,0.629,-14.34,0.0609,148.575,4
+502,Get Happy,Be-Bop Classics,Various Artists,2009-11-02,293200,0,0.857,0.48,0.461,0.0339,0.367,-14.981,0.0435,135.442,4
+503,Now's The Time,Be-Bop Classics,Various Artists,2009-11-02,181466,0,0.705,0.39,0.422,0.00538,0.354,-14.424,0.0487,200.611,4
+504,Norman's Blues,New York Jazz,Sonny Stitt,1956-01-01,159240,0,0.169,0.524,0.617,0.000251,0.0462,-9.19,0.043,126.64,4
+505,I Know That You Know,New York Jazz,Sonny Stitt,1956-01-01,266800,0,0.239,0.503,0.556,6e-05,0.116,-9.073,0.108,118.438,4
+506,If I Had You,New York Jazz,Sonny Stitt,1956-01-01,376653,0,0.833,0.585,0.225,0.0345,0.171,-10.568,0.0381,113.331,4
+507,Alone Together,New York Jazz,Sonny Stitt,1956-01-01,291840,0,0.508,0.562,0.35,0.00316,0.11,-10.469,0.0423,118.481,3
+508,Twelfth Street Rag,New York Jazz,Sonny Stitt,1956-01-01,211346,0,0.127,0.524,0.637,0.00858,0.142,-9.034,0.0468,154.211,4
+509,Down Home Blues,New York Jazz,Sonny Stitt,1956-01-01,310746,0,0.629,0.467,0.394,0.0105,0.226,-9.215,0.0437,76.943,4
+510,Sonny's Tune,New York Jazz,Sonny Stitt,1956-01-01,330266,0,0.132,0.556,0.556,5.55e-05,0.295,-9.454,0.0373,92.658,4
+511,Stars Fell On Alabama,New York Jazz,Sonny Stitt,1956-01-01,249306,0,0.68,0.568,0.27,0.00283,0.077,-9.526,0.0373,135.07,4
+512,Body And Soul,New York Jazz,Sonny Stitt,1956-01-01,268493,0,0.626,0.59,0.342,0.0976,0.11,-11.069,0.0511,126.682,4
+513,Between The Devil And The Deep Blue Sea,New York Jazz,Sonny Stitt,1956-01-01,277826,0,0.228,0.403,0.532,0.0,0.126,-9.372,0.0498,183.56,4
+514,Paraphernalia,Miles In The Sky (Expanded Edition),Miles Davis,1968-07-22,756133,29,0.376,0.487,0.422,0.0284,0.378,-13.061,0.0469,125.98,3
+515,In A Sentimental Mood,Duke Ellington & John Coltrane,Duke Ellington,1963-02,255226,66,0.936,0.464,0.305,0.0846,0.208,-12.435,0.0316,108.229,4
+516,Haupe,Anatomy of a Murder,Duke Ellington,1959,156306,50,0.905,0.415,0.0187,0.194,0.0979,-20.209,0.0363,111.42,4
+517,"Take the ""A"" Train",Piano In The Background,Duke Ellington,2004-07-27,331800,52,0.278,0.479,0.318,0.0959,0.107,-13.836,0.0395,94.036,4
+518,The Single Petal Of A Rose - The Queen's Suite,The Ellington Suites,Duke Ellington,1976-01-01,244933,51,0.991,0.331,0.0294,0.883,0.107,-22.342,0.0445,85.674,4
+519,My Little Brown Book,Duke Ellington & John Coltrane,Duke Ellington,1963-02,319733,60,0.942,0.372,0.187,0.139,0.161,-13.497,0.0323,70.334,4
+520,Fleurette Africaine (African Flower) - Remastered,Money Jungle,Duke Ellington,2002-01-01,216333,40,0.937,0.431,0.21,0.921,0.108,-19.24,0.0299,118.996,4
+521,All I Need Is The Girl,Francis A. & Edward K.,Frank Sinatra,1968-01,299106,51,0.409,0.632,0.263,0.0,0.225,-13.271,0.0352,113.77,4
+522,Satin Doll,Jazz Profile: Duke Ellington,Duke Ellington,1997-01-01,179333,42,0.745,0.611,0.0975,0.856,0.101,-11.57,0.0289,88.835,4
+523,The Feeling Of Jazz,Duke Ellington & John Coltrane,Duke Ellington,1963-02,329986,42,0.48,0.467,0.389,0.0,0.0835,-10.633,0.0305,103.379,4
+524,Very Special - Remastered,Money Jungle,Duke Ellington,2002-01-01,266133,36,0.499,0.59,0.549,0.00244,0.212,-9.221,0.0255,95.355,4
+525,Don't Get Around Much Anymore,The Duke: The Columbia Years (1927-1962),Duke Ellington,2000-01-31,183693,41,0.819,0.6,0.278,4.55e-05,0.415,-10.712,0.0431,95.528,4
+526,It Don't Mean a Thing (If It Ain't Got That Swing),The Great Reunion,Louis Armstrong,1963,240040,49,0.543,0.714,0.226,0.0255,0.593,-13.247,0.197,96.247,4
+527,Take The Coltrane,Duke Ellington & John Coltrane,Duke Ellington,1963-02,282600,46,0.199,0.433,0.631,0.0,0.271,-9.381,0.0458,129.493,4
+528,Money Jungle - Remastered,Money Jungle,Duke Ellington,2002-01-01,329666,34,0.583,0.516,0.696,0.0222,0.106,-9.016,0.029,105.879,4
+529,Solitude,In a Sentimental Mood,Duke Ellington,2018-03-02,191293,32,0.993,0.4,0.0881,0.569,0.107,-14.588,0.0273,80.883,4
+530,Jeep's Blues,The Duke: The Columbia Years (1927-1962),Duke Ellington,2000-01-31,279026,44,0.838,0.349,0.173,0.00369,0.902,-16.072,0.0356,64.417,4
+531,Big Nick,Duke Ellington & John Coltrane,Duke Ellington,1963-02,267133,41,0.21,0.478,0.517,0.0006,0.523,-11.592,0.0447,122.97,4
+532,Caravan - Remastered,Money Jungle,Duke Ellington,2002-01-01,252866,35,0.811,0.448,0.656,0.393,0.0991,-7.993,0.0295,108.394,4
+533,"New York, New York",New York New York 1970-72,Duke Ellington,2008-05-20,168906,42,0.99,0.541,0.256,0.602,0.213,-16.317,0.0892,62.84,4
+534,Mood Indigo,In a Sentimental Mood,Duke Ellington,2018-03-02,159773,35,0.993,0.336,0.136,0.832,0.288,-12.604,0.0408,76.831,3
+535,The Star-Crossed Lovers (aka Pretty Girl),Such Sweet Thunder,Duke Ellington,1956,240000,40,0.955,0.273,0.0578,0.809,0.106,-17.078,0.0333,103.554,4
+536,Warm Valley - Remastered,Money Jungle,Duke Ellington,2002-01-01,212666,34,0.979,0.418,0.156,0.903,0.121,-13.928,0.0326,82.513,4
+537,Creole Love Call,The Duke (Remastered 2014),Duke Ellington,2014-07-29,226283,34,0.503,0.308,0.127,0.279,0.0987,-14.659,0.031,77.867,4
+538,Tourist Point of View,Far East Suite,Duke Ellington,1967,307026,27,0.188,0.313,0.422,0.000397,0.368,-12.098,0.0302,149.064,4
+539,Part V (with Mahalia Jackson) - (aka Come Sunday) [Alternate Take],"Black, Brown, & Beige (with Mahalia Jackson)",Duke Ellington,1958,350906,30,0.966,0.0728,0.0212,0.404,0.219,-27.053,0.0432,73.047,3
+540,Wig Wise - Remastered,Money Jungle,Duke Ellington,2002-01-01,200826,29,0.672,0.442,0.533,0.0669,0.285,-8.991,0.0313,113.033,4
+541,Le Sucrier Velours - The Queen's Suite,The Ellington Suites,Duke Ellington,1976-01-01,162133,30,0.957,0.191,0.0262,0.283,0.127,-22.313,0.0309,79.802,4
+542,Isfahan,Far East Suite,Duke Ellington,1967,245880,41,0.975,0.247,0.072,0.631,0.101,-13.544,0.032,173.372,3
+543,"Take The ""A"" Train",Ella Fitzgerald Sings The Duke Ellington Song Book,Ella Fitzgerald,1957-01-01,404880,42,0.564,0.43,0.356,0.0,0.0841,-11.444,0.0542,91.765,4
+544,Stardust,Jazz Profile: Duke Ellington,Duke Ellington,1997-01-01,149293,32,0.95,0.461,0.229,0.924,0.112,-8.163,0.0297,75.91,4
+545,"La Plus Belle Africaine - Live At Cote D'Azur, France, 7/28/1966",Soul Call (Live / Expanded Edition),Duke Ellington,1967-01-01,840933,34,0.774,0.457,0.19,0.375,0.191,-23.082,0.0787,137.128,4
+546,Sophisticated Lady,In a Sentimental Mood,Duke Ellington,2018-03-02,194000,33,0.988,0.437,0.229,0.715,0.309,-14.145,0.0382,87.567,4
+547,Blood Count,And His Mother Called Him Bill,Duke Ellington,1968,259160,31,0.945,0.26,0.0859,0.0728,0.197,-12.496,0.0316,79.408,3
+548,Jumpin' at the Woodside,First Time! The Count Meets The Duke,Duke Ellington,1961,188733,35,0.451,0.419,0.626,0.024,0.0884,-10.262,0.0981,133.629,4
+549,Lightning Bugs And Frogs - The Queen's Suite,The Ellington Suites,Duke Ellington,1976-01-01,169293,28,0.82,0.293,0.104,0.0158,0.0808,-18.978,0.0293,86.161,4
+550,Angelica,Duke Ellington & John Coltrane,Duke Ellington,1963-02,353560,39,0.414,0.499,0.422,0.00108,0.094,-12.215,0.0377,134.398,4
+551,Azalea,The Great Reunion,Louis Armstrong,1963,303173,44,0.6,0.676,0.113,1.56e-05,0.0696,-17.238,0.055,71.11,4
+552,It Don't Mean a Thing (If It Ain't Got That Swing),Ken Burns Jazz-Duke Ellington,Duke Ellington,2000-10-30,189000,37,0.973,0.709,0.387,0.0586,0.119,-11.245,0.371,106.736,3
+553,Jack the Bear,The Duke (Remastered 2014),Duke Ellington,2014-07-29,199413,33,0.466,0.533,0.28,9.83e-05,0.344,-12.809,0.0653,78.352,4
+554,Mount Harissa,Far East Suite,Duke Ellington,1967,462093,26,0.574,0.36,0.683,0.641,0.176,-10.706,0.0371,137.758,4
+555,Sunset And The Mocking Bird - The Queen's Suite,The Ellington Suites,Duke Ellington,1976-01-01,227426,30,0.784,0.418,0.126,0.832,0.0807,-18.577,0.034,74.253,4
+556,"Come Sunday (From Black, Brown and Beige) (with Mahalia Jackson) - Accapella","Black, Brown, & Beige (with Mahalia Jackson)",Duke Ellington,1958,347200,30,0.965,0.325,0.0135,5.64e-05,0.0984,-19.276,0.0418,84.331,4
+557,Prelude to a Kiss,In a Sentimental Mood,Duke Ellington,2018-03-02,176133,28,0.983,0.326,0.152,0.947,0.126,-16.155,0.0342,81.981,4
+558,Loveless Love,Duke Ellington Essentials,Duke Ellington,2020-02-11,427160,29,0.857,0.637,0.0403,0.000599,0.121,-22.357,0.0455,90.874,4
+559,In a Mellow Tone,The Duke (Remastered 2014),Duke Ellington,2014-07-29,173632,29,0.481,0.504,0.305,0.0,0.0306,-11.671,0.0401,148.26,4
+560,I Got It Bad (And That Ain't Good) - Live,Ellington at Newport 1956 (Complete),Duke Ellington,1956,218466,28,0.893,0.339,0.117,0.211,0.986,-19.002,0.0328,77.797,5
+561,Mood Indigo,The Complete Louis Armstrong - Duke Ellington Sessions,Louis Armstrong,1990,240040,41,0.905,0.404,0.0722,0.372,0.122,-17.763,0.0421,70.094,4
+562,All Too Soon,Piano Reflections,Duke Ellington,1989-01-01,188066,26,0.986,0.659,0.0615,0.93,0.0995,-16.521,0.0615,74.551,4
+563,Perdido - Remastered - Take 1,Jazz Indispensable,Duke Ellington,2001-03-13,190960,31,0.868,0.648,0.321,0.115,0.108,-10.513,0.0476,61.04,4
+564,Diminuendo In Blue - Live,Ellington at Newport 1956 (Complete),Duke Ellington,1956,854666,28,0.691,0.352,0.488,7.85e-05,0.646,-15.414,0.14,206.919,4

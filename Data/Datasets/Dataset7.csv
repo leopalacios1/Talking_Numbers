@@ -1,144 +1,144 @@
-,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
-0,I Wish You Were Here,Jah Victory,Alpha Blondy,2007-10-22,267120,0,0.796,0.02,0.796,0.566,0.0181,0.116,-7.857,0.0695,143.994,4
-1,Uptown Top Ranking - Remastered 2001,Uptown Top Ranking,Althea And Donna,1978-01-01,229160,60,0.886,0.0477,0.886,0.522,0.00108,0.207,-7.971,0.173,82.439,4
-2,You Made Me So Very Happy,Soul Groover,Alton Ellis,2003,173893,0,0.791,0.627,0.791,0.493,2.78e-05,0.125,-7.803,0.112,83.645,4
-3,Time Will Tell,Kaya - Deluxe Edition,Bob Marley & The Wailers,1978-03-23,205253,0,0.501,0.0579,0.501,0.3,7.96e-06,0.085,-14.958,0.191,160.351,4
-4,Easy Skanking,Kaya - Deluxe Edition,Bob Marley & The Wailers,1978-03-23,175973,49,0.814,0.0062,0.814,0.438,0.000166,0.113,-12.148,0.0386,126.711,4
-5,Kinky Reggae,Talkin' Blues,Bob Marley & The Wailers,1991-02-04,307413,0,0.732,0.153,0.732,0.532,0.00653,0.0958,-10.378,0.449,80.1,4
-6,Coming In From The Cold,Uprising,Bob Marley & The Wailers,1980,271023,0,0.734,0.258,0.734,0.631,2.4e-06,0.0752,-6.887,0.098,141.478,4
-7,Surfin',Below The Bassline,Ernest Ranglin,1996-01-01,343600,0,0.742,0.111,0.742,0.239,0.671,0.101,-17.714,0.0856,139.856,4
-8,"The Harder They Come - From ""The Harder They Come"" Soundtrack",The Harder They Come,Jimmy Cliff,1972-01-01,219906,0,0.679,0.645,0.679,0.589,0.0,0.151,-8.01,0.0727,102.492,4
-9,Tus Ojos,Suena la Alarma,Los Cafres,1997-09-01,254865,67,0.853,0.0234,0.853,0.48,0.000618,0.0323,-9.052,0.0512,92.157,4
-10,Bastará,Barrilete,Los Cafres,2007-11-11,279920,61,0.734,0.205,0.734,0.604,3.12e-06,0.254,-5.916,0.0548,84.965,4
-11,Momento,Barrilete,Los Cafres,2007-11-11,349520,56,0.72,0.18,0.72,0.693,9.19e-06,0.0626,-6.226,0.088,86.983,4
-12,De Mi Mente,Espejitos,Los Cafres,2000-09-02,227999,52,0.787,0.046,0.787,0.401,3.38e-05,0.0601,-13.478,0.262,165.862,4
-13,Casi q' me pierdo,El Paso Gigante,Los Cafres,2011-09-27,265691,64,0.697,0.0216,0.697,0.638,0.00286,0.103,-5.246,0.091,165.929,4
-14,Si El Amor Se Cae,¿Quién da Más ?,Los Cafres,2004-09-03,271000,55,0.624,0.102,0.624,0.618,5.88e-06,0.0853,-5.586,0.123,169.844,4
-15,Aire,Espejitos,Los Cafres,2000-09-02,257999,51,0.746,0.192,0.746,0.318,9.86e-05,0.0736,-13.831,0.059,167.878,4
-16,Pupilas Lejanas,Ritual De Los Pericos,Los Pericos,2002,234733,52,0.698,0.135,0.698,0.516,0.0,0.081,-8.609,0.0321,75.01,3
-17,Sentimiento Original,Gondwana,Gondwana,1997,292800,64,0.746,0.0147,0.746,0.602,0.0,0.0688,-8.825,0.102,86.586,4
-18,La complicidad,La Dulzura,Cultura Profética,2010-08-24,363920,0,0.659,0.134,0.659,0.746,2.33e-05,0.171,-5.636,0.0923,128.982,4
-19,Runaway,Pericos & Friends,Los Pericos,2010-09-28,233267,65,0.676,0.0438,0.676,0.731,1.26e-05,0.624,-5.253,0.0368,150.151,4
-20,Armonia De Amor,Gondwana,Gondwana,1997,234773,60,0.732,0.328,0.732,0.461,0.0,0.407,-9.667,0.0539,157.414,4
-21,Ilegal,La Dulzura,Cultura Profética,2010-08-24,305000,0,0.827,0.35,0.827,0.587,0.0,0.0907,-4.666,0.0485,116.901,4
-22,007 (Shanty Town),This Is Crucial Reggae - Desmond Dekker,Desmond Dekker,2007,153600,0,0.86,0.0669,0.86,0.575,0.159,0.179,-6.747,0.0893,101.715,4
-23,Take Five,Step Forward,New York Ska-Jazz Ensemble,2008,304000,14,0.621,0.00699,0.621,0.397,0.765,0.0796,-9.53,0.0484,147.38,4
-24,The Great Gig In The Sky,Dub Side Of The Moon,Easy Star All-Stars,2003-02-18,265066,38,0.787,0.365,0.787,0.73,0.835,0.0917,-5.792,0.0357,126.366,4
-25,Perfidia (with Tommy McCook & The Supersonics),Love Is All I Had: A Tribute to the Queen of Jamaican Soul,Phyllis Dillon,2004-01-01,166333,46,0.771,0.412,0.771,0.441,0.0201,0.0967,-9.678,0.0292,91.457,4
-26,No Tan Distintos,Obras Cumbres,Sumo,1985,159866,0,0.698,0.232,0.698,0.736,4.73e-05,0.084,-6.082,0.0669,174.569,4
-27,A la par del amor,A la par del amor,Manu Chao,2017-06-23,272000,44,0.895,0.155,0.895,0.62,3.25e-06,0.0708,-6.968,0.303,88.529,4
-28,Whole Lotta Love,Un-Led-Ed,Dread Zeppelin,1990-01-01,278400,23,0.392,0.0685,0.392,0.77,0.00803,0.0375,-10.385,0.099,84.024,4
-29,Don't Let Me Down,Play Me Sweet and Nice,Marcia Griffiths,2006-01-01,204533,51,0.691,0.404,0.691,0.662,0.00509,0.465,-10.045,0.053,157.367,4
-30,Love Is Strange - 1993 Digital Remaster,Wild Life,Wings,1971-12-07,288466,0,0.819,0.0102,0.819,0.34,0.0013,0.186,-14.198,0.0563,122.074,4
-31,Lonely Boy,Singasong,Taggy Matcher,2014-11-28,236442,44,0.822,0.42,0.822,0.554,8.14e-05,0.383,-12.466,0.0305,130.976,4
-32,Iyat Ninhay / Jaguar (A Great Desert I Saw),Azel,Bombino,2016-04-01,367185,0,0.215,0.000939,0.215,0.835,0.255,0.518,-6.756,0.0504,78.689,4
-33,Whole Lotta Love,Version Excursions,The Dynamics,2007,263533,0,0.73,0.0792,0.73,0.543,0.559,0.11,-8.418,0.0638,166.024,4
-34,Cherry Oh Baby - Remastered,Black And Blue (Remastered 2009),The Rolling Stones,1976-04-23,234200,36,0.835,0.164,0.835,0.421,0.00307,0.028,-8.484,0.0787,144.024,4
-35,I Wonder,Best of (Deluxe Edition),Protassov,2011-09-09,249495,37,0.773,0.17,0.773,0.79,0.125,0.096,-7.523,0.0985,80.081,4
-36,Ali Baba,The Best of John Holt,John Holt,2016-06-17,155946,30,0.808,0.394,0.808,0.522,0.00761,0.114,-8.324,0.0945,79.951,4
-37,Let Down,Radiodread,Easy Star All-Stars,2006,284400,0,0.747,0.137,0.747,0.571,3.75e-05,0.0877,-6.243,0.0401,113.08,4
-38,Straight to Hell,Straight to Hell,Various Artists,2017-04-14,314549,36,0.63,0.0184,0.63,0.937,0.00288,0.27,-4.038,0.103,75.927,4
-39,Rave On,Großes Kino,Blumentopf,1999-08-02,113533,44,0.954,0.639,0.954,0.334,0.000162,0.334,-13.664,0.164,105.918,4
-40,54-46 Was My Number,In The Dark,Toots & The Maytals,1973-03-01,204026,58,0.685,0.18,0.685,0.36,0.0,0.112,-9.572,0.0568,160.448,4
-41,Pimper's Paradise,Uprising,Bob Marley & The Wailers,1980,207773,61,0.939,0.00557,0.939,0.65,0.0,0.0429,-8.282,0.0615,134.727,4
-42,Ba Ba Boom,Ba Ba Boom,The Jamaicans,2011-08-11,201706,46,0.683,0.661,0.683,0.387,0.000981,0.139,-11.362,0.0816,151.921,4
-43,"Take Me Home, Country Roads",In The Dark,Toots & The Maytals,1973-03-01,202733,32,0.614,0.52,0.614,0.422,0.00117,0.0616,-12.713,0.136,175.019,4
-44,All My Loving,"Ska and Rocksteady Collection, Vol. 1",Prince Buster,2016-04-01,110088,48,0.771,0.974,0.771,0.439,0.000452,0.13,-5.835,0.1,157.436,4
-45,Jah Jah Know,Hebron Gate,Groundation,2003,363866,26,0.727,0.0994,0.727,0.503,9e-06,0.31,-9.565,0.181,81.777,4
-46,I Chase The Devil,Lee 'Scratch' Perry & The Upsetters: Super Ape & Return of the Super Ape,"Lee ""Scratch"" Perry",2012-11-26,410373,48,0.854,0.144,0.854,0.441,4.5e-06,0.135,-11.564,0.391,149.029,4
-47,You Haven't Called,You Haven't Called,UB40,2019-01-18,367200,17,0.785,0.0612,0.785,0.599,0.0673,0.141,-7.06,0.0423,145.976,4
-48,So True,On the Sun,The Black Seeds,2004-06-01,234880,0,0.708,0.107,0.708,0.634,7.87e-05,0.0702,-6.161,0.0817,164.145,4
-49,I'm Still In Love,Legend,Alton Ellis,2009,268080,37,0.749,0.154,0.749,0.411,0.000137,0.119,-12.469,0.0392,83.459,4
-50,"Rudy, A Message To You",Suzanne Beware of the Devil - The Best of Dandy Livingstone,Dandy Livingstone,2002-12-10,168480,54,0.931,0.0694,0.931,0.39,0.115,0.0807,-9.959,0.102,107.305,4
-51,Tu Sin Mi,Vivi En Do,Dread Mar I,2010-05-01,245055,63,0.803,0.143,0.803,0.418,0.0,0.0524,-5.751,0.0318,83.965,4
-52,Funky Kingston,Funky Kingston,Toots & The Maytals,1973-01-01,295666,58,0.777,0.265,0.777,0.458,0.00295,0.0423,-12.358,0.0841,99.05,4
-53,Legalize It,Legalize It (Legacy Edition),Peter Tosh,1976,279360,58,0.71,0.068,0.71,0.589,4.38e-06,0.176,-11.933,0.167,144.601,4
-54,Tainted Love,Night Fever / Tainted Love,Grandmagneto,2007-05-18,176013,40,0.756,0.201,0.756,0.454,0.0,0.0635,-8.074,0.0579,143.095,4
-55,Police & Thieves,Police And Thieves,Junior Murvin,1977-01-01,244306,0,0.933,0.0583,0.933,0.363,0.0,0.161,-13.328,0.0971,127.158,4
-56,Miss You - Long Edit,Version Excursions,The Dynamics,2007,415640,48,0.814,0.271,0.814,0.75,0.104,0.12,-7.364,0.0725,95.346,4
-57,Calaveras y Diablitos,Fabulosos Exitos,Los Fabulosos Cadillacs,2004,264026,50,0.701,0.511,0.701,0.46,9.84e-05,0.214,-6.141,0.0421,92.725,4
-58,Vasos Vacíos - Remasterizado 2008,El Ritmo Mundial,Los Fabulosos Cadillacs,1988-06-18,279986,72,0.708,0.346,0.708,0.672,1.97e-05,0.382,-5.538,0.0352,134.635,4
-59,Rock the Casbah,"Vintage Reggae Café, Vol. 3",Various Artists,2015-06-23,230925,40,0.936,0.0111,0.936,0.572,0.0,0.0744,-11.061,0.0344,126.072,4
-60,My Master's Will,Reggae Knights,Israel Vibration,2010-12-01,274466,45,0.857,0.153,0.857,0.537,0.0,0.101,-7.392,0.242,143.757,4
-61,Mellow Mood - Wail'n'Soul'm Version,Africa Unite: The Singles Collection (UK edition - 2 disc set),Bob Marley & The Wailers,2005-01-01,206906,0,0.69,0.374,0.69,0.456,0.0,0.142,-7.551,0.0308,88.48,4
-62,"Kinky Reggae - Live At The Record Plant, 1973",Talkin' Blues,Bob Marley & The Wailers,1991-02-04,307413,37,0.727,0.15,0.727,0.53,0.00375,0.099,-10.376,0.453,80.042,4
-63,Waiting In Vain,Exodus,Bob Marley & The Wailers,1977-01-01,256240,0,0.83,0.0292,0.83,0.463,1.58e-05,0.0589,-11.644,0.335,78.876,4
-64,Bam Bam,One Two,Sister Nancy,2002-03-15,196506,1,0.722,0.825,0.722,0.605,0.0178,0.248,-6.07,0.153,165.998,4
-65,"Verde, Amarillo Y Rojo",Alabanza,Gondwana,2000,246333,51,0.667,0.0218,0.667,0.581,4.98e-05,0.0808,-8.271,0.059,78.701,4
-66,What Does It Take (To Win Your Love),Be True to Yourself: The Godfather of Lover's Rock (Anthology 1965-1973),Alton Ellis,2004-11-23,199560,49,0.812,0.11,0.812,0.448,0.00126,0.0542,-11.048,0.0505,116.557,4
-67,Train to Skaville,Engine 54,The Ethiopians,1968-01-01,177000,53,0.792,0.229,0.792,0.256,0.548,0.35,-12.525,0.191,87.774,4
-68,A Message to You Rudy - 2002 Remaster,The Specials (2002 Remaster),The Specials,1979-11-01,172600,63,0.906,0.149,0.906,0.45,0.000232,0.168,-8.003,0.0627,103.476,4
-69,Balu,Codigos Del Alma,Rastrillos,2000,216013,43,0.707,0.187,0.707,0.728,5.33e-05,0.121,-7.985,0.221,179.751,4
-70,The Immortal Dub,The Dub Express Platinum Edition,King Tubby,2012-05-30,194000,5,0.796,0.0133,0.796,0.459,0.854,0.109,-10.072,0.252,76.492,4
-71,I Don't Wanna Wait,Born In Babylon,SOJA,2010-05-05,357539,58,0.803,0.0333,0.803,0.536,1.3e-05,0.174,-5.136,0.0387,126.039,4
-72,Reggae Is Coming,Grandes Exitos,Gondwana,2015-07-17,252733,34,0.7,0.016,0.7,0.626,0.0,0.132,-11.278,0.102,149.502,4
-73,Bella Donna,De Jonge Jaren van Doe Maar - 50 jaar Nederpop,Doe Maar,2008-01-01,194746,28,0.729,0.00765,0.729,0.51,0.651,0.177,-11.754,0.0405,137.205,4
-74,Hypnotized Again,REFABRICATED: Fabric Remixes & Rarities,The Black Seeds,2019-07-05,280360,13,0.711,0.161,0.711,0.666,0.00337,0.221,-9.078,0.0357,81.615,4
-75,Natty Dread,Natty Dread,Bob Marley & The Wailers,1974,215666,48,0.773,0.424,0.773,0.439,0.000126,0.0464,-9.778,0.327,88.364,4
-76,Bowl For Two,Gettin' Filthy,The Expendables,2004-09-28,283426,62,0.728,0.0749,0.728,0.5,5.84e-06,0.108,-6.214,0.0344,138.528,4
-77,High on Your Love,The Outsiders Are Back,Kings Go Forth,2010-04-19,253653,29,0.588,0.0142,0.588,0.701,4.83e-05,0.179,-3.208,0.0364,79.577,4
-78,The Loser,The Loser / Now We Know,Derrick Harriott,2012,218653,47,0.725,0.194,0.725,0.641,0.00498,0.091,-6.135,0.0481,87.732,4
-79,All My Tears,Nothing More to Say,The Frightnrs,2016-09-02,247826,36,0.76,0.629,0.76,0.649,0.00409,0.227,-6.958,0.037,108.088,4
-80,Párate Y Mira,Pampas Reggae,Los Pericos,1994-01-01,247800,56,0.759,0.155,0.759,0.834,0.0,0.124,-6.92,0.0476,90.26,4
-81,Soul Shakedown Party,In The Beginning,Bob Marley & The Wailers,2001-01-01,187266,2,0.86,0.505,0.86,0.347,0.0,0.0967,-14.495,0.0846,131.492,4
-82,Beep Beep,Black Beauty (Deluxe Version),Love,2015-09-11,133767,26,0.683,0.159,0.683,0.854,0.0,0.0547,-7.152,0.093,168.883,1
-83,Johnny Too Bad,Classic Reggae,Various Artists,2019-03-22,185840,31,0.728,0.151,0.728,0.446,0.163,0.23,-14.546,0.16,165.357,4
-84,Occapella,Goodnight Vienna,Ringo Starr,1974,176400,40,0.753,0.084,0.753,0.244,2.82e-06,0.0607,-19.395,0.253,83.703,4
-85,Turn It Around,On the Sun,The Black Seeds,2004,273080,27,0.798,0.0673,0.798,0.864,0.412,0.383,-4.977,0.0642,76.012,4
-86,70s 80s,Mind Elevation,Nightmares On Wax,2002-09-02,332853,50,0.764,0.00232,0.764,0.521,0.000411,0.0751,-11.174,0.0937,174.009,4
-87,Thinking of You,Melodies,Lord Echo,2010-12-06,420720,63,0.723,0.0491,0.723,0.754,0.00112,0.393,-9.376,0.0576,97.201,4
-88,Low to the Street,Harmonies,Lord Echo,2017-04-07,308989,52,0.782,0.212,0.782,0.614,0.781,0.16,-6.906,0.0475,97.575,4
-89,I Can See Clearly Now,I Can See Clearly Now (Expanded Edition),Johnny Nash,1972-09-23,166786,54,0.591,0.318,0.591,0.53,0.00558,0.0938,-8.905,0.0371,123.899,4
-90,One Drop,Survival,Bob Marley & The Wailers,1979,231773,0,0.901,0.113,0.901,0.472,1e-05,0.152,-7.365,0.231,121.242,4
-91,Fu Man Chu,This Is Desmond Dekker (Enhanced Edition),Desmond Dekker,1969-01-01,189440,39,0.724,0.471,0.724,0.324,0.0059,0.112,-12.455,0.0484,83.614,4
-92,Pressure Drop,Monkey Man,The Maytals,1969-01-01,177440,55,0.605,0.0503,0.605,0.641,0.0,0.121,-8.291,0.0446,146.84,4
-93,The Tide Is High - Stereo Version,On the Beach: The Anthology,The Paragons,1967-01-01,161973,55,0.451,0.241,0.451,0.433,0.0,0.472,-9.189,0.0291,96.287,4
-94,Nothing More to Say,Nothing More to Say,The Frightnrs,2016-09-02,251720,42,0.891,0.328,0.891,0.445,0.000426,0.242,-9.853,0.0558,105.674,4
-95,Will You Promise,My Love and Music,Ebo Taylor,1975,226480,45,0.589,0.142,0.589,0.681,5.44e-05,0.794,-8.833,0.0454,90.373,4
-96,Evolution,Warriors of light,Mo'kalamity,2007-02-27,331413,47,0.951,0.0111,0.951,0.571,4.16e-05,0.202,-7.259,0.0558,107.984,4
-97,Is This Love,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,230733,64,0.775,0.108,0.775,0.559,0.0,0.0945,-8.377,0.088,122.229,4
-98,"No Woman, No Cry - Live At The Lyceum, London/1975",Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,428360,63,0.641,0.276,0.641,0.657,0.0261,0.713,-9.354,0.0604,78.132,4
-99,Could You Be Loved,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,237133,63,0.913,0.372,0.913,0.724,0.000201,0.0824,-8.527,0.105,103.33,4
-100,Three Little Birds,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,180440,63,0.825,0.00974,0.825,0.494,5.15e-06,0.0361,-10.486,0.0698,74.103,4
-101,Buffalo Soldier,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,257786,62,0.93,0.128,0.93,0.462,9.3e-06,0.175,-8.643,0.277,124.065,4
-102,"Get Up, Stand Up",Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,197573,61,0.797,0.229,0.797,0.574,0.0,0.0602,-7.268,0.373,78.183,4
-103,Stir It Up,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,330760,62,0.751,0.642,0.751,0.463,0.208,0.0314,-10.96,0.104,150.191,4
-104,Easy Skanking,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,177440,60,0.824,0.0159,0.824,0.522,3.12e-06,0.105,-8.567,0.0384,126.238,4
-105,One Love / People Get Ready - Medley,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,172200,60,0.73,0.0716,0.73,0.508,0.0,0.0605,-9.575,0.319,76.494,4
-106,I Shot The Sheriff,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,280466,59,0.797,0.338,0.797,0.644,6.51e-05,0.0592,-9.253,0.188,96.87,4
-107,Waiting In Vain,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,256493,59,0.838,0.025,0.838,0.453,2.42e-05,0.116,-11.536,0.31,78.837,4
-108,Redemption Song,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,227840,60,0.666,0.585,0.666,0.259,0.0,0.079,-10.721,0.04,116.082,4
-109,Satisfy My Soul,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,271200,59,0.781,0.00294,0.781,0.412,9.85e-05,0.213,-9.187,0.188,127.968,4
-110,Exodus,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,459666,57,0.865,0.0329,0.865,0.746,0.00396,0.141,-8.58,0.0486,132.846,4
-111,Jamming,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,211426,59,0.941,0.129,0.941,0.462,9.82e-05,0.114,-11.029,0.282,123.674,4
-112,Punky Reggae Party,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,412026,57,0.812,0.0219,0.812,0.638,0.161,0.0856,-8.116,0.0613,135.165,4
-113,Three Little Birds,Exodus,Bob Marley & The Wailers,1977-01-01,180266,1,0.807,0.0102,0.807,0.487,1.98e-06,0.0501,-10.456,0.0758,148.491,4
-114,Is This Love,Legend (Deluxe Edition),Bob Marley & The Wailers,2002-01-01,230800,0,0.775,0.119,0.775,0.563,0.0,0.155,-8.225,0.0815,122.269,4
-115,Could You Be Loved,Uprising,Bob Marley & The Wailers,1980,237000,77,0.916,0.36,0.916,0.72,0.00016,0.0958,-8.548,0.1,103.312,4
-116,One Love / People Get Ready,Exodus,Bob Marley & The Wailers,1977-01-01,172933,0,0.719,0.0912,0.719,0.515,0.0,0.0791,-9.72,0.348,76.518,4
-117,Satisfy My Soul,Kaya,Bob Marley & The Wailers,1978,271000,64,0.779,0.00333,0.779,0.418,0.000138,0.252,-9.207,0.188,127.942,4
-118,"No Woman, No Cry - Live At The Lyceum, London/1975",Live!,Bob Marley & The Wailers,1975-01-01,427800,69,0.655,0.272,0.655,0.675,0.0236,0.727,-9.352,0.0599,77.589,4
-119,Stir It Up - Original Album Version,Catch A Fire,Bob Marley & The Wailers,1973-04-13,332400,63,0.76,0.621,0.76,0.462,0.32,0.0758,-11.003,0.103,146.655,4
-120,Redemption Song,Uprising,Bob Marley & The Wailers,1980,233560,70,0.671,0.608,0.671,0.256,0.0,0.0737,-10.743,0.0387,115.871,4
-121,Buffalo Soldier,Confrontation,Bob Marley & The Wailers,1983,255840,72,0.929,0.142,0.929,0.463,5.26e-06,0.0634,-8.651,0.308,124.084,4
-122,War / No More Trouble - Live,Exodus,Bob Marley & The Wailers,1977-01-01,464333,0,0.658,0.516,0.658,0.606,0.000862,0.985,-8.745,0.422,79.3,4
-123,Jamming,Exodus,Bob Marley & The Wailers,1977-01-01,211000,0,0.937,0.138,0.937,0.472,4.91e-05,0.117,-11.029,0.3,123.674,4
-124,Positive Vibration,Rastaman Vibration,Bob Marley & The Wailers,1976-04-30,213920,58,0.918,0.0184,0.918,0.37,0.00166,0.0802,-11.807,0.0564,131.884,4
-125,"Is This Love - Live At The Pavillon De Paris, 1977",Babylon By Bus,Bob Marley & The Wailers,1978-01-01,447573,53,0.574,0.00408,0.574,0.765,0.029,0.965,-7.153,0.0593,137.241,4
-126,Forever Loving Jah,Uprising,Bob Marley & The Wailers,1980,242333,60,0.774,0.0595,0.774,0.531,0.0,0.0409,-7.176,0.0446,142.001,4
-127,Coming In From The Cold,Uprising,Bob Marley & The Wailers,1980,271023,60,0.734,0.258,0.734,0.631,2.4e-06,0.0752,-6.887,0.098,141.478,4
-128,I Shot The Sheriff - Live At The Roxy,Live At The Roxy - The Complete Concert,Bob Marley & The Wailers,2003-01-01,393480,54,0.727,0.533,0.727,0.795,0.000105,0.71,-5.226,0.115,139.57,4
-129,One Drop,Survival,Bob Marley & The Wailers,1979,231773,61,0.901,0.12,0.901,0.478,1.05e-05,0.165,-7.39,0.237,121.244,4
-130,Rastaman Live Up,Confrontation,Bob Marley & The Wailers,1983,327133,58,0.904,0.181,0.904,0.33,0.0254,0.0471,-11.117,0.124,130.688,4
-131,Zimbabwe,Survival,Bob Marley & The Wailers,1979,231266,59,0.932,0.0901,0.932,0.611,0.00156,0.0467,-8.278,0.0853,125.238,4
-132,Trenchtown Rock - Live At The Roxy Theatre,Live At The Roxy - The Complete Concert,Bob Marley & The Wailers,2003-01-01,295733,53,0.755,0.586,0.755,0.57,0.0,0.993,-7.334,0.0995,134.436,4
-133,Africa Unite,Survival,Bob Marley & The Wailers,1979,175626,59,0.904,0.191,0.904,0.431,0.00179,0.0928,-10.14,0.116,127.57,4
-134,Exodus,Exodus,Bob Marley & The Wailers,1977-01-01,460226,0,0.869,0.0296,0.869,0.735,0.00339,0.163,-8.501,0.0552,132.821,4
-135,"Lively Up Yourself - Live At Music Hall, Boston / 1978",Easy Skanking In Boston '78,Bob Marley & The Wailers,2015-02-03,469653,53,0.598,0.108,0.598,0.772,2.84e-05,0.269,-8.444,0.0646,76.276,4
-136,Time Will Tell,Kaya - Deluxe Edition,Bob Marley & The Wailers,1978-03-23,205253,57,0.504,0.0552,0.504,0.301,6.37e-06,0.0849,-14.982,0.22,161.031,4
-137,Iron Lion Zion,Gold,Bob Marley & The Wailers,2004-01-01,193586,0,0.715,0.0113,0.715,0.598,0.00058,0.197,-7.912,0.0403,142.386,4
-138,Babylon System,Survival,Bob Marley & The Wailers,1979,261839,56,0.766,0.121,0.766,0.429,0.0,0.0619,-11.912,0.125,91.392,4
-139,Rastaman Chant,Chant Down Babylon,Bob Marley & The Wailers,1999-01-01,258626,56,0.831,0.073,0.831,0.687,4.58e-06,0.273,-5.08,0.219,95.664,4
-140,Turn Your Lights Down Low,Chant Down Babylon,Bob Marley & The Wailers,1999-01-01,346333,62,0.733,0.0137,0.733,0.668,1.57e-06,0.0393,-5.3,0.0685,83.11,4
-141,No More Fighting - 2001 Digital Remaster,Uptown Top Ranking,Althea And Donna,1978-01-01,217560,46,0.784,0.272,0.784,0.662,0.00181,0.0502,-9.183,0.135,79.535,4
-142,Drifting Along - Remastered,Travelling Without Moving (Remastered),Jamiroquai,1996-09-09,245786,44,0.777,0.0467,0.777,0.545,0.73,0.0611,-7.591,0.0483,96.17,4
+,name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,I Wish You Were Here,Jah Victory,Alpha Blondy,2007-10-22,267120,0,0.02,0.796,0.566,0.0181,0.116,-7.857,0.0695,143.994,4
+1,Uptown Top Ranking - Remastered 2001,Uptown Top Ranking,Althea And Donna,1978-01-01,229160,60,0.0477,0.886,0.522,0.00108,0.207,-7.971,0.173,82.439,4
+2,You Made Me So Very Happy,Soul Groover,Alton Ellis,2003,173893,0,0.627,0.791,0.493,2.78e-05,0.125,-7.803,0.112,83.645,4
+3,Time Will Tell,Kaya - Deluxe Edition,Bob Marley & The Wailers,1978-03-23,205253,0,0.0579,0.501,0.3,7.96e-06,0.085,-14.958,0.191,160.351,4
+4,Easy Skanking,Kaya - Deluxe Edition,Bob Marley & The Wailers,1978-03-23,175973,49,0.0062,0.814,0.438,0.000166,0.113,-12.148,0.0386,126.711,4
+5,Kinky Reggae,Talkin' Blues,Bob Marley & The Wailers,1991-02-04,307413,0,0.153,0.732,0.532,0.00653,0.0958,-10.378,0.449,80.1,4
+6,Coming In From The Cold,Uprising,Bob Marley & The Wailers,1980,271023,0,0.258,0.734,0.631,2.4e-06,0.0752,-6.887,0.098,141.478,4
+7,Surfin',Below The Bassline,Ernest Ranglin,1996-01-01,343600,0,0.111,0.742,0.239,0.671,0.101,-17.714,0.0856,139.856,4
+8,"The Harder They Come - From ""The Harder They Come"" Soundtrack",The Harder They Come,Jimmy Cliff,1972-01-01,219906,0,0.645,0.679,0.589,0.0,0.151,-8.01,0.0727,102.492,4
+9,Tus Ojos,Suena la Alarma,Los Cafres,1997-09-01,254865,67,0.0234,0.853,0.48,0.000618,0.0323,-9.052,0.0512,92.157,4
+10,Bastará,Barrilete,Los Cafres,2007-11-11,279920,61,0.205,0.734,0.604,3.12e-06,0.254,-5.916,0.0548,84.965,4
+11,Momento,Barrilete,Los Cafres,2007-11-11,349520,56,0.18,0.72,0.693,9.19e-06,0.0626,-6.226,0.088,86.983,4
+12,De Mi Mente,Espejitos,Los Cafres,2000-09-02,227999,52,0.046,0.787,0.401,3.38e-05,0.0601,-13.478,0.262,165.862,4
+13,Casi q' me pierdo,El Paso Gigante,Los Cafres,2011-09-27,265691,64,0.0216,0.697,0.638,0.00286,0.103,-5.246,0.091,165.929,4
+14,Si El Amor Se Cae,¿Quién da Más ?,Los Cafres,2004-09-03,271000,55,0.102,0.624,0.618,5.88e-06,0.0853,-5.586,0.123,169.844,4
+15,Aire,Espejitos,Los Cafres,2000-09-02,257999,51,0.192,0.746,0.318,9.86e-05,0.0736,-13.831,0.059,167.878,4
+16,Pupilas Lejanas,Ritual De Los Pericos,Los Pericos,2002,234733,52,0.135,0.698,0.516,0.0,0.081,-8.609,0.0321,75.01,3
+17,Sentimiento Original,Gondwana,Gondwana,1997,292800,64,0.0147,0.746,0.602,0.0,0.0688,-8.825,0.102,86.586,4
+18,La complicidad,La Dulzura,Cultura Profética,2010-08-24,363920,0,0.134,0.659,0.746,2.33e-05,0.171,-5.636,0.0923,128.982,4
+19,Runaway,Pericos & Friends,Los Pericos,2010-09-28,233267,65,0.0438,0.676,0.731,1.26e-05,0.624,-5.253,0.0368,150.151,4
+20,Armonia De Amor,Gondwana,Gondwana,1997,234773,60,0.328,0.732,0.461,0.0,0.407,-9.667,0.0539,157.414,4
+21,Ilegal,La Dulzura,Cultura Profética,2010-08-24,305000,0,0.35,0.827,0.587,0.0,0.0907,-4.666,0.0485,116.901,4
+22,007 (Shanty Town),This Is Crucial Reggae - Desmond Dekker,Desmond Dekker,2007,153600,0,0.0669,0.86,0.575,0.159,0.179,-6.747,0.0893,101.715,4
+23,Take Five,Step Forward,New York Ska-Jazz Ensemble,2008,304000,12,0.00699,0.621,0.397,0.765,0.0796,-9.53,0.0484,147.38,4
+24,The Great Gig In The Sky,Dub Side Of The Moon,Easy Star All-Stars,2003-02-18,265066,38,0.365,0.787,0.73,0.835,0.0917,-5.792,0.0357,126.366,4
+25,Perfidia (with Tommy McCook & The Supersonics),Love Is All I Had: A Tribute to the Queen of Jamaican Soul,Phyllis Dillon,2004-01-01,166333,46,0.412,0.771,0.441,0.0201,0.0967,-9.678,0.0292,91.457,4
+26,No Tan Distintos,Obras Cumbres,Sumo,1985,159866,0,0.232,0.698,0.736,4.73e-05,0.084,-6.082,0.0669,174.569,4
+27,A la par del amor,A la par del amor,Manu Chao,2017-06-23,272000,45,0.155,0.895,0.62,3.25e-06,0.0708,-6.968,0.303,88.529,4
+28,Whole Lotta Love,Un-Led-Ed,Dread Zeppelin,1990-01-01,278400,23,0.0685,0.392,0.77,0.00803,0.0375,-10.385,0.099,84.024,4
+29,Don't Let Me Down,Play Me Sweet and Nice,Marcia Griffiths,2006-01-01,204533,52,0.404,0.691,0.662,0.00509,0.465,-10.045,0.053,157.367,4
+30,Love Is Strange - 1993 Digital Remaster,Wild Life,Wings,1971-12-07,288466,0,0.0102,0.819,0.34,0.0013,0.186,-14.198,0.0563,122.074,4
+31,Lonely Boy,Singasong,Taggy Matcher,2014-11-28,236442,44,0.42,0.822,0.554,8.14e-05,0.383,-12.466,0.0305,130.976,4
+32,Iyat Ninhay / Jaguar (A Great Desert I Saw),Azel,Bombino,2016-04-01,367185,0,0.000939,0.215,0.835,0.255,0.518,-6.756,0.0504,78.689,4
+33,Whole Lotta Love,Version Excursions,The Dynamics,2007,263533,0,0.0792,0.73,0.543,0.559,0.11,-8.418,0.0638,166.024,4
+34,Cherry Oh Baby - Remastered,Black And Blue (Remastered 2009),The Rolling Stones,1976-04-23,234200,36,0.164,0.835,0.421,0.00307,0.028,-8.484,0.0787,144.024,4
+35,I Wonder,Best of (Deluxe Edition),Protassov,2011-09-09,249495,37,0.17,0.773,0.79,0.125,0.096,-7.523,0.0985,80.081,4
+36,Ali Baba,The Best of John Holt,John Holt,2016-06-17,155946,31,0.394,0.808,0.522,0.00761,0.114,-8.324,0.0945,79.951,4
+37,Let Down,Radiodread,Easy Star All-Stars,2006,284400,0,0.137,0.747,0.571,3.75e-05,0.0877,-6.243,0.0401,113.08,4
+38,Straight to Hell,Straight to Hell,Various Artists,2017-04-14,314549,36,0.0184,0.63,0.937,0.00288,0.27,-4.038,0.103,75.927,4
+39,Rave On,Großes Kino,Blumentopf,1999-08-02,113533,46,0.639,0.954,0.334,0.000162,0.334,-13.664,0.164,105.918,4
+40,54-46 Was My Number,In The Dark,Toots & The Maytals,1973-03-01,204026,58,0.18,0.685,0.36,0.0,0.112,-9.572,0.0568,160.448,4
+41,Pimper's Paradise,Uprising,Bob Marley & The Wailers,1980,207773,62,0.00557,0.939,0.65,0.0,0.0429,-8.282,0.0615,134.727,4
+42,Ba Ba Boom,Ba Ba Boom,The Jamaicans,2011-08-11,201706,46,0.661,0.683,0.387,0.000981,0.139,-11.362,0.0816,151.921,4
+43,"Take Me Home, Country Roads",In The Dark,Toots & The Maytals,1973-03-01,202733,33,0.52,0.614,0.422,0.00117,0.0616,-12.713,0.136,175.019,4
+44,All My Loving,"Ska and Rocksteady Collection, Vol. 1",Prince Buster,2016-04-01,110088,48,0.974,0.771,0.439,0.000452,0.13,-5.835,0.1,157.436,4
+45,Jah Jah Know,Hebron Gate,Groundation,2003,363866,23,0.0994,0.727,0.503,9e-06,0.31,-9.565,0.181,81.777,4
+46,I Chase The Devil,Lee 'Scratch' Perry & The Upsetters: Super Ape & Return of the Super Ape,"Lee ""Scratch"" Perry",2012-11-26,410373,48,0.144,0.854,0.441,4.5e-06,0.135,-11.564,0.391,149.029,4
+47,You Haven't Called,You Haven't Called,UB40,2019-01-18,367200,17,0.0612,0.785,0.599,0.0673,0.141,-7.06,0.0423,145.976,4
+48,So True,On the Sun,The Black Seeds,2004-06-01,234880,0,0.107,0.708,0.634,7.87e-05,0.0702,-6.161,0.0817,164.145,4
+49,I'm Still In Love,Legend,Alton Ellis,2009,268080,34,0.154,0.749,0.411,0.000137,0.119,-12.469,0.0392,83.459,4
+50,"Rudy, A Message To You",Suzanne Beware of the Devil - The Best of Dandy Livingstone,Dandy Livingstone,2002-12-10,168480,54,0.0694,0.931,0.39,0.115,0.0807,-9.959,0.102,107.305,4
+51,Tu Sin Mi,Vivi En Do,Dread Mar I,2010-05-01,245055,60,0.143,0.803,0.418,0.0,0.0524,-5.751,0.0318,83.965,4
+52,Funky Kingston,Funky Kingston,Toots & The Maytals,1973-01-01,295666,58,0.265,0.777,0.458,0.00295,0.0423,-12.358,0.0841,99.05,4
+53,Legalize It,Legalize It (Legacy Edition),Peter Tosh,1976,279360,59,0.068,0.71,0.589,4.38e-06,0.176,-11.933,0.167,144.601,4
+54,Tainted Love,Night Fever / Tainted Love,Grandmagneto,2007-05-18,176013,40,0.201,0.756,0.454,0.0,0.0635,-8.074,0.0579,143.095,4
+55,Police & Thieves,Police And Thieves,Junior Murvin,1977-01-01,244306,0,0.0583,0.933,0.363,0.0,0.161,-13.328,0.0971,127.158,4
+56,Miss You - Long Edit,Version Excursions,The Dynamics,2007,415640,48,0.271,0.814,0.75,0.104,0.12,-7.364,0.0725,95.346,4
+57,Calaveras y Diablitos,Fabulosos Exitos,Los Fabulosos Cadillacs,2004,264026,50,0.511,0.701,0.46,9.84e-05,0.214,-6.141,0.0421,92.725,4
+58,Vasos Vacíos - Remasterizado 2008,El Ritmo Mundial,Los Fabulosos Cadillacs,1988-06-18,279986,73,0.346,0.708,0.672,1.97e-05,0.382,-5.538,0.0352,134.635,4
+59,Rock the Casbah,"Vintage Reggae Café, Vol. 3",Various Artists,2015-06-23,230925,41,0.0111,0.936,0.572,0.0,0.0744,-11.061,0.0344,126.072,4
+60,My Master's Will,Reggae Knights,Israel Vibration,2010-12-01,274466,46,0.153,0.857,0.537,0.0,0.101,-7.392,0.242,143.757,4
+61,Mellow Mood - Wail'n'Soul'm Version,Africa Unite: The Singles Collection (UK edition - 2 disc set),Bob Marley & The Wailers,2005-01-01,206906,0,0.374,0.69,0.456,0.0,0.142,-7.551,0.0308,88.48,4
+62,"Kinky Reggae - Live At The Record Plant, 1973",Talkin' Blues,Bob Marley & The Wailers,1991-02-04,307413,37,0.15,0.727,0.53,0.00375,0.099,-10.376,0.453,80.042,4
+63,Waiting In Vain,Exodus,Bob Marley & The Wailers,1977-01-01,256240,0,0.0292,0.83,0.463,1.58e-05,0.0589,-11.644,0.335,78.876,4
+64,Bam Bam,One Two,Sister Nancy,2002-03-15,196506,1,0.825,0.722,0.605,0.0178,0.248,-6.07,0.153,165.998,4
+65,"Verde, Amarillo Y Rojo",Alabanza,Gondwana,2000,246333,51,0.0218,0.667,0.581,4.98e-05,0.0808,-8.271,0.059,78.701,4
+66,What Does It Take (To Win Your Love),Be True to Yourself: The Godfather of Lover's Rock (Anthology 1965-1973),Alton Ellis,2004-11-23,199560,50,0.11,0.812,0.448,0.00126,0.0542,-11.048,0.0505,116.557,4
+67,Train to Skaville,Engine 54,The Ethiopians,1968-01-01,177000,53,0.229,0.792,0.256,0.548,0.35,-12.525,0.191,87.774,4
+68,A Message to You Rudy - 2002 Remaster,The Specials (2002 Remaster),The Specials,1979-11-01,172600,64,0.149,0.906,0.45,0.000232,0.168,-8.003,0.0627,103.476,4
+69,Balu,Codigos Del Alma,Rastrillos,2000,216013,43,0.187,0.707,0.728,5.33e-05,0.121,-7.985,0.221,179.751,4
+70,The Immortal Dub,The Dub Express Platinum Edition,King Tubby,2012-05-30,194000,5,0.0133,0.796,0.459,0.854,0.109,-10.072,0.252,76.492,4
+71,I Don't Wanna Wait,Born In Babylon,SOJA,2010-05-05,357539,59,0.0333,0.803,0.536,1.3e-05,0.174,-5.136,0.0387,126.039,4
+72,Reggae Is Coming,Grandes Exitos,Gondwana,2015-07-17,252733,34,0.016,0.7,0.626,0.0,0.132,-11.278,0.102,149.502,4
+73,Bella Donna,De Jonge Jaren van Doe Maar - 50 jaar Nederpop,Doe Maar,2008-01-01,194746,28,0.00765,0.729,0.51,0.651,0.177,-11.754,0.0405,137.205,4
+74,Hypnotized Again,REFABRICATED: Fabric Remixes & Rarities,The Black Seeds,2019-07-05,280360,13,0.161,0.711,0.666,0.00337,0.221,-9.078,0.0357,81.615,4
+75,Natty Dread,Natty Dread,Bob Marley & The Wailers,1974,215666,49,0.424,0.773,0.439,0.000126,0.0464,-9.778,0.327,88.364,4
+76,Bowl For Two,Gettin' Filthy,The Expendables,2004-09-28,283426,62,0.0749,0.728,0.5,5.84e-06,0.108,-6.214,0.0344,138.528,4
+77,High on Your Love,The Outsiders Are Back,Kings Go Forth,2010-04-19,253653,29,0.0142,0.588,0.701,4.83e-05,0.179,-3.208,0.0364,79.577,4
+78,The Loser,The Loser / Now We Know,Derrick Harriott,2012,218653,48,0.194,0.725,0.641,0.00498,0.091,-6.135,0.0481,87.732,4
+79,All My Tears,Nothing More to Say,The Frightnrs,2016-09-02,247826,36,0.629,0.76,0.649,0.00409,0.227,-6.958,0.037,108.088,4
+80,Párate Y Mira,Pampas Reggae,Los Pericos,1994-01-01,247800,56,0.155,0.759,0.834,0.0,0.124,-6.92,0.0476,90.26,4
+81,Soul Shakedown Party,In The Beginning,Bob Marley & The Wailers,2001-01-01,187266,1,0.505,0.86,0.347,0.0,0.0967,-14.495,0.0846,131.492,4
+82,Beep Beep,Black Beauty (Deluxe Version),Love,2015-09-11,133767,27,0.159,0.683,0.854,0.0,0.0547,-7.152,0.093,168.883,1
+83,Johnny Too Bad,Classic Reggae,Various Artists,2019-03-22,185840,31,0.151,0.728,0.446,0.163,0.23,-14.546,0.16,165.357,4
+84,Occapella,Goodnight Vienna,Ringo Starr,1974,176400,40,0.084,0.753,0.244,2.82e-06,0.0607,-19.395,0.253,83.703,4
+85,Turn It Around,On the Sun,The Black Seeds,2004,273080,27,0.0673,0.798,0.864,0.412,0.383,-4.977,0.0642,76.012,4
+86,70s 80s,Mind Elevation,Nightmares On Wax,2002-09-02,332853,50,0.00232,0.764,0.521,0.000411,0.0751,-11.174,0.0937,174.009,4
+87,Thinking of You,Melodies,Lord Echo,2010-12-06,420720,64,0.0491,0.723,0.754,0.00112,0.393,-9.376,0.0576,97.201,4
+88,Low to the Street,Harmonies,Lord Echo,2017-04-07,308989,54,0.212,0.782,0.614,0.781,0.16,-6.906,0.0475,97.575,4
+89,I Can See Clearly Now,I Can See Clearly Now (Expanded Edition),Johnny Nash,1972-09-23,166786,54,0.318,0.591,0.53,0.00558,0.0938,-8.905,0.0371,123.899,4
+90,One Drop,Survival,Bob Marley & The Wailers,1979,231773,0,0.113,0.901,0.472,1e-05,0.152,-7.365,0.231,121.242,4
+91,Fu Man Chu,This Is Desmond Dekker (Enhanced Edition),Desmond Dekker,1969-01-01,189440,39,0.471,0.724,0.324,0.0059,0.112,-12.455,0.0484,83.614,4
+92,Pressure Drop,Monkey Man,The Maytals,1969-01-01,177440,56,0.0503,0.605,0.641,0.0,0.121,-8.291,0.0446,146.84,4
+93,The Tide Is High - Stereo Version,On the Beach: The Anthology,The Paragons,1967-01-01,161973,55,0.241,0.451,0.433,0.0,0.472,-9.189,0.0291,96.287,4
+94,Nothing More to Say,Nothing More to Say,The Frightnrs,2016-09-02,251720,42,0.328,0.891,0.445,0.000426,0.242,-9.853,0.0558,105.674,4
+95,Will You Promise,My Love and Music,Ebo Taylor,1975,226480,46,0.142,0.589,0.681,5.44e-05,0.794,-8.833,0.0454,90.373,4
+96,Evolution,Warriors of light,Mo'kalamity,2007-02-27,331413,48,0.0111,0.951,0.571,4.16e-05,0.202,-7.259,0.0558,107.984,4
+97,Is This Love,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,230733,65,0.108,0.775,0.559,0.0,0.0945,-8.377,0.088,122.229,4
+98,"No Woman, No Cry - Live At The Lyceum, London/1975",Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,428360,64,0.276,0.641,0.657,0.0261,0.713,-9.354,0.0604,78.132,4
+99,Could You Be Loved,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,237133,63,0.372,0.913,0.724,0.000201,0.0824,-8.527,0.105,103.33,4
+100,Three Little Birds,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,180440,64,0.00974,0.825,0.494,5.15e-06,0.0361,-10.486,0.0698,74.103,4
+101,Buffalo Soldier,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,257786,63,0.128,0.93,0.462,9.3e-06,0.175,-8.643,0.277,124.065,4
+102,"Get Up, Stand Up",Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,197573,62,0.229,0.797,0.574,0.0,0.0602,-7.268,0.373,78.183,4
+103,Stir It Up,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,330760,63,0.642,0.751,0.463,0.208,0.0314,-10.96,0.104,150.191,4
+104,Easy Skanking,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,177440,60,0.0159,0.824,0.522,3.12e-06,0.105,-8.567,0.0384,126.238,4
+105,One Love / People Get Ready - Medley,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,172200,61,0.0716,0.73,0.508,0.0,0.0605,-9.575,0.319,76.494,4
+106,I Shot The Sheriff,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,280466,60,0.338,0.797,0.644,6.51e-05,0.0592,-9.253,0.188,96.87,4
+107,Waiting In Vain,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,256493,60,0.025,0.838,0.453,2.42e-05,0.116,-11.536,0.31,78.837,4
+108,Redemption Song,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,227840,60,0.585,0.666,0.259,0.0,0.079,-10.721,0.04,116.082,4
+109,Satisfy My Soul,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,271200,60,0.00294,0.781,0.412,9.85e-05,0.213,-9.187,0.188,127.968,4
+110,Exodus,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,459666,58,0.0329,0.865,0.746,0.00396,0.141,-8.58,0.0486,132.846,4
+111,Jamming,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,211426,59,0.129,0.941,0.462,9.82e-05,0.114,-11.029,0.282,123.674,4
+112,Punky Reggae Party,Legend - The Best Of Bob Marley And The Wailers,Bob Marley & The Wailers,2002-01-01,412026,58,0.0219,0.812,0.638,0.161,0.0856,-8.116,0.0613,135.165,4
+113,Three Little Birds,Exodus,Bob Marley & The Wailers,1977-01-01,180266,1,0.0102,0.807,0.487,1.98e-06,0.0501,-10.456,0.0758,148.491,4
+114,Is This Love,Legend (Deluxe Edition),Bob Marley & The Wailers,2002-01-01,230800,0,0.119,0.775,0.563,0.0,0.155,-8.225,0.0815,122.269,4
+115,Could You Be Loved,Uprising,Bob Marley & The Wailers,1980,237000,77,0.36,0.916,0.72,0.00016,0.0958,-8.548,0.1,103.312,4
+116,One Love / People Get Ready,Exodus,Bob Marley & The Wailers,1977-01-01,172933,0,0.0912,0.719,0.515,0.0,0.0791,-9.72,0.348,76.518,4
+117,Satisfy My Soul,Kaya,Bob Marley & The Wailers,1978,271000,64,0.00333,0.779,0.418,0.000138,0.252,-9.207,0.188,127.942,4
+118,"No Woman, No Cry - Live At The Lyceum, London/1975",Live!,Bob Marley & The Wailers,1975-01-01,427800,69,0.272,0.655,0.675,0.0236,0.727,-9.352,0.0599,77.589,4
+119,Stir It Up - Original Album Version,Catch A Fire,Bob Marley & The Wailers,1973-04-13,332400,63,0.621,0.76,0.462,0.32,0.0758,-11.003,0.103,146.655,4
+120,Redemption Song,Uprising,Bob Marley & The Wailers,1980,233560,71,0.608,0.671,0.256,0.0,0.0737,-10.743,0.0387,115.871,4
+121,Buffalo Soldier,Confrontation,Bob Marley & The Wailers,1983,255840,73,0.142,0.929,0.463,5.26e-06,0.0634,-8.651,0.308,124.084,4
+122,War / No More Trouble - Live,Exodus,Bob Marley & The Wailers,1977-01-01,464333,0,0.516,0.658,0.606,0.000862,0.985,-8.745,0.422,79.3,4
+123,Jamming,Exodus,Bob Marley & The Wailers,1977-01-01,211000,0,0.138,0.937,0.472,4.91e-05,0.117,-11.029,0.3,123.674,4
+124,Positive Vibration,Rastaman Vibration,Bob Marley & The Wailers,1976-04-30,213920,58,0.0184,0.918,0.37,0.00166,0.0802,-11.807,0.0564,131.884,4
+125,"Is This Love - Live At The Pavillon De Paris, 1977",Babylon By Bus,Bob Marley & The Wailers,1978-01-01,447573,54,0.00408,0.574,0.765,0.029,0.965,-7.153,0.0593,137.241,4
+126,Forever Loving Jah,Uprising,Bob Marley & The Wailers,1980,242333,60,0.0595,0.774,0.531,0.0,0.0409,-7.176,0.0446,142.001,4
+127,Coming In From The Cold,Uprising,Bob Marley & The Wailers,1980,271023,61,0.258,0.734,0.631,2.4e-06,0.0752,-6.887,0.098,141.478,4
+128,I Shot The Sheriff - Live At The Roxy,Live At The Roxy - The Complete Concert,Bob Marley & The Wailers,2003-01-01,393480,54,0.533,0.727,0.795,0.000105,0.71,-5.226,0.115,139.57,4
+129,One Drop,Survival,Bob Marley & The Wailers,1979,231773,62,0.12,0.901,0.478,1.05e-05,0.165,-7.39,0.237,121.244,4
+130,Rastaman Live Up,Confrontation,Bob Marley & The Wailers,1983,327133,59,0.181,0.904,0.33,0.0254,0.0471,-11.117,0.124,130.688,4
+131,Zimbabwe,Survival,Bob Marley & The Wailers,1979,231266,60,0.0901,0.932,0.611,0.00156,0.0467,-8.278,0.0853,125.238,4
+132,Trenchtown Rock - Live At The Roxy Theatre,Live At The Roxy - The Complete Concert,Bob Marley & The Wailers,2003-01-01,295733,54,0.586,0.755,0.57,0.0,0.993,-7.334,0.0995,134.436,4
+133,Africa Unite,Survival,Bob Marley & The Wailers,1979,175626,60,0.191,0.904,0.431,0.00179,0.0928,-10.14,0.116,127.57,4
+134,Exodus,Exodus,Bob Marley & The Wailers,1977-01-01,460226,0,0.0296,0.869,0.735,0.00339,0.163,-8.501,0.0552,132.821,4
+135,"Lively Up Yourself - Live At Music Hall, Boston / 1978",Easy Skanking In Boston '78,Bob Marley & The Wailers,2015-02-03,469653,53,0.108,0.598,0.772,2.84e-05,0.269,-8.444,0.0646,76.276,4
+136,Time Will Tell,Kaya - Deluxe Edition,Bob Marley & The Wailers,1978-03-23,205253,58,0.0552,0.504,0.301,6.37e-06,0.0849,-14.982,0.22,161.031,4
+137,Iron Lion Zion,Gold,Bob Marley & The Wailers,2004-01-01,193586,0,0.0113,0.715,0.598,0.00058,0.197,-7.912,0.0403,142.386,4
+138,Babylon System,Survival,Bob Marley & The Wailers,1979,261839,57,0.121,0.766,0.429,0.0,0.0619,-11.912,0.125,91.392,4
+139,Rastaman Chant,Chant Down Babylon,Bob Marley & The Wailers,1999-01-01,258626,56,0.073,0.831,0.687,4.58e-06,0.273,-5.08,0.219,95.664,4
+140,Turn Your Lights Down Low,Chant Down Babylon,Bob Marley & The Wailers,1999-01-01,346333,63,0.0137,0.733,0.668,1.57e-06,0.0393,-5.3,0.0685,83.11,4
+141,No More Fighting - 2001 Digital Remaster,Uptown Top Ranking,Althea And Donna,1978-01-01,217560,46,0.272,0.784,0.662,0.00181,0.0502,-9.183,0.135,79.535,4
+142,Drifting Along - Remastered,Travelling Without Moving (Remastered),Jamiroquai,1996-09-09,245786,44,0.0467,0.777,0.545,0.73,0.0611,-7.591,0.0483,96.17,4

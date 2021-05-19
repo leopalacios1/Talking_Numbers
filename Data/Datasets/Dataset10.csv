@@ -1,635 +1,635 @@
-,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
-0,Vámonos Pa'l Monte,Vámonos Pa'l Monte,Eddie Palmieri,1986-12-31,426840,51,0.533,0.429,0.533,0.785,0.827,0.0882,-5.886,0.116,111.43,4
-1,Bésame Mama,Conga Blue,Poncho Sanchez,1996-01-01,393106,43,0.758,0.275,0.758,0.424,0.796,0.102,-12.175,0.0529,108.099,4
-2,Escucha El Ritmo,Across 110th Sreet,Spanish Harlem Orchestra,2005-01-01,352346,24,0.672,0.654,0.672,0.788,0.0425,0.035,-4.778,0.0357,134.437,4
-3,La Hija De Lola,El Gigante del Teclado,Charlie Palmieri,1973-12-31,272066,37,0.723,0.257,0.723,0.67,0.00105,0.0918,-6.218,0.0425,100.341,4
-4,Sofrito,Sofrito,Mongo Santamaria,1976-01-01,366200,49,0.644,0.275,0.644,0.519,0.0192,0.0793,-8.895,0.0373,117.739,4
-5,Elegua,Cantos a los Orishas,Francisco Aguabella,2006-11-21,232120,22,0.493,0.563,0.493,0.722,0.0,0.301,-9.807,0.0468,95.266,3
-6,Acid,Acid,Ray Barretto,1968-12-31,307173,51,0.555,0.0374,0.555,0.659,0.851,0.0788,-8.529,0.0575,159.063,4
-7,Ali Baba,Ali Baba,Louie Ramirez,1968-12-31,255306,42,0.787,0.72,0.787,0.563,0.00262,0.0809,-7.943,0.0329,110.152,4
-8,Cogele el Golpe,Descargas,Cachao,2016-03-14,165772,40,0.681,0.637,0.681,0.81,0.396,0.165,-5.688,0.104,94.18,4
-9,Oye Cómo Va,El Rey Bravo,Tito Puente,1962-01-01,274018,59,0.658,0.747,0.658,0.738,0.00605,0.0624,-6.717,0.0315,123.261,4
-10,Home Cookin',Enchantment,Hilton Ruiz,2006-01-01,209173,38,0.654,0.775,0.654,0.638,0.92,0.108,-8.999,0.0465,146.388,4
-11,Bacalao Con Pan,Bacalao Con Pan,Irakere,2006-05-16,226600,27,0.45,0.12,0.45,0.767,0.676,0.531,-13.578,0.0817,118.767,4
-12,Otra Oportunidad,Soneando Trombone [Singing Trombone],Jimmy Bosch,1998,343000,36,0.711,0.479,0.711,0.774,2.35e-06,0.173,-6.408,0.0584,90.275,4
-13,Summertime,Worldwide,Giovanni Hidalgo,1993-01-01,425333,27,0.522,0.276,0.522,0.491,0.803,0.01,-13.573,0.0394,150.35,4
-14,La Comparsa,New Conceptions,Chucho Valdés,2003-01-01,416933,39,0.491,0.383,0.491,0.658,0.772,0.111,-9.693,0.0516,105.56,4
-15,Cómo Fue,The Best Of Paquito D'Rivera,Paquito D'Rivera,1981,291733,0,0.553,0.658,0.553,0.638,0.839,0.143,-8.383,0.031,96.092,4
-16,Salchicha Con Huevos,Mo,Jimmy Sabater,2003-04-14,342760,40,0.665,0.473,0.665,0.565,0.000125,0.076,-9.2,0.0568,121.413,4
-17,Y Yo Ganga,Perdido,Alegre All Stars,1977-01-01,489000,15,0.62,0.649,0.62,0.61,0.527,0.077,-12.026,0.0404,104.722,4
-18,Desde El Fondo Del Rio,The Legend Of Cuban Percussion,Patato,2000,436920,21,0.507,0.101,0.507,0.678,0.908,0.0892,-11.887,0.0444,130.697,4
-19,Descarga De Hoy,The Very Best Of ¡Cubanismo! ¡Mucho Gusto!,¡Cubanismo!,2001-11-13,404640,34,0.528,0.689,0.528,0.775,0.91,0.152,-6.816,0.034,109.245,4
-20,Pa' Bravo Yo,Pa' Bravo Yo,Justo Betancourt,1972-06-12,224826,51,0.773,0.567,0.773,0.816,0.000413,0.132,-6.215,0.0385,92.031,4
-21,Ay José,La Herencia,Machito,2009-03-19,194200,36,0.583,0.493,0.583,0.572,0.0,0.112,-12.34,0.0678,127.706,4
-22,Mujer Divina,Greatest Hits,Joe Cuba,2008-12-31,295080,50,0.673,0.771,0.673,0.498,0.000173,0.0749,-6.434,0.0477,99.291,4
-23,Son Cubano - Yo Soy El Son Cubano,Tanga,Mario Bauzá,2005-08-22,332026,24,0.546,0.742,0.546,0.781,0.0455,0.114,-7.38,0.0368,142.801,4
-24,Vete Pa Ya,"Yesterday, Today and Tomorrow",New Swing Sextet,2018-12-19,440877,29,0.683,0.78,0.683,0.745,9.29e-05,0.0378,-6.327,0.0392,91.125,4
-25,Inolvidable,From Tito With Love,Tito Rodriguez,1964-12-31,193853,46,0.257,0.739,0.257,0.378,6.12e-05,0.12,-9.61,0.0329,81.541,4
-26,Cuchifrito,The Bronx Pyramid,Carlos Henriquez,2015-09-18,454291,35,0.546,0.571,0.546,0.535,0.846,0.108,-10.199,0.0561,80.789,4
-27,Ácere Bonco,Típica 73 (Fania Original Remastered),Tipica 73,1973-01-01,273133,26,0.565,0.77,0.565,0.782,0.000223,0.204,-3.77,0.173,124.684,4
-28,Un Tipo Con Suerte,Portrait Of A Stranger,Humberto Ramirez,1995-01-01,317666,8,0.841,0.366,0.841,0.654,0.0,0.0465,-8.761,0.0453,99.597,4
-29,Tu Lo Sientes? (Do You Feel It?),Bustin' Out,Joe Cuba Sextet,1972-04-24,204746,42,0.453,0.802,0.453,0.525,0.0,0.318,-10.457,0.205,170.824,4
-30,Quimbara,Celia & Johnny,Johnny Pacheco,1974-01-01,291946,63,0.6,0.741,0.6,0.633,0.0736,0.0478,-7.507,0.0667,120.627,4
-31,Moon And Sand,New Horizons,Caribbean Jazz Project,2000-02-01,433680,15,0.401,0.933,0.401,0.398,0.919,0.103,-10.87,0.0296,91.908,4
-32,The Last Bullfighter,The Last Bullfighter,Jazz On The Latin Side All Stars,2005-03-07,375426,19,0.627,0.556,0.627,0.704,0.679,0.237,-6.566,0.036,95.654,4
-33,Isla Del Encanto,Pasaporte,Orquesta Broadway,2006-03-29,267093,34,0.43,0.6,0.43,0.524,0.0,0.241,-10.255,0.0375,90.724,4
-34,Quiéreme Sempre,Me Voy Para La Luna,Orquesta Aragón,1958-01-01,182200,46,0.509,0.657,0.509,0.414,2.04e-06,0.058,-10.945,0.0283,101.024,4
-35,Cuero Na' Ma',El Campanero,"Jose Mangual, Jr.",2019-02-09,270135,29,0.6,0.284,0.6,0.787,0.915,0.123,-15.219,0.0394,118.423,4
-36,Merecumbe,Fania Live 02 From Miami With DJ LeSpam,Various Artists,2007-10-02,357386,45,0.616,0.469,0.616,0.653,0.0231,0.0986,-8.979,0.0413,103.253,4
-37,El Rey De La Puntualidad,Lo Qué Pide La Gente,Fania All Stars,1984-12-31,402360,51,0.632,0.397,0.632,0.759,0.0,0.103,-6.465,0.0556,105.84,4
-38,Mambo Gallego,Mamborama,Tito Puente & His Orchestra,1955-01-01,173522,30,0.736,0.861,0.736,0.734,0.73,0.0951,-4.389,0.0592,95.201,4
-39,Mi Ritmo Es Bueno,Rey del Bajo,Bobby Valentin,1974-12-31,346306,45,0.552,0.705,0.552,0.635,0.000187,0.108,-9.848,0.081,96.416,4
-40,Hubo Un Lugar,Jerry Gonzalez Y Los Piratas Del Flamenco,Jerry Gonzalez,2004-06-29,312693,15,0.563,0.968,0.563,0.214,0.922,0.282,-14.835,0.0724,112.567,4
-41,Dundumbanza,Legends Of Cuban Music,Arsenio Rodríguez,2006-01-01,158786,14,0.76,0.962,0.76,0.743,0.614,0.2,-7.232,0.0589,162.735,4
-42,Anuncio Clasificado / Dámelo,Viva Rosario,Willie Rosario,1990-08-01,301010,46,0.564,0.413,0.564,0.526,0.0015,0.103,-11.918,0.0453,170.378,4
-43,Cuchi-Frito (Fried Neck Bones),Cuchi-Frito (Fried Neck Bones),Larry Harlow,2020-05-29,206563,32,0.491,0.318,0.491,0.716,0.0981,0.97,-6.888,0.0396,136.27,4
-44,Tres Palabras,Juntos Para Siempre,Bebo Valdés,2008-11-11,283786,44,0.444,0.954,0.444,0.21,0.915,0.099,-13.513,0.0476,118.436,4
-45,Te Vas,E Music,Pete Escovedo,2000-01-01,341066,38,0.712,0.196,0.712,0.535,0.772,0.0376,-11.331,0.0498,117.713,4
-46,Black Orchid,Breeze From The East,Cal Tjader,1964-02-01,192200,44,0.677,0.965,0.677,0.0942,0.826,0.119,-20.717,0.0544,123.915,4
-47,People,Ultimate Duets,Arturo Sandoval,2018-05-18,388426,39,0.318,0.28,0.318,0.438,0.00296,0.126,-8.176,0.0364,77.166,3
-48,Si Tu No Vienes No Bailas,Y Su Son...,Edwin Bonilla,1999,272320,23,0.728,0.578,0.728,0.926,0.000737,0.155,-3.437,0.0413,99.019,4
-49,Catalina La O,Este Negro Si es Sabroso,"Pete ""El Conde"" Rodriguez",1976-01-01,312640,46,0.744,0.715,0.744,0.738,0.00741,0.0672,-4.751,0.0333,147.046,4
-50,Vamos / Háblame Ahora,Quintana Y Papo: Mucho Talento,Papo Lucca,1983-01-01,428820,15,0.585,0.833,0.585,0.6,0.669,0.0695,-12.084,0.0371,101.248,4
-51,Mississippi Mambo,Mambo Con Noro Morales,Noro Morales,2015-04-26,158813,22,0.77,0.619,0.77,0.852,0.895,0.0383,-7.41,0.0356,107.245,4
-52,Besame Mucho,Big Band Urban Folktales,Bobby Sanabria,2007-06-05,366133,33,0.377,0.728,0.377,0.562,0.225,0.16,-7.127,0.0554,182.437,4
-53,When Day Breaks,Together Again,Juan Pablo Torres,2005,423626,8,0.588,0.745,0.588,0.62,0.919,0.0714,-10.438,0.0687,114.91,4
-54,El Ratón,Anthology,Cheo Feliciano,1992-12-31,228373,53,0.535,0.854,0.535,0.597,8.11e-05,0.102,-6.01,0.0383,95.213,4
-55,Oyelo Que Te Conviene,"35th Anniversary - 15 Greatest Hits, Vol. 1",Puerto Rico All Stars,2011-04-12,388609,24,0.626,0.627,0.626,0.859,0.00114,0.483,-6.405,0.119,123.641,4
-56,Anhelos,La Llave de la Salsa,Alfredo De La Fe,2006-05-06,235480,19,0.791,0.179,0.791,0.671,0.0,0.194,-6.939,0.047,96.453,4
-57,Silencio (Silence),Solo,Gonzalo Rubalcaba,2006-01-01,220933,20,0.549,0.99,0.549,0.00472,0.903,0.0767,-30.087,0.061,108.563,4
-58,Lluvia con Nieve,Que Gente Averiguá,Mon Rivera,1961-01-01,177680,46,0.744,0.154,0.744,0.714,0.35,0.0709,-6.338,0.0553,101.867,4
-59,Bomba Voulez,Breakout,Papo Vazquez,1992,463000,6,0.598,0.622,0.598,0.604,0.762,0.0773,-13.308,0.0406,115.913,4
-60,Como Fue,Romántico,Beny Moré,1987,176733,38,0.562,0.762,0.562,0.231,0.00348,0.152,-13.493,0.0395,98.318,4
-61,Vigilándote,Super Apollo 47:50,Adalberto Santiago,1982-12-31,306080,34,0.68,0.716,0.68,0.663,0.000272,0.162,-6.025,0.0398,159.378,4
-62,Witch Doctor,20th Anniversary,Ralph Irizarry And Timbalaye,2015-10-05,326826,4,0.515,0.246,0.515,0.662,0.61,0.0852,-12.421,0.0494,118.896,4
-63,Siguelo,Síguelo,Gerardo Rosales,2013-11-15,293080,19,0.591,0.284,0.591,0.658,0.000383,0.0558,-8.355,0.0569,101.63,4
-64,Maestro De Rumberos,La Herencia,Ismael Quintana,2007-05-08,340213,22,0.591,0.757,0.591,0.769,3.78e-05,0.1,-5.018,0.258,111.122,4
-65,El Dulcerito Llego,Cuba L.A.,Various Artists,1998-01-01,285600,26,0.616,0.86,0.616,0.817,0.804,0.079,-9.745,0.0595,99.801,4
-66,Puerto Rico,Algo Nuestro,Charlie Sepulveda,1993-01-01,375133,14,0.524,0.453,0.524,0.554,0.86,0.12,-11.661,0.0408,115.554,4
-67,Caretas,Por el Buen Camino,Ismael Miranda,1987,311733,55,0.607,0.371,0.607,0.619,2.82e-06,0.147,-12.23,0.0825,164.315,4
-68,Dónde Va Chichi?,Tibiri Tabara,Sierra Maestra,1997-11-03,313133,44,0.536,0.0996,0.536,0.72,0.00023,0.0502,-9.258,0.0386,116.183,4
-69,Serenata Ritmica,Descarga En California,Rebeca Mauleón,2006-11-19,472426,9,0.601,0.418,0.601,0.886,0.765,0.0489,-7.603,0.0456,112.109,4
-70,Quimbara,I Love Salsa,Hilario Duran,2013-10-31,289458,33,0.798,0.118,0.798,0.737,0.0256,0.0314,-5.19,0.0442,119.93,4
-71,Me curo con rumba,¡Ésta sí va! (2 CDs),Descarga Boricua,2008-01-01,481400,25,0.712,0.638,0.712,0.813,0.000283,0.0833,-4.348,0.0686,90.186,4
-72,El Negro Bembón,Baile Con Cortijo,Cortijo Y Su Combo,1975-01-01,180560,42,0.614,0.803,0.614,0.725,2.62e-06,0.0728,-4.578,0.038,92.273,4
-73,Let's Boogaloo,Two Too Much!,Willie Rosario,1968-01-01,216360,39,0.766,0.525,0.766,0.554,0.000383,0.314,-8.863,0.0471,140.852,4
-74,Wasabi,Primitive Passions,Dave Valentin,1996-01-01,239000,17,0.434,0.579,0.434,0.856,0.794,0.138,-10.327,0.0383,117.996,4
-75,Fried Neck Bones And Some Home Fries,Uno Dos Tres 1-2-3,Willie Bobo,1966-02-13,183293,48,0.776,0.766,0.776,0.452,0.582,0.07,-13.225,0.0339,111.468,4
-76,Work Song,Hot Hands,Ray Barretto & New World Spirit,1993-01-01,371200,8,0.605,0.423,0.605,0.492,0.816,0.141,-13.32,0.0502,108.726,4
-77,Amor verdadero,A Toda Cuba Le Gusta,Afro-Cuban All Stars,1997-04-09,396440,52,0.591,0.354,0.591,0.497,7.09e-06,0.136,-11.801,0.0397,136.568,4
-78,Si te Contara,Arrives,Ricardo Ray,2005,254053,33,0.67,0.558,0.67,0.431,0.000421,0.359,-6.493,0.0287,97.991,4
-79,Fever,Reina de la Canción Latina,La Lupe,1967-12-31,165213,45,0.506,0.595,0.506,0.547,1.66e-05,0.099,-6.395,0.0527,98.837,4
-80,Fuego En El 23,Fuego en el 23!,Sonora Ponceña,1970-12-31,284640,56,0.647,0.528,0.647,0.596,0.000514,0.775,-6.352,0.0364,91.841,4
-81,Mi Alma Latina,Charanga Chango,Bobby Matos,2006-08-30,251893,9,0.627,0.566,0.627,0.68,0.0183,0.077,-7.316,0.0422,102.242,4
-82,Gnossiennes No.1,Spain Forever,Michel Camilo,2016-10-07,357302,40,0.46,0.955,0.46,0.225,0.925,0.113,-13.569,0.0409,89.682,4
-83,Como Te Hago Entender,Mi Musica,Roberto Roena Y Su Apollo Sound,2006-04-07,344626,62,0.837,0.436,0.837,0.649,0.0,0.0856,-7.36,0.0529,84.252,4
-84,Misty,Entre Colegas,Andy Gonzalez,2016-02-16,493120,6,0.605,0.531,0.605,0.53,0.146,0.0657,-9.9,0.0813,102.301,4
-85,Lo Que Dijo La Gitana,Controversia,Ismael Rivera Y Sus Cachimbos,1969-01-01,213373,40,0.733,0.626,0.733,0.784,0.00072,0.0324,-4.344,0.0713,95.829,4
-86,Dos Gardenias,El Sentimiento del Latino En Nueva York,Angel Canales,1979,182266,51,0.539,0.769,0.539,0.0683,2.25e-05,0.0753,-18.162,0.0511,85.19,4
-87,Los Huesos,Skin and Bones,Johnny Blas,1997-03-25,319386,11,0.54,0.21,0.54,0.656,0.775,0.27,-9.043,0.0506,104.278,4
-88,Free Latin,Italuba,Horacio El Negro Hernandez,2004-02-15,353786,15,0.496,0.122,0.496,0.875,0.838,0.0673,-5.666,0.0442,113.966,4
-89,El Nazareno,Maelo...El Único,Ismael Rivera,1988-01-01,339240,49,0.655,0.268,0.655,0.869,0.00158,0.364,-2.664,0.0608,89.732,4
-90,Caballo Viejo,"Roberto Torres y su Charanga Vallenata, Vol. 2",Roberto Torres,1986,420333,54,0.682,0.549,0.682,0.521,1.63e-06,0.0311,-11.434,0.249,92.728,4
-91,Ponle Sazon,Abriendo Camino,Paoli Mejias,2018-07-18,374960,6,0.88,0.628,0.88,0.711,1.62e-06,0.32,-3.597,0.0553,141.008,4
-92,Por TI,Clase y Sabor,Tito Allen,1993,315000,22,0.754,0.464,0.754,0.38,6.41e-05,0.0572,-14.791,0.0434,85.712,4
-93,Zumbale,Creativo,Henry Fiol,1991-11-17,305057,46,0.708,0.742,0.708,0.629,3.38e-06,0.0858,-10.358,0.0351,95.451,4
-94,Por Que Te Niegas,El Pueblo Pide Que Toque,Roberto Roena,1994,402533,32,0.774,0.296,0.774,0.674,0.0,0.0401,-7.549,0.0367,90.208,4
-95,Ahora Mismo,Ven Baila Conmigo,Latin Giants Of Jazz,2009-01-01,335320,11,0.669,0.644,0.669,0.846,0.0,0.222,-2.094,0.0409,92.182,4
-96,Zabaramba Kiri Kiri Bon,El Pin Pin Pon,The Echo Park Project,2019-06-21,286000,8,0.799,0.491,0.799,0.646,1.29e-05,0.215,-7.182,0.0541,88.024,4
-97,Estamos en Salsa,La Salsa del Conjunto Salsa,Wayne Gorbea,2019-07-22,289960,44,0.566,0.577,0.566,0.65,0.00827,0.0497,-8.591,0.0619,99.979,4
-98,Que Pena,Loco Por Ti,Lebrón Brothers,1988-01-01,296881,51,0.753,0.685,0.753,0.822,0.0079,0.0549,-3.603,0.0376,90.916,4
-99,"The Godfather's Theme (From ""The Godfather"") [Live]",Crime!,Nueva Manteca,2015-10-30,448786,13,0.511,0.743,0.511,0.526,0.944,0.667,-15.675,0.0423,102.026,4
-100,María Cristina - Remasterizado,The Real Cuban Music (Remasterizado),Eliades Ochoa,2018-04-13,260266,41,0.514,0.295,0.514,0.631,1.64e-05,0.0294,-8.591,0.0354,94.828,4
-101,Pronóstico,Impacto Crea,Impacto Crea,1973,404800,29,0.494,0.729,0.494,0.408,0.0623,0.329,-7.287,0.0288,146.371,4
-102,Cuco Y Olga,Urban Nature,Sammy Figueroa,2011-08-30,257613,12,0.661,0.343,0.661,0.867,0.898,0.189,-4.237,0.0608,99.621,4
-103,Mandinga,Introducing,Ruben Gonzalez,1997-09-15,507066,53,0.584,0.693,0.584,0.473,0.659,0.109,-11.248,0.037,91.503,4
-104,Lobo Domesticado,"Rodven Clasico: Tommy Olivencia Y Su Orquesta ""30 Aniversario""",Tommy Olivencia,1987-01-01,290453,51,0.693,0.329,0.693,0.735,2.25e-05,0.0413,-4.692,0.0337,96.838,4
-105,La Última Copa,No Me Hecha La Culpa,Herman Olivera,2010-08-12,309466,16,0.532,0.292,0.532,0.747,0.0,0.346,-5.799,0.0494,108.149,4
-106,Nica's Dream,The Latin Side of Horace Silver,Conrad Herwig,2020-08-28,458693,6,0.523,0.762,0.523,0.752,0.929,0.82,-11.657,0.0536,116.988,4
-107,Sonido Bestial,El Bestial Sonido de,Bobby Cruz,1971-12-31,408240,47,0.526,0.65,0.526,0.892,0.0904,0.309,-4.413,0.043,107.121,4
-108,Quien Te Ha Dicho (feat. Anthony Almonte),Golpe Duro (feat. Anthony Almonte),Little Johnny Rivero,2020-10-23,303180,12,0.784,0.731,0.784,0.905,0.0011,0.0928,-4.171,0.065,92.526,4
-109,Bailando - Official Salsa Version,Latino 59 presenta: Bailando (Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness),Various Artists,2014-09-25,273853,49,0.651,0.546,0.651,0.947,0.0,0.372,-1.387,0.0387,94.907,4
-110,¡bebo Ya Llego!,To Hear from There,Wayne Wallace Latin Jazz Quintet,2011-01-18,299826,20,0.647,0.624,0.647,0.577,0.81,0.0855,-10.221,0.0414,99.801,4
-111,La Toalla,"Tito, Tito, Tito",Tito Rodriguez & His Orchestra,1965-12-31,171400,28,0.582,0.879,0.582,0.781,0.0228,0.0705,-7.193,0.041,104.975,4
-112,Mishugia Mambo,Latin Gold Collection,La Playa Sextet,2010-02-09,170640,35,0.701,0.801,0.701,0.878,0.865,0.0625,-9.509,0.0505,113.562,4
-113,Amor y Control,Dos Clásicos,Rubén Blades,1991,348346,59,0.75,0.364,0.75,0.602,0.00736,0.136,-9.686,0.035,89.066,4
-114,Mala jujer,Coleccion de Oro,La Sonora Matancera,2001-01-15,232333,53,0.531,0.712,0.531,0.579,1.02e-05,0.0645,-10.642,0.0425,88.778,4
-115,A Buena Vista,A Buena Vista: Barrio De La Habana,Soneros De Verdad,2004-08-09,193693,41,0.591,0.509,0.591,0.75,0.0,0.0897,-5.072,0.106,87.602,4
-116,Señora Ley,Llego La Ley,Conjunto Clásico,1987-06-06,250600,40,0.56,0.708,0.56,0.448,3.23e-06,0.0638,-13.991,0.0389,171.563,4
-117,Que Maravilloso,Mongorama,Mongorama,2011-06-21,354986,5,0.592,0.263,0.592,0.735,0.0276,0.046,-8.108,0.0356,100.423,4
-118,Esto te pone la cabeza mala,Te pone la cabeza mala,Los Van Van,1997-01-01,248999,42,0.64,0.241,0.64,0.989,1.87e-05,0.268,-5.555,0.0401,102.299,4
-119,Agua Que Va Caer,Tromboranga,Tromboranga,2012-04-11,283293,44,0.744,0.435,0.744,0.735,0.0515,0.0826,-10.16,0.0461,91.543,4
-120,Quédate,Sol,Doug Beavers,2020-12-04,368400,11,0.79,0.606,0.79,0.695,3.44e-05,0.12,-7.257,0.0501,90.037,4
-121,Alabanciosa,Conjunto Libre: Greatest Hits,Conjunto Libre,2016-01-27,381457,21,0.557,0.648,0.557,0.859,0.025,0.132,-5.703,0.0353,106.183,4
-122,Amor Ciego,Romantic Latin Jazz - The Best of the 70's,Various Artists,2012-01-12,363240,3,0.468,0.302,0.468,0.464,0.843,0.249,-7.02,0.0288,146.007,3
-123,Lágrimas Negras,El Alma del Son,Alain Pérez,2015-06-23,281520,32,0.638,0.53,0.638,0.55,0.000109,0.108,-7.817,0.0543,123.889,4
-124,Fuego A La Jicotea,Serie Sensacional: Marvin Santiago,Marvin Santiago,2000-01-01,201426,41,0.809,0.396,0.809,0.563,0.0127,0.302,-10.643,0.0619,103.391,4
-125,Amorosa Guajira,Perlas Cubanas: La Guajira de Salón,Guillermo Portabales,2014-11-13,194014,39,0.762,0.871,0.762,0.243,0.00124,0.22,-12.631,0.0392,107.952,4
-126,Manteca,The Colors Of Latin Jazz: Soul Cookin',Various Artists,2005-01-01,156426,11,0.629,0.236,0.629,0.718,0.591,0.385,-6.822,0.0552,102.314,4
-127,Trucutu,Planté Bandera,Tommy Olivencia y Su Orquesta,1975-01-01,302413,46,0.584,0.401,0.584,0.671,0.0,0.0406,-5.697,0.0378,95.158,4
-128,Como Baile Marieta,It's About Time,Orestes Vilató,2009-02-10,362173,12,0.612,0.635,0.612,0.756,0.0309,0.114,-4.147,0.0364,163.911,4
-129,Guajira Dubois,Simpático (Extended Version),The Brian Lynch/ Eddie Palmieri Project,2011-09-05,531986,17,0.632,0.424,0.632,0.676,0.871,0.0846,-8.918,0.0325,132.408,4
-130,Lejanía,El Piano Que Llevo Dentro,Daniel Amat,2003,352560,13,0.403,0.755,0.403,0.54,0.944,0.159,-12.97,0.0523,89.207,4
-131,"Guajira, A Blanca",Herencia,Chuchito Valdes,2004,404506,18,0.657,0.0706,0.657,0.361,0.876,0.0548,-17.056,0.0615,149.601,4
-132,Así,Más Recuerdos Románticos,Various Artists,2000-01-01,278040,27,0.417,0.646,0.417,0.428,7.74e-06,0.31,-5.862,0.0312,81.927,4
-133,El Primer Montuno,Sorpresa La Flauta,Andy Harlow,1972-01-01,281400,30,0.667,0.798,0.667,0.633,0.0198,0.0951,-9.332,0.0373,141.935,4
-134,Perhaps,Big Band Classics,Oscar D'León,2014-09-22,149986,50,0.667,0.449,0.667,0.485,2.33e-06,0.0716,-7.164,0.0602,119.161,4
-135,Hipocrecia,The Best,Bobby Rodriguez y La Compania,2016-01-08,453293,14,0.665,0.669,0.665,0.665,0.00025,0.0641,-6.149,0.0372,103.102,4
-136,La Banda (Tributo A Hector Lavoe),El Sonero,Frankie Vazquez,2017-01-03,285061,31,0.536,0.347,0.536,0.741,2.05e-05,0.331,-8.437,0.0346,111.713,4
-137,Yo Sí Quiero,Acertijos,Pedrito Martinez,2021-03-19,364237,32,0.805,0.194,0.805,0.738,0.0253,0.065,-5.905,0.112,92.018,4
-138,Bruca Maniguá,Ibrahim Ferrer (Buena Vista Social Club Presents),Ibrahim Ferrer,1999-06-07,284320,54,0.499,0.836,0.499,0.371,0.00557,0.131,-11.624,0.0449,110.274,4
-139,De Patitas,"Lo Mejor de Luis ""Perico"" Ortiz - Canta: Rafael de Jesus","Luis ""Perico"" Ortiz",1995,362400,26,0.674,0.446,0.674,0.545,1.56e-06,0.0796,-12.306,0.0353,106.948,4
-140,Guasasa,Electric Harlow,Orchestra Harlow,1970-01-01,266808,18,0.709,0.363,0.709,0.622,0.0984,0.148,-6.634,0.0349,96.506,4
-141,New Cuban Express,New Cuban Express,Manuel Valera,2012-06-05,479776,10,0.431,0.677,0.431,0.66,0.746,0.26,-10.231,0.0331,124.213,4
-142,Oriente,Putumayo Presents Cuba! Cuba!,Various Artists,2017-05-26,248893,36,0.84,0.557,0.84,0.412,0.0,0.0574,-10.55,0.0873,125.706,4
-143,Dat Dere,Rebirth,Ray Mantilla,2020-06-26,321666,9,0.692,0.748,0.692,0.454,0.853,0.108,-12.241,0.0308,128.607,4
-144,"¡bien, Bien!","¡Bien, Bien!",Wayne Wallace Latin Jazz Quintet,2009-09-15,401093,3,0.678,0.744,0.678,0.603,0.92,0.095,-10.562,0.035,96.707,4
-145,Caballo Viejo,Grandes Soneros de la Epoca,Cuco Valoy & Roberto Torres,2016-04-19,243200,44,0.759,0.136,0.759,0.713,6.09e-05,0.0545,-3.587,0.124,93.638,4
-146,La Llave,All That Vibe,Grupo Latin Vibe,2005-06-30,368853,36,0.722,0.575,0.722,0.813,0.0134,0.0995,-5.964,0.041,81.884,4
-147,Bebochicochuchoturo,BeboChicoChuchoTuro,Arturo O'Farrill,2017-08-18,536309,27,0.395,0.0125,0.395,0.741,0.909,0.0727,-9.294,0.0588,139.079,4
-148,La Vida Es Un Sueno,Homenaje a Arsenio Rodriguez,Various Artists,2013-06-15,248400,20,0.602,0.729,0.602,0.345,0.899,0.5,-11.654,0.0273,98.439,4
-149,Cachita,"Adelante, Gigante",Charlie Palmieri & His Orchestra,1975-12-31,378453,26,0.609,0.814,0.609,0.68,0.126,0.114,-7.823,0.0391,110.313,4
-150,I Like It Like That,I Like It Like That,Pete Rodriguez,1966-12-31,265080,57,0.596,0.68,0.596,0.7,0.000277,0.623,-4.911,0.0323,133.45,4
-151,Payaso,Alfredo Naranjo Y El Guajeo,Alfredo Naranjo,2008-05-06,352026,8,0.873,0.305,0.873,0.699,0.0,0.108,-4.245,0.0723,91.039,4
-152,Sonido Bestial,"A life time of Hits.. (Live At Centro De Bellas Artes, San Juan, Puerto Rico.)",Richie Ray & Bobby Cruz,2006-02-05,598853,46,0.538,0.114,0.538,0.691,0.028,0.62,-10.669,0.0784,108.242,4
-153,Picadillo,Song For Chico - 2009 GRAMMY WINNER!,Arturo O'Farrill & The Afro Latin Jazz Orchestra,2008-01-01,295146,7,0.586,0.677,0.586,0.726,0.483,0.0589,-6.639,0.0437,99.738,4
-154,Mi Corazón Te Llama,El Yerbero Del Barrio,Roberto y Su Nuevo Montuno,1976-01-01,389203,21,0.705,0.497,0.705,0.709,0.0162,0.0891,-7.125,0.0361,88.262,4
-155,Rumba Pa'los Rumberos,Tambor De Fuego (The Rumba Fire Drum),Los Muñequitos De Matanzas,2007-10-02,262306,23,0.599,0.533,0.599,0.532,0.429,0.061,-9.612,0.133,132.548,4
-156,Moliendo café,El Balcon Del Adios,Vieja Trova Santiaguera,1998,295400,45,0.447,0.716,0.447,0.623,0.0,0.19,-6.136,0.0485,91.914,4
-157,Con Mi Salsa la Mantengo,Cultura y Sabor,Don Perignon Y La Puertorriqueña,2019-03-08,301880,18,0.854,0.584,0.854,0.858,3.39e-06,0.0588,-4.368,0.0369,94.968,4
-158,Ladrón De Tu Amor,Vol.1,Ray De La Paz,2020-08-26,305685,36,0.624,0.62,0.624,0.561,4.56e-06,0.809,-10.547,0.0357,95.965,4
-159,Obatalá,The Enja Heritage Collection: Obatalá,Jerry Gonzalez & The Fort Apache Band,2002,437840,10,0.534,0.182,0.534,0.452,0.0022,0.79,-19.827,0.103,114.083,3
-160,Casi Te Envidio,Oro Salsero,Andy Montañez,1994-01-01,321200,61,0.67,0.496,0.67,0.567,0.0,0.0703,-10.418,0.0888,95.926,4
-161,Betece,Betece - All Stars,Africando,2000-01-01,304826,41,0.726,0.32,0.726,0.785,0.0152,0.0785,-7.286,0.0428,94.844,4
-162,Se Le Ve,Con un Poco de Songo,Batacumbele,2000,393226,15,0.709,0.146,0.709,0.509,0.013,0.32,-13.865,0.161,121.258,4
-163,Amame en Camara Lenta,Salvaje! 88,Cano Estremera,1988,389840,43,0.596,0.702,0.596,0.573,0.000147,0.258,-11.167,0.0453,175.505,4
-164,La mulata rumbera,JazzCuba. Volumen 8,Peruchin,2007-02-09,180773,19,0.576,0.639,0.576,0.682,0.895,0.225,-9.246,0.113,101.255,4
-165,The Windmills of Your Mind,Te Lo Dije,Harold López-Nussa,2020-08-28,316560,30,0.651,0.737,0.651,0.64,0.162,0.0684,-8.428,0.0263,105.036,4
-166,Síguelo,La Verdad,Javier Vázquez y Su Salsa,1974-01-01,267240,33,0.665,0.711,0.665,0.654,0.00029,0.0849,-5.272,0.0485,91.438,4
-167,Volare,Musical a Cortijo - Rivera,Son Boricua,2003-04-14,338306,35,0.669,0.839,0.669,0.588,0.00126,0.0611,-9.837,0.0746,98.284,4
-168,Africa,Duologue,Alfredo Rodriguez,2019-02-01,203493,34,0.54,0.368,0.54,0.587,0.0,0.131,-6.489,0.0586,107.808,4
-169,Linda Mujer,Guaguamambo,El Timba,2014-06-06,313039,35,0.747,0.587,0.747,0.68,0.00039,0.122,-6.748,0.0393,172.003,4
-170,Overjoyed,. . . Till Then,Danilo Perez,2003-01-01,292186,29,0.526,0.867,0.526,0.377,0.927,0.0911,-14.999,0.0348,93.418,3
-171,Hola Soledad,Todo el Tiempo...,Rolando Laserie,1999-12-04,171351,52,0.659,0.503,0.659,0.444,3.04e-05,0.311,-6.843,0.033,97.425,4
-172,Arriba Mi Montuno,Curate!,Orlando Poleo,2008-05-05,232560,10,0.821,0.287,0.821,0.548,1.23e-05,0.0866,-9.016,0.0498,132.769,4
-173,Dary,Transparent Water,Omar Sosa,2017-02-24,308808,37,0.756,0.795,0.756,0.381,0.895,0.268,-19.362,0.0546,112.054,4
-174,Guajira Soul,Salsa Meets Jazz,Tito Puente,1988-01-01,212000,19,0.766,0.347,0.766,0.408,0.505,0.11,-13.936,0.064,115.611,4
-175,Pobrecita,Regresando al Guaguancò,La Maxima 79,2013-09-07,266213,39,0.768,0.359,0.768,0.646,0.000183,0.0956,-5.763,0.0491,90.932,4
-176,North By Northeast,North By Northeast (feat. Wilson Chembo Corniel),Steve Pouchie,2014-10-01,360826,4,0.681,0.478,0.681,0.739,0.21,0.083,-9.118,0.0349,103.942,4
-177,El Dulcerito,A Cataño,Joe Quijano,2013-02-14,170586,25,0.728,0.919,0.728,0.63,0.00161,0.0861,-6.423,0.199,105.893,4
-178,Perla Fina,Los Grandes De La Salsa,Various Artists,1998,244173,30,0.746,0.597,0.746,0.7,0.00494,0.183,-6.854,0.041,101.895,4
-179,Señor Tambó,Señor Tambó,Eddie Montalvo,2020-03-09,283293,12,0.829,0.558,0.829,0.742,0.0,0.0617,-6.046,0.0486,94.447,4
-180,Castígala,Tremenda Rumba!,Maraca,2002,234133,29,0.766,0.398,0.766,0.882,0.0,0.0452,-3.796,0.0407,102.14,4
-181,Por Que Adoré,Beethoven's V,Frankie Dante Cerda,1975-12-31,353520,24,0.594,0.706,0.594,0.511,0.0289,0.343,-10.661,0.0345,87.374,4
-182,Solo Basta,En Mi Voz,Marco Bermudez,2020-09-30,260293,18,0.798,0.509,0.798,0.627,6.96e-06,0.094,-7.465,0.0572,167.928,4
-183,Un Guanguancó,Otra Vez!,Juan Pablo Barrios Salsa Latín Jazz,2018-02-12,266815,5,0.826,0.434,0.826,0.743,0.000526,0.209,-6.074,0.0725,92.965,4
-184,Bluesiando - Mambo,Latin Jazz Latino,Joe Gallardo,2005-05-02,447653,14,0.652,0.483,0.652,0.88,0.422,0.0745,-7.91,0.0509,112.287,4
-185,Chan Chan,Buena Vista Social Club,Buena Vista Social Club,1997-06-23,256653,69,0.396,0.833,0.396,0.496,0.00534,0.0996,-11.728,0.0356,165.647,4
-186,Perfidia,Xavier Cugat,Xavier Cugat,2005-01-01,205880,34,0.47,0.947,0.47,0.505,0.932,0.135,-8.605,0.0298,122.242,4
-187,Milonga Para Paquito (to Paquito D'rivera),Appreciation,Diego Urcola,2011-02-15,300773,12,0.614,0.916,0.614,0.225,0.936,0.105,-17.755,0.0316,112.848,4
-188,Afrobeat To Fela,Luz,Carlos Sarduy,2019-05-24,391096,4,0.642,0.24,0.642,0.476,0.847,0.355,-12.426,0.0405,107.269,4
-189,The Girl From Ipanema,The Girl From Ipanema - The Bossa Nova Years,Stan Getz,1989-01-01,321826,69,0.664,0.909,0.664,0.194,3.85e-05,0.0829,-15.487,0.0357,129.863,4
-190,El Shing-A-Ling,Poncho At Montreux,Poncho Sanchez,2004-11-16,404680,40,0.551,0.379,0.551,0.572,0.0463,0.639,-13.535,0.0747,136.83,4
-191,Café,Echando pa'lante,Eddie Palmieri,1964-12-31,392493,45,0.565,0.688,0.565,0.398,0.00557,0.138,-9.46,0.0343,96.189,4
-192,Mujer Divina,United we swing,Spanish Harlem Orchestra,2007,332788,0,0.666,0.248,0.666,0.704,3.82e-05,0.126,-4.783,0.0402,120.95,4
-193,Panama's Boogaloo,Latin Bugalu,Charlie Palmieri,1968,241666,29,0.735,0.349,0.735,0.444,0.0104,0.0721,-11.17,0.0335,129.495,4
-194,"Long, Long Summer",Agua De Cuba,Francisco Aguabella,1999-04-06,406173,17,0.69,0.346,0.69,0.615,0.738,0.0922,-7.606,0.0428,131.336,4
-195,Linda Guajira,Our Man In Havana,Mongo Santamaria,1993-01-01,183800,45,0.76,0.633,0.76,0.566,0.724,0.0262,-14.129,0.0399,132.887,4
-196,El Watusi,Charanga Moderna,Ray Barretto,1962-12-31,160115,50,0.543,0.815,0.543,0.5,8.55e-05,0.0977,-10.092,0.163,87.252,4
-197,Medley,Otra Noche Caliente,Louie Ramirez,1992-01-01,439080,40,0.502,0.665,0.502,0.826,6.46e-06,0.294,-4.69,0.0486,96.951,4
-198,Descarga Cubana,Salsa Caliente (Hot Rhythms),Various Artists,2012-02-14,183360,37,0.634,0.463,0.634,0.709,0.594,0.0884,-13.907,0.0694,110.142,4
-199,Enchantment,Enchantment,Hilton Ruiz,2006-01-01,432026,34,0.429,0.58,0.429,0.47,0.932,0.105,-17.484,0.0539,96.01,4
-200,La Explosión (Instrumental) - Ao Vivo,Ivan Lins | Chucho Valdés e Irakere,Ivan Lins,2014-06-03,517106,39,0.565,0.41,0.565,0.564,0.417,0.742,-12.871,0.0418,104.579,4
-201,Colores del Baile Latino!,Colores del Baile Latino!,Jimmy Bosch,2018-07-02,192417,29,0.845,0.581,0.845,0.85,0.196,0.152,-3.642,0.0323,107.484,4
-202,And Sammy Walked In,Hands Of Rhythm,Giovanni Hidalgo,1997-01-01,353626,20,0.473,0.862,0.473,0.434,0.942,0.307,-16.854,0.0302,140.299,4
-203,Ran Kan Kan,The Latin World Of Tito Puente,Tito Puente,1963-12-31,190416,47,0.714,0.864,0.714,0.941,0.817,0.0944,-6.177,0.0422,102.102,4
-204,Chopin: Prelude In E-Minor,Fantasia Cubana: Variations On Classical Themes,Chucho Valdés,2002-01-01,270066,39,0.295,0.991,0.295,0.113,0.871,0.215,-23.004,0.0357,66.082,3
-205,Calzada Del Cerro,¡Con Mucho Ritmo! The Very Best Of TropiJazz,Various Artists,2005-01-01,393800,25,0.514,0.473,0.514,0.808,0.52,0.154,-7.56,0.0301,130.04,4
-206,Cuando Cuando,Mo,Jimmy Sabater,2003-04-14,243120,31,0.557,0.631,0.557,0.497,9.21e-05,0.0947,-9.674,0.038,103.334,4
-207,Manteca,"Way Out, Vol. 4",Alegre All Stars,1965-01-01,442332,13,0.438,0.556,0.438,0.841,0.0359,0.123,-6.761,0.0798,114.776,4
-208,San Francisco Tiene Su Propio Son,The Legend Of Cuban Percussion,Patato,2000,578773,19,0.688,0.562,0.688,0.49,0.0728,0.0444,-11.617,0.0501,137.128,4
-209,Mulence,Malembe,¡Cubanismo!,1997,323493,32,0.466,0.61,0.466,0.573,0.0856,0.0973,-10.92,0.0333,164.86,4
-210,Congo Mulence - 2000 Remaster,Kenya,Machito,2000-01-25,176573,33,0.824,0.778,0.824,0.358,0.5,0.111,-13.046,0.0485,117.647,4
-211,Bang! Bang!,Wanted Dead Or Alive (Bang Bang Push Push Push),Joe Cuba Sextet,1965-12-31,246600,48,0.618,0.791,0.618,0.911,5.63e-05,0.703,-4.222,0.0922,127.344,4
-212,Delirio De Grandeza,El Explosivo,Justo Betancourt,1968-12-31,208261,25,0.605,0.798,0.605,0.088,0.00531,0.476,-25.37,0.0352,83.123,4
-213,El Manisero,My Time Is Now,Mario Bauzá,2006-07-07,309333,15,0.538,0.507,0.538,0.581,0.436,0.063,-11.199,0.0549,101.153,4
-214,Revolucionando,Revolucionando,New Swing Sextet,1970-01-01,180540,25,0.682,0.719,0.682,0.581,0.77,0.118,-14.225,0.0415,100.961,4
-215,Cuando Cuando,15 Inolvidables Exitos,Tito Rodriguez,1980-03-12,181603,40,0.585,0.534,0.585,0.7,1.03e-05,0.282,-7.064,0.0422,103.78,4
-216,Guarachi Guaro - Live,Dizzy Con Clave: Live from Dizzy's Club Coca Cola,Carlos Henriquez,2018-09-30,568773,33,0.708,0.57,0.708,0.471,0.468,0.739,-9.713,0.0398,122.053,4
-217,Yo No Camino Más,Charangueando,Tipica 73,1980-01-01,251226,24,0.595,0.661,0.595,0.569,0.000695,0.0622,-7.613,0.0406,102.955,4
-218,El Principe,Portrait Of A Stranger,Humberto Ramirez,1995-01-01,366133,13,0.727,0.415,0.727,0.587,0.907,0.0918,-9.784,0.031,104.69,4
-219,Tremendo Rumbón,Cocinando la Salsa,Joe Cuba,1976-12-31,167080,36,0.605,0.379,0.605,0.787,0.0267,0.138,-3.854,0.047,109.201,4
-220,Minor Mood,Birds Of A Feather,Caribbean Jazz Project,2003-01-01,303840,13,0.724,0.85,0.724,0.918,0.824,0.097,-5.881,0.0345,108.076,4
-221,Bebop,The Last Bullfighter,Jazz On The Latin Side All Stars,2005-03-07,336866,14,0.485,0.363,0.485,0.824,0.0427,0.381,-7.517,0.0445,136.904,4
-222,Voy,Broadway,Orquesta Broadway,2016-01-06,283573,25,0.514,0.35,0.514,0.673,0.139,0.126,-5.677,0.0611,95.968,4
-223,El Bodeguero,Epoca De Oro De La Orquesta Aragon,Orquesta Aragón,2009-04-14,181826,40,0.749,0.779,0.749,0.278,0.0,0.0818,-11.331,0.0552,111.747,4
-224,Ritmo Con Ache,40 Años De Exitos,"Jose Mangual, Jr.",2017-01-05,254670,30,0.771,0.101,0.771,0.683,0.373,0.0824,-8.763,0.112,140.046,4
-225,Toro Mata,Celia & Johnny,Johnny Pacheco,1974-01-01,342173,48,0.564,0.692,0.564,0.505,0.0081,0.167,-7.339,0.0659,113.472,4
-226,You Gotta Love Me,Boogaloo '67,Johnny Colon,1967-01-01,370960,32,0.544,0.177,0.544,0.593,2.87e-05,0.22,-6.05,0.0367,130.238,4
-227,Quítate Tú - Live,A Band And Their Music: Campeones,Fania All Stars,2008-09-09,331720,50,0.75,0.555,0.75,0.676,0.0011,0.883,-5.282,0.0476,122.202,4
-228,Cuban Pete,"Dancing Under Latin Skies (Original Album Plus Bonus Tracks, 1958)",Tito Puente & His Orchestra,2012-06-22,148053,22,0.834,0.737,0.834,0.841,0.844,0.0529,-5.862,0.0334,112.731,4
-229,Part Time Lover (Amor a Medio Tiempo),Bobby Valentin,Bobby Valentin,1986-07-24,382840,42,0.722,0.553,0.722,0.659,2.16e-05,0.0474,-10.49,0.0425,96.361,4
-230,Rosa Para Julia,Jerry Gonzalez Y Los Piratas Del Flamenco,Jerry Gonzalez,2004-06-29,300520,12,0.7,0.81,0.7,0.54,0.525,0.111,-8.747,0.0795,115.599,4
-231,Rumba Guajira - Remastered,Inolvidable 3 (Remastered),Arsenio Rodríguez,2013-06-06,170761,22,0.659,0.822,0.659,0.718,1.19e-06,0.896,-9.968,0.0569,78.532,4
-232,El Apartamento,Back To The Future,Willie Rosario,1999,258800,42,0.641,0.264,0.641,0.89,3.08e-05,0.104,-5.08,0.0462,98.699,4
-233,Un Tipo Liberado,Asi Soy Yo,Larry Harlow,1980,298493,25,0.594,0.758,0.594,0.803,1.08e-05,0.0437,-6.466,0.0563,107.357,4
-234,Lágrimas Negras,Juntos Para Siempre,Bebo Valdés,2008-11-11,224173,44,0.462,0.962,0.462,0.268,0.873,0.168,-12.552,0.0512,85.576,4
-235,Let's Stay Together,Back to the Bay,Pete Escovedo,2018-05-11,348000,34,0.403,0.428,0.403,0.362,2.13e-06,0.12,-10.306,0.162,201.802,4
-236,Soul Sauce,Verve Jazz Masters 39,Cal Tjader,1994-01-01,146706,39,0.667,0.851,0.667,0.59,0.000784,0.198,-12.575,0.0378,142.577,4
-237,Corazón Partio,Ultimate Duets,Arturo Sandoval,2018-05-18,356466,37,0.607,0.321,0.607,0.763,0.0,0.068,-6.23,0.12,80.022,4
-238,Con Tu Movimiento,Soy La Candela,Edwin Bonilla,2002,359186,20,0.796,0.525,0.796,0.924,0.000197,0.0918,-1.148,0.0408,100.123,4
-239,Babaila,El Conde,"Pete ""El Conde"" Rodriguez",1974-12-31,335386,25,0.597,0.687,0.597,0.549,1.97e-05,0.0881,-7.435,0.0405,100.674,4
-240,No Me Platiques Más,Pete And Papo,Papo Lucca,1995-12-31,207274,11,0.473,0.725,0.473,0.355,0.0,0.18,-8.821,0.0293,75.603,4
-241,Vitamina,His Piano and Rhythm,Noro Morales,1960-08-08,155760,20,0.606,0.805,0.606,0.666,0.949,0.0662,-7.321,0.0596,115.251,4
-242,Picadillo,Tito Puente Masterworks Live!!!,Bobby Sanabria,2011-03-08,507880,12,0.573,0.62,0.573,0.885,0.0672,0.693,-6.032,0.059,114.406,4
-243,Moonlight Serenade,Together Again,Juan Pablo Torres,2005,456866,16,0.793,0.517,0.793,0.632,0.91,0.127,-7.825,0.0367,127.909,4
-244,Anacaona,Cheo,Cheo Feliciano,1971-06-15,253253,52,0.535,0.442,0.535,0.701,0.0052,0.0645,-7.862,0.0361,97.692,4
-245,Soy Puerto Rico,Soy Puerto Rico,Puerto Rico All Stars,2013-05-24,517408,22,0.807,0.557,0.807,0.93,1.82e-05,0.107,-2.039,0.0729,96.984,4
-246,Somos los Reyes del Mundo,"Mascara Salcera, Vol. 2",Various Artists,2016-03-08,450025,24,0.701,0.353,0.701,0.56,0.000443,0.0867,-13.626,0.065,135.694,4
-247,Azúcar Pa' Tu Café,Azúcar Pa' Tu Café (feat. Cimafunk),Aymee Nuviola,2020-04-30,217280,19,0.835,0.354,0.835,0.646,0.0,0.337,-3.895,0.0644,130.017,4
-248,Pena De Amor,49 Minutes,Willie Colón,1978-01-01,263002,24,0.786,0.338,0.786,0.691,0.0,0.312,-8.48,0.0448,110.717,4
-249,Baila Plena,At the Point V. One,Papo Vazquez,1999-02-23,494240,4,0.617,0.398,0.617,0.864,0.483,0.0924,-8.896,0.0512,107.579,4
-250,Echate Pa'Alla,Mas Sabroso,Adalberto Santiago,2007,358613,31,0.559,0.747,0.559,0.761,0.0937,0.157,-6.422,0.0453,146.721,4
-251,Que Bueno Baila Usted,The Most From Beny More,Beny Moré,1965,196933,40,0.485,0.855,0.485,0.651,0.0152,0.0958,-9.712,0.107,172.23,4
-252,P'al Solar,20th Anniversary,Ralph Irizarry And Timbalaye,2015-10-05,218200,3,0.669,0.417,0.669,0.7,0.825,0.109,-10.225,0.0474,126.222,4
-253,Picadillo,Gerardo Rosales: 30 Aniversario,Gerardo Rosales,2011-10-01,245656,18,0.603,0.732,0.603,0.926,0.554,0.0523,-2.542,0.0425,94.169,4
-254,Aquá Traigo Mi Montuno,Punto Y Aparte,Ismael Quintana,1970-06-06,277133,21,0.584,0.316,0.584,0.804,0.0137,0.121,-8.652,0.0834,124.228,4
-255,Guantanamera,Dos,Cuba L.A.,2000-01-01,369853,29,0.778,0.668,0.778,0.508,0.000965,0.0702,-11.428,0.0454,122.302,4
-256,El Gringo,Algo Nuestro,Charlie Sepulveda,1993-01-01,263040,11,0.541,0.609,0.541,0.515,0.619,0.0446,-11.105,0.0421,120.739,4
-257,Son para Tí,Tibiri Tabara,Sierra Maestra,1997-11-03,318333,38,0.524,0.408,0.524,0.418,9.05e-05,0.117,-10.102,0.0337,118.771,4
-258,Así Se Compone Un Son,Así Se Compone un Son,Ismael Miranda,1973-01-01,336480,46,0.707,0.479,0.707,0.551,3.37e-06,0.0465,-7.468,0.0652,77.509,4
-259,Fire of the Newbie,"The Sims Social, Vol. 4: Classical, Jazz & Latin",EA Games Soundtrack,2011-12-13,251733,7,0.781,0.558,0.781,0.715,0.000244,0.273,-5.994,0.0555,100.032,4
-260,Se Le Ve,I Love Salsa,Hilario Duran,2013-10-31,243715,28,0.756,0.328,0.756,0.757,1.52e-05,0.303,-5.389,0.0432,104.98,4
-261,Lluvia (Agua que cae del cielo),Salseando (2 CDs),Descarga Boricua,2008-01-01,508573,24,0.561,0.503,0.561,0.79,0.00972,0.683,-6.931,0.042,104.909,4
-262,"Pica, Pica",Champions,Cortijo Y Su Combo,2006-03-29,276693,33,0.686,0.73,0.686,0.865,0.0695,0.112,-9.76,0.0476,91.922,4
-263,Campanero,El Bravo De Siempre,Willie Rosario and His Orchestra,1969-01-01,236173,21,0.571,0.8,0.571,0.869,5.88e-06,0.652,-4.325,0.0435,99.87,4
-264,Equinox,Primitive Passions,Dave Valentin,1996-01-01,404306,16,0.499,0.84,0.499,0.229,0.649,0.0418,-19.879,0.0391,129.592,4
-265,Evil Ways,Talkin' Verve,Willie Bobo,1997-01-01,160826,37,0.811,0.546,0.811,0.447,0.0,0.0615,-11.298,0.0433,111.435,4
-266,New World Spirit,Hot Hands,Ray Barretto & New World Spirit,1993-01-01,323160,6,0.639,0.435,0.639,0.602,0.316,0.0514,-11.588,0.0408,111.833,4
-267,Suavito,Arrives,Ricardo Ray,2005,282853,19,0.779,0.816,0.779,0.644,0.00487,0.0954,-6.591,0.0359,110.233,4
-268,Tumba pala Cocuyé,"Distinto, diferente",Afro-Cuban All Stars,1999-11-22,407373,43,0.764,0.276,0.764,0.61,0.185,0.184,-8.534,0.0407,127.655,4
-269,Puro Teatro,La Lupe Es La Reina (The Queen),La Lupe,1977-12-31,179186,40,0.483,0.583,0.483,0.366,0.0,0.154,-10.865,0.0312,108.623,4
-270,Cuando Baila Ramon,Charanga Chango,Bobby Matos,2006-08-30,258306,8,0.57,0.531,0.57,0.761,1.42e-05,0.0728,-6.063,0.107,156.765,4
-271,Yambeque,Determination,Sonora Ponceña,1982-12-31,383533,48,0.664,0.677,0.664,0.75,0.0163,0.0576,-6.439,0.0405,172.271,4
-272,Cinema Paradiso,Spain Forever,Michel Camilo,2016-10-07,190357,33,0.311,0.979,0.311,0.0971,0.919,0.111,-19.596,0.0401,131.199,4
-273,Vieques,Entre Colegas,Andy Gonzalez,2016-02-16,296040,5,0.657,0.612,0.657,0.668,0.901,0.209,-9.447,0.0553,104.251,4
-274,Qué Te Pasa A Ti,Traigo de Todo,Ismael Rivera Y Sus Cachimbos,1973-01-01,285000,34,0.627,0.271,0.627,0.488,0.00321,0.031,-7.057,0.0829,100.291,4
-275,Lejos De Ti,Sabor,Angel Canales,1975-01-01,255586,42,0.569,0.789,0.569,0.631,0.0,0.0446,-6.372,0.0627,101.947,4
-276,Don't Change My Song,That Night in L.A.,Johnny Blas,2018-06-25,359720,4,0.636,0.52,0.636,0.806,0.205,0.0738,-9.621,0.078,91.15,4
-277,Mi Desengaño,Lucky 7,Roberto Roena Y Su Apollo Sound,1975-12-31,335960,50,0.595,0.262,0.595,0.744,0.000364,0.137,-7.494,0.0409,84.93,4
-278,A Night In Torino,Italuba,Horacio El Negro Hernandez,2004-02-15,355826,10,0.581,0.272,0.581,0.83,0.837,0.112,-6.27,0.0302,124.492,1
-279,Las Tumbas,Soy Feliz,Ismael Rivera,1975-01-01,244800,50,0.438,0.565,0.438,0.587,0.135,0.0769,-7.843,0.0427,155.074,4
-280,El Tractor Amarillo,Roberto Torres con Charanga de la 4,Roberto Torres,1993,403733,33,0.591,0.0905,0.591,0.495,1.3e-05,0.179,-13.313,0.0364,146.065,4
-281,Bendicion de Mama,Abriendo Camino,Paoli Mejias,2018-07-18,328546,6,0.837,0.494,0.837,0.802,0.0,0.0487,-4.068,0.0488,112.534,4
-282,Flores Blancas Y Negras,Untouchable,Tito Allen,1979-01-01,258986,19,0.632,0.704,0.632,0.915,0.000101,0.0478,-1.99,0.0532,105.482,4
-283,Ahora me da pena,"Fe, Esperanza y Caridad",Henry Fiol,1990,404533,41,0.611,0.543,0.611,0.466,0.00176,0.195,-12.031,0.0549,91.531,4
-284,Para mi esas cosas,Exitos,Roberto Roena,2020-07-12,276456,27,0.532,0.557,0.532,0.827,0.0,0.0336,-4.848,0.0391,165.205,4
-285,Si El Mar Se Volviera Ron,Ven Baila Conmigo,Latin Giants Of Jazz,2009-01-01,354000,10,0.642,0.488,0.642,0.757,0.0,0.0581,-2.954,0.0336,89.551,4
-286,La Botanica,La Botanica,The Echo Park Project,2020-08-28,269315,6,0.837,0.668,0.837,0.656,2.43e-05,0.295,-7.142,0.0604,95.944,4
-287,Alo Alo,"Salsa De La Mata, Vol. 2",Various Artists,2011-03-26,291970,36,0.697,0.708,0.697,0.796,0.000251,0.0504,-4.202,0.0417,93.294,4
-288,Diez Lágrimas,Criollo,Lebrón Brothers,1982-12-31,311573,43,0.657,0.847,0.657,0.576,0.0293,0.07,-7.328,0.0326,91.565,4
-289,Varadero Blues,Varadero Blues,Nueva Manteca,2014-06-06,296266,4,0.523,0.652,0.523,0.462,0.867,0.0878,-13.685,0.0369,96.154,4
-290,Estoy como nunca,Estoy Como Nunca,Eliades Ochoa,2002-05-27,301600,41,0.599,0.771,0.599,0.651,0.21,0.0659,-7.819,0.0433,177.227,4
-291,Hable Con El Señor,Cobarde,Impacto Crea,1974-01-01,301069,22,0.756,0.64,0.756,0.468,8.96e-05,0.189,-4.698,0.0572,115.528,4
-292,Duermeté Mi Cielito,...And Sammy Walked In,Sammy Figueroa,2005-06-07,161893,0,0.483,0.0624,0.483,0.571,0.129,0.17,-10.842,0.0361,157.47,3
-293,El Bodeguero,Chanchullo,Ruben Gonzalez,2000-09-25,312640,50,0.6,0.681,0.6,0.351,0.365,0.135,-13.301,0.0384,114.285,4
-294,No Tires La Primera Piedra,"Rodven Clasico: Tommy Olivencia Y Su Orquesta ""30 Aniversario""",Tommy Olivencia,1987-01-01,296226,44,0.744,0.546,0.744,0.791,8.04e-05,0.117,-3.926,0.0438,97.709,4
-295,Pa' Bravo Yo (Live) [Tributo A Justo Betancourt],Presentan,Herman Olivera,2010-09-05,422926,13,0.652,0.339,0.652,0.723,0.000139,0.913,-10.335,0.0435,93.695,4
-296,Mamacita,Jam Session Vol. 23,Conrad Herwig,2007,452746,6,0.581,0.797,0.581,0.356,0.954,0.0741,-14.216,0.045,82.357,4
-297,Pancho Cristal,40 Aniversario: EN VIVO,Bobby Cruz,2004,320714,34,0.576,0.558,0.576,0.816,0.0848,0.778,-6.87,0.0564,97.627,4
-298,Pide Que Hay Z93 (feat. Anthony Almonte),Golpe Duro (feat. Anthony Almonte),Little Johnny Rivero,2020-10-23,282710,5,0.788,0.549,0.788,0.823,7.04e-05,0.108,-6.149,0.0508,95.017,4
-299,Qué Pasa Loco,Grandes Exitos Vol. 1,Issac Delgado,2000-01-01,378013,46,0.789,0.252,0.789,0.727,1.04e-05,0.0676,-9.011,0.0578,87.739,4
-300,Los Gatos,To Hear from There,Wayne Wallace Latin Jazz Quintet,2011-01-18,376213,18,0.759,0.575,0.759,0.584,0.845,0.0746,-11.812,0.0325,124.003,4
-301,Mambo Manila,Mambo Madness,Tito Rodriguez & His Orchestra,1959-12-31,190440,23,0.571,0.806,0.571,0.802,0.755,0.0592,-7.438,0.0559,147.562,4
-302,Separarla También,A Little Bit Of Everything,La Playa Sextet,1960-01-01,155633,24,0.483,0.74,0.483,0.721,0.79,0.1,-5.899,0.0563,85.362,4
-303,Carinoso Si Mentiroso No,El Run Run De Los Soneros,Soneros De Verdad,2005-12-30,223546,10,0.557,0.561,0.557,0.615,3.61e-05,0.0463,-8.524,0.152,93.321,4
-304,Decisiones,Buscando America,Rubén Blades,1984-04-03,303400,58,0.661,0.777,0.661,0.61,0.0,0.0475,-9.824,0.0707,96.402,4
-305,Los Aretes De La Luna,Más Ternura De La Sonora Matancera,La Sonora Matancera,1988-01-01,143373,49,0.575,0.874,0.575,0.358,2.65e-05,0.222,-10.07,0.0394,98.785,4
-306,Sin Rumba Albuno,Historia Musical Del Conjunto Clasico Vol.3,Conjunto Clásico,1995,279373,32,0.555,0.497,0.555,0.603,6.46e-06,0.0772,-7.93,0.0649,95.284,4
-307,The Art of Latin Jazz,The Art of Latin Jazz,Oscar Hernandez,2017-03-17,259866,5,0.552,0.776,0.552,0.68,0.801,0.0512,-7.386,0.034,117.938,4
-308,El Negro Esta Cocinando,Llego... Van Van,Los Van Van,2003,328253,43,0.632,0.111,0.632,0.963,7.05e-05,0.373,-4.467,0.0701,108.088,4
-309,Agua Que Va Caer (Remastered),"Solo para Coleccionistas, Vol. 1",Tromboranga,2013-10-13,283278,35,0.792,0.419,0.792,0.78,0.0143,0.0799,-7.177,0.0556,91.54,4
-310,Sol,Sol,Doug Beavers,2020-12-04,384560,10,0.588,0.509,0.588,0.737,0.0022,0.101,-9.939,0.034,89.841,4
-311,No Critiques,Conjunto Libre: Greatest Hits,Conjunto Libre,2016-01-27,388725,18,0.548,0.622,0.548,0.831,0.0136,0.365,-4.197,0.0467,93.583,4
-312,Vamonos Pal Monte,The Best of Eddie Palmieri and Friends,Eddie Palmieri,2013-01-28,227000,3,0.389,0.111,0.389,0.641,0.328,0.976,-15.119,0.0394,102.951,4
-313,El tic tac de La Habana,El cuento de la buena pipa,Alain Pérez,2020-02-28,317480,29,0.671,0.425,0.671,0.88,0.0,0.0925,-5.652,0.0692,177.109,4
-314,Vasos De Colores,Serie Sensacional: Marvin Santiago,Marvin Santiago,2000-01-01,331333,36,0.803,0.487,0.803,0.579,0.00023,0.0994,-11.199,0.147,105.018,4
-315,Cumbiamba,El Carretero,Guillermo Portabales,2019-10-04,151493,35,0.781,0.747,0.781,0.792,0.0123,0.0458,-7.884,0.0443,92.122,4
-316,Granada (with El Árabe),EL Hechizo Rítmico (with El Árabe),Chico O'Farrill,2012-09-17,153573,1,0.391,0.523,0.391,0.393,0.0881,0.0605,-11.121,0.0531,147.708,3
-317,Dulce Amor,Conga Blue,Poncho Sanchez,1996-01-01,304066,39,0.506,0.754,0.506,0.22,0.665,0.253,-15.971,0.0383,170.632,4
-318,Azúcar,Azúcar pa' Ti,Eddie Palmieri,1964-12-31,569240,38,0.491,0.493,0.491,0.781,0.00045,0.0713,-8.924,0.0358,109.219,4
-319,Sácala bailar,United we swing,Spanish Harlem Orchestra,2007,373748,0,0.668,0.371,0.668,0.88,0.0339,0.0937,-5.349,0.0369,91.453,4
-320,Porque Me Engañas,Impulsos,Charlie Palmieri,1975,255066,19,0.673,0.606,0.673,0.56,0.00092,0.145,-11.709,0.0482,92.12,4
-321,Ochosi,Cantos a los Orishas,Francisco Aguabella,2006-11-21,189706,14,0.515,0.645,0.515,0.695,0.00033,0.0363,-10.279,0.0643,102.667,3
-322,Watermelon Man,Mr. Watermelon Man,Mongo Santamaria,1965,195133,42,0.701,0.801,0.701,0.908,0.0444,0.12,-8.244,0.0332,119.293,4
-323,Pruebame,Maestro,Louie Ramirez,2012-08-21,353453,36,0.683,0.704,0.683,0.519,2e-05,0.315,-10.929,0.0375,88.914,4
-324,Indestructible,Indestructible,Ray Barretto,1973-12-31,252000,45,0.59,0.54,0.59,0.845,0.000275,0.0758,-4.37,0.048,108.866,4
-325,Oye Mis Tres Montunos,Descargas,Cachao,2016-03-14,164812,35,0.589,0.379,0.589,0.77,0.636,0.0469,-7.292,0.0364,100.706,4
-326,I'll Call You Later,Enchantment,Hilton Ruiz,2006-01-01,269480,30,0.481,0.822,0.481,0.458,0.194,0.27,-9.945,0.0309,107.621,4
-327,Boliviana - Remasterizado,The Real Cuban Music (Remasterizado),Irakere,2018-01-19,383546,24,0.472,0.154,0.472,0.649,0.304,0.0314,-5.447,0.0314,149.973,4
-328,Cocosito,El Avion De La Salsa,Jimmy Bosch,2004,292120,25,0.449,0.5,0.449,0.86,0.00359,0.0274,-3.975,0.0362,168.289,4
-329,Magic Drums,Silver Gold,Giovanni Hidalgo,2009,268800,18,0.512,0.487,0.512,0.653,0.907,0.061,-9.459,0.0929,110.81,4
-330,El Cayuco (Son Montuno) - Outtake,Dancemania,Tito Puente,1958,154986,33,0.737,0.276,0.737,0.661,0.0868,0.0604,-7.599,0.0531,127.731,4
-331,Como Traigo La Yuca - Live,Live At The Village Vanguard,Chucho Valdés,2000-01-01,396226,38,0.479,0.874,0.479,0.378,0.863,0.763,-16.853,0.0554,157.137,4
-332,On Green Dolphin Street,Blowin',Paquito D'Rivera,1981,418733,21,0.454,0.712,0.454,0.628,0.558,0.325,-8.119,0.0593,144.865,4
-333,Cara De Payaso (Tributo A Tito Rodriguez),Jimmy's Best,Jimmy Sabater,2010-08-30,275749,31,0.668,0.645,0.668,0.69,0.00034,0.0846,-11.36,0.0431,101.202,4
-334,El Manicero,They Just Don't Makim Like Us Any More,Alegre All Stars,1976-01-01,342346,13,0.644,0.491,0.644,0.731,0.00239,0.709,-10.372,0.0536,110.467,4
-335,Mas Que Nada,Patato & Totico,Patato Valdez,1968-01-01,155213,14,0.523,0.807,0.523,0.54,1.81e-06,0.655,-15.187,0.089,112.052,3
-336,Aprovecha,The Very Best Of ¡Cubanismo! ¡Mucho Gusto!,¡Cubanismo!,2001-11-13,290840,31,0.756,0.404,0.756,0.728,0.762,0.0565,-7.174,0.035,127.731,4
-337,Wild Jungle - 2000 Remaster,Kenya,Machito,2000-01-25,167893,26,0.41,0.912,0.41,0.788,0.809,0.0997,-12.182,0.0393,152.47,4
-338,Ella Está En Otra Rumba,Presencia,Justo Betancourt,1978-12-31,299906,24,0.597,0.453,0.597,0.94,0.0131,0.289,-3.297,0.0966,110.456,4
-339,Cachondea,Steppin' Out,Joe Cuba Sextet,1963-07-01,180000,35,0.709,0.881,0.709,0.657,3.48e-05,0.112,-12.039,0.0396,114.212,4
-340,Mambo Inn,Afro-Cuban Jazz,Mario Bauzá,2001-01-01,233053,14,0.683,0.608,0.683,0.896,0.617,0.146,-0.909,0.0453,112.458,4
-341,Maybe Then,"Yesterday, Today and Tomorrow",New Swing Sextet,2018-12-19,313585,23,0.6,0.819,0.6,0.646,1.82e-05,0.128,-6.918,0.0529,87.803,4
-342,Cuando Ya No Me Quieras,From Tito With Love,Tito Rodriguez,1964-12-31,178840,41,0.418,0.798,0.418,0.445,0.0,0.107,-8.69,0.0301,95.974,4
-343,Descarga Entre Amigos (feat. Rubén Blades),The Bronx Pyramid,Carlos Henriquez,2015-09-18,321420,31,0.581,0.613,0.581,0.602,9.72e-05,0.0737,-8.477,0.0519,112.804,4
-344,Baila Que Baila,Salsa Encendida,Tipica 73,1978-01-01,216397,23,0.643,0.8,0.643,0.718,0.155,0.314,-5.481,0.083,107.567,4
-345,Mambo Nassau,20 Years of Jazz,Humberto Ramirez,2011-11-22,421626,10,0.559,0.736,0.559,0.573,0.899,0.164,-13.3,0.0472,107.747,4
-346,A Las Seis,Joe Cuba Con Cheo Feliciano,Joe Cuba,2012-10-16,163440,24,0.596,0.72,0.596,0.514,9.89e-05,0.0414,-14.73,0.0641,114.58,4
-347,On The Road,Birds Of A Feather,Caribbean Jazz Project,2003-01-01,328453,13,0.737,0.597,0.737,0.649,0.587,0.0917,-7.831,0.0355,132.054,4
-348,Caramba,The Last Bullfighter,Jazz On The Latin Side All Stars,2005-03-07,406426,11,0.724,0.335,0.724,0.644,0.394,0.0757,-7.245,0.0362,140.539,4
-349,Ritmo Changüi,¡Charangas! The Best Of Orquesta Broadway,Orquesta Broadway,1995-01-01,269133,24,0.732,0.462,0.732,0.389,4.98e-05,0.0858,-12.062,0.0421,98.42,4
-350,Cachita,Epoca De Oro De La Orquesta Aragon,Orquesta Aragón,2009-04-14,159600,39,0.55,0.589,0.55,0.333,0.000373,0.0665,-12.029,0.162,101.668,4
-351,Campanero,40 Años De Exitos,"Jose Mangual, Jr.",2017-01-05,300170,20,0.605,0.563,0.605,0.716,0.000264,0.291,-12.833,0.0451,191.166,4
-352,La Esencia Del Guaguancó,La Perfecta Combinación,Johnny Pacheco,1970-01-01,246720,47,0.658,0.691,0.658,0.524,1.16e-05,0.0648,-6.939,0.0477,88.352,4
-353,Boogaloo Blues,Fania Records 60's Gold,Various Artists,1983-01-01,331868,30,0.744,0.609,0.744,0.192,1.07e-05,0.0914,-18.472,0.059,114.918,4
-354,Ella Fue (She Was The One),Rhythm Machine,Fania All Stars,1977,221720,50,0.824,0.38,0.824,0.648,0.0258,0.0442,-8.693,0.0398,121.323,4
-355,Cha-Cha-Gua,"Mucho Cha Cha (Original Album Plus Bonus Tracks, 1959)",Tito Puente & His Orchestra,2012-06-22,169226,17,0.372,0.685,0.372,0.704,0.0869,0.0924,-7.838,0.0329,201.71,4
-356,Cuando Te Vea,Rey del Bajo,Bobby Valentin,1974-12-31,327520,39,0.682,0.485,0.682,0.753,0.000875,0.0905,-4.743,0.0414,93.576,4
-357,Equipoise,Jerry Gonzalez y el Comando de la Clave,Jerry Gonzalez,2011-08-30,414866,11,0.684,0.528,0.684,0.479,0.811,0.0934,-7.776,0.0526,126.204,4
-358,Hachero pa' un palo (Son Montuno),Vive en el recuerdo,Arsenio Rodríguez,2018-04-02,142027,19,0.663,0.748,0.663,0.445,0.031,0.131,-9.812,0.131,150.28,4
-359,Esa Que Yo Conocí,Serie Top Ten,Willie Rosario,2006-01-01,291600,21,0.592,0.673,0.592,0.556,0.000172,0.319,-11.397,0.052,101.177,4
-360,Yo Te Seguiré,Con Larry Harlow,Larry Harlow,1972-02-21,293573,24,0.709,0.709,0.709,0.282,9.97e-05,0.117,-14.766,0.0567,131.269,4
-361,El Manisero - Mambo Son,El Manisero,Bebo Valdés,2004,156640,44,0.585,0.779,0.585,0.712,0.125,0.491,-8.59,0.0806,82.013,4
-362,All This Love - Vocal,Flying South,Pete Escovedo,1986-01-01,342293,27,0.763,0.351,0.763,0.594,0.578,0.0928,-10.719,0.0254,100.088,4
-363,Invitation - Instrumental,Latin Kick,Cal Tjader,1959-01-01,253800,40,0.656,0.942,0.656,0.137,0.703,0.094,-21.364,0.0343,98.005,4
-364,Granada,Ultimate Duets,Arturo Sandoval,2018-05-18,287986,38,0.265,0.884,0.265,0.607,0.0375,0.0952,-6.925,0.0468,84.726,3
-365,Recordando La Descargas,Soy La Candela,Edwin Bonilla,2002,484520,19,0.687,0.663,0.687,0.934,0.203,0.0476,0.569,0.0707,114.41,4
-366,Tambo,A Touch Of Class,"Pete ""El Conde"" Rodriguez",1977-12-31,257333,23,0.685,0.733,0.685,0.494,0.00422,0.043,-11.519,0.0677,112.982,4
-367,Dónde Están Los Rumberos,Quintana Y Papo: Mucho Talento,Papo Lucca,1983-01-01,266413,9,0.777,0.837,0.777,0.693,0.266,0.16,-10.669,0.037,97.675,4
-368,Oye Men,His Piano and Rhythm,Noro Morales,1960-08-08,154253,16,0.744,0.74,0.744,0.723,0.916,0.182,-6.941,0.0419,112.445,4
-369,57th St. Mambo,Big Band Urban Folktales,Bobby Sanabria,2007-06-05,397400,9,0.531,0.49,0.531,0.763,0.863,0.0703,-6.467,0.0829,110.601,4
-370,Trommontuno,Trombon Afrocubano,Juan Pablo Torres,2002-07-10,263160,15,0.722,0.725,0.722,0.646,0.928,0.063,-10.07,0.057,157.036,4
-371,Reunion En La Cima,"Puerto Rico All Stars, Vol. 1",Puerto Rico All Stars,1976,357494,15,0.73,0.533,0.73,0.462,0.000318,0.131,-12.082,0.076,109.214,4
-372,Amada Mía,"Sentimiento, Tú",Cheo Feliciano,1980-12-31,284493,44,0.353,0.725,0.353,0.559,2.32e-05,0.409,-3.858,0.0293,77.945,4
-373,Somos los Reys del Mundo,Los Grandes De La Salsa,Various Artists,1998,276560,23,0.723,0.36,0.723,0.67,0.000234,0.0648,-5.376,0.0295,135.732,4
-374,Rumba Callejera - En Vivo,Viento Y Tiempo - Live at Blue Note Tokyo,Gonzalo Rubalcaba,2020-05-29,402748,17,0.611,0.485,0.611,0.867,0.00101,0.85,-5.896,0.0728,123.961,4
-375,Pachanga Con Guaguancó,Que Gente Averiguá,Mon Rivera,1961-01-01,170440,24,0.676,0.573,0.676,0.796,1.23e-06,0.186,-5.159,0.0549,75.217,4
-376,Carnival in San Juan,Carnival in San Juan,Papo Vazquez,2003-08-19,342640,4,0.488,0.162,0.488,0.706,0.855,0.0792,-12.214,0.0351,144.766,4
-377,Hay Algo En Ella,Hay Algo En Ella,Adalberto Santiago,1991-09-06,284525,28,0.812,0.244,0.812,0.776,0.000335,0.296,-4.637,0.0521,86.059,4
-378,Bonito y Sabroso,Serie Platino,Beny Moré,1997-07-15,173933,39,0.88,0.541,0.88,0.63,3.7e-05,0.318,-5.47,0.041,124.772,4
-379,Gotham Town,20th Anniversary,Ralph Irizarry And Timbalaye,2015-10-05,293853,3,0.562,0.544,0.562,0.72,0.722,0.0883,-11.921,0.0447,126.03,4
-380,Quiero Ser,Salsa Mundial,Gerardo Rosales,2008-10-22,309002,15,0.525,0.8,0.525,0.771,0.0,0.0706,-3.937,0.0562,165.978,4
-381,El Cantante,Comedia,Héctor Lavoe,1978-01-01,626880,63,0.549,0.694,0.549,0.498,3.87e-05,0.109,-9.203,0.0371,95.345,4
-382,Periódico De Ayer,De Ti Depende,Héctor Lavoe,1976-01-01,409080,60,0.442,0.0129,0.442,0.634,0.867,0.0953,-7.683,0.0307,98.093,4
-383,Mi Gente,La Voz,Héctor Lavoe,1975-12-31,326880,52,0.483,0.368,0.483,0.874,1.66e-05,0.132,-3.413,0.108,110.686,4
-384,Ausencia,Cosa Nuestra,Héctor Lavoe,1968-12-31,306640,51,0.628,0.249,0.628,0.395,3.07e-06,0.0742,-9.766,0.0487,88.005,4
-385,La Murga,Asalto Navideño,Willie Colón,1970-01-01,334080,60,0.604,0.65,0.604,0.749,0.0277,0.0564,-7.591,0.0381,89.013,4
-386,Loco,Strikes Back,Héctor Lavoe,1987-01-01,325213,51,0.647,0.674,0.647,0.82,5.44e-06,0.129,-6.816,0.0324,103.608,4
-387,Aguanile,El Juicio,Willie Colón,1972-01-01,369120,59,0.573,0.632,0.573,0.712,5.87e-05,0.432,-6.375,0.0671,125.834,4
-388,El Día De Mi Suerte,Lo Mato,Willie Colón,1973-12-31,328786,61,0.56,0.605,0.56,0.855,0.0,0.0532,-5.232,0.0529,97.097,4
-389,El Todopoderoso,La Voz,Héctor Lavoe,1975-12-31,262680,49,0.572,0.448,0.572,0.863,0.000192,0.051,-3.571,0.069,109.498,4
-390,Escarchas,Strikes Back,Héctor Lavoe,1987-01-01,392653,48,0.612,0.689,0.612,0.741,9.59e-05,0.0556,-5.993,0.0363,92.254,4
-391,Qué Lío,The Hustler,Willie Colón,1968-01-01,277186,49,0.616,0.864,0.616,0.393,0.00339,0.0871,-9.432,0.0586,172.238,4
-392,Ah-Ah / O-No,El Juicio,Willie Colón,1972-01-01,227280,49,0.597,0.288,0.597,0.743,0.0,0.307,-5.308,0.0323,95.456,4
-393,Ella Mintió,Strikes Back,Héctor Lavoe,1987-01-01,286000,49,0.646,0.67,0.646,0.771,0.0,0.093,-6.028,0.057,90.06,4
-394,Juanito Alimaña,Vigilante,Héctor Lavoe,1982-01-01,456960,57,0.688,0.76,0.688,0.795,8.01e-06,0.0484,-4.537,0.0415,90.698,4
-395,Todo Tiene Su Final,Lo Mato,Willie Colón,1973-12-31,303373,54,0.498,0.74,0.498,0.85,0.000273,0.292,-6.494,0.042,101.299,4
-396,¿De Qué Tamaño Es Tu Amor?,Reventó,Héctor Lavoe,1985-12-31,213360,47,0.715,0.815,0.715,0.619,1.55e-05,0.0607,-8.654,0.0439,94.958,4
-397,Triste Y Vacía,Vigilante,Héctor Lavoe,1982-01-01,371773,55,0.506,0.646,0.506,0.624,0.0,0.104,-4.997,0.0362,94.979,4
-398,Calle Luna Calle Sol,Lo Mato,Willie Colón,1973-12-31,228440,53,0.484,0.416,0.484,0.894,1.28e-05,0.0783,-6.142,0.0756,178.729,4
-399,Ché Ché Colé,Crime Pays,Willie Colón,1972-01-01,211400,56,0.772,0.535,0.772,0.868,0.0,0.17,-5.183,0.0461,101.253,4
-400,La Fama,Reventó,Héctor Lavoe,1985-12-31,321480,45,0.659,0.817,0.659,0.818,0.00886,0.0863,-7.341,0.0423,94.789,4
-401,Piraña,El Juicio,Willie Colón,1972-01-01,316680,41,0.649,0.62,0.649,0.648,2.74e-05,0.388,-5.468,0.0315,101.227,4
-402,Hacha Y Machete,De Ti Depende,Héctor Lavoe,1976-01-01,333480,43,0.581,0.16,0.581,0.778,0.0,0.176,-8.389,0.0475,104.142,4
-403,Juana Peña,Crime Pays,Willie Colón,1972-01-01,338013,42,0.551,0.519,0.551,0.704,0.0127,0.104,-6.817,0.0328,101.823,4
-404,Rompe Saragüey,La Voz,Héctor Lavoe,1975-12-31,390600,42,0.798,0.696,0.798,0.715,0.131,0.138,-3.918,0.033,129.695,4
-405,Güaracha,"The Good, The Bad, And The Ugly",Héctor Lavoe,1975-01-01,308520,39,0.572,0.42,0.572,0.773,1.86e-05,0.213,-6.449,0.0468,126.997,4
-406,No Me Llores Más,Cosa Nuestra,Héctor Lavoe,1968-12-31,337680,40,0.774,0.51,0.774,0.784,0.000302,0.0721,-6.28,0.0388,106.923,4
-407,Eso Se Baila Así,The Hustler,Willie Colón,1968-01-01,317813,45,0.636,0.667,0.636,0.67,4.64e-05,0.0614,-5.223,0.0466,120.656,4
-408,Pasé La Noche Fumando,Vigilante,Héctor Lavoe,1982-01-01,704466,37,0.689,0.757,0.689,0.499,2.21e-05,0.19,-5.319,0.0296,127.754,4
-409,Abuelita,La Gran Fuga,Willie Colón,1971-01-01,263773,41,0.662,0.651,0.662,0.588,0.000507,0.294,-10.073,0.0725,93.53,4
-410,Timbalero,49 Minutes,Willie Colón,1978-01-01,497640,40,0.52,0.339,0.52,0.806,0.00635,0.227,-6.945,0.0468,117.135,4
-411,Juanito Alimaña,Greatest Hits,Willie Colón,2008-02-26,345600,41,0.73,0.531,0.73,0.726,1.07e-06,0.0819,-5.451,0.0342,89.832,4
-412,Soñando Despierto,Tú Bien Lo Sabes,Héctor Lavoe,2001-12-31,246746,41,0.707,0.754,0.707,0.603,5.72e-06,0.138,-6.665,0.0279,107.516,4
-413,Taxi,Strikes Back,Héctor Lavoe,1987-01-01,223040,41,0.657,0.767,0.657,0.411,0.000527,0.2,-9.868,0.0326,80.747,4
-414,Aléjate,El Sabio,Héctor Lavoe,1980-10-31,427560,38,0.487,0.59,0.487,0.778,2.17e-05,0.0604,-4.843,0.0472,105.743,4
-415,Barrunto,La Gran Fuga,Willie Colón,1971-01-01,336120,38,0.601,0.479,0.601,0.526,0.00774,0.0463,-10.483,0.0464,97.44,4
-416,Songoro Cosongo,Comedia,Héctor Lavoe,1978-01-01,470280,39,0.553,0.521,0.553,0.574,6.96e-05,0.0866,-7.492,0.045,88.988,4
-417,Escarcha,"Salsa Hits Nyc, Vol. 1",Various Artists,2005-05-26,364960,42,0.513,0.407,0.513,0.785,0.00134,0.086,-6.928,0.0332,92.898,4
-418,Te Conozco,Cosa Nuestra,Héctor Lavoe,1968-12-31,295480,39,0.61,0.356,0.61,0.831,0.000119,0.174,-5.312,0.0705,101.243,4
-419,Un Amor De La Calle,La Voz,Héctor Lavoe,1975-12-31,204000,39,0.54,0.382,0.54,0.537,0.000845,0.141,-3.833,0.0254,99.21,4
-420,El Día De Mi Suerte,Salsa Sensual,Various Artists,2019-12-19,325056,38,0.707,0.543,0.707,0.535,0.0,0.0734,-12.583,0.0438,98.558,4
-421,Vamos A Reír Un Poco,De Ti Depende,Héctor Lavoe,1976-01-01,455880,37,0.573,0.115,0.573,0.707,0.000513,0.16,-8.716,0.0351,108.21,4
-422,Déjala Que Siga,Reventó,Héctor Lavoe,1985-12-31,387600,38,0.781,0.73,0.781,0.744,0.0117,0.337,-6.938,0.0584,88.563,4
-423,Emborrachame De Amor,La Voz,Héctor Lavoe,1975-12-31,180240,43,0.465,0.51,0.465,0.588,0.0,0.0806,-3.828,0.0638,171.464,4
-424,Bandolera,Comedia,Héctor Lavoe,1978-01-01,574800,38,0.594,0.752,0.594,0.562,7.29e-05,0.168,-9.38,0.0339,105.795,4
-425,De Ti Depende,De Ti Depende,Héctor Lavoe,1976-01-01,275760,39,0.42,0.594,0.42,0.458,6.37e-05,0.237,-6.93,0.0297,149.482,4
-426,Siento,Bamboléo,Fania All Stars,1988-01-01,391320,46,0.646,0.776,0.646,0.843,0.000139,0.128,-8.768,0.0516,95.722,4
-427,Paraíso De Dulzura,La Voz,Héctor Lavoe,1975-12-31,275880,36,0.528,0.652,0.528,0.822,0.0,0.0722,-3.292,0.0455,104.637,4
-428,Comedia,Comedia,Héctor Lavoe,1978-01-01,211200,35,0.303,0.501,0.303,0.283,0.000969,0.202,-10.891,0.0295,98.682,4
-429,Mentiras,Commercial,Los Amigos Invisibles,2009-05-26,201400,66,0.73,0.00804,0.73,0.842,0.0,0.252,-4.086,0.0297,124.957,4
-430,La Que Me Gusta,Repeat After Me,Los Amigos Invisibles,2013-09-24,239626,66,0.721,0.122,0.721,0.833,0.000115,0.135,-7.469,0.0777,100.005,4
-431,Espérame Feat. Elastic Bond,El Paradise,Los Amigos Invisibles,2017-02-24,255233,55,0.741,0.0498,0.741,0.837,4.59e-06,0.207,-6.814,0.0349,119.965,4
-432,Viviré para Ti (feat. Natalia Lafourcade) - Versión Acústica,"Los Amigos Invisibles, Acústico",Los Amigos Invisibles,2015-06-30,236480,52,0.451,0.635,0.451,0.881,1.73e-05,0.955,-7.737,0.103,105.937,4
-433,Qué Rico,Arepa 3000,Los Amigos Invisibles,2000,239613,49,0.71,0.0618,0.71,0.659,0.0235,0.0945,-8.39,0.0334,128.034,4
-434,Ponerte En Cuatro,The New Sound of the Venezuelan Gozadera,Los Amigos Invisibles,1998,272573,45,0.793,0.0132,0.793,0.812,0.0163,0.0852,-8.529,0.0645,130.111,4
-435,Loco por Tu Amor,Commercial,Los Amigos Invisibles,2009-05-26,250506,35,0.717,0.207,0.717,0.8,0.0107,0.666,-7.578,0.0586,125.985,4
-436,Óyeme Nena - Versión Acústica,"Los Amigos Invisibles, Acústico",Los Amigos Invisibles,2015-06-30,260013,39,0.565,0.233,0.565,0.838,0.00282,0.892,-6.104,0.0315,105.535,4
-437,La Vecina,Arepa 3000,Los Amigos Invisibles,2000,259453,46,0.798,0.219,0.798,0.824,0.0463,0.0924,-7.179,0.0407,116.002,4
-438,"Mi Amiga, Mi Esposa Y Mi Amante",Rigo Es Amor,Various Artists,2006-03-14,223493,30,0.703,0.0939,0.703,0.489,0.00128,0.0741,-8.696,0.0276,94.001,4
-439,Stay,Repeat After Me,Los Amigos Invisibles,2013-09-24,363640,34,0.688,0.0669,0.688,0.722,0.00388,0.132,-7.324,0.0318,119.997,4
-440,Sexy (feat. Jay De la Cueva) - Versión Acústica,"Los Amigos Invisibles, Acústico",Los Amigos Invisibles,2015-06-30,328760,41,0.589,0.754,0.589,0.527,0.00729,0.901,-9.29,0.0401,110.278,4
-441,Cuchi-Cuchi,Arepa 3000,Los Amigos Invisibles,2000,224373,39,0.843,0.104,0.843,0.764,2.76e-06,0.706,-6.483,0.0635,125.025,4
-442,El Disco Anal,The New Sound of the Venezuelan Gozadera,Los Amigos Invisibles,1998,374240,38,0.732,0.0173,0.732,0.809,0.0108,0.136,-6.541,0.0321,127.003,4
-443,Yo No Sé,Super Pop Venezuela,Los Amigos Invisibles,2006-09-05,276213,40,0.797,0.00127,0.797,0.626,0.0783,0.0758,-8.888,0.0677,126.017,4
-444,Eres Mis Ganas,El Paradise,Los Amigos Invisibles,2017-02-24,315596,37,0.555,0.00117,0.555,0.847,0.00598,0.251,-6.421,0.0349,124.002,4
-445,Eh Eh Oh Oh,Eh Eh Oh Oh,Los Amigos Invisibles,2021-05-07,205755,41,0.658,0.0292,0.658,0.751,2.3e-06,0.189,-6.411,0.0403,98.052,4
-446,Corazón Tatto (feat. Gil Cerezo) - Versión Acústica,"Los Amigos Invisibles, Acústico",Los Amigos Invisibles,2015-06-30,288693,31,0.637,0.701,0.637,0.774,0.198,0.948,-8.035,0.0396,136.452,4
-447,Amor,Arepa 3000,Los Amigos Invisibles,2000,238173,36,0.802,0.0184,0.802,0.843,7.23e-05,0.266,-7.036,0.0577,120.037,4
-448,Sueño Erótico,Commercial,Los Amigos Invisibles,2009-05-26,242373,34,0.683,0.138,0.683,0.823,0.067,0.176,-6.475,0.0559,120.03,4
-449,Amar Es Algo Más,Super Pop Venezuela,Los Amigos Invisibles,2006-09-05,426306,35,0.692,0.393,0.692,0.746,0.000496,0.257,-6.359,0.0362,107.981,4
-450,Si Estuvieras Aquí (feat. Mariana Vega) - Versión Acústica,"Los Amigos Invisibles, Acústico",Los Amigos Invisibles,2015-06-30,297933,34,0.52,0.583,0.52,0.627,0.000168,0.898,-8.176,0.0314,128.352,4
-451,Contigo,El Paradise,Los Amigos Invisibles,2017-02-24,252601,33,0.631,0.00794,0.631,0.915,1.18e-05,0.34,-7.019,0.041,131.976,4
-452,In Luv with U,Commercial,Los Amigos Invisibles,2009-05-26,245666,37,0.931,0.143,0.931,0.537,0.000345,0.324,-7.642,0.0364,109.991,4
-453,Espérame - Extended Mix,El Paradise (Extended),Los Amigos Invisibles,2017-12-01,337882,36,0.753,0.00973,0.753,0.777,0.00581,0.0751,-7.105,0.0383,119.987,4
-454,Disco Anal - Versión Acústica,"Los Amigos Invisibles, Acústico",Los Amigos Invisibles,2015-06-30,363400,35,0.437,0.201,0.437,0.889,0.0247,0.928,-7.934,0.0485,129.341,4
-455,Tócamela,Tócamela,Los Amigos Invisibles,2019-04-05,205009,37,0.678,0.00848,0.678,0.862,1.44e-05,0.349,-6.256,0.0477,114.051,4
-456,Dame el Mambo,Dame el Mambo,Los Amigos Invisibles,2016-10-14,268580,33,0.738,0.00763,0.738,0.868,0.0638,0.0844,-5.411,0.061,119.988,4
-457,Mujer Policía,Arepa 3000,Los Amigos Invisibles,2000,248506,31,0.805,0.0122,0.805,0.911,0.0884,0.0589,-6.088,0.0492,112.038,4
-458,Cachete a Cachete,The New Sound of the Venezuelan Gozadera,Los Amigos Invisibles,1998,287533,30,0.781,0.564,0.781,0.755,0.00267,0.126,-7.015,0.0395,118.168,4
-459,Viajero Frecuente del Amor,El Paradise,Los Amigos Invisibles,2017-02-24,252103,30,0.603,0.00636,0.603,0.893,0.156,0.183,-6.438,0.0336,133.934,4
-460,Plastic Woman,Commercial,Los Amigos Invisibles,2009-05-26,205520,29,0.875,0.0284,0.875,0.684,3.55e-05,0.206,-6.257,0.0607,115.031,4
-461,Corazón Tatú,Repeat After Me,Los Amigos Invisibles,2013-09-24,260693,30,0.687,0.00421,0.687,0.876,0.0328,0.139,-6.438,0.0344,126.015,4
-462,Ultra-Funk,The New Sound of the Venezuelan Gozadera,Los Amigos Invisibles,1998,218666,37,0.667,0.0141,0.667,0.903,0.00915,0.309,-6.451,0.0398,109.463,4
-463,Aquí Nadie Esta Sano Feat. Auténticos Decadentes,El Paradise,Los Amigos Invisibles,2017-02-24,226623,29,0.776,0.0194,0.776,0.886,8.25e-05,0.151,-3.87,0.0342,123.05,4
-464,Ay Amor,Cómo Te Voy a Olvidar,Los Ángeles Azules,2013,223120,46,0.695,0.0205,0.695,0.845,0.0,0.314,-3.538,0.0393,170.008,4
-465,Río Porque No Fue un Sueño,Repeat After Me,Los Amigos Invisibles,2013-09-24,166520,29,0.626,0.0245,0.626,0.691,0.000543,0.328,-7.336,0.0349,94.992,4
-466,Playa Azul,The Venezuelan Zinga Son Vol. 1,Los Amigos Invisibles,2007-03-26,279773,35,0.632,0.232,0.632,0.742,0.109,0.0662,-8.238,0.0416,175.94,4
-467,Si Tú Te Vas,Super Pop Venezuela,Los Amigos Invisibles,2006-09-05,278093,29,0.783,0.044,0.783,0.491,0.000361,0.147,-9.672,0.0351,134.955,4
-468,Sweet,Not So Commercial,Los Amigos Invisibles,2011-01-27,303266,28,0.756,0.0687,0.756,0.817,4.1e-05,0.212,-5.748,0.0573,118.001,4
-469,Sex Appeal,Repeat After Me,Los Amigos Invisibles,2013-09-24,169786,29,0.758,0.00343,0.758,0.728,0.000182,0.294,-5.127,0.044,120.961,4
-470,Anestesiada Feat. Kinky,El Paradise,Los Amigos Invisibles,2017-02-24,224589,28,0.736,0.0148,0.736,0.933,0.3,0.0871,-5.441,0.0455,116.005,4
-471,Media Luna,Super Pop Venezuela,Los Amigos Invisibles,2006-09-05,264253,32,0.729,0.00735,0.729,0.627,0.00605,0.204,-8.46,0.0292,124.005,4
-472,Llegaste Tarde,Arepa 3000,Los Amigos Invisibles,2000,416040,26,0.49,0.799,0.49,0.82,0.0558,0.131,-7.138,0.0684,102.572,4
-473,Invisible Love,Repeat After Me,Los Amigos Invisibles,2013-09-24,274346,26,0.731,0.0136,0.731,0.747,0.0301,0.09,-6.612,0.0305,125.98,4
-474,Esto Es Lo Que Hay,The Venezuelan Zinga Son Vol. 1,Los Amigos Invisibles,2007-03-26,379106,31,0.628,0.635,0.628,0.907,0.0153,0.625,-5.203,0.0466,105.988,4
-475,No Es Fácil Amar,Super Pop Venezuela,Los Amigos Invisibles,2006-09-05,249520,28,0.732,0.0707,0.732,0.825,0.00598,0.204,-7.509,0.0453,117.893,4
-476,Nada Que Decir,A TYPICAL AND AUTOCTONAL VENEZUELAN DANCE BAND REMASTERED,Los Amigos Invisibles,2020-12-10,204760,32,0.518,0.0618,0.518,0.921,0.0975,0.145,-3.887,0.0582,124.767,4
-477,Es la Verdad,Commercial,Los Amigos Invisibles,2009-05-26,305693,27,0.623,0.241,0.623,0.952,0.0113,0.121,-7.348,0.0391,108.004,4
-478,La Ke Hay,La Ke Hay,XAXO,2021-02-26,219680,42,0.738,0.00595,0.738,0.816,0.0,0.151,-5.037,0.0493,110.032,4
-479,El Nazareno,Ismael Rivera - Greatest Hits,Ismael Rivera,2009,341106,0,0.633,0.097,0.633,0.516,0.000341,0.339,-14.598,0.0582,89.412,4
-480,Que Pena,Así No Se Juega,Los Hermanos Lebron,1990-12-10,300721,0,0.723,0.816,0.723,0.716,0.00192,0.14,-6.481,0.0365,90.33,4
-481,Tu Me Recordaras,Así No Se Juega,Los Hermanos Lebron,1990-12-10,196414,0,0.735,0.459,0.735,0.478,0.469,0.142,-17.836,0.0426,91.856,4
-482,Temperatura,Así No Se Juega,Los Hermanos Lebron,1990-12-10,162011,0,0.781,0.73,0.781,0.638,0.506,0.0624,-10.115,0.0537,142.647,4
-483,Son Diez Lagrimas,Así No Se Juega,Los Hermanos Lebron,1990-12-10,310909,0,0.631,0.872,0.631,0.485,0.631,0.0842,-10.947,0.0374,91.911,4
-484,No Me Hace Falta,Así No Se Juega,Los Hermanos Lebron,1990-12-10,335856,0,0.691,0.619,0.691,0.522,0.365,0.105,-14.461,0.0677,152.908,4
-485,La Agonia,Así No Se Juega,Los Hermanos Lebron,1990-12-10,306703,0,0.602,0.628,0.602,0.547,0.00489,0.315,-11.51,0.0393,162.897,4
-486,Salsa y Control,Así No Se Juega,Los Hermanos Lebron,1990-12-10,232228,0,0.755,0.568,0.755,0.464,0.00211,0.0369,-13.266,0.149,92.333,4
-487,Periodico De Ayer,De Ti Depende,Héctor Lavoe,1976,407373,0,0.459,0.364,0.459,0.583,0.134,0.128,-7.181,0.0294,98.405,4
-488,El Cantante,La Salsa Mayor,Héctor Lavoe,2008-09-09,626826,0,0.511,0.705,0.511,0.496,3.08e-05,0.0975,-9.212,0.038,95.531,4
-489,El Dia De Suerte,Hector Lavoe El Cantante -The Originals,Héctor Lavoe,2009,327360,0,0.65,0.669,0.65,0.847,0.0,0.0533,-5.481,0.0478,99.454,4
-490,Rompe Saraguey,El Cantante de los Cantantes,Héctor Lavoe,2013-06-18,389040,0,0.783,0.392,0.783,0.643,0.00147,0.15,-7.587,0.0322,129.666,4
-491,El Todopoderoso,El Cantante de los Cantantes,Héctor Lavoe,2013-06-18,260053,0,0.57,0.204,0.57,0.74,1.62e-05,0.07,-7.61,0.0552,110.302,4
-492,Hacha Y Machete,El Cantante de los Cantantes,Héctor Lavoe,2013-06-18,331333,0,0.605,0.455,0.605,0.781,0.0,0.165,-8.242,0.0401,105.883,4
-493,Aguanile,El Cantante de los Cantantes,Héctor Lavoe,2013-06-18,368866,0,0.508,0.55,0.508,0.621,2.08e-05,0.396,-8.285,0.0621,124.66,4
-494,Abuelita,El Cantante de los Cantantes,Héctor Lavoe,2013-06-18,263773,0,0.662,0.651,0.662,0.588,0.000507,0.294,-10.073,0.0725,93.53,4
-495,Todo Tiene Su Final,El Cantante de los Cantantes,Héctor Lavoe,2013-06-18,303373,0,0.498,0.74,0.498,0.85,0.000273,0.292,-6.494,0.042,101.299,4
-496,Las Tumbas,Soy Feliz,Ismael Rivera,2014-04-01,245000,0,0.525,0.756,0.525,0.148,0.00211,0.111,-24.535,0.0632,154.865,4
-497,Las Caras Lindas,Ismael Rivera - Greatest Hits,Ismael Rivera,2009,432853,0,0.532,0.754,0.532,0.444,0.145,0.0772,-15.954,0.0517,91.601,4
-498,Achilipú,Sin Salsa No Hay Paraíso,El Gran Combo De Puerto Rico,2010-03-30,281546,48,0.69,0.514,0.69,0.684,0.0,0.105,-4.683,0.0492,89.916,4
-499,Arroz Con Habichuela,Arroz Con Habichuela,El Gran Combo De Puerto Rico,2006,356640,51,0.694,0.298,0.694,0.697,0.00027,0.0561,-6.521,0.0598,138.244,4
-500,Ojos Chinos,20th Anniversary,El Gran Combo De Puerto Rico,1982,261333,55,0.772,0.66,0.772,0.645,1.45e-05,0.142,-8.32,0.0465,93.876,4
-501,Brujeria,Aqui No Se Sienta Nadie!,El Gran Combo De Puerto Rico,1979,205813,59,0.795,0.565,0.795,0.623,1.09e-05,0.062,-5.375,0.0461,93.03,4
-502,Me Liberé,Nuevo Milenio - El Mismo Sabor,El Gran Combo De Puerto Rico,2001,263920,58,0.754,0.395,0.754,0.875,0.0,0.0905,-1.94,0.0407,97.522,4
-503,Un Verano en Nueva York,Aqui Esta el Reencuentro,El Gran Combo De Puerto Rico,2015-05-07,297213,41,0.537,0.586,0.537,0.778,0.00631,0.192,-5.069,0.0446,105.213,4
-504,Sin Salsa No Hay Paraíso,Sin Salsa No Hay Paraíso,El Gran Combo De Puerto Rico,2010-03-30,226893,45,0.797,0.6,0.797,0.874,0.000138,0.0398,-3.155,0.0347,94.469,4
-505,Cali Pachanguero,Sólo Hits,Grupo Niche,2006-06-22,309920,62,0.654,0.69,0.654,0.72,0.0,0.2,-7.731,0.0395,99.911,4
-506,"Oiga, Mire, Vea - Salsa",Sentimental de Punta a Punta,Guayacán Orquesta,1990-01-01,323683,0,0.739,0.444,0.739,0.809,2.66e-06,0.0856,-5.134,0.0416,89.734,4
-507,Micaela,La Salsa Metálica Volvió Con Todos los Hierros,Various Artists,1972,284706,0,0.65,0.364,0.65,0.892,0.00272,0.0793,-6.888,0.053,179.592,4
-508,El Hijo De Obatala,Anthology,Ray Barretto,2012-09-11,301920,0,0.571,0.624,0.571,0.772,0.00117,0.289,-5.638,0.0416,107.563,4
-509,Mi Desengano,Selecciones Fania,Roberto Roena,2007-10-23,335960,0,0.595,0.262,0.595,0.744,0.000364,0.137,-7.494,0.0409,84.93,4
-510,Pedro Navaja,Ruben Blades - Poeta Del Pueblo,Rubén Blades,2009,443480,0,0.58,0.751,0.58,0.603,9.51e-06,0.252,-6.611,0.105,93.563,4
-511,El Gran Varon,Selecciones Fania,Willie Colón,2007-10-23,414706,0,0.645,0.581,0.645,0.665,0.0,0.0391,-5.519,0.0384,94.115,4
-512,Fuego En El 23,Fuego En El 23,Sonora Ponceña,1969,284653,0,0.647,0.54,0.647,0.604,0.000562,0.708,-6.339,0.0353,92.033,4
-513,La Murga,Asalto Navideno,Willie Colón,2006-10-10,334053,0,0.543,0.662,0.543,0.759,0.0364,0.0541,-7.59,0.04,86.867,4
-514,Casi Te Envidio,Serie Millennium,Andy Montañez,1999-01-01,320466,43,0.666,0.445,0.666,0.712,0.0,0.0711,-5.815,0.0705,95.658,4
-515,El Preso,Greatest Salsa Classics of Colombia - Vol. 1,Various Artists,2006-05-01,294093,0,0.625,0.164,0.625,0.775,0.00262,0.1,-5.189,0.0382,106.163,4
-516,Maria Teresa y Danilo,Siempre Charanga,Hansel Y Raul,2002-03-19,287626,52,0.576,0.662,0.576,0.745,0.000135,0.0818,-4.75,0.0713,162.071,4
-517,Trampolín,Nuestro Aniversario,El Gran Combo De Puerto Rico,1982,261893,51,0.671,0.625,0.671,0.694,0.0,0.237,-2.876,0.0335,93.799,4
-518,Plastico,Ruben Blades - Poeta Del Pueblo,Rubén Blades,2009,401013,0,0.641,0.647,0.641,0.635,0.0,0.58,-6.656,0.068,103.451,4
-519,Idilio,Mis Favoritas,Willie Colón,2010-06-08,308693,67,0.527,0.552,0.527,0.715,0.00622,0.085,-8.309,0.0398,93.979,4
-520,Talento De Televisión,Mis Favoritas,Willie Colón,2010-06-08,279320,70,0.779,0.701,0.779,0.796,3.99e-05,0.0636,-6.675,0.0434,104.947,4
-521,Ché Ché Colé,Anthology,Willie Colón,2012-04-10,209240,0,0.761,0.376,0.761,0.886,0.0,0.0732,-4.87,0.0398,101.379,4
-522,Dime Por Que,Esto Fue Lo Que Trajo El Barco,Ismael Rivera,1972,215040,0,0.646,0.703,0.646,0.564,0.0,0.347,-5.082,0.0547,164.647,4
-523,Lloraras,Traicionera (Baile Total),Oscar D'León,2017-11-24,222200,0,0.712,0.52,0.712,0.754,0.000602,0.0454,-8.404,0.0445,98.131,4
-524,Tu Loco Loco Y Yo Tranquilo,La Herencia,Roberto Roena,2007-05-08,198026,0,0.683,0.622,0.683,0.516,0.00643,0.249,-8.914,0.0332,89.868,4
-525,Quítate Tú,Greatest Hits,Fania All Stars,2012-06-05,331320,0,0.749,0.564,0.749,0.679,0.00103,0.88,-5.29,0.0434,122.215,4
-526,Senor Sereno,Oportunidad,Larry Harlow,2010-09-07,331817,0,0.627,0.713,0.627,0.41,0.312,0.409,-18.839,0.0476,112.303,4
-527,Canto A Borinquen,Asalto Navideno,Willie Colón,2006-10-10,269506,0,0.624,0.515,0.624,0.673,0.0,0.0611,-6.406,0.0711,93.93,4
-528,Piraña,A Man and His Music: The Player,Willie Colón,2013,318066,0,0.618,0.556,0.618,0.662,0.000133,0.407,-6.453,0.0292,100.612,4
-529,Soñando Despierto,A Man and His Music: The Player,Willie Colón,2013,243866,0,0.737,0.755,0.737,0.538,0.0,0.126,-6.4,0.0331,108.508,4
-530,Calle Luna Calle Sol,A Man and His Music: The Player,Willie Colón,2013,225720,0,0.594,0.398,0.594,0.895,8.32e-06,0.114,-6.389,0.0648,89.063,4
-531,Pedro Navaja,A Man and His Music: The Player,Willie Colón,2013,443680,0,0.586,0.711,0.586,0.575,3.73e-06,0.143,-7.78,0.11,92.42,4
-532,Amor Verdadero,A Man and His Music: The Player,Willie Colón,2013,446253,0,0.66,0.16,0.66,0.813,0.000752,0.0918,-8.636,0.128,129.366,4
-533,Juanito Alimaña,A Man and His Music: The Player,Willie Colón,2013,457813,0,0.659,0.761,0.659,0.78,6.2e-06,0.0516,-6.406,0.0367,90.705,4
-534,Yare,Into The 90s,Sonora Ponceña,2010-03-02,351546,0,0.555,0.664,0.555,0.557,0.000813,0.0677,-9.28,0.0365,92.142,4
-535,Tell Me You'll Be Mine,"Salsa for Dancers, Vol.2",Various Artists,2011-07-07,346053,3,0.502,0.74,0.502,0.808,8.71e-05,0.083,-3.624,0.0388,101.371,4
-536,El Hijo De Obatala,Tite Curet Alonso - Alma De Poeta,Tite Curet Alonso,2009,299960,0,0.556,0.503,0.556,0.566,0.00127,0.327,-12.443,0.0452,107.348,4
-537,Oh Que Sera,Anthology,Willie Colón,2012-04-10,303933,0,0.55,0.698,0.55,0.771,1.04e-06,0.0713,-6.107,0.0931,88.846,4
-538,El Negrito Zambu,Salsa Pal Pueblo,Orquesta Zodiac,2017-09-25,448152,0,0.517,0.539,0.517,0.678,0.000738,0.269,-5.429,0.0966,88.803,4
-539,El Padre Antonio - Y El Monaguillo Andres,Buscando America,Rubén Blades,1984-04-03,483360,37,0.551,0.644,0.551,0.498,7.92e-06,0.0675,-10.63,0.07,108.818,4
-540,Detalles,Los Oscares De Oscar,Oscar D'León,1996-02-09,279997,0,0.725,0.229,0.725,0.678,2.65e-05,0.13,-6.373,0.0479,175.996,4
-541,Triste Y Vacia,Selecciones Fania,Willie & Hector,2007-08-14,371533,0,0.478,0.683,0.478,0.698,0.0,0.0754,-3.867,0.0309,94.303,4
-542,Señora Ley,Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves,Conjunto Clásico,2006-01-01,252066,49,0.561,0.556,0.561,0.626,1.86e-06,0.0676,-8.853,0.0404,171.504,4
-543,La rebelion,Sabor a Salsa,Various Artists,2007-05-12,376013,68,0.571,0.142,0.571,0.755,2.55e-05,0.136,-7.907,0.0735,107.951,4
-544,Gitana,Tiempo Para Matar,Willie Colón,1984,414266,0,0.479,0.635,0.479,0.593,2.61e-06,0.216,-6.629,0.0502,86.092,4
-545,Anacaona,Cheo,Cheo Feliciano,1971,253253,0,0.535,0.442,0.535,0.701,0.0052,0.0645,-7.862,0.0361,97.692,4
-546,Lagrimas,"Salsa Hits, Vol. 3",Various Artists,2007-08-01,395952,40,0.501,0.22,0.501,0.845,1.02e-05,0.139,-5.247,0.0359,101.071,4
-547,Sigue Tu Camino,Dimension Latina vs. Billo's Caracas Boys,Dimension Latina,1976-09-12,235807,0,0.762,0.642,0.762,0.468,6.6e-05,0.102,-12.919,0.0517,105.572,4
-548,Sobre las Olas,Grandes Hits - Latin Brothers,The Latin Brothers,1975,204160,0,0.765,0.372,0.765,0.71,0.00041,0.0706,-5.254,0.051,107.834,4
-549,Mi Gente,La Voz,Héctor Lavoe,1975,328880,0,0.517,0.368,0.517,0.796,0.000221,0.123,-5.898,0.108,114.009,4
-550,Pa Bravo Yo,Pa Bravo Yo,Justo Betancourt,2006-10-10,224826,0,0.773,0.567,0.773,0.816,0.000413,0.132,-6.215,0.0385,92.031,4
-551,Sin Poderte Hablar,Solo,Willie Colón,1979,324000,0,0.413,0.137,0.413,0.691,0.0,0.801,-5.763,0.0502,102.037,4
-552,Aguacero,¡Amame!,El Gran Combo De Puerto Rico,1989,252354,47,0.702,0.745,0.702,0.763,1.71e-05,0.135,-4.713,0.0375,90.262,4
-553,Diez Lagrimas,Criollo,Lebrón Brothers,2007-07-31,311573,0,0.657,0.847,0.657,0.576,0.0293,0.07,-7.328,0.0326,91.565,4
-554,Sonido Bestial,El Bestial Sonido,Richie Ray & Bobby Cruz,2006-06-06,408200,0,0.55,0.675,0.55,0.895,0.0843,0.322,-4.416,0.0426,107.301,4
-555,La juma de ayer,"Fe, Esperanza y Caridad",Henry Fiol,1990,469840,40,0.626,0.481,0.626,0.466,0.0104,0.0746,-14.295,0.0544,94.396,4
-556,Arranca en Fa,Salsa Brava Con Todos los Hierros,Sonora Carruseles,1999,216093,0,0.76,0.353,0.76,0.661,0.366,0.318,-10.165,0.0434,117.905,4
-557,Estamos en Salsa,La Salsa,Wayne Gorbea,1997-06-11,290037,0,0.57,0.598,0.57,0.654,0.00971,0.0482,-8.621,0.0595,99.604,4
-558,Escarchas,Strikes Back,Héctor Lavoe,1987,392653,0,0.612,0.689,0.612,0.741,9.59e-05,0.0556,-5.993,0.0363,92.254,4
-559,Pa'l Bailador,Antología Musical de Joe Arroyo (Volumen 2),Joe Arroyo,1965,270300,0,0.661,0.614,0.661,0.867,0.000301,0.32,-5.604,0.0495,102.159,4
-560,Aguzate,Aguzate,Ricardo Ray,2006-04-25,377253,0,0.559,0.775,0.559,0.64,0.00766,0.0837,-9.593,0.0384,110.214,4
-561,No Hay Cama Pa' Tanta Gente,Nuestra Musica,El Gran Combo De Puerto Rico,1985,268106,43,0.738,0.515,0.738,0.631,0.0,0.337,-7.358,0.0349,107.303,4
-562,Juliana,Lo Esencial,DLG,1996,296853,51,0.714,0.331,0.714,0.957,0.00929,0.0837,-3.616,0.0409,94.062,4
-563,La Cartera,Salsa,Orchestra Harlow,1974,388653,0,0.618,0.54,0.618,0.693,0.000138,0.262,-7.08,0.0529,96.339,4
-564,El Rey De La Puntualidad,A Man and His Music,Héctor Lavoe,2009,402360,0,0.632,0.397,0.632,0.759,0.0,0.103,-6.465,0.0556,105.84,4
-565,Quitate La Mascara,From the Beginning,Ray Barretto,1971,271573,0,0.757,0.716,0.757,0.333,0.128,0.0923,-14.617,0.0499,91.106,4
-566,Incomprendido,Esto Fue Lo Que Trajo El Barco,Ismael Rivera,1972,178440,0,0.581,0.73,0.581,0.534,0.0,0.0842,-3.588,0.0875,129.925,4
-567,La Esencia Del Guaguanco,La Herencia,"Pete ""El Conde"" Rodriguez",2007-08-14,246706,0,0.651,0.615,0.651,0.448,2.84e-05,0.072,-9.006,0.0412,87.071,4
-568,Abran Paso,Abran Paso,Ismael Miranda con Orchestra Harlow,1972,210920,0,0.686,0.601,0.686,0.759,0.05,0.0615,-5.781,0.0482,98.925,4
-569,Buscando Guayaba,Ruben Blades - Poeta Del Pueblo,Rubén Blades,2009,345920,0,0.692,0.708,0.692,0.667,2e-05,0.068,-6.373,0.0392,149.834,4
-570,Indestructible,On 1 Vol 1,Various Artists,2008-03-25,251960,0,0.597,0.544,0.597,0.846,0.00049,0.103,-4.38,0.0473,109.232,4
-571,El Pio Pio,La Esencia De La Fania,Sonora Ponceña,2008-02-26,298160,0,0.684,0.633,0.684,0.518,0.0,0.0578,-8.927,0.0527,90.368,4
-572,Bomba Carambomba,Lo Mejor de Angel Canales,Angel Canales,1994,376546,32,0.63,0.622,0.63,0.726,0.0914,0.0659,-8.773,0.155,111.277,4
-573,Y No Hago Mas Na',La Universidad de La Salsa,El Gran Combo De Puerto Rico,1983,301373,54,0.812,0.68,0.812,0.679,0.00283,0.314,-6.008,0.0559,90.474,4
-574,Yambeque,Determination,Sonora Ponceña,1982,383533,0,0.664,0.677,0.664,0.75,0.0163,0.0576,-6.439,0.0405,172.271,4
-575,Que Humanidad (Live),Presentan,Herman Olivera,2010-09-05,667114,16,0.604,0.526,0.604,0.708,0.000248,0.521,-9.447,0.0381,92.955,4
-576,Amarilla Se Pone,Son By Salsa,Yembeke Orquesta,2011-12-22,253640,27,0.754,0.268,0.754,0.625,0.00222,0.0859,-7.301,0.0394,91.31,4
-577,Sale El Sol,Maelo - A Man and His Music,Ismael Rivera,2011-08-11,191960,0,0.582,0.792,0.582,0.697,1.29e-05,0.982,-9.214,0.05,97.843,4
-578,Marejada Feliz,Roberto Roena Y Su Apollo Sound,Roberto Roena Y Su Apollo Sound,2016-03-04,442622,0,0.491,0.83,0.491,0.636,0.0235,0.397,-4.738,0.0401,96.852,4
-579,Tiburon,Canciones Del Solar De Los Aburridos,Willie Colon Y Ruben Blades,2006-04-25,420666,0,0.61,0.64,0.61,0.676,6.03e-05,0.337,-8.212,0.256,129.684,4
-580,Richie's Jala Jala,Jala Jala Y Boogaloo,Ricardo Ray,1967,307146,0,0.603,0.821,0.603,0.813,0.000224,0.0518,-6.632,0.0462,109.394,4
-581,Camaleón,Dos Clásicos,Rubén Blades,1991,253040,28,0.703,0.438,0.703,0.549,5e-06,0.123,-11.118,0.0377,135.716,4
-582,Catalina La O,Selecciones Fania,"Pete ""El Conde"" Rodriguez",2007-10-23,312640,0,0.744,0.715,0.744,0.738,0.00741,0.0672,-4.751,0.0333,147.046,4
-583,La Temperatura,Super Hits,Lebrón Brothers,2017-02-22,287731,0,0.778,0.727,0.778,0.424,0.714,0.0306,-18.793,0.0449,136.971,4
-584,Trucutu,Plante Bandera,Tommy Olivencia y Su Orquesta,1975,302413,0,0.584,0.401,0.584,0.671,0.0,0.0406,-5.697,0.0378,95.158,4
-585,Guarare,Barretto,Ray Barretto,1975,338453,0,0.602,0.477,0.602,0.648,0.000357,0.092,-7.551,0.0805,92.648,4
-586,Amame,¡Amame!,El Gran Combo De Puerto Rico,1989,323036,49,0.607,0.723,0.607,0.82,0.000137,0.091,-4.701,0.0808,169.613,4
-587,Pensando en Ti,Erupción,Los Satelites,1973-04-20,202344,0,0.749,0.441,0.749,0.567,0.403,0.0406,-16.458,0.0438,91.701,4
-588,Buscándote,Grandes Hits - Latin Brothers,The Latin Brothers,1975,277636,0,0.605,0.125,0.605,0.745,0.000181,0.396,-5.497,0.0405,94.565,4
-589,Mujer Divina,Hecho y Derecho (Doin' It Right),Joe Cuba Sextet,1973,295093,0,0.665,0.771,0.665,0.481,0.000302,0.0749,-7.641,0.0493,99.378,4
-590,Asi Se Compone Un Son,Asi Se Compone Un Son,Ismael Miranda,1973,336386,0,0.625,0.507,0.625,0.551,7.58e-06,0.0597,-7.449,0.0695,76.902,4
-591,Ana Isaoco,Lo Mejor de Angel Canales,Angel Canales,1994,519306,26,0.544,0.48,0.544,0.709,0.000379,0.178,-12.951,0.0587,114.896,4
-592,La Pantera Mambo,La-33,La-33,2004-12-04,374840,47,0.782,0.474,0.782,0.791,0.0012,0.0555,-6.321,0.0383,99.992,4
-593,Sin Poderte Hablar,Anthology,Willie Colón,2012-04-10,324333,0,0.389,0.14,0.389,0.656,0.0,0.55,-6.845,0.0509,102.303,4
-594,Triste Y Vacía,Anthology,Héctor Lavoe,2012-03-26,370640,0,0.476,0.681,0.476,0.691,0.0,0.0809,-3.844,0.0316,94.233,4
-595,Calle Luna Calle Sol,Anthology,Willie Colón,2012-04-10,225493,0,0.483,0.416,0.483,0.892,1e-05,0.121,-6.378,0.0793,179.315,4
-596,El Día De Mi Suerte,Anthology,Willie Colón,2012-04-10,326880,0,0.609,0.545,0.609,0.88,0.0,0.0554,-4.37,0.0534,99.163,4
-597,Ah-Ah/O-No,Anthology,Héctor Lavoe,2012-03-26,225186,0,0.583,0.331,0.583,0.745,0.0,0.197,-4.907,0.0304,95.394,4
-598,Aguanile,Anthology,Héctor Lavoe,2012-03-26,371346,0,0.522,0.253,0.522,0.739,4.41e-05,0.212,-5.733,0.0504,127.28,4
-599,Casi Te Envidio,Salsa Legends,Andy Montañez,2015-01-27,320466,0,0.582,0.465,0.582,0.718,0.0,0.088,-5.91,0.0815,92.516,4
-600,Pedro Navaja,Greatest Hits,Rubén Blades,2008-11-04,445053,0,0.59,0.783,0.59,0.578,9.38e-05,0.211,-7.42,0.109,93.838,4
-601,Ausencia,Tu Bien Lo Sabes,Héctor Lavoe,2009,306640,0,0.628,0.249,0.628,0.395,3.07e-06,0.0742,-9.766,0.0487,88.005,4
-602,Cachondea,Una Leyenda - Fruko,Fruko Y Sus Tesos,1965,297358,0,0.818,0.176,0.818,0.922,0.000771,0.31,-6.647,0.049,113.81,4
-603,Mi Negrita Me Espera,La Esencia De La Fania,Ismael Rivera,2008-02-26,199706,0,0.628,0.721,0.628,0.571,1.07e-06,0.0864,-5.157,0.0415,125.042,4
-604,Ella Mintio,Strikes Back,Héctor Lavoe,1987,286000,0,0.646,0.67,0.646,0.771,0.0,0.093,-6.028,0.057,90.06,4
-605,Pase La Noche Fumando,Vigilante,Willie Colón,2009,704466,0,0.689,0.757,0.689,0.499,2.21e-05,0.19,-5.319,0.0296,127.754,4
-606,Que Cante Mi Gente,Salsa para el Mundo,Various Artists,2018-06-09,326653,0,0.503,0.313,0.503,0.702,1.84e-05,0.0847,-10.228,0.129,111.231,4
-607,Perico Macona,Sabor,Angel Canales,1975,209866,0,0.623,0.809,0.623,0.641,0.00033,0.118,-7.072,0.0557,99.279,4
-608,Lamento De Concepcion,El Progreso,Su Apollo Sound X,1978,408760,0,0.738,0.629,0.738,0.582,0.000185,0.308,-6.613,0.0332,93.169,4
-609,Anacaona,Ponte Duro The Fania All Stars Story,Fania All Stars,2010-10-26,437933,0,0.549,0.408,0.549,0.881,0.00305,0.459,-5.026,0.0502,107.21,4
-610,Lagrimas,Los Bravos Fania (Vol. 5),Various Artists,2009,396067,0,0.501,0.521,0.501,0.538,0.715,0.0509,-15.624,0.0406,100.142,4
-611,Aguacero,"Aqui Estoy Yo, Vol. 1",Charlie Aponte,2015-05-22,254582,38,0.657,0.615,0.657,0.89,3.07e-06,0.127,-2.653,0.0388,90.732,4
-612,Cuero Na' Ma',40 Años De Exitos,"Jose Mangual, Jr.",2017-01-05,270135,31,0.606,0.28,0.606,0.892,0.895,0.0963,-10.982,0.0371,118.374,4
-613,Yo No Soy Un Ángel,Salsa Legends,Cheo Feliciano,2014-08-05,342000,13,0.576,0.642,0.576,0.697,1.55e-05,0.0588,-7.556,0.0426,179.808,4
-614,Fuera De Mi Vida,Gunda Merced Y Su Salsa Fever,Gunda Merced Y Su Salsa Fever,2018-08-27,339121,0,0.592,0.673,0.592,0.548,0.292,0.102,-10.482,0.0739,91.522,4
-615,Maria Teresa y Danilo,Siempre Charanga,Hansel Y Raul,2002-03-19,287626,52,0.576,0.662,0.576,0.745,0.000135,0.0818,-4.75,0.0713,162.071,4
-616,Aguacero,¡Amame!,El Gran Combo De Puerto Rico,1989,252354,47,0.702,0.745,0.702,0.763,1.71e-05,0.135,-4.713,0.0375,90.262,4
-617,Lo Tuyo Llegara,I Believe,Lebrón Brothers,1969-01-01,263128,28,0.565,0.749,0.565,0.85,0.00143,0.622,-3.773,0.079,90.698,4
-618,En Barranquilla Me Quedo,Colección Éxitos Joe Arroyo (Vol. 2),Joe Arroyo,2009-07-28,311676,47,0.622,0.18,0.622,0.791,8.44e-05,0.0908,-6.333,0.0483,103.643,4
-619,Tiempo Pa’ Matar,Tiempo pa' Matar,Willie Colón,1983-01-01,299373,41,0.61,0.671,0.61,0.651,1.05e-06,0.0828,-4.872,0.0414,93.86,4
-620,Guaguancó Del Adios,El Progreso,Roberto Roena Y Su Apollo Sound,1978-12-31,367293,46,0.48,0.489,0.48,0.624,0.000103,0.0694,-6.608,0.0466,193.142,4
-621,Lejos De Ti,Sabor,Angel Canales,1975,255586,0,0.569,0.789,0.569,0.631,0.0,0.0446,-6.372,0.0627,101.953,4
-622,Boranda,El Gigante del Sur,Sonora Ponceña,1977-12-31,430920,39,0.558,0.785,0.558,0.437,0.0562,0.173,-10.763,0.0434,92.344,4
-623,Azuquita Pa'l Cafe,25th Anniversary,El Gran Combo De Puerto Rico,1987,249373,49,0.672,0.606,0.672,0.6,6.2e-06,0.0537,-7.733,0.0435,178.034,4
-624,La Muerte,30th Anniversary,El Gran Combo De Puerto Rico,1992,263306,42,0.751,0.546,0.751,0.644,0.0,0.0323,-5.896,0.0357,95.316,4
-625,La Fiesta de 'Pilito',Nuestra Musica,El Gran Combo De Puerto Rico,1985,235853,33,0.7,0.735,0.7,0.604,0.0,0.32,-6.393,0.0419,100.618,4
-626,Juan Pachanga,Bohemio y Poeta,Rubén Blades,1979-01-01,373560,40,0.573,0.603,0.573,0.831,0.00308,0.212,-5.823,0.0379,111.44,4
-627,Que Alguien Me Diga,Expresion,Gilberto Santa Rosa,1999-12-21,290413,59,0.585,0.256,0.585,0.868,0.0,0.197,-7.285,0.0444,94.098,4
-628,Sandra Mora,Velvet Salsa All Stars,Velvet Salsa All Stars,2006-01-01,254866,40,0.718,0.128,0.718,0.748,1.48e-05,0.141,-7.875,0.0648,94.136,4
-629,Se Me Fué,Nuestro Aniversario,El Gran Combo De Puerto Rico,1982,292306,42,0.707,0.625,0.707,0.711,0.0,0.049,-2.651,0.0348,94.05,4
-630,Sanson Batalla,"La Rockola Salsa, Vol. 2",Various Artists,2013-08-28,318640,1,0.566,0.551,0.566,0.486,0.0279,0.145,-7.536,0.0466,86.947,4
-631,Carbonerito,35th Anniversary- 35 Years Around the World,El Gran Combo De Puerto Rico,1997,301600,34,0.682,0.478,0.682,0.585,2.53e-06,0.109,-8.957,0.0353,92.931,4
-632,Boriquen Tiene Montuno - Live,Ponte Duro: The Fania All Stars Story,Fania All Stars,2010-10-26,488176,9,0.588,0.499,0.588,0.747,0.0693,0.76,-9.081,0.0432,104.407,4
-633,La juma de ayer,"Fe, Esperanza y Caridad",Henry Fiol,1990,469840,40,0.626,0.481,0.626,0.466,0.0104,0.0746,-14.295,0.0544,94.396,4
+,name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Vámonos Pa'l Monte,Vámonos Pa'l Monte,Eddie Palmieri,1986-12-31,426840,51,0.429,0.533,0.785,0.827,0.0882,-5.886,0.116,111.43,4
+1,Bésame Mama,Conga Blue,Poncho Sanchez,1996-01-01,393106,43,0.275,0.758,0.424,0.796,0.102,-12.175,0.0529,108.099,4
+2,Escucha El Ritmo,Across 110th Sreet,Spanish Harlem Orchestra,2005-01-01,352346,24,0.654,0.672,0.788,0.0425,0.035,-4.778,0.0357,134.437,4
+3,La Hija De Lola,El Gigante del Teclado,Charlie Palmieri,1973-12-31,272066,37,0.257,0.723,0.67,0.00105,0.0918,-6.218,0.0425,100.341,4
+4,Sofrito,Sofrito,Mongo Santamaria,1976-01-01,366200,49,0.275,0.644,0.519,0.0192,0.0793,-8.895,0.0373,117.739,4
+5,Elegua,Cantos a los Orishas,Francisco Aguabella,2006-11-21,232120,22,0.563,0.493,0.722,0.0,0.301,-9.807,0.0468,95.266,3
+6,Acid,Acid,Ray Barretto,1968-12-31,307173,51,0.0374,0.555,0.659,0.851,0.0788,-8.529,0.0575,159.063,4
+7,Ali Baba,Ali Baba,Louie Ramirez,1968-12-31,255306,42,0.72,0.787,0.563,0.00262,0.0809,-7.943,0.0329,110.152,4
+8,Cogele el Golpe,Descargas,Cachao,2016-03-14,165772,40,0.637,0.681,0.81,0.396,0.165,-5.688,0.104,94.18,4
+9,Oye Cómo Va,El Rey Bravo,Tito Puente,1962-01-01,274018,60,0.747,0.658,0.738,0.00605,0.0624,-6.717,0.0315,123.261,4
+10,Home Cookin',Enchantment,Hilton Ruiz,2006-01-01,209173,38,0.775,0.654,0.638,0.92,0.108,-8.999,0.0465,146.388,4
+11,Bacalao Con Pan,Bacalao Con Pan,Irakere,2006-05-16,226600,28,0.12,0.45,0.767,0.676,0.531,-13.578,0.0817,118.767,4
+12,Otra Oportunidad,Soneando Trombone [Singing Trombone],Jimmy Bosch,1998,343000,36,0.479,0.711,0.774,2.35e-06,0.173,-6.408,0.0584,90.275,4
+13,Summertime,Worldwide,Giovanni Hidalgo,1993-01-01,425333,28,0.276,0.522,0.491,0.803,0.01,-13.573,0.0394,150.35,4
+14,La Comparsa,New Conceptions,Chucho Valdés,2003-01-01,416933,39,0.383,0.491,0.658,0.772,0.111,-9.693,0.0516,105.56,4
+15,Cómo Fue,The Best Of Paquito D'Rivera,Paquito D'Rivera,1981,291733,0,0.658,0.553,0.638,0.839,0.143,-8.383,0.031,96.092,4
+16,Salchicha Con Huevos,Mo,Jimmy Sabater,2003-04-14,342760,40,0.473,0.665,0.565,0.000125,0.076,-9.2,0.0568,121.413,4
+17,Y Yo Ganga,Perdido,Alegre All Stars,1977-01-01,489000,15,0.649,0.62,0.61,0.527,0.077,-12.026,0.0404,104.722,4
+18,Desde El Fondo Del Rio,The Legend Of Cuban Percussion,Patato,2000,436920,21,0.101,0.507,0.678,0.908,0.0892,-11.887,0.0444,130.697,4
+19,Descarga De Hoy,The Very Best Of ¡Cubanismo! ¡Mucho Gusto!,¡Cubanismo!,2001-11-13,404640,35,0.689,0.528,0.775,0.91,0.152,-6.816,0.034,109.245,4
+20,Pa' Bravo Yo,Pa' Bravo Yo,Justo Betancourt,1972-06-12,224826,51,0.567,0.773,0.816,0.000413,0.132,-6.215,0.0385,92.031,4
+21,Ay José,La Herencia,Machito,2009-03-19,194200,36,0.493,0.583,0.572,0.0,0.112,-12.34,0.0678,127.706,4
+22,Mujer Divina,Greatest Hits,Joe Cuba,2008-12-31,295080,51,0.771,0.673,0.498,0.000173,0.0749,-6.434,0.0477,99.291,4
+23,Son Cubano - Yo Soy El Son Cubano,Tanga,Mario Bauzá,2005-08-22,332026,25,0.742,0.546,0.781,0.0455,0.114,-7.38,0.0368,142.801,4
+24,Vete Pa Ya,"Yesterday, Today and Tomorrow",New Swing Sextet,2018-12-19,440877,30,0.78,0.683,0.745,9.29e-05,0.0378,-6.327,0.0392,91.125,4
+25,Inolvidable,From Tito With Love,Tito Rodriguez,1964-12-31,193853,46,0.739,0.257,0.378,6.12e-05,0.12,-9.61,0.0329,81.541,4
+26,Cuchifrito,The Bronx Pyramid,Carlos Henriquez,2015-09-18,454291,35,0.571,0.546,0.535,0.846,0.108,-10.199,0.0561,80.789,4
+27,Ácere Bonco,Típica 73 (Fania Original Remastered),Tipica 73,1973-01-01,273133,26,0.77,0.565,0.782,0.000223,0.204,-3.77,0.173,124.684,4
+28,Un Tipo Con Suerte,Portrait Of A Stranger,Humberto Ramirez,1995-01-01,317666,8,0.366,0.841,0.654,0.0,0.0465,-8.761,0.0453,99.597,4
+29,Tu Lo Sientes? (Do You Feel It?),Bustin' Out,Joe Cuba Sextet,1972-04-24,204746,42,0.802,0.453,0.525,0.0,0.318,-10.457,0.205,170.824,4
+30,Quimbara,Celia & Johnny,Johnny Pacheco,1974-01-01,291946,63,0.741,0.6,0.633,0.0736,0.0478,-7.507,0.0667,120.627,4
+31,Moon And Sand,New Horizons,Caribbean Jazz Project,2000-02-01,433680,15,0.933,0.401,0.398,0.919,0.103,-10.87,0.0296,91.908,4
+32,The Last Bullfighter,The Last Bullfighter,Jazz On The Latin Side All Stars,2005-03-07,375426,19,0.556,0.627,0.704,0.679,0.237,-6.566,0.036,95.654,4
+33,Isla Del Encanto,Pasaporte,Orquesta Broadway,2006-03-29,267093,34,0.6,0.43,0.524,0.0,0.241,-10.255,0.0375,90.724,4
+34,Quiéreme Sempre,Me Voy Para La Luna,Orquesta Aragón,1958-01-01,182200,46,0.657,0.509,0.414,2.04e-06,0.058,-10.945,0.0283,101.024,4
+35,Cuero Na' Ma',El Campanero,"Jose Mangual, Jr.",2019-02-09,270135,29,0.284,0.6,0.787,0.915,0.123,-15.219,0.0394,118.423,4
+36,Merecumbe,Fania Live 02 From Miami With DJ LeSpam,Various Artists,2007-10-02,357386,45,0.469,0.616,0.653,0.0231,0.0986,-8.979,0.0413,103.253,4
+37,El Rey De La Puntualidad,Lo Qué Pide La Gente,Fania All Stars,1984-12-31,402360,51,0.397,0.632,0.759,0.0,0.103,-6.465,0.0556,105.84,4
+38,Mambo Gallego,Mamborama,Tito Puente & His Orchestra,1955-01-01,173522,31,0.861,0.736,0.734,0.73,0.0951,-4.389,0.0592,95.201,4
+39,Mi Ritmo Es Bueno,Rey del Bajo,Bobby Valentin,1974-12-31,346306,46,0.705,0.552,0.635,0.000187,0.108,-9.848,0.081,96.416,4
+40,Hubo Un Lugar,Jerry Gonzalez Y Los Piratas Del Flamenco,Jerry Gonzalez,2004-06-29,312693,16,0.968,0.563,0.214,0.922,0.282,-14.835,0.0724,112.567,4
+41,Dundumbanza,Legends Of Cuban Music,Arsenio Rodríguez,2006-01-01,158786,14,0.962,0.76,0.743,0.614,0.2,-7.232,0.0589,162.735,4
+42,Anuncio Clasificado / Dámelo,Viva Rosario,Willie Rosario,1990-08-01,301010,46,0.413,0.564,0.526,0.0015,0.103,-11.918,0.0453,170.378,4
+43,Cuchi-Frito (Fried Neck Bones),Cuchi-Frito (Fried Neck Bones),Larry Harlow,2020-05-29,206563,32,0.318,0.491,0.716,0.0981,0.97,-6.888,0.0396,136.27,4
+44,Tres Palabras,Juntos Para Siempre,Bebo Valdés,2008-11-11,283786,44,0.954,0.444,0.21,0.915,0.099,-13.513,0.0476,118.436,4
+45,Te Vas,E Music,Pete Escovedo,2000-01-01,341066,38,0.196,0.712,0.535,0.772,0.0376,-11.331,0.0498,117.713,4
+46,Black Orchid,Breeze From The East,Cal Tjader,1964-02-01,192200,44,0.965,0.677,0.0942,0.826,0.119,-20.717,0.0544,123.915,4
+47,People,Ultimate Duets,Arturo Sandoval,2018-05-18,388426,40,0.28,0.318,0.438,0.00296,0.126,-8.176,0.0364,77.166,3
+48,Si Tu No Vienes No Bailas,Y Su Son...,Edwin Bonilla,1999,272320,23,0.578,0.728,0.926,0.000737,0.155,-3.437,0.0413,99.019,4
+49,Catalina La O,Este Negro Si es Sabroso,"Pete ""El Conde"" Rodriguez",1976-01-01,312640,47,0.715,0.744,0.738,0.00741,0.0672,-4.751,0.0333,147.046,4
+50,Vamos / Háblame Ahora,Quintana Y Papo: Mucho Talento,Papo Lucca,1983-01-01,428820,15,0.833,0.585,0.6,0.669,0.0695,-12.084,0.0371,101.248,4
+51,Mississippi Mambo,Mambo Con Noro Morales,Noro Morales,2015-04-26,158813,22,0.619,0.77,0.852,0.895,0.0383,-7.41,0.0356,107.245,4
+52,Besame Mucho,Big Band Urban Folktales,Bobby Sanabria,2007-06-05,366133,33,0.728,0.377,0.562,0.225,0.16,-7.127,0.0554,182.437,4
+53,When Day Breaks,Together Again,Juan Pablo Torres,2005,423626,9,0.745,0.588,0.62,0.919,0.0714,-10.438,0.0687,114.91,4
+54,El Ratón,Anthology,Cheo Feliciano,1992-12-31,228373,53,0.854,0.535,0.597,8.11e-05,0.102,-6.01,0.0383,95.213,4
+55,Oyelo Que Te Conviene,"35th Anniversary - 15 Greatest Hits, Vol. 1",Puerto Rico All Stars,2011-04-12,388609,24,0.627,0.626,0.859,0.00114,0.483,-6.405,0.119,123.641,4
+56,Anhelos,La Llave de la Salsa,Alfredo De La Fe,2006-05-06,235480,20,0.179,0.791,0.671,0.0,0.194,-6.939,0.047,96.453,4
+57,Silencio (Silence),Solo,Gonzalo Rubalcaba,2006-01-01,220933,20,0.99,0.549,0.00472,0.903,0.0767,-30.087,0.061,108.563,4
+58,Lluvia con Nieve,Que Gente Averiguá,Mon Rivera,1961-01-01,177680,47,0.154,0.744,0.714,0.35,0.0709,-6.338,0.0553,101.867,4
+59,Bomba Voulez,Breakout,Papo Vazquez,1992,463000,6,0.622,0.598,0.604,0.762,0.0773,-13.308,0.0406,115.913,4
+60,Como Fue,Romántico,Beny Moré,1987,176733,38,0.762,0.562,0.231,0.00348,0.152,-13.493,0.0395,98.318,4
+61,Vigilándote,Super Apollo 47:50,Adalberto Santiago,1982-12-31,306080,35,0.716,0.68,0.663,0.000272,0.162,-6.025,0.0398,159.378,4
+62,Witch Doctor,20th Anniversary,Ralph Irizarry And Timbalaye,2015-10-05,326826,4,0.246,0.515,0.662,0.61,0.0852,-12.421,0.0494,118.896,4
+63,Siguelo,Síguelo,Gerardo Rosales,2013-11-15,293080,20,0.284,0.591,0.658,0.000383,0.0558,-8.355,0.0569,101.63,4
+64,Maestro De Rumberos,La Herencia,Ismael Quintana,2007-05-08,340213,22,0.757,0.591,0.769,3.78e-05,0.1,-5.018,0.258,111.122,4
+65,El Dulcerito Llego,Cuba L.A.,Various Artists,1998-01-01,285600,26,0.86,0.616,0.817,0.804,0.079,-9.745,0.0595,99.801,4
+66,Puerto Rico,Algo Nuestro,Charlie Sepulveda,1993-01-01,375133,14,0.453,0.524,0.554,0.86,0.12,-11.661,0.0408,115.554,4
+67,Caretas,Por el Buen Camino,Ismael Miranda,1987,311733,55,0.371,0.607,0.619,2.82e-06,0.147,-12.23,0.0825,164.315,4
+68,Dónde Va Chichi?,Tibiri Tabara,Sierra Maestra,1997-11-03,313133,44,0.0996,0.536,0.72,0.00023,0.0502,-9.258,0.0386,116.183,4
+69,Serenata Ritmica,Descarga En California,Rebeca Mauleón,2006-11-19,472426,9,0.418,0.601,0.886,0.765,0.0489,-7.603,0.0456,112.109,4
+70,Quimbara,I Love Salsa,Hilario Duran,2013-10-31,289458,33,0.118,0.798,0.737,0.0256,0.0314,-5.19,0.0442,119.93,4
+71,Me curo con rumba,¡Ésta sí va! (2 CDs),Descarga Boricua,2008-01-01,481400,25,0.638,0.712,0.813,0.000283,0.0833,-4.348,0.0686,90.186,4
+72,El Negro Bembón,Baile Con Cortijo,Cortijo Y Su Combo,1975-01-01,180560,42,0.803,0.614,0.725,2.62e-06,0.0728,-4.578,0.038,92.273,4
+73,Let's Boogaloo,Two Too Much!,Willie Rosario,1968-01-01,216360,39,0.525,0.766,0.554,0.000383,0.314,-8.863,0.0471,140.852,4
+74,Wasabi,Primitive Passions,Dave Valentin,1996-01-01,239000,17,0.579,0.434,0.856,0.794,0.138,-10.327,0.0383,117.996,4
+75,Fried Neck Bones And Some Home Fries,Uno Dos Tres 1-2-3,Willie Bobo,1966-02-13,183293,48,0.766,0.776,0.452,0.582,0.07,-13.225,0.0339,111.468,4
+76,Work Song,Hot Hands,Ray Barretto & New World Spirit,1993-01-01,371200,8,0.423,0.605,0.492,0.816,0.141,-13.32,0.0502,108.726,4
+77,Amor verdadero,A Toda Cuba Le Gusta,Afro-Cuban All Stars,1997-04-09,396440,52,0.354,0.591,0.497,7.09e-06,0.136,-11.801,0.0397,136.568,4
+78,Si te Contara,Arrives,Ricardo Ray,2005,254053,33,0.558,0.67,0.431,0.000421,0.359,-6.493,0.0287,97.991,4
+79,Fever,Reina de la Canción Latina,La Lupe,1967-12-31,165213,45,0.595,0.506,0.547,1.66e-05,0.099,-6.395,0.0527,98.837,4
+80,Fuego En El 23,Fuego en el 23!,Sonora Ponceña,1970-12-31,284640,56,0.528,0.647,0.596,0.000514,0.775,-6.352,0.0364,91.841,4
+81,Mi Alma Latina,Charanga Chango,Bobby Matos,2006-08-30,251893,9,0.566,0.627,0.68,0.0183,0.077,-7.316,0.0422,102.242,4
+82,Gnossiennes No.1,Spain Forever,Michel Camilo,2016-10-07,357302,40,0.955,0.46,0.225,0.925,0.113,-13.569,0.0409,89.682,4
+83,Como Te Hago Entender,Mi Musica,Roberto Roena Y Su Apollo Sound,2006-04-07,344626,62,0.436,0.837,0.649,0.0,0.0856,-7.36,0.0529,84.252,4
+84,Misty,Entre Colegas,Andy Gonzalez,2016-02-16,493120,7,0.531,0.605,0.53,0.146,0.0657,-9.9,0.0813,102.301,4
+85,Lo Que Dijo La Gitana,Controversia,Ismael Rivera Y Sus Cachimbos,1969-01-01,213373,40,0.626,0.733,0.784,0.00072,0.0324,-4.344,0.0713,95.829,4
+86,Dos Gardenias,El Sentimiento del Latino En Nueva York,Angel Canales,1979,182266,51,0.769,0.539,0.0683,2.25e-05,0.0753,-18.162,0.0511,85.19,4
+87,Los Huesos,Skin and Bones,Johnny Blas,1997-03-25,319386,11,0.21,0.54,0.656,0.775,0.27,-9.043,0.0506,104.278,4
+88,Free Latin,Italuba,Horacio El Negro Hernandez,2004-02-15,353786,15,0.122,0.496,0.875,0.838,0.0673,-5.666,0.0442,113.966,4
+89,El Nazareno,Maelo...El Único,Ismael Rivera,1988-01-01,339240,49,0.268,0.655,0.869,0.00158,0.364,-2.664,0.0608,89.732,4
+90,Caballo Viejo,"Roberto Torres y su Charanga Vallenata, Vol. 2",Roberto Torres,1986,420333,54,0.549,0.682,0.521,1.63e-06,0.0311,-11.434,0.249,92.728,4
+91,Ponle Sazon,Abriendo Camino,Paoli Mejias,2018-07-18,374960,6,0.628,0.88,0.711,1.62e-06,0.32,-3.597,0.0553,141.008,4
+92,Por TI,Clase y Sabor,Tito Allen,1993,315000,22,0.464,0.754,0.38,6.41e-05,0.0572,-14.791,0.0434,85.712,4
+93,Zumbale,Creativo,Henry Fiol,1991-11-17,305057,46,0.742,0.708,0.629,3.38e-06,0.0858,-10.358,0.0351,95.451,4
+94,Por Que Te Niegas,El Pueblo Pide Que Toque,Roberto Roena,1994,402533,32,0.296,0.774,0.674,0.0,0.0401,-7.549,0.0367,90.208,4
+95,Ahora Mismo,Ven Baila Conmigo,Latin Giants Of Jazz,2009-01-01,335320,12,0.644,0.669,0.846,0.0,0.222,-2.094,0.0409,92.182,4
+96,Zabaramba Kiri Kiri Bon,El Pin Pin Pon,The Echo Park Project,2019-06-21,286000,8,0.491,0.799,0.646,1.29e-05,0.215,-7.182,0.0541,88.024,4
+97,Estamos en Salsa,La Salsa del Conjunto Salsa,Wayne Gorbea,2019-07-22,289960,44,0.577,0.566,0.65,0.00827,0.0497,-8.591,0.0619,99.979,4
+98,Que Pena,Loco Por Ti,Lebrón Brothers,1988-01-01,296881,51,0.685,0.753,0.822,0.0079,0.0549,-3.603,0.0376,90.916,4
+99,"The Godfather's Theme (From ""The Godfather"") [Live]",Crime!,Nueva Manteca,2015-10-30,448786,13,0.743,0.511,0.526,0.944,0.667,-15.675,0.0423,102.026,4
+100,María Cristina - Remasterizado,The Real Cuban Music (Remasterizado),Eliades Ochoa,2018-04-13,260266,42,0.295,0.514,0.631,1.64e-05,0.0294,-8.591,0.0354,94.828,4
+101,Pronóstico,Impacto Crea,Impacto Crea,1973,404800,29,0.729,0.494,0.408,0.0623,0.329,-7.287,0.0288,146.371,4
+102,Cuco Y Olga,Urban Nature,Sammy Figueroa,2011-08-30,257613,13,0.343,0.661,0.867,0.898,0.189,-4.237,0.0608,99.621,4
+103,Mandinga,Introducing,Ruben Gonzalez,1997-09-15,507066,53,0.693,0.584,0.473,0.659,0.109,-11.248,0.037,91.503,4
+104,Lobo Domesticado,"Rodven Clasico: Tommy Olivencia Y Su Orquesta ""30 Aniversario""",Tommy Olivencia,1987-01-01,290453,51,0.329,0.693,0.735,2.25e-05,0.0413,-4.692,0.0337,96.838,4
+105,La Última Copa,No Me Hecha La Culpa,Herman Olivera,2010-08-12,309466,16,0.292,0.532,0.747,0.0,0.346,-5.799,0.0494,108.149,4
+106,Nica's Dream,The Latin Side of Horace Silver,Conrad Herwig,2020-08-28,458693,6,0.762,0.523,0.752,0.929,0.82,-11.657,0.0536,116.988,4
+107,Sonido Bestial,El Bestial Sonido de,Bobby Cruz,1971-12-31,408240,48,0.65,0.526,0.892,0.0904,0.309,-4.413,0.043,107.121,4
+108,Quien Te Ha Dicho (feat. Anthony Almonte),Golpe Duro (feat. Anthony Almonte),Little Johnny Rivero,2020-10-23,303180,12,0.731,0.784,0.905,0.0011,0.0928,-4.171,0.065,92.526,4
+109,Bailando - Official Salsa Version,Latino 59 presenta: Bailando (Salsa Bachata Merengue Urbano Reggaeton Dembow Fitness),Various Artists,2014-09-25,273853,49,0.546,0.651,0.947,0.0,0.372,-1.387,0.0387,94.907,4
+110,¡bebo Ya Llego!,To Hear from There,Wayne Wallace Latin Jazz Quintet,2011-01-18,299826,20,0.624,0.647,0.577,0.81,0.0855,-10.221,0.0414,99.801,4
+111,La Toalla,"Tito, Tito, Tito",Tito Rodriguez & His Orchestra,1965-12-31,171400,28,0.879,0.582,0.781,0.0228,0.0705,-7.193,0.041,104.975,4
+112,Mishugia Mambo,Latin Gold Collection,La Playa Sextet,2010-02-09,170640,36,0.801,0.701,0.878,0.865,0.0625,-9.509,0.0505,113.562,4
+113,Amor y Control,Dos Clásicos,Rubén Blades,1991,348346,60,0.364,0.75,0.602,0.00736,0.136,-9.686,0.035,89.066,4
+114,Mala jujer,Coleccion de Oro,La Sonora Matancera,2001-01-15,232333,54,0.712,0.531,0.579,1.02e-05,0.0645,-10.642,0.0425,88.778,4
+115,A Buena Vista,A Buena Vista: Barrio De La Habana,Soneros De Verdad,2004-08-09,193693,41,0.509,0.591,0.75,0.0,0.0897,-5.072,0.106,87.602,4
+116,Señora Ley,Llego La Ley,Conjunto Clásico,1987-06-06,250600,40,0.708,0.56,0.448,3.23e-06,0.0638,-13.991,0.0389,171.563,4
+117,Que Maravilloso,Mongorama,Mongorama,2011-06-21,354986,6,0.263,0.592,0.735,0.0276,0.046,-8.108,0.0356,100.423,4
+118,Esto te pone la cabeza mala,Te pone la cabeza mala,Los Van Van,1997-01-01,248999,42,0.241,0.64,0.989,1.87e-05,0.268,-5.555,0.0401,102.299,4
+119,Agua Que Va Caer,Tromboranga,Tromboranga,2012-04-11,283293,45,0.435,0.744,0.735,0.0515,0.0826,-10.16,0.0461,91.543,4
+120,Quédate,Sol,Doug Beavers,2020-12-04,368400,11,0.606,0.79,0.695,3.44e-05,0.12,-7.257,0.0501,90.037,4
+121,Alabanciosa,Conjunto Libre: Greatest Hits,Conjunto Libre,2016-01-27,381457,22,0.648,0.557,0.859,0.025,0.132,-5.703,0.0353,106.183,4
+122,Amor Ciego,Romantic Latin Jazz - The Best of the 70's,Various Artists,2012-01-12,363240,4,0.302,0.468,0.464,0.843,0.249,-7.02,0.0288,146.007,3
+123,Lágrimas Negras,El Alma del Son,Alain Pérez,2015-06-23,281520,32,0.53,0.638,0.55,0.000109,0.108,-7.817,0.0543,123.889,4
+124,Fuego A La Jicotea,Serie Sensacional: Marvin Santiago,Marvin Santiago,2000-01-01,201426,41,0.396,0.809,0.563,0.0127,0.302,-10.643,0.0619,103.391,4
+125,Amorosa Guajira,Perlas Cubanas: La Guajira de Salón,Guillermo Portabales,2014-11-13,194014,39,0.871,0.762,0.243,0.00124,0.22,-12.631,0.0392,107.952,4
+126,Manteca,The Colors Of Latin Jazz: Soul Cookin',Various Artists,2005-01-01,156426,12,0.236,0.629,0.718,0.591,0.385,-6.822,0.0552,102.314,4
+127,Trucutu,Planté Bandera,Tommy Olivencia y Su Orquesta,1975-01-01,302413,46,0.401,0.584,0.671,0.0,0.0406,-5.697,0.0378,95.158,4
+128,Como Baile Marieta,It's About Time,Orestes Vilató,2009-02-10,362173,12,0.635,0.612,0.756,0.0309,0.114,-4.147,0.0364,163.911,4
+129,Guajira Dubois,Simpático (Extended Version),The Brian Lynch/ Eddie Palmieri Project,2011-09-05,531986,16,0.424,0.632,0.676,0.871,0.0846,-8.918,0.0325,132.408,4
+130,Lejanía,El Piano Que Llevo Dentro,Daniel Amat,2003,352560,14,0.755,0.403,0.54,0.944,0.159,-12.97,0.0523,89.207,4
+131,"Guajira, A Blanca",Herencia,Chuchito Valdes,2004,404506,18,0.0706,0.657,0.361,0.876,0.0548,-17.056,0.0615,149.601,4
+132,Así,Más Recuerdos Románticos,Various Artists,2000-01-01,278040,27,0.646,0.417,0.428,7.74e-06,0.31,-5.862,0.0312,81.927,4
+133,El Primer Montuno,Sorpresa La Flauta,Andy Harlow,1972-01-01,281400,31,0.798,0.667,0.633,0.0198,0.0951,-9.332,0.0373,141.935,4
+134,Perhaps,Big Band Classics,Oscar D'León,2014-09-22,149986,51,0.449,0.667,0.485,2.33e-06,0.0716,-7.164,0.0602,119.161,4
+135,Hipocrecia,The Best,Bobby Rodriguez y La Compania,2016-01-08,453293,14,0.669,0.665,0.665,0.00025,0.0641,-6.149,0.0372,103.102,4
+136,La Banda (Tributo A Hector Lavoe),El Sonero,Frankie Vazquez,2017-01-03,285061,31,0.347,0.536,0.741,2.05e-05,0.331,-8.437,0.0346,111.713,4
+137,Yo Sí Quiero,Acertijos,Pedrito Martinez,2021-03-19,364237,33,0.194,0.805,0.738,0.0253,0.065,-5.905,0.112,92.018,4
+138,Bruca Maniguá,Ibrahim Ferrer (Buena Vista Social Club Presents),Ibrahim Ferrer,1999-06-07,284320,54,0.836,0.499,0.371,0.00557,0.131,-11.624,0.0449,110.274,4
+139,De Patitas,"Lo Mejor de Luis ""Perico"" Ortiz - Canta: Rafael de Jesus","Luis ""Perico"" Ortiz",1995,362400,26,0.446,0.674,0.545,1.56e-06,0.0796,-12.306,0.0353,106.948,4
+140,Guasasa,Electric Harlow,Orchestra Harlow,1970-01-01,266808,18,0.363,0.709,0.622,0.0984,0.148,-6.634,0.0349,96.506,4
+141,New Cuban Express,New Cuban Express,Manuel Valera,2012-06-05,479776,10,0.677,0.431,0.66,0.746,0.26,-10.231,0.0331,124.213,4
+142,Oriente,Putumayo Presents Cuba! Cuba!,Various Artists,2017-05-26,248893,36,0.557,0.84,0.412,0.0,0.0574,-10.55,0.0873,125.706,4
+143,Dat Dere,Rebirth,Ray Mantilla,2020-06-26,321666,10,0.748,0.692,0.454,0.853,0.108,-12.241,0.0308,128.607,4
+144,"¡bien, Bien!","¡Bien, Bien!",Wayne Wallace Latin Jazz Quintet,2009-09-15,401093,3,0.744,0.678,0.603,0.92,0.095,-10.562,0.035,96.707,4
+145,Caballo Viejo,Grandes Soneros de la Epoca,Cuco Valoy & Roberto Torres,2016-04-19,243200,44,0.136,0.759,0.713,6.09e-05,0.0545,-3.587,0.124,93.638,4
+146,La Llave,All That Vibe,Grupo Latin Vibe,2005-06-30,368853,36,0.575,0.722,0.813,0.0134,0.0995,-5.964,0.041,81.884,4
+147,Bebochicochuchoturo,BeboChicoChuchoTuro,Arturo O'Farrill,2017-08-18,536309,27,0.0125,0.395,0.741,0.909,0.0727,-9.294,0.0588,139.079,4
+148,La Vida Es Un Sueno,Homenaje a Arsenio Rodriguez,Various Artists,2013-06-15,248400,20,0.729,0.602,0.345,0.899,0.5,-11.654,0.0273,98.439,4
+149,Cachita,"Adelante, Gigante",Charlie Palmieri & His Orchestra,1975-12-31,378453,26,0.814,0.609,0.68,0.126,0.114,-7.823,0.0391,110.313,4
+150,I Like It Like That,I Like It Like That,Pete Rodriguez,1966-12-31,265080,58,0.68,0.596,0.7,0.000277,0.623,-4.911,0.0323,133.45,4
+151,Payaso,Alfredo Naranjo Y El Guajeo,Alfredo Naranjo,2008-05-06,352026,8,0.305,0.873,0.699,0.0,0.108,-4.245,0.0723,91.039,4
+152,Sonido Bestial,"A life time of Hits.. (Live At Centro De Bellas Artes, San Juan, Puerto Rico.)",Richie Ray & Bobby Cruz,2006-02-05,598853,46,0.114,0.538,0.691,0.028,0.62,-10.669,0.0784,108.242,4
+153,Picadillo,Song For Chico - 2009 GRAMMY WINNER!,Arturo O'Farrill & The Afro Latin Jazz Orchestra,2008-01-01,295146,8,0.677,0.586,0.726,0.483,0.0589,-6.639,0.0437,99.738,4
+154,Mi Corazón Te Llama,El Yerbero Del Barrio,Roberto y Su Nuevo Montuno,1976-01-01,389203,22,0.497,0.705,0.709,0.0162,0.0891,-7.125,0.0361,88.262,4
+155,Rumba Pa'los Rumberos,Tambor De Fuego (The Rumba Fire Drum),Los Muñequitos De Matanzas,2007-10-02,262306,24,0.533,0.599,0.532,0.429,0.061,-9.612,0.133,132.548,4
+156,Moliendo café,El Balcon Del Adios,Vieja Trova Santiaguera,1998,295400,46,0.716,0.447,0.623,0.0,0.19,-6.136,0.0485,91.914,4
+157,Con Mi Salsa la Mantengo,Cultura y Sabor,Don Perignon Y La Puertorriqueña,2019-03-08,301880,18,0.584,0.854,0.858,3.39e-06,0.0588,-4.368,0.0369,94.968,4
+158,Ladrón De Tu Amor,Vol.1,Ray De La Paz,2020-08-26,305685,36,0.62,0.624,0.561,4.56e-06,0.809,-10.547,0.0357,95.965,4
+159,Obatalá,The Enja Heritage Collection: Obatalá,Jerry Gonzalez & The Fort Apache Band,2002,437840,10,0.182,0.534,0.452,0.0022,0.79,-19.827,0.103,114.083,3
+160,Casi Te Envidio,Oro Salsero,Andy Montañez,1994-01-01,321200,61,0.496,0.67,0.567,0.0,0.0703,-10.418,0.0888,95.926,4
+161,Betece,Betece - All Stars,Africando,2000-01-01,304826,42,0.32,0.726,0.785,0.0152,0.0785,-7.286,0.0428,94.844,4
+162,Se Le Ve,Con un Poco de Songo,Batacumbele,2000,393226,16,0.146,0.709,0.509,0.013,0.32,-13.865,0.161,121.258,4
+163,Amame en Camara Lenta,Salvaje! 88,Cano Estremera,1988,389840,43,0.702,0.596,0.573,0.000147,0.258,-11.167,0.0453,175.505,4
+164,La mulata rumbera,JazzCuba. Volumen 8,Peruchin,2007-02-09,180773,19,0.639,0.576,0.682,0.895,0.225,-9.246,0.113,101.255,4
+165,The Windmills of Your Mind,Te Lo Dije,Harold López-Nussa,2020-08-28,316560,30,0.737,0.651,0.64,0.162,0.0684,-8.428,0.0263,105.036,4
+166,Síguelo,La Verdad,Javier Vázquez y Su Salsa,1974-01-01,267240,33,0.711,0.665,0.654,0.00029,0.0849,-5.272,0.0485,91.438,4
+167,Volare,Musical a Cortijo - Rivera,Son Boricua,2003-04-14,338306,35,0.839,0.669,0.588,0.00126,0.0611,-9.837,0.0746,98.284,4
+168,Africa,Duologue,Alfredo Rodriguez,2019-02-01,203493,34,0.368,0.54,0.587,0.0,0.131,-6.489,0.0586,107.808,4
+169,Linda Mujer,Guaguamambo,El Timba,2014-06-06,313039,35,0.587,0.747,0.68,0.00039,0.122,-6.748,0.0393,172.003,4
+170,Overjoyed,. . . Till Then,Danilo Perez,2003-01-01,292186,29,0.867,0.526,0.377,0.927,0.0911,-14.999,0.0348,93.418,3
+171,Hola Soledad,Todo el Tiempo...,Rolando Laserie,1999-12-04,171351,52,0.503,0.659,0.444,3.04e-05,0.311,-6.843,0.033,97.425,4
+172,Arriba Mi Montuno,Curate!,Orlando Poleo,2008-05-05,232560,10,0.287,0.821,0.548,1.23e-05,0.0866,-9.016,0.0498,132.769,4
+173,Dary,Transparent Water,Omar Sosa,2017-02-24,308808,38,0.795,0.756,0.381,0.895,0.268,-19.362,0.0546,112.054,4
+174,Guajira Soul,Salsa Meets Jazz,Tito Puente,1988-01-01,212000,19,0.347,0.766,0.408,0.505,0.11,-13.936,0.064,115.611,4
+175,Pobrecita,Regresando al Guaguancò,La Maxima 79,2013-09-07,266213,39,0.359,0.768,0.646,0.000183,0.0956,-5.763,0.0491,90.932,4
+176,North By Northeast,North By Northeast (feat. Wilson Chembo Corniel),Steve Pouchie,2014-10-01,360826,4,0.478,0.681,0.739,0.21,0.083,-9.118,0.0349,103.942,4
+177,El Dulcerito,A Cataño,Joe Quijano,2013-02-14,170586,25,0.919,0.728,0.63,0.00161,0.0861,-6.423,0.199,105.893,4
+178,Perla Fina,Los Grandes De La Salsa,Various Artists,1998,244173,30,0.597,0.746,0.7,0.00494,0.183,-6.854,0.041,101.895,4
+179,Señor Tambó,Señor Tambó,Eddie Montalvo,2020-03-09,283293,12,0.558,0.829,0.742,0.0,0.0617,-6.046,0.0486,94.447,4
+180,Castígala,Tremenda Rumba!,Maraca,2002,234133,29,0.398,0.766,0.882,0.0,0.0452,-3.796,0.0407,102.14,4
+181,Por Que Adoré,Beethoven's V,Frankie Dante Cerda,1975-12-31,353520,24,0.706,0.594,0.511,0.0289,0.343,-10.661,0.0345,87.374,4
+182,Solo Basta,En Mi Voz,Marco Bermudez,2020-09-30,260293,18,0.509,0.798,0.627,6.96e-06,0.094,-7.465,0.0572,167.928,4
+183,Un Guanguancó,Otra Vez!,Juan Pablo Barrios Salsa Latín Jazz,2018-02-12,266815,5,0.434,0.826,0.743,0.000526,0.209,-6.074,0.0725,92.965,4
+184,Bluesiando - Mambo,Latin Jazz Latino,Joe Gallardo,2005-05-02,447653,14,0.483,0.652,0.88,0.422,0.0745,-7.91,0.0509,112.287,4
+185,Chan Chan,Buena Vista Social Club,Buena Vista Social Club,1997-06-23,256653,70,0.833,0.396,0.496,0.00534,0.0996,-11.728,0.0356,165.647,4
+186,Perfidia,Xavier Cugat,Xavier Cugat,2005-01-01,205880,34,0.947,0.47,0.505,0.932,0.135,-8.605,0.0298,122.242,4
+187,Milonga Para Paquito (to Paquito D'rivera),Appreciation,Diego Urcola,2011-02-15,300773,13,0.916,0.614,0.225,0.936,0.105,-17.755,0.0316,112.848,4
+188,Afrobeat To Fela,Luz,Carlos Sarduy,2019-05-24,391096,4,0.24,0.642,0.476,0.847,0.355,-12.426,0.0405,107.269,4
+189,The Girl From Ipanema,The Girl From Ipanema - The Bossa Nova Years,Stan Getz,1989-01-01,321826,69,0.909,0.664,0.194,3.85e-05,0.0829,-15.487,0.0357,129.863,4
+190,El Shing-A-Ling,Poncho At Montreux,Poncho Sanchez,2004-11-16,404680,41,0.379,0.551,0.572,0.0463,0.639,-13.535,0.0747,136.83,4
+191,Café,Echando pa'lante,Eddie Palmieri,1964-12-31,392493,46,0.688,0.565,0.398,0.00557,0.138,-9.46,0.0343,96.189,4
+192,Mujer Divina,United we swing,Spanish Harlem Orchestra,2007,332788,0,0.248,0.666,0.704,3.82e-05,0.126,-4.783,0.0402,120.95,4
+193,Panama's Boogaloo,Latin Bugalu,Charlie Palmieri,1968,241666,30,0.349,0.735,0.444,0.0104,0.0721,-11.17,0.0335,129.495,4
+194,"Long, Long Summer",Agua De Cuba,Francisco Aguabella,1999-04-06,406173,17,0.346,0.69,0.615,0.738,0.0922,-7.606,0.0428,131.336,4
+195,Linda Guajira,Our Man In Havana,Mongo Santamaria,1993-01-01,183800,45,0.633,0.76,0.566,0.724,0.0262,-14.129,0.0399,132.887,4
+196,El Watusi,Charanga Moderna,Ray Barretto,1962-12-31,160115,50,0.815,0.543,0.5,8.55e-05,0.0977,-10.092,0.163,87.252,4
+197,Medley,Otra Noche Caliente,Louie Ramirez,1992-01-01,439080,40,0.665,0.502,0.826,6.46e-06,0.294,-4.69,0.0486,96.951,4
+198,Descarga Cubana,Salsa Caliente (Hot Rhythms),Various Artists,2012-02-14,183360,38,0.463,0.634,0.709,0.594,0.0884,-13.907,0.0694,110.142,4
+199,Enchantment,Enchantment,Hilton Ruiz,2006-01-01,432026,33,0.58,0.429,0.47,0.932,0.105,-17.484,0.0539,96.01,4
+200,La Explosión (Instrumental) - Ao Vivo,Ivan Lins | Chucho Valdés e Irakere,Ivan Lins,2014-06-03,517106,39,0.41,0.565,0.564,0.417,0.742,-12.871,0.0418,104.579,4
+201,Colores del Baile Latino!,Colores del Baile Latino!,Jimmy Bosch,2018-07-02,192417,29,0.581,0.845,0.85,0.196,0.152,-3.642,0.0323,107.484,4
+202,And Sammy Walked In,Hands Of Rhythm,Giovanni Hidalgo,1997-01-01,353626,20,0.862,0.473,0.434,0.942,0.307,-16.854,0.0302,140.299,4
+203,Ran Kan Kan,The Latin World Of Tito Puente,Tito Puente,1963-12-31,190416,47,0.864,0.714,0.941,0.817,0.0944,-6.177,0.0422,102.102,4
+204,Chopin: Prelude In E-Minor,Fantasia Cubana: Variations On Classical Themes,Chucho Valdés,2002-01-01,270066,39,0.991,0.295,0.113,0.871,0.215,-23.004,0.0357,66.082,3
+205,Calzada Del Cerro,¡Con Mucho Ritmo! The Very Best Of TropiJazz,Various Artists,2005-01-01,393800,25,0.473,0.514,0.808,0.52,0.154,-7.56,0.0301,130.04,4
+206,Cuando Cuando,Mo,Jimmy Sabater,2003-04-14,243120,31,0.631,0.557,0.497,9.21e-05,0.0947,-9.674,0.038,103.334,4
+207,Manteca,"Way Out, Vol. 4",Alegre All Stars,1965-01-01,442332,14,0.556,0.438,0.841,0.0359,0.123,-6.761,0.0798,114.776,4
+208,San Francisco Tiene Su Propio Son,The Legend Of Cuban Percussion,Patato,2000,578773,19,0.562,0.688,0.49,0.0728,0.0444,-11.617,0.0501,137.128,4
+209,Mulence,Malembe,¡Cubanismo!,1997,323493,32,0.61,0.466,0.573,0.0856,0.0973,-10.92,0.0333,164.86,4
+210,Congo Mulence - 2000 Remaster,Kenya,Machito,2000-01-25,176573,34,0.778,0.824,0.358,0.5,0.111,-13.046,0.0485,117.647,4
+211,Bang! Bang!,Wanted Dead Or Alive (Bang Bang Push Push Push),Joe Cuba Sextet,1965-12-31,246600,49,0.791,0.618,0.911,5.63e-05,0.703,-4.222,0.0922,127.344,4
+212,Delirio De Grandeza,El Explosivo,Justo Betancourt,1968-12-31,208261,25,0.798,0.605,0.088,0.00531,0.476,-25.37,0.0352,83.123,4
+213,El Manisero,My Time Is Now,Mario Bauzá,2006-07-07,309333,15,0.507,0.538,0.581,0.436,0.063,-11.199,0.0549,101.153,4
+214,Revolucionando,Revolucionando,New Swing Sextet,1970-01-01,180540,25,0.719,0.682,0.581,0.77,0.118,-14.225,0.0415,100.961,4
+215,Cuando Cuando,15 Inolvidables Exitos,Tito Rodriguez,1980-03-12,181603,40,0.534,0.585,0.7,1.03e-05,0.282,-7.064,0.0422,103.78,4
+216,Guarachi Guaro - Live,Dizzy Con Clave: Live from Dizzy's Club Coca Cola,Carlos Henriquez,2018-09-30,568773,33,0.57,0.708,0.471,0.468,0.739,-9.713,0.0398,122.053,4
+217,Yo No Camino Más,Charangueando,Tipica 73,1980-01-01,251226,24,0.661,0.595,0.569,0.000695,0.0622,-7.613,0.0406,102.955,4
+218,El Principe,Portrait Of A Stranger,Humberto Ramirez,1995-01-01,366133,13,0.415,0.727,0.587,0.907,0.0918,-9.784,0.031,104.69,4
+219,Tremendo Rumbón,Cocinando la Salsa,Joe Cuba,1976-12-31,167080,36,0.379,0.605,0.787,0.0267,0.138,-3.854,0.047,109.201,4
+220,Minor Mood,Birds Of A Feather,Caribbean Jazz Project,2003-01-01,303840,14,0.85,0.724,0.918,0.824,0.097,-5.881,0.0345,108.076,4
+221,Bebop,The Last Bullfighter,Jazz On The Latin Side All Stars,2005-03-07,336866,14,0.363,0.485,0.824,0.0427,0.381,-7.517,0.0445,136.904,4
+222,Voy,Broadway,Orquesta Broadway,2016-01-06,283573,25,0.35,0.514,0.673,0.139,0.126,-5.677,0.0611,95.968,4
+223,El Bodeguero,Epoca De Oro De La Orquesta Aragon,Orquesta Aragón,2009-04-14,181826,40,0.779,0.749,0.278,0.0,0.0818,-11.331,0.0552,111.747,4
+224,Ritmo Con Ache,40 Años De Exitos,"Jose Mangual, Jr.",2017-01-05,254670,30,0.101,0.771,0.683,0.373,0.0824,-8.763,0.112,140.046,4
+225,Toro Mata,Celia & Johnny,Johnny Pacheco,1974-01-01,342173,48,0.692,0.564,0.505,0.0081,0.167,-7.339,0.0659,113.472,4
+226,You Gotta Love Me,Boogaloo '67,Johnny Colon,1967-01-01,370960,32,0.177,0.544,0.593,2.87e-05,0.22,-6.05,0.0367,130.238,4
+227,Quítate Tú - Live,A Band And Their Music: Campeones,Fania All Stars,2008-09-09,331720,50,0.555,0.75,0.676,0.0011,0.883,-5.282,0.0476,122.202,4
+228,Cuban Pete,"Dancing Under Latin Skies (Original Album Plus Bonus Tracks, 1958)",Tito Puente & His Orchestra,2012-06-22,148053,23,0.737,0.834,0.841,0.844,0.0529,-5.862,0.0334,112.731,4
+229,Part Time Lover (Amor a Medio Tiempo),Bobby Valentin,Bobby Valentin,1986-07-24,382840,42,0.553,0.722,0.659,2.16e-05,0.0474,-10.49,0.0425,96.361,4
+230,Rosa Para Julia,Jerry Gonzalez Y Los Piratas Del Flamenco,Jerry Gonzalez,2004-06-29,300520,12,0.81,0.7,0.54,0.525,0.111,-8.747,0.0795,115.599,4
+231,Rumba Guajira - Remastered,Inolvidable 3 (Remastered),Arsenio Rodríguez,2013-06-06,170761,22,0.822,0.659,0.718,1.19e-06,0.896,-9.968,0.0569,78.532,4
+232,El Apartamento,Back To The Future,Willie Rosario,1999,258800,43,0.264,0.641,0.89,3.08e-05,0.104,-5.08,0.0462,98.699,4
+233,Un Tipo Liberado,Asi Soy Yo,Larry Harlow,1980,298493,25,0.758,0.594,0.803,1.08e-05,0.0437,-6.466,0.0563,107.357,4
+234,Lágrimas Negras,Juntos Para Siempre,Bebo Valdés,2008-11-11,224173,44,0.962,0.462,0.268,0.873,0.168,-12.552,0.0512,85.576,4
+235,Let's Stay Together,Back to the Bay,Pete Escovedo,2018-05-11,348000,35,0.428,0.403,0.362,2.13e-06,0.12,-10.306,0.162,201.802,4
+236,Soul Sauce,Verve Jazz Masters 39,Cal Tjader,1994-01-01,146706,39,0.851,0.667,0.59,0.000784,0.198,-12.575,0.0378,142.577,4
+237,Corazón Partio,Ultimate Duets,Arturo Sandoval,2018-05-18,356466,37,0.321,0.607,0.763,0.0,0.068,-6.23,0.12,80.022,4
+238,Con Tu Movimiento,Soy La Candela,Edwin Bonilla,2002,359186,20,0.525,0.796,0.924,0.000197,0.0918,-1.148,0.0408,100.123,4
+239,Babaila,El Conde,"Pete ""El Conde"" Rodriguez",1974-12-31,335386,25,0.687,0.597,0.549,1.97e-05,0.0881,-7.435,0.0405,100.674,4
+240,No Me Platiques Más,Pete And Papo,Papo Lucca,1995-12-31,207274,12,0.725,0.473,0.355,0.0,0.18,-8.821,0.0293,75.603,4
+241,Vitamina,His Piano and Rhythm,Noro Morales,1960-08-08,155760,20,0.805,0.606,0.666,0.949,0.0662,-7.321,0.0596,115.251,4
+242,Picadillo,Tito Puente Masterworks Live!!!,Bobby Sanabria,2011-03-08,507880,12,0.62,0.573,0.885,0.0672,0.693,-6.032,0.059,114.406,4
+243,Moonlight Serenade,Together Again,Juan Pablo Torres,2005,456866,16,0.517,0.793,0.632,0.91,0.127,-7.825,0.0367,127.909,4
+244,Anacaona,Cheo,Cheo Feliciano,1971-06-15,253253,53,0.442,0.535,0.701,0.0052,0.0645,-7.862,0.0361,97.692,4
+245,Soy Puerto Rico,Soy Puerto Rico,Puerto Rico All Stars,2013-05-24,517408,23,0.557,0.807,0.93,1.82e-05,0.107,-2.039,0.0729,96.984,4
+246,Somos los Reyes del Mundo,"Mascara Salcera, Vol. 2",Various Artists,2016-03-08,450025,24,0.353,0.701,0.56,0.000443,0.0867,-13.626,0.065,135.694,4
+247,Azúcar Pa' Tu Café,Azúcar Pa' Tu Café (feat. Cimafunk),Aymee Nuviola,2020-04-30,217280,19,0.354,0.835,0.646,0.0,0.337,-3.895,0.0644,130.017,4
+248,Pena De Amor,49 Minutes,Willie Colón,1978-01-01,263002,24,0.338,0.786,0.691,0.0,0.312,-8.48,0.0448,110.717,4
+249,Baila Plena,At the Point V. One,Papo Vazquez,1999-02-23,494240,4,0.398,0.617,0.864,0.483,0.0924,-8.896,0.0512,107.579,4
+250,Echate Pa'Alla,Mas Sabroso,Adalberto Santiago,2007,358613,32,0.747,0.559,0.761,0.0937,0.157,-6.422,0.0453,146.721,4
+251,Que Bueno Baila Usted,The Most From Beny More,Beny Moré,1965,196933,41,0.855,0.485,0.651,0.0152,0.0958,-9.712,0.107,172.23,4
+252,P'al Solar,20th Anniversary,Ralph Irizarry And Timbalaye,2015-10-05,218200,3,0.417,0.669,0.7,0.825,0.109,-10.225,0.0474,126.222,4
+253,Picadillo,Gerardo Rosales: 30 Aniversario,Gerardo Rosales,2011-10-01,245656,18,0.732,0.603,0.926,0.554,0.0523,-2.542,0.0425,94.169,4
+254,Aquá Traigo Mi Montuno,Punto Y Aparte,Ismael Quintana,1970-06-06,277133,21,0.316,0.584,0.804,0.0137,0.121,-8.652,0.0834,124.228,4
+255,Guantanamera,Dos,Cuba L.A.,2000-01-01,369853,29,0.668,0.778,0.508,0.000965,0.0702,-11.428,0.0454,122.302,4
+256,El Gringo,Algo Nuestro,Charlie Sepulveda,1993-01-01,263040,11,0.609,0.541,0.515,0.619,0.0446,-11.105,0.0421,120.739,4
+257,Son para Tí,Tibiri Tabara,Sierra Maestra,1997-11-03,318333,39,0.408,0.524,0.418,9.05e-05,0.117,-10.102,0.0337,118.771,4
+258,Así Se Compone Un Son,Así Se Compone un Son,Ismael Miranda,1973-01-01,336480,47,0.479,0.707,0.551,3.37e-06,0.0465,-7.468,0.0652,77.509,4
+259,Fire of the Newbie,"The Sims Social, Vol. 4: Classical, Jazz & Latin",EA Games Soundtrack,2011-12-13,251733,7,0.558,0.781,0.715,0.000244,0.273,-5.994,0.0555,100.032,4
+260,Se Le Ve,I Love Salsa,Hilario Duran,2013-10-31,243715,28,0.328,0.756,0.757,1.52e-05,0.303,-5.389,0.0432,104.98,4
+261,Lluvia (Agua que cae del cielo),Salseando (2 CDs),Descarga Boricua,2008-01-01,508573,25,0.503,0.561,0.79,0.00972,0.683,-6.931,0.042,104.909,4
+262,"Pica, Pica",Champions,Cortijo Y Su Combo,2006-03-29,276693,34,0.73,0.686,0.865,0.0695,0.112,-9.76,0.0476,91.922,4
+263,Campanero,El Bravo De Siempre,Willie Rosario and His Orchestra,1969-01-01,236173,21,0.8,0.571,0.869,5.88e-06,0.652,-4.325,0.0435,99.87,4
+264,Equinox,Primitive Passions,Dave Valentin,1996-01-01,404306,16,0.84,0.499,0.229,0.649,0.0418,-19.879,0.0391,129.592,4
+265,Evil Ways,Talkin' Verve,Willie Bobo,1997-01-01,160826,38,0.546,0.811,0.447,0.0,0.0615,-11.298,0.0433,111.435,4
+266,New World Spirit,Hot Hands,Ray Barretto & New World Spirit,1993-01-01,323160,6,0.435,0.639,0.602,0.316,0.0514,-11.588,0.0408,111.833,4
+267,Suavito,Arrives,Ricardo Ray,2005,282853,19,0.816,0.779,0.644,0.00487,0.0954,-6.591,0.0359,110.233,4
+268,Tumba pala Cocuyé,"Distinto, diferente",Afro-Cuban All Stars,1999-11-22,407373,43,0.276,0.764,0.61,0.185,0.184,-8.534,0.0407,127.655,4
+269,Puro Teatro,La Lupe Es La Reina (The Queen),La Lupe,1977-12-31,179186,40,0.583,0.483,0.366,0.0,0.154,-10.865,0.0312,108.623,4
+270,Cuando Baila Ramon,Charanga Chango,Bobby Matos,2006-08-30,258306,8,0.531,0.57,0.761,1.42e-05,0.0728,-6.063,0.107,156.765,4
+271,Yambeque,Determination,Sonora Ponceña,1982-12-31,383533,48,0.677,0.664,0.75,0.0163,0.0576,-6.439,0.0405,172.271,4
+272,Cinema Paradiso,Spain Forever,Michel Camilo,2016-10-07,190357,33,0.979,0.311,0.0971,0.919,0.111,-19.596,0.0401,131.199,4
+273,Vieques,Entre Colegas,Andy Gonzalez,2016-02-16,296040,5,0.612,0.657,0.668,0.901,0.209,-9.447,0.0553,104.251,4
+274,Qué Te Pasa A Ti,Traigo de Todo,Ismael Rivera Y Sus Cachimbos,1973-01-01,285000,34,0.271,0.627,0.488,0.00321,0.031,-7.057,0.0829,100.291,4
+275,Lejos De Ti,Sabor,Angel Canales,1975-01-01,255586,42,0.789,0.569,0.631,0.0,0.0446,-6.372,0.0627,101.947,4
+276,Don't Change My Song,That Night in L.A.,Johnny Blas,2018-06-25,359720,4,0.52,0.636,0.806,0.205,0.0738,-9.621,0.078,91.15,4
+277,Mi Desengaño,Lucky 7,Roberto Roena Y Su Apollo Sound,1975-12-31,335960,50,0.262,0.595,0.744,0.000364,0.137,-7.494,0.0409,84.93,4
+278,A Night In Torino,Italuba,Horacio El Negro Hernandez,2004-02-15,355826,10,0.272,0.581,0.83,0.837,0.112,-6.27,0.0302,124.492,1
+279,Las Tumbas,Soy Feliz,Ismael Rivera,1975-01-01,244800,50,0.565,0.438,0.587,0.135,0.0769,-7.843,0.0427,155.074,4
+280,El Tractor Amarillo,Roberto Torres con Charanga de la 4,Roberto Torres,1993,403733,33,0.0905,0.591,0.495,1.3e-05,0.179,-13.313,0.0364,146.065,4
+281,Bendicion de Mama,Abriendo Camino,Paoli Mejias,2018-07-18,328546,6,0.494,0.837,0.802,0.0,0.0487,-4.068,0.0488,112.534,4
+282,Flores Blancas Y Negras,Untouchable,Tito Allen,1979-01-01,258986,20,0.704,0.632,0.915,0.000101,0.0478,-1.99,0.0532,105.482,4
+283,Ahora me da pena,"Fe, Esperanza y Caridad",Henry Fiol,1990,404533,41,0.543,0.611,0.466,0.00176,0.195,-12.031,0.0549,91.531,4
+284,Para mi esas cosas,Exitos,Roberto Roena,2020-07-12,276456,27,0.557,0.532,0.827,0.0,0.0336,-4.848,0.0391,165.205,4
+285,Si El Mar Se Volviera Ron,Ven Baila Conmigo,Latin Giants Of Jazz,2009-01-01,354000,10,0.488,0.642,0.757,0.0,0.0581,-2.954,0.0336,89.551,4
+286,La Botanica,La Botanica,The Echo Park Project,2020-08-28,269315,6,0.668,0.837,0.656,2.43e-05,0.295,-7.142,0.0604,95.944,4
+287,Alo Alo,"Salsa De La Mata, Vol. 2",Various Artists,2011-03-26,291970,36,0.708,0.697,0.796,0.000251,0.0504,-4.202,0.0417,93.294,4
+288,Diez Lágrimas,Criollo,Lebrón Brothers,1982-12-31,311573,43,0.847,0.657,0.576,0.0293,0.07,-7.328,0.0326,91.565,4
+289,Varadero Blues,Varadero Blues,Nueva Manteca,2014-06-06,296266,4,0.652,0.523,0.462,0.867,0.0878,-13.685,0.0369,96.154,4
+290,Estoy como nunca,Estoy Como Nunca,Eliades Ochoa,2002-05-27,301600,41,0.771,0.599,0.651,0.21,0.0659,-7.819,0.0433,177.227,4
+291,Hable Con El Señor,Cobarde,Impacto Crea,1974-01-01,301069,22,0.64,0.756,0.468,8.96e-05,0.189,-4.698,0.0572,115.528,4
+292,Duermeté Mi Cielito,...And Sammy Walked In,Sammy Figueroa,2005-06-07,161893,0,0.0624,0.483,0.571,0.129,0.17,-10.842,0.0361,157.47,3
+293,El Bodeguero,Chanchullo,Ruben Gonzalez,2000-09-25,312640,50,0.681,0.6,0.351,0.365,0.135,-13.301,0.0384,114.285,4
+294,No Tires La Primera Piedra,"Rodven Clasico: Tommy Olivencia Y Su Orquesta ""30 Aniversario""",Tommy Olivencia,1987-01-01,296226,44,0.546,0.744,0.791,8.04e-05,0.117,-3.926,0.0438,97.709,4
+295,Pa' Bravo Yo (Live) [Tributo A Justo Betancourt],Presentan,Herman Olivera,2010-09-05,422926,13,0.339,0.652,0.723,0.000139,0.913,-10.335,0.0435,93.695,4
+296,Mamacita,Jam Session Vol. 23,Conrad Herwig,2007,452746,6,0.797,0.581,0.356,0.954,0.0741,-14.216,0.045,82.357,4
+297,Pancho Cristal,40 Aniversario: EN VIVO,Bobby Cruz,2004,320714,34,0.558,0.576,0.816,0.0848,0.778,-6.87,0.0564,97.627,4
+298,Pide Que Hay Z93 (feat. Anthony Almonte),Golpe Duro (feat. Anthony Almonte),Little Johnny Rivero,2020-10-23,282710,5,0.549,0.788,0.823,7.04e-05,0.108,-6.149,0.0508,95.017,4
+299,Qué Pasa Loco,Grandes Exitos Vol. 1,Issac Delgado,2000-01-01,378013,46,0.252,0.789,0.727,1.04e-05,0.0676,-9.011,0.0578,87.739,4
+300,Los Gatos,To Hear from There,Wayne Wallace Latin Jazz Quintet,2011-01-18,376213,18,0.575,0.759,0.584,0.845,0.0746,-11.812,0.0325,124.003,4
+301,Mambo Manila,Mambo Madness,Tito Rodriguez & His Orchestra,1959-12-31,190440,23,0.806,0.571,0.802,0.755,0.0592,-7.438,0.0559,147.562,4
+302,Separarla También,A Little Bit Of Everything,La Playa Sextet,1960-01-01,155633,25,0.74,0.483,0.721,0.79,0.1,-5.899,0.0563,85.362,4
+303,Carinoso Si Mentiroso No,El Run Run De Los Soneros,Soneros De Verdad,2005-12-30,223546,10,0.561,0.557,0.615,3.61e-05,0.0463,-8.524,0.152,93.321,4
+304,Decisiones,Buscando America,Rubén Blades,1984-04-03,303400,59,0.777,0.661,0.61,0.0,0.0475,-9.824,0.0707,96.402,4
+305,Los Aretes De La Luna,Más Ternura De La Sonora Matancera,La Sonora Matancera,1988-01-01,143373,49,0.874,0.575,0.358,2.65e-05,0.222,-10.07,0.0394,98.785,4
+306,Sin Rumba Albuno,Historia Musical Del Conjunto Clasico Vol.3,Conjunto Clásico,1995,279373,32,0.497,0.555,0.603,6.46e-06,0.0772,-7.93,0.0649,95.284,4
+307,The Art of Latin Jazz,The Art of Latin Jazz,Oscar Hernandez,2017-03-17,259866,5,0.776,0.552,0.68,0.801,0.0512,-7.386,0.034,117.938,4
+308,El Negro Esta Cocinando,Llego... Van Van,Los Van Van,2003,328253,44,0.111,0.632,0.963,7.05e-05,0.373,-4.467,0.0701,108.088,4
+309,Agua Que Va Caer (Remastered),"Solo para Coleccionistas, Vol. 1",Tromboranga,2013-10-13,283278,35,0.419,0.792,0.78,0.0143,0.0799,-7.177,0.0556,91.54,4
+310,Sol,Sol,Doug Beavers,2020-12-04,384560,10,0.509,0.588,0.737,0.0022,0.101,-9.939,0.034,89.841,4
+311,No Critiques,Conjunto Libre: Greatest Hits,Conjunto Libre,2016-01-27,388725,19,0.622,0.548,0.831,0.0136,0.365,-4.197,0.0467,93.583,4
+312,Vamonos Pal Monte,The Best of Eddie Palmieri and Friends,Eddie Palmieri,2013-01-28,227000,3,0.111,0.389,0.641,0.328,0.976,-15.119,0.0394,102.951,4
+313,El tic tac de La Habana,El cuento de la buena pipa,Alain Pérez,2020-02-28,317480,29,0.425,0.671,0.88,0.0,0.0925,-5.652,0.0692,177.109,4
+314,Vasos De Colores,Serie Sensacional: Marvin Santiago,Marvin Santiago,2000-01-01,331333,36,0.487,0.803,0.579,0.00023,0.0994,-11.199,0.147,105.018,4
+315,Cumbiamba,El Carretero,Guillermo Portabales,2019-10-04,151493,35,0.747,0.781,0.792,0.0123,0.0458,-7.884,0.0443,92.122,4
+316,Granada (with El Árabe),EL Hechizo Rítmico (with El Árabe),Chico O'Farrill,2012-09-17,153573,1,0.523,0.391,0.393,0.0881,0.0605,-11.121,0.0531,147.708,3
+317,Dulce Amor,Conga Blue,Poncho Sanchez,1996-01-01,304066,39,0.754,0.506,0.22,0.665,0.253,-15.971,0.0383,170.632,4
+318,Azúcar,Azúcar pa' Ti,Eddie Palmieri,1964-12-31,569240,38,0.493,0.491,0.781,0.00045,0.0713,-8.924,0.0358,109.219,4
+319,Sácala bailar,United we swing,Spanish Harlem Orchestra,2007,373748,1,0.371,0.668,0.88,0.0339,0.0937,-5.349,0.0369,91.453,4
+320,Porque Me Engañas,Impulsos,Charlie Palmieri,1975,255066,19,0.606,0.673,0.56,0.00092,0.145,-11.709,0.0482,92.12,4
+321,Ochosi,Cantos a los Orishas,Francisco Aguabella,2006-11-21,189706,14,0.645,0.515,0.695,0.00033,0.0363,-10.279,0.0643,102.667,3
+322,Watermelon Man,Mr. Watermelon Man,Mongo Santamaria,1965,195133,42,0.801,0.701,0.908,0.0444,0.12,-8.244,0.0332,119.293,4
+323,Pruebame,Maestro,Louie Ramirez,2012-08-21,353453,36,0.704,0.683,0.519,2e-05,0.315,-10.929,0.0375,88.914,4
+324,Indestructible,Indestructible,Ray Barretto,1973-12-31,252000,45,0.54,0.59,0.845,0.000275,0.0758,-4.37,0.048,108.866,4
+325,Oye Mis Tres Montunos,Descargas,Cachao,2016-03-14,164812,35,0.379,0.589,0.77,0.636,0.0469,-7.292,0.0364,100.706,4
+326,I'll Call You Later,Enchantment,Hilton Ruiz,2006-01-01,269480,30,0.822,0.481,0.458,0.194,0.27,-9.945,0.0309,107.621,4
+327,Boliviana - Remasterizado,The Real Cuban Music (Remasterizado),Irakere,2018-01-19,383546,26,0.154,0.472,0.649,0.304,0.0314,-5.447,0.0314,149.973,4
+328,Cocosito,El Avion De La Salsa,Jimmy Bosch,2004,292120,26,0.5,0.449,0.86,0.00359,0.0274,-3.975,0.0362,168.289,4
+329,Magic Drums,Silver Gold,Giovanni Hidalgo,2009,268800,18,0.487,0.512,0.653,0.907,0.061,-9.459,0.0929,110.81,4
+330,El Cayuco (Son Montuno) - Outtake,Dancemania,Tito Puente,1958,154986,33,0.276,0.737,0.661,0.0868,0.0604,-7.599,0.0531,127.731,4
+331,Como Traigo La Yuca - Live,Live At The Village Vanguard,Chucho Valdés,2000-01-01,396226,38,0.874,0.479,0.378,0.863,0.763,-16.853,0.0554,157.137,4
+332,On Green Dolphin Street,Blowin',Paquito D'Rivera,1981,418733,21,0.712,0.454,0.628,0.558,0.325,-8.119,0.0593,144.865,4
+333,Cara De Payaso (Tributo A Tito Rodriguez),Jimmy's Best,Jimmy Sabater,2010-08-30,275749,31,0.645,0.668,0.69,0.00034,0.0846,-11.36,0.0431,101.202,4
+334,El Manicero,They Just Don't Makim Like Us Any More,Alegre All Stars,1976-01-01,342346,13,0.491,0.644,0.731,0.00239,0.709,-10.372,0.0536,110.467,4
+335,Mas Que Nada,Patato & Totico,Patato Valdez,1968-01-01,155213,14,0.807,0.523,0.54,1.81e-06,0.655,-15.187,0.089,112.052,3
+336,Aprovecha,The Very Best Of ¡Cubanismo! ¡Mucho Gusto!,¡Cubanismo!,2001-11-13,290840,32,0.404,0.756,0.728,0.762,0.0565,-7.174,0.035,127.731,4
+337,Wild Jungle - 2000 Remaster,Kenya,Machito,2000-01-25,167893,26,0.912,0.41,0.788,0.809,0.0997,-12.182,0.0393,152.47,4
+338,Ella Está En Otra Rumba,Presencia,Justo Betancourt,1978-12-31,299906,25,0.453,0.597,0.94,0.0131,0.289,-3.297,0.0966,110.456,4
+339,Cachondea,Steppin' Out,Joe Cuba Sextet,1963-07-01,180000,35,0.881,0.709,0.657,3.48e-05,0.112,-12.039,0.0396,114.212,4
+340,Mambo Inn,Afro-Cuban Jazz,Mario Bauzá,2001-01-01,233053,14,0.608,0.683,0.896,0.617,0.146,-0.909,0.0453,112.458,4
+341,Maybe Then,"Yesterday, Today and Tomorrow",New Swing Sextet,2018-12-19,313585,24,0.819,0.6,0.646,1.82e-05,0.128,-6.918,0.0529,87.803,4
+342,Cuando Ya No Me Quieras,From Tito With Love,Tito Rodriguez,1964-12-31,178840,41,0.798,0.418,0.445,0.0,0.107,-8.69,0.0301,95.974,4
+343,Descarga Entre Amigos (feat. Rubén Blades),The Bronx Pyramid,Carlos Henriquez,2015-09-18,321420,31,0.613,0.581,0.602,9.72e-05,0.0737,-8.477,0.0519,112.804,4
+344,Baila Que Baila,Salsa Encendida,Tipica 73,1978-01-01,216397,24,0.8,0.643,0.718,0.155,0.314,-5.481,0.083,107.567,4
+345,Mambo Nassau,20 Years of Jazz,Humberto Ramirez,2011-11-22,421626,11,0.736,0.559,0.573,0.899,0.164,-13.3,0.0472,107.747,4
+346,A Las Seis,Joe Cuba Con Cheo Feliciano,Joe Cuba,2012-10-16,163440,24,0.72,0.596,0.514,9.89e-05,0.0414,-14.73,0.0641,114.58,4
+347,On The Road,Birds Of A Feather,Caribbean Jazz Project,2003-01-01,328453,13,0.597,0.737,0.649,0.587,0.0917,-7.831,0.0355,132.054,4
+348,Caramba,The Last Bullfighter,Jazz On The Latin Side All Stars,2005-03-07,406426,11,0.335,0.724,0.644,0.394,0.0757,-7.245,0.0362,140.539,4
+349,Ritmo Changüi,¡Charangas! The Best Of Orquesta Broadway,Orquesta Broadway,1995-01-01,269133,25,0.462,0.732,0.389,4.98e-05,0.0858,-12.062,0.0421,98.42,4
+350,Cachita,Epoca De Oro De La Orquesta Aragon,Orquesta Aragón,2009-04-14,159600,39,0.589,0.55,0.333,0.000373,0.0665,-12.029,0.162,101.668,4
+351,Campanero,40 Años De Exitos,"Jose Mangual, Jr.",2017-01-05,300170,20,0.563,0.605,0.716,0.000264,0.291,-12.833,0.0451,191.166,4
+352,La Esencia Del Guaguancó,La Perfecta Combinación,Johnny Pacheco,1970-01-01,246720,47,0.691,0.658,0.524,1.16e-05,0.0648,-6.939,0.0477,88.352,4
+353,Boogaloo Blues,Fania Records 60's Gold,Various Artists,1983-01-01,331868,31,0.609,0.744,0.192,1.07e-05,0.0914,-18.472,0.059,114.918,4
+354,Ella Fue (She Was The One),Rhythm Machine,Fania All Stars,1977,221720,50,0.38,0.824,0.648,0.0258,0.0442,-8.693,0.0398,121.323,4
+355,Cha-Cha-Gua,"Mucho Cha Cha (Original Album Plus Bonus Tracks, 1959)",Tito Puente & His Orchestra,2012-06-22,169226,17,0.685,0.372,0.704,0.0869,0.0924,-7.838,0.0329,201.71,4
+356,Cuando Te Vea,Rey del Bajo,Bobby Valentin,1974-12-31,327520,39,0.485,0.682,0.753,0.000875,0.0905,-4.743,0.0414,93.576,4
+357,Equipoise,Jerry Gonzalez y el Comando de la Clave,Jerry Gonzalez,2011-08-30,414866,11,0.528,0.684,0.479,0.811,0.0934,-7.776,0.0526,126.204,4
+358,Hachero pa' un palo (Son Montuno),Vive en el recuerdo,Arsenio Rodríguez,2018-04-02,142027,20,0.748,0.663,0.445,0.031,0.131,-9.812,0.131,150.28,4
+359,Esa Que Yo Conocí,Serie Top Ten,Willie Rosario,2006-01-01,291600,22,0.673,0.592,0.556,0.000172,0.319,-11.397,0.052,101.177,4
+360,Yo Te Seguiré,Con Larry Harlow,Larry Harlow,1972-02-21,293573,24,0.709,0.709,0.282,9.97e-05,0.117,-14.766,0.0567,131.269,4
+361,El Manisero - Mambo Son,El Manisero,Bebo Valdés,2004,156640,44,0.779,0.585,0.712,0.125,0.491,-8.59,0.0806,82.013,4
+362,All This Love - Vocal,Flying South,Pete Escovedo,1986-01-01,342293,27,0.351,0.763,0.594,0.578,0.0928,-10.719,0.0254,100.088,4
+363,Invitation - Instrumental,Latin Kick,Cal Tjader,1959-01-01,253800,40,0.942,0.656,0.137,0.703,0.094,-21.364,0.0343,98.005,4
+364,Granada,Ultimate Duets,Arturo Sandoval,2018-05-18,287986,38,0.884,0.265,0.607,0.0375,0.0952,-6.925,0.0468,84.726,3
+365,Recordando La Descargas,Soy La Candela,Edwin Bonilla,2002,484520,20,0.663,0.687,0.934,0.203,0.0476,0.569,0.0707,114.41,4
+366,Tambo,A Touch Of Class,"Pete ""El Conde"" Rodriguez",1977-12-31,257333,23,0.733,0.685,0.494,0.00422,0.043,-11.519,0.0677,112.982,4
+367,Dónde Están Los Rumberos,Quintana Y Papo: Mucho Talento,Papo Lucca,1983-01-01,266413,9,0.837,0.777,0.693,0.266,0.16,-10.669,0.037,97.675,4
+368,Oye Men,His Piano and Rhythm,Noro Morales,1960-08-08,154253,16,0.74,0.744,0.723,0.916,0.182,-6.941,0.0419,112.445,4
+369,57th St. Mambo,Big Band Urban Folktales,Bobby Sanabria,2007-06-05,397400,9,0.49,0.531,0.763,0.863,0.0703,-6.467,0.0829,110.601,4
+370,Trommontuno,Trombon Afrocubano,Juan Pablo Torres,2002-07-10,263160,15,0.725,0.722,0.646,0.928,0.063,-10.07,0.057,157.036,4
+371,Reunion En La Cima,"Puerto Rico All Stars, Vol. 1",Puerto Rico All Stars,1976,357494,15,0.533,0.73,0.462,0.000318,0.131,-12.082,0.076,109.214,4
+372,Amada Mía,"Sentimiento, Tú",Cheo Feliciano,1980-12-31,284493,44,0.725,0.353,0.559,2.32e-05,0.409,-3.858,0.0293,77.945,4
+373,Somos los Reys del Mundo,Los Grandes De La Salsa,Various Artists,1998,276560,23,0.36,0.723,0.67,0.000234,0.0648,-5.376,0.0295,135.732,4
+374,Rumba Callejera - En Vivo,Viento Y Tiempo - Live at Blue Note Tokyo,Gonzalo Rubalcaba,2020-05-29,402748,17,0.485,0.611,0.867,0.00101,0.85,-5.896,0.0728,123.961,4
+375,Pachanga Con Guaguancó,Que Gente Averiguá,Mon Rivera,1961-01-01,170440,24,0.573,0.676,0.796,1.23e-06,0.186,-5.159,0.0549,75.217,4
+376,Carnival in San Juan,Carnival in San Juan,Papo Vazquez,2003-08-19,342640,4,0.162,0.488,0.706,0.855,0.0792,-12.214,0.0351,144.766,4
+377,Hay Algo En Ella,Hay Algo En Ella,Adalberto Santiago,1991-09-06,284525,28,0.244,0.812,0.776,0.000335,0.296,-4.637,0.0521,86.059,4
+378,Bonito y Sabroso,Serie Platino,Beny Moré,1997-07-15,173933,40,0.541,0.88,0.63,3.7e-05,0.318,-5.47,0.041,124.772,4
+379,Gotham Town,20th Anniversary,Ralph Irizarry And Timbalaye,2015-10-05,293853,3,0.544,0.562,0.72,0.722,0.0883,-11.921,0.0447,126.03,4
+380,Quiero Ser,Salsa Mundial,Gerardo Rosales,2008-10-22,309002,16,0.8,0.525,0.771,0.0,0.0706,-3.937,0.0562,165.978,4
+381,El Cantante,Comedia,Héctor Lavoe,1978-01-01,626880,64,0.694,0.549,0.498,3.87e-05,0.109,-9.203,0.0371,95.345,4
+382,Periódico De Ayer,De Ti Depende,Héctor Lavoe,1976-01-01,409080,60,0.0129,0.442,0.634,0.867,0.0953,-7.683,0.0307,98.093,4
+383,Mi Gente,La Voz,Héctor Lavoe,1975-12-31,326880,53,0.368,0.483,0.874,1.66e-05,0.132,-3.413,0.108,110.686,4
+384,Ausencia,Cosa Nuestra,Héctor Lavoe,1968-12-31,306640,51,0.249,0.628,0.395,3.07e-06,0.0742,-9.766,0.0487,88.005,4
+385,La Murga,Asalto Navideño,Willie Colón,1970-01-01,334080,60,0.65,0.604,0.749,0.0277,0.0564,-7.591,0.0381,89.013,4
+386,Loco,Strikes Back,Héctor Lavoe,1987-01-01,325213,51,0.674,0.647,0.82,5.44e-06,0.129,-6.816,0.0324,103.608,4
+387,Aguanile,El Juicio,Willie Colón,1972-01-01,369120,60,0.632,0.573,0.712,5.87e-05,0.432,-6.375,0.0671,125.834,4
+388,El Día De Mi Suerte,Lo Mato,Willie Colón,1973-12-31,328786,61,0.605,0.56,0.855,0.0,0.0532,-5.232,0.0529,97.097,4
+389,El Todopoderoso,La Voz,Héctor Lavoe,1975-12-31,262680,50,0.448,0.572,0.863,0.000192,0.051,-3.571,0.069,109.498,4
+390,Escarchas,Strikes Back,Héctor Lavoe,1987-01-01,392653,49,0.689,0.612,0.741,9.59e-05,0.0556,-5.993,0.0363,92.254,4
+391,Qué Lío,The Hustler,Willie Colón,1968-01-01,277186,50,0.864,0.616,0.393,0.00339,0.0871,-9.432,0.0586,172.238,4
+392,Ah-Ah / O-No,El Juicio,Willie Colón,1972-01-01,227280,49,0.288,0.597,0.743,0.0,0.307,-5.308,0.0323,95.456,4
+393,Ella Mintió,Strikes Back,Héctor Lavoe,1987-01-01,286000,49,0.67,0.646,0.771,0.0,0.093,-6.028,0.057,90.06,4
+394,Juanito Alimaña,Vigilante,Héctor Lavoe,1982-01-01,456960,58,0.76,0.688,0.795,8.01e-06,0.0484,-4.537,0.0415,90.698,4
+395,Todo Tiene Su Final,Lo Mato,Willie Colón,1973-12-31,303373,54,0.74,0.498,0.85,0.000273,0.292,-6.494,0.042,101.299,4
+396,¿De Qué Tamaño Es Tu Amor?,Reventó,Héctor Lavoe,1985-12-31,213360,47,0.815,0.715,0.619,1.55e-05,0.0607,-8.654,0.0439,94.958,4
+397,Triste Y Vacía,Vigilante,Héctor Lavoe,1982-01-01,371773,55,0.646,0.506,0.624,0.0,0.104,-4.997,0.0362,94.979,4
+398,Calle Luna Calle Sol,Lo Mato,Willie Colón,1973-12-31,228440,53,0.416,0.484,0.894,1.28e-05,0.0783,-6.142,0.0756,178.729,4
+399,Ché Ché Colé,Crime Pays,Willie Colón,1972-01-01,211400,57,0.535,0.772,0.868,0.0,0.17,-5.183,0.0461,101.253,4
+400,La Fama,Reventó,Héctor Lavoe,1985-12-31,321480,45,0.817,0.659,0.818,0.00886,0.0863,-7.341,0.0423,94.789,4
+401,Piraña,El Juicio,Willie Colón,1972-01-01,316680,41,0.62,0.649,0.648,2.74e-05,0.388,-5.468,0.0315,101.227,4
+402,Hacha Y Machete,De Ti Depende,Héctor Lavoe,1976-01-01,333480,43,0.16,0.581,0.778,0.0,0.176,-8.389,0.0475,104.142,4
+403,Juana Peña,Crime Pays,Willie Colón,1972-01-01,338013,42,0.519,0.551,0.704,0.0127,0.104,-6.817,0.0328,101.823,4
+404,Rompe Saragüey,La Voz,Héctor Lavoe,1975-12-31,390600,42,0.696,0.798,0.715,0.131,0.138,-3.918,0.033,129.695,4
+405,Güaracha,"The Good, The Bad, And The Ugly",Héctor Lavoe,1975-01-01,308520,39,0.42,0.572,0.773,1.86e-05,0.213,-6.449,0.0468,126.997,4
+406,No Me Llores Más,Cosa Nuestra,Héctor Lavoe,1968-12-31,337680,40,0.51,0.774,0.784,0.000302,0.0721,-6.28,0.0388,106.923,4
+407,Eso Se Baila Así,The Hustler,Willie Colón,1968-01-01,317813,45,0.667,0.636,0.67,4.64e-05,0.0614,-5.223,0.0466,120.656,4
+408,Pasé La Noche Fumando,Vigilante,Héctor Lavoe,1982-01-01,704466,37,0.757,0.689,0.499,2.21e-05,0.19,-5.319,0.0296,127.754,4
+409,Abuelita,La Gran Fuga,Willie Colón,1971-01-01,263773,42,0.651,0.662,0.588,0.000507,0.294,-10.073,0.0725,93.53,4
+410,Timbalero,49 Minutes,Willie Colón,1978-01-01,497640,41,0.339,0.52,0.806,0.00635,0.227,-6.945,0.0468,117.135,4
+411,Juanito Alimaña,Greatest Hits,Willie Colón,2008-02-26,345600,42,0.531,0.73,0.726,1.07e-06,0.0819,-5.451,0.0342,89.832,4
+412,Soñando Despierto,Tú Bien Lo Sabes,Héctor Lavoe,2001-12-31,246746,41,0.754,0.707,0.603,5.72e-06,0.138,-6.665,0.0279,107.516,4
+413,Taxi,Strikes Back,Héctor Lavoe,1987-01-01,223040,41,0.767,0.657,0.411,0.000527,0.2,-9.868,0.0326,80.747,4
+414,Aléjate,El Sabio,Héctor Lavoe,1980-10-31,427560,38,0.59,0.487,0.778,2.17e-05,0.0604,-4.843,0.0472,105.743,4
+415,Barrunto,La Gran Fuga,Willie Colón,1971-01-01,336120,38,0.479,0.601,0.526,0.00774,0.0463,-10.483,0.0464,97.44,4
+416,Songoro Cosongo,Comedia,Héctor Lavoe,1978-01-01,470280,39,0.521,0.553,0.574,6.96e-05,0.0866,-7.492,0.045,88.988,4
+417,Escarcha,"Salsa Hits Nyc, Vol. 1",Various Artists,2005-05-26,364960,43,0.407,0.513,0.785,0.00134,0.086,-6.928,0.0332,92.898,4
+418,Te Conozco,Cosa Nuestra,Héctor Lavoe,1968-12-31,295480,40,0.356,0.61,0.831,0.000119,0.174,-5.312,0.0705,101.243,4
+419,Un Amor De La Calle,La Voz,Héctor Lavoe,1975-12-31,204000,40,0.382,0.54,0.537,0.000845,0.141,-3.833,0.0254,99.21,4
+420,El Día De Mi Suerte,Salsa Sensual,Various Artists,2019-12-19,325056,37,0.543,0.707,0.535,0.0,0.0734,-12.583,0.0438,98.558,4
+421,Vamos A Reír Un Poco,De Ti Depende,Héctor Lavoe,1976-01-01,455880,38,0.115,0.573,0.707,0.000513,0.16,-8.716,0.0351,108.21,4
+422,Déjala Que Siga,Reventó,Héctor Lavoe,1985-12-31,387600,38,0.73,0.781,0.744,0.0117,0.337,-6.938,0.0584,88.563,4
+423,Emborrachame De Amor,La Voz,Héctor Lavoe,1975-12-31,180240,44,0.51,0.465,0.588,0.0,0.0806,-3.828,0.0638,171.464,4
+424,Bandolera,Comedia,Héctor Lavoe,1978-01-01,574800,38,0.752,0.594,0.562,7.29e-05,0.168,-9.38,0.0339,105.795,4
+425,De Ti Depende,De Ti Depende,Héctor Lavoe,1976-01-01,275760,39,0.594,0.42,0.458,6.37e-05,0.237,-6.93,0.0297,149.482,4
+426,Siento,Bamboléo,Fania All Stars,1988-01-01,391320,46,0.776,0.646,0.843,0.000139,0.128,-8.768,0.0516,95.722,4
+427,Paraíso De Dulzura,La Voz,Héctor Lavoe,1975-12-31,275880,36,0.652,0.528,0.822,0.0,0.0722,-3.292,0.0455,104.637,4
+428,Comedia,Comedia,Héctor Lavoe,1978-01-01,211200,36,0.501,0.303,0.283,0.000969,0.202,-10.891,0.0295,98.682,4
+429,Mentiras,Commercial,Los Amigos Invisibles,2009-05-26,201400,66,0.00804,0.73,0.842,0.0,0.252,-4.086,0.0297,124.957,4
+430,La Que Me Gusta,Repeat After Me,Los Amigos Invisibles,2013-09-24,239626,66,0.122,0.721,0.833,0.000115,0.135,-7.469,0.0777,100.005,4
+431,Espérame Feat. Elastic Bond,El Paradise,Los Amigos Invisibles,2017-02-24,255233,56,0.0498,0.741,0.837,4.59e-06,0.207,-6.814,0.0349,119.965,4
+432,Viviré para Ti (feat. Natalia Lafourcade) - Versión Acústica,"Los Amigos Invisibles, Acústico",Los Amigos Invisibles,2015-06-30,236480,53,0.635,0.451,0.881,1.73e-05,0.955,-7.737,0.103,105.937,4
+433,Qué Rico,Arepa 3000,Los Amigos Invisibles,2000,239613,50,0.0618,0.71,0.659,0.0235,0.0945,-8.39,0.0334,128.034,4
+434,Ponerte En Cuatro,The New Sound of the Venezuelan Gozadera,Los Amigos Invisibles,1998,272573,46,0.0132,0.793,0.812,0.0163,0.0852,-8.529,0.0645,130.111,4
+435,Loco por Tu Amor,Commercial,Los Amigos Invisibles,2009-05-26,250506,36,0.207,0.717,0.8,0.0107,0.666,-7.578,0.0586,125.985,4
+436,Óyeme Nena - Versión Acústica,"Los Amigos Invisibles, Acústico",Los Amigos Invisibles,2015-06-30,260013,39,0.233,0.565,0.838,0.00282,0.892,-6.104,0.0315,105.535,4
+437,La Vecina,Arepa 3000,Los Amigos Invisibles,2000,259453,46,0.219,0.798,0.824,0.0463,0.0924,-7.179,0.0407,116.002,4
+438,"Mi Amiga, Mi Esposa Y Mi Amante",Rigo Es Amor,Various Artists,2006-03-14,223493,30,0.0939,0.703,0.489,0.00128,0.0741,-8.696,0.0276,94.001,4
+439,Stay,Repeat After Me,Los Amigos Invisibles,2013-09-24,363640,34,0.0669,0.688,0.722,0.00388,0.132,-7.324,0.0318,119.997,4
+440,Sexy (feat. Jay De la Cueva) - Versión Acústica,"Los Amigos Invisibles, Acústico",Los Amigos Invisibles,2015-06-30,328760,42,0.754,0.589,0.527,0.00729,0.901,-9.29,0.0401,110.278,4
+441,Cuchi-Cuchi,Arepa 3000,Los Amigos Invisibles,2000,224373,39,0.104,0.843,0.764,2.76e-06,0.706,-6.483,0.0635,125.025,4
+442,El Disco Anal,The New Sound of the Venezuelan Gozadera,Los Amigos Invisibles,1998,374240,38,0.0173,0.732,0.809,0.0108,0.136,-6.541,0.0321,127.003,4
+443,Yo No Sé,Super Pop Venezuela,Los Amigos Invisibles,2006-09-05,276213,40,0.00127,0.797,0.626,0.0783,0.0758,-8.888,0.0677,126.017,4
+444,Eres Mis Ganas,El Paradise,Los Amigos Invisibles,2017-02-24,315596,37,0.00117,0.555,0.847,0.00598,0.251,-6.421,0.0349,124.002,4
+445,Eh Eh Oh Oh,Eh Eh Oh Oh,Los Amigos Invisibles,2021-05-07,205755,47,0.0292,0.658,0.751,2.3e-06,0.189,-6.411,0.0403,98.052,4
+446,Corazón Tatto (feat. Gil Cerezo) - Versión Acústica,"Los Amigos Invisibles, Acústico",Los Amigos Invisibles,2015-06-30,288693,31,0.701,0.637,0.774,0.198,0.948,-8.035,0.0396,136.452,4
+447,Amor,Arepa 3000,Los Amigos Invisibles,2000,238173,37,0.0184,0.802,0.843,7.23e-05,0.266,-7.036,0.0577,120.037,4
+448,Sueño Erótico,Commercial,Los Amigos Invisibles,2009-05-26,242373,34,0.138,0.683,0.823,0.067,0.176,-6.475,0.0559,120.03,4
+449,Amar Es Algo Más,Super Pop Venezuela,Los Amigos Invisibles,2006-09-05,426306,35,0.393,0.692,0.746,0.000496,0.257,-6.359,0.0362,107.981,4
+450,Si Estuvieras Aquí (feat. Mariana Vega) - Versión Acústica,"Los Amigos Invisibles, Acústico",Los Amigos Invisibles,2015-06-30,297933,34,0.583,0.52,0.627,0.000168,0.898,-8.176,0.0314,128.352,4
+451,Contigo,El Paradise,Los Amigos Invisibles,2017-02-24,252601,33,0.00794,0.631,0.915,1.18e-05,0.34,-7.019,0.041,131.976,4
+452,In Luv with U,Commercial,Los Amigos Invisibles,2009-05-26,245666,37,0.143,0.931,0.537,0.000345,0.324,-7.642,0.0364,109.991,4
+453,Espérame - Extended Mix,El Paradise (Extended),Los Amigos Invisibles,2017-12-01,337882,36,0.00973,0.753,0.777,0.00581,0.0751,-7.105,0.0383,119.987,4
+454,Disco Anal - Versión Acústica,"Los Amigos Invisibles, Acústico",Los Amigos Invisibles,2015-06-30,363400,35,0.201,0.437,0.889,0.0247,0.928,-7.934,0.0485,129.341,4
+455,Tócamela,Tócamela,Los Amigos Invisibles,2019-04-05,205009,37,0.00848,0.678,0.862,1.44e-05,0.349,-6.256,0.0477,114.051,4
+456,Dame el Mambo,Dame el Mambo,Los Amigos Invisibles,2016-10-14,268580,33,0.00763,0.738,0.868,0.0638,0.0844,-5.411,0.061,119.988,4
+457,Mujer Policía,Arepa 3000,Los Amigos Invisibles,2000,248506,31,0.0122,0.805,0.911,0.0884,0.0589,-6.088,0.0492,112.038,4
+458,Cachete a Cachete,The New Sound of the Venezuelan Gozadera,Los Amigos Invisibles,1998,287533,31,0.564,0.781,0.755,0.00267,0.126,-7.015,0.0395,118.168,4
+459,Viajero Frecuente del Amor,El Paradise,Los Amigos Invisibles,2017-02-24,252103,30,0.00636,0.603,0.893,0.156,0.183,-6.438,0.0336,133.934,4
+460,Plastic Woman,Commercial,Los Amigos Invisibles,2009-05-26,205520,29,0.0284,0.875,0.684,3.55e-05,0.206,-6.257,0.0607,115.031,4
+461,Corazón Tatú,Repeat After Me,Los Amigos Invisibles,2013-09-24,260693,31,0.00421,0.687,0.876,0.0328,0.139,-6.438,0.0344,126.015,4
+462,Ultra-Funk,The New Sound of the Venezuelan Gozadera,Los Amigos Invisibles,1998,218666,37,0.0141,0.667,0.903,0.00915,0.309,-6.451,0.0398,109.463,4
+463,Aquí Nadie Esta Sano Feat. Auténticos Decadentes,El Paradise,Los Amigos Invisibles,2017-02-24,226623,29,0.0194,0.776,0.886,8.25e-05,0.151,-3.87,0.0342,123.05,4
+464,Ay Amor,Cómo Te Voy a Olvidar,Los Ángeles Azules,2013,223120,47,0.0205,0.695,0.845,0.0,0.314,-3.538,0.0393,170.008,4
+465,Río Porque No Fue un Sueño,Repeat After Me,Los Amigos Invisibles,2013-09-24,166520,29,0.0245,0.626,0.691,0.000543,0.328,-7.336,0.0349,94.992,4
+466,Playa Azul,The Venezuelan Zinga Son Vol. 1,Los Amigos Invisibles,2007-03-26,279773,35,0.232,0.632,0.742,0.109,0.0662,-8.238,0.0416,175.94,4
+467,Si Tú Te Vas,Super Pop Venezuela,Los Amigos Invisibles,2006-09-05,278093,29,0.044,0.783,0.491,0.000361,0.147,-9.672,0.0351,134.955,4
+468,Sweet,Not So Commercial,Los Amigos Invisibles,2011-01-27,303266,28,0.0687,0.756,0.817,4.1e-05,0.212,-5.748,0.0573,118.001,4
+469,Sex Appeal,Repeat After Me,Los Amigos Invisibles,2013-09-24,169786,29,0.00343,0.758,0.728,0.000182,0.294,-5.127,0.044,120.961,4
+470,Anestesiada Feat. Kinky,El Paradise,Los Amigos Invisibles,2017-02-24,224589,29,0.0148,0.736,0.933,0.3,0.0871,-5.441,0.0455,116.005,4
+471,Media Luna,Super Pop Venezuela,Los Amigos Invisibles,2006-09-05,264253,32,0.00735,0.729,0.627,0.00605,0.204,-8.46,0.0292,124.005,4
+472,Llegaste Tarde,Arepa 3000,Los Amigos Invisibles,2000,416040,27,0.799,0.49,0.82,0.0558,0.131,-7.138,0.0684,102.572,4
+473,Invisible Love,Repeat After Me,Los Amigos Invisibles,2013-09-24,274346,26,0.0136,0.731,0.747,0.0301,0.09,-6.612,0.0305,125.98,4
+474,Esto Es Lo Que Hay,The Venezuelan Zinga Son Vol. 1,Los Amigos Invisibles,2007-03-26,379106,32,0.635,0.628,0.907,0.0153,0.625,-5.203,0.0466,105.988,4
+475,No Es Fácil Amar,Super Pop Venezuela,Los Amigos Invisibles,2006-09-05,249520,28,0.0707,0.732,0.825,0.00598,0.204,-7.509,0.0453,117.893,4
+476,Nada Que Decir,A TYPICAL AND AUTOCTONAL VENEZUELAN DANCE BAND REMASTERED,Los Amigos Invisibles,2020-12-10,204760,31,0.0618,0.518,0.921,0.0975,0.145,-3.887,0.0582,124.767,4
+477,Es la Verdad,Commercial,Los Amigos Invisibles,2009-05-26,305693,27,0.241,0.623,0.952,0.0113,0.121,-7.348,0.0391,108.004,4
+478,La Ke Hay,La Ke Hay,XAXO,2021-02-26,219680,41,0.00595,0.738,0.816,0.0,0.151,-5.037,0.0493,110.032,4
+479,El Nazareno,Ismael Rivera - Greatest Hits,Ismael Rivera,2009,341106,0,0.097,0.633,0.516,0.000341,0.339,-14.598,0.0582,89.412,4
+480,Que Pena,Así No Se Juega,Los Hermanos Lebron,1990-12-10,300721,0,0.816,0.723,0.716,0.00192,0.14,-6.481,0.0365,90.33,4
+481,Tu Me Recordaras,Así No Se Juega,Los Hermanos Lebron,1990-12-10,196414,0,0.459,0.735,0.478,0.469,0.142,-17.836,0.0426,91.856,4
+482,Temperatura,Así No Se Juega,Los Hermanos Lebron,1990-12-10,162011,0,0.73,0.781,0.638,0.506,0.0624,-10.115,0.0537,142.647,4
+483,Son Diez Lagrimas,Así No Se Juega,Los Hermanos Lebron,1990-12-10,310909,0,0.872,0.631,0.485,0.631,0.0842,-10.947,0.0374,91.911,4
+484,No Me Hace Falta,Así No Se Juega,Los Hermanos Lebron,1990-12-10,335856,0,0.619,0.691,0.522,0.365,0.105,-14.461,0.0677,152.908,4
+485,La Agonia,Así No Se Juega,Los Hermanos Lebron,1990-12-10,306703,0,0.628,0.602,0.547,0.00489,0.315,-11.51,0.0393,162.897,4
+486,Salsa y Control,Así No Se Juega,Los Hermanos Lebron,1990-12-10,232228,0,0.568,0.755,0.464,0.00211,0.0369,-13.266,0.149,92.333,4
+487,Periodico De Ayer,De Ti Depende,Héctor Lavoe,1976,407373,0,0.364,0.459,0.583,0.134,0.128,-7.181,0.0294,98.405,4
+488,El Cantante,La Salsa Mayor,Héctor Lavoe,2008-09-09,626826,0,0.705,0.511,0.496,3.08e-05,0.0975,-9.212,0.038,95.531,4
+489,El Dia De Suerte,Hector Lavoe El Cantante -The Originals,Héctor Lavoe,2009,327360,0,0.669,0.65,0.847,0.0,0.0533,-5.481,0.0478,99.454,4
+490,Rompe Saraguey,El Cantante de los Cantantes,Héctor Lavoe,2013-06-18,389040,0,0.392,0.783,0.643,0.00147,0.15,-7.587,0.0322,129.666,4
+491,El Todopoderoso,El Cantante de los Cantantes,Héctor Lavoe,2013-06-18,260053,0,0.204,0.57,0.74,1.62e-05,0.07,-7.61,0.0552,110.302,4
+492,Hacha Y Machete,El Cantante de los Cantantes,Héctor Lavoe,2013-06-18,331333,0,0.455,0.605,0.781,0.0,0.165,-8.242,0.0401,105.883,4
+493,Aguanile,El Cantante de los Cantantes,Héctor Lavoe,2013-06-18,368866,0,0.55,0.508,0.621,2.08e-05,0.396,-8.285,0.0621,124.66,4
+494,Abuelita,El Cantante de los Cantantes,Héctor Lavoe,2013-06-18,263773,0,0.651,0.662,0.588,0.000507,0.294,-10.073,0.0725,93.53,4
+495,Todo Tiene Su Final,El Cantante de los Cantantes,Héctor Lavoe,2013-06-18,303373,0,0.74,0.498,0.85,0.000273,0.292,-6.494,0.042,101.299,4
+496,Las Tumbas,Soy Feliz,Ismael Rivera,2014-04-01,245000,0,0.756,0.525,0.148,0.00211,0.111,-24.535,0.0632,154.865,4
+497,Las Caras Lindas,Ismael Rivera - Greatest Hits,Ismael Rivera,2009,432853,0,0.754,0.532,0.444,0.145,0.0772,-15.954,0.0517,91.601,4
+498,Achilipú,Sin Salsa No Hay Paraíso,El Gran Combo De Puerto Rico,2010-03-30,281546,48,0.514,0.69,0.684,0.0,0.105,-4.683,0.0492,89.916,4
+499,Arroz Con Habichuela,Arroz Con Habichuela,El Gran Combo De Puerto Rico,2006,356640,52,0.298,0.694,0.697,0.00027,0.0561,-6.521,0.0598,138.244,4
+500,Ojos Chinos,20th Anniversary,El Gran Combo De Puerto Rico,1982,261333,56,0.66,0.772,0.645,1.45e-05,0.142,-8.32,0.0465,93.876,4
+501,Brujeria,Aqui No Se Sienta Nadie!,El Gran Combo De Puerto Rico,1979,205813,59,0.565,0.795,0.623,1.09e-05,0.062,-5.375,0.0461,93.03,4
+502,Me Liberé,Nuevo Milenio - El Mismo Sabor,El Gran Combo De Puerto Rico,2001,263920,59,0.395,0.754,0.875,0.0,0.0905,-1.94,0.0407,97.522,4
+503,Un Verano en Nueva York,Aqui Esta el Reencuentro,El Gran Combo De Puerto Rico,2015-05-07,297213,42,0.586,0.537,0.778,0.00631,0.192,-5.069,0.0446,105.213,4
+504,Sin Salsa No Hay Paraíso,Sin Salsa No Hay Paraíso,El Gran Combo De Puerto Rico,2010-03-30,226893,45,0.6,0.797,0.874,0.000138,0.0398,-3.155,0.0347,94.469,4
+505,Cali Pachanguero,Sólo Hits,Grupo Niche,2006-06-22,309920,62,0.69,0.654,0.72,0.0,0.2,-7.731,0.0395,99.911,4
+506,"Oiga, Mire, Vea - Salsa",Sentimental de Punta a Punta,Guayacán Orquesta,1990-01-01,323683,0,0.444,0.739,0.809,2.66e-06,0.0856,-5.134,0.0416,89.734,4
+507,Micaela,La Salsa Metálica Volvió Con Todos los Hierros,Various Artists,1972,284706,0,0.364,0.65,0.892,0.00272,0.0793,-6.888,0.053,179.592,4
+508,El Hijo De Obatala,Anthology,Ray Barretto,2012-09-11,301920,0,0.624,0.571,0.772,0.00117,0.289,-5.638,0.0416,107.563,4
+509,Mi Desengano,Selecciones Fania,Roberto Roena,2007-10-23,335960,0,0.262,0.595,0.744,0.000364,0.137,-7.494,0.0409,84.93,4
+510,Pedro Navaja,Ruben Blades - Poeta Del Pueblo,Rubén Blades,2009,443480,0,0.751,0.58,0.603,9.51e-06,0.252,-6.611,0.105,93.563,4
+511,El Gran Varon,Selecciones Fania,Willie Colón,2007-10-23,414706,0,0.581,0.645,0.665,0.0,0.0391,-5.519,0.0384,94.115,4
+512,Fuego En El 23,Fuego En El 23,Sonora Ponceña,1969,284653,0,0.54,0.647,0.604,0.000562,0.708,-6.339,0.0353,92.033,4
+513,La Murga,Asalto Navideno,Willie Colón,2006-10-10,334053,0,0.662,0.543,0.759,0.0364,0.0541,-7.59,0.04,86.867,4
+514,Casi Te Envidio,Serie Millennium,Andy Montañez,1999-01-01,320466,43,0.445,0.666,0.712,0.0,0.0711,-5.815,0.0705,95.658,4
+515,El Preso,Greatest Salsa Classics of Colombia - Vol. 1,Various Artists,2006-05-01,294093,0,0.164,0.625,0.775,0.00262,0.1,-5.189,0.0382,106.163,4
+516,Maria Teresa y Danilo,Siempre Charanga,Hansel Y Raul,2002-03-19,287626,52,0.662,0.576,0.745,0.000135,0.0818,-4.75,0.0713,162.071,4
+517,Trampolín,Nuestro Aniversario,El Gran Combo De Puerto Rico,1982,261893,52,0.625,0.671,0.694,0.0,0.237,-2.876,0.0335,93.799,4
+518,Plastico,Ruben Blades - Poeta Del Pueblo,Rubén Blades,2009,401013,0,0.647,0.641,0.635,0.0,0.58,-6.656,0.068,103.451,4
+519,Idilio,Mis Favoritas,Willie Colón,2010-06-08,308693,67,0.552,0.527,0.715,0.00622,0.085,-8.309,0.0398,93.979,4
+520,Talento De Televisión,Mis Favoritas,Willie Colón,2010-06-08,279320,71,0.701,0.779,0.796,3.99e-05,0.0636,-6.675,0.0434,104.947,4
+521,Ché Ché Colé,Anthology,Willie Colón,2012-04-10,209240,0,0.376,0.761,0.886,0.0,0.0732,-4.87,0.0398,101.379,4
+522,Dime Por Que,Esto Fue Lo Que Trajo El Barco,Ismael Rivera,1972,215040,0,0.703,0.646,0.564,0.0,0.347,-5.082,0.0547,164.647,4
+523,Lloraras,Traicionera (Baile Total),Oscar D'León,2017-11-24,222200,0,0.52,0.712,0.754,0.000602,0.0454,-8.404,0.0445,98.131,4
+524,Tu Loco Loco Y Yo Tranquilo,La Herencia,Roberto Roena,2007-05-08,198026,0,0.622,0.683,0.516,0.00643,0.249,-8.914,0.0332,89.868,4
+525,Quítate Tú,Greatest Hits,Fania All Stars,2012-06-05,331320,0,0.564,0.749,0.679,0.00103,0.88,-5.29,0.0434,122.215,4
+526,Senor Sereno,Oportunidad,Larry Harlow,2010-09-07,331817,0,0.713,0.627,0.41,0.312,0.409,-18.839,0.0476,112.303,4
+527,Canto A Borinquen,Asalto Navideno,Willie Colón,2006-10-10,269506,0,0.515,0.624,0.673,0.0,0.0611,-6.406,0.0711,93.93,4
+528,Piraña,A Man and His Music: The Player,Willie Colón,2013,318066,0,0.556,0.618,0.662,0.000133,0.407,-6.453,0.0292,100.612,4
+529,Soñando Despierto,A Man and His Music: The Player,Willie Colón,2013,243866,0,0.755,0.737,0.538,0.0,0.126,-6.4,0.0331,108.508,4
+530,Calle Luna Calle Sol,A Man and His Music: The Player,Willie Colón,2013,225720,0,0.398,0.594,0.895,8.32e-06,0.114,-6.389,0.0648,89.063,4
+531,Pedro Navaja,A Man and His Music: The Player,Willie Colón,2013,443680,0,0.711,0.586,0.575,3.73e-06,0.143,-7.78,0.11,92.42,4
+532,Amor Verdadero,A Man and His Music: The Player,Willie Colón,2013,446253,0,0.16,0.66,0.813,0.000752,0.0918,-8.636,0.128,129.366,4
+533,Juanito Alimaña,A Man and His Music: The Player,Willie Colón,2013,457813,0,0.761,0.659,0.78,6.2e-06,0.0516,-6.406,0.0367,90.705,4
+534,Yare,Into The 90s,Sonora Ponceña,2010-03-02,351546,0,0.664,0.555,0.557,0.000813,0.0677,-9.28,0.0365,92.142,4
+535,Tell Me You'll Be Mine,"Salsa for Dancers, Vol.2",Various Artists,2011-07-07,346053,3,0.74,0.502,0.808,8.71e-05,0.083,-3.624,0.0388,101.371,4
+536,El Hijo De Obatala,Tite Curet Alonso - Alma De Poeta,Tite Curet Alonso,2009,299960,0,0.503,0.556,0.566,0.00127,0.327,-12.443,0.0452,107.348,4
+537,Oh Que Sera,Anthology,Willie Colón,2012-04-10,303933,0,0.698,0.55,0.771,1.04e-06,0.0713,-6.107,0.0931,88.846,4
+538,El Negrito Zambu,Salsa Pal Pueblo,Orquesta Zodiac,2017-09-25,448152,0,0.539,0.517,0.678,0.000738,0.269,-5.429,0.0966,88.803,4
+539,El Padre Antonio - Y El Monaguillo Andres,Buscando America,Rubén Blades,1984-04-03,483360,38,0.644,0.551,0.498,7.92e-06,0.0675,-10.63,0.07,108.818,4
+540,Detalles,Los Oscares De Oscar,Oscar D'León,1996-02-09,279997,0,0.229,0.725,0.678,2.65e-05,0.13,-6.373,0.0479,175.996,4
+541,Triste Y Vacia,Selecciones Fania,Willie & Hector,2007-08-14,371533,0,0.683,0.478,0.698,0.0,0.0754,-3.867,0.0309,94.303,4
+542,Señora Ley,Ray Castro Presenta...Lo Mejor De Conjunto Clasico Con Tito Nieves,Conjunto Clásico,2006-01-01,252066,49,0.556,0.561,0.626,1.86e-06,0.0676,-8.853,0.0404,171.504,4
+543,La rebelion,Sabor a Salsa,Various Artists,2007-05-12,376013,68,0.142,0.571,0.755,2.55e-05,0.136,-7.907,0.0735,107.951,4
+544,Gitana,Tiempo Para Matar,Willie Colón,1984,414266,0,0.635,0.479,0.593,2.61e-06,0.216,-6.629,0.0502,86.092,4
+545,Anacaona,Cheo,Cheo Feliciano,1971,253253,0,0.442,0.535,0.701,0.0052,0.0645,-7.862,0.0361,97.692,4
+546,Lagrimas,"Salsa Hits, Vol. 3",Various Artists,2007-08-01,395952,40,0.22,0.501,0.845,1.02e-05,0.139,-5.247,0.0359,101.071,4
+547,Sigue Tu Camino,Dimension Latina vs. Billo's Caracas Boys,Dimension Latina,1976-09-12,235807,0,0.642,0.762,0.468,6.6e-05,0.102,-12.919,0.0517,105.572,4
+548,Sobre las Olas,Grandes Hits - Latin Brothers,The Latin Brothers,1975,204160,0,0.372,0.765,0.71,0.00041,0.0706,-5.254,0.051,107.834,4
+549,Mi Gente,La Voz,Héctor Lavoe,1975,328880,0,0.368,0.517,0.796,0.000221,0.123,-5.898,0.108,114.009,4
+550,Pa Bravo Yo,Pa Bravo Yo,Justo Betancourt,2006-10-10,224826,0,0.567,0.773,0.816,0.000413,0.132,-6.215,0.0385,92.031,4
+551,Sin Poderte Hablar,Solo,Willie Colón,1979,324000,0,0.137,0.413,0.691,0.0,0.801,-5.763,0.0502,102.037,4
+552,Aguacero,¡Amame!,El Gran Combo De Puerto Rico,1989,252354,48,0.745,0.702,0.763,1.71e-05,0.135,-4.713,0.0375,90.262,4
+553,Diez Lagrimas,Criollo,Lebrón Brothers,2007-07-31,311573,0,0.847,0.657,0.576,0.0293,0.07,-7.328,0.0326,91.565,4
+554,Sonido Bestial,El Bestial Sonido,Richie Ray & Bobby Cruz,2006-06-06,408200,0,0.675,0.55,0.895,0.0843,0.322,-4.416,0.0426,107.301,4
+555,La juma de ayer,"Fe, Esperanza y Caridad",Henry Fiol,1990,469840,41,0.481,0.626,0.466,0.0104,0.0746,-14.295,0.0544,94.396,4
+556,Arranca en Fa,Salsa Brava Con Todos los Hierros,Sonora Carruseles,1999,216093,0,0.353,0.76,0.661,0.366,0.318,-10.165,0.0434,117.905,4
+557,Estamos en Salsa,La Salsa,Wayne Gorbea,1997-06-11,290037,0,0.598,0.57,0.654,0.00971,0.0482,-8.621,0.0595,99.604,4
+558,Escarchas,Strikes Back,Héctor Lavoe,1987,392653,0,0.689,0.612,0.741,9.59e-05,0.0556,-5.993,0.0363,92.254,4
+559,Pa'l Bailador,Antología Musical de Joe Arroyo (Volumen 2),Joe Arroyo,1965,270300,0,0.614,0.661,0.867,0.000301,0.32,-5.604,0.0495,102.159,4
+560,Aguzate,Aguzate,Ricardo Ray,2006-04-25,377253,0,0.775,0.559,0.64,0.00766,0.0837,-9.593,0.0384,110.214,4
+561,No Hay Cama Pa' Tanta Gente,Nuestra Musica,El Gran Combo De Puerto Rico,1985,268106,44,0.515,0.738,0.631,0.0,0.337,-7.358,0.0349,107.303,4
+562,Juliana,Lo Esencial,DLG,1996,296853,51,0.331,0.714,0.957,0.00929,0.0837,-3.616,0.0409,94.062,4
+563,La Cartera,Salsa,Orchestra Harlow,1974,388653,0,0.54,0.618,0.693,0.000138,0.262,-7.08,0.0529,96.339,4
+564,El Rey De La Puntualidad,A Man and His Music,Héctor Lavoe,2009,402360,0,0.397,0.632,0.759,0.0,0.103,-6.465,0.0556,105.84,4
+565,Quitate La Mascara,From the Beginning,Ray Barretto,1971,271573,0,0.716,0.757,0.333,0.128,0.0923,-14.617,0.0499,91.106,4
+566,Incomprendido,Esto Fue Lo Que Trajo El Barco,Ismael Rivera,1972,178440,0,0.73,0.581,0.534,0.0,0.0842,-3.588,0.0875,129.925,4
+567,La Esencia Del Guaguanco,La Herencia,"Pete ""El Conde"" Rodriguez",2007-08-14,246706,0,0.615,0.651,0.448,2.84e-05,0.072,-9.006,0.0412,87.071,4
+568,Abran Paso,Abran Paso,Ismael Miranda con Orchestra Harlow,1972,210920,0,0.601,0.686,0.759,0.05,0.0615,-5.781,0.0482,98.925,4
+569,Buscando Guayaba,Ruben Blades - Poeta Del Pueblo,Rubén Blades,2009,345920,0,0.708,0.692,0.667,2e-05,0.068,-6.373,0.0392,149.834,4
+570,Indestructible,On 1 Vol 1,Various Artists,2008-03-25,251960,0,0.544,0.597,0.846,0.00049,0.103,-4.38,0.0473,109.232,4
+571,El Pio Pio,La Esencia De La Fania,Sonora Ponceña,2008-02-26,298160,0,0.633,0.684,0.518,0.0,0.0578,-8.927,0.0527,90.368,4
+572,Bomba Carambomba,Lo Mejor de Angel Canales,Angel Canales,1994,376546,32,0.622,0.63,0.726,0.0914,0.0659,-8.773,0.155,111.277,4
+573,Y No Hago Mas Na',La Universidad de La Salsa,El Gran Combo De Puerto Rico,1983,301373,54,0.68,0.812,0.679,0.00283,0.314,-6.008,0.0559,90.474,4
+574,Yambeque,Determination,Sonora Ponceña,1982,383533,0,0.677,0.664,0.75,0.0163,0.0576,-6.439,0.0405,172.271,4
+575,Que Humanidad (Live),Presentan,Herman Olivera,2010-09-05,667114,16,0.526,0.604,0.708,0.000248,0.521,-9.447,0.0381,92.955,4
+576,Amarilla Se Pone,Son By Salsa,Yembeke Orquesta,2011-12-22,253640,27,0.268,0.754,0.625,0.00222,0.0859,-7.301,0.0394,91.31,4
+577,Sale El Sol,Maelo - A Man and His Music,Ismael Rivera,2011-08-11,191960,0,0.792,0.582,0.697,1.29e-05,0.982,-9.214,0.05,97.843,4
+578,Marejada Feliz,Roberto Roena Y Su Apollo Sound,Roberto Roena Y Su Apollo Sound,2016-03-04,442622,0,0.83,0.491,0.636,0.0235,0.397,-4.738,0.0401,96.852,4
+579,Tiburon,Canciones Del Solar De Los Aburridos,Willie Colon Y Ruben Blades,2006-04-25,420666,0,0.64,0.61,0.676,6.03e-05,0.337,-8.212,0.256,129.684,4
+580,Richie's Jala Jala,Jala Jala Y Boogaloo,Ricardo Ray,1967,307146,0,0.821,0.603,0.813,0.000224,0.0518,-6.632,0.0462,109.394,4
+581,Camaleón,Dos Clásicos,Rubén Blades,1991,253040,29,0.438,0.703,0.549,5e-06,0.123,-11.118,0.0377,135.716,4
+582,Catalina La O,Selecciones Fania,"Pete ""El Conde"" Rodriguez",2007-10-23,312640,0,0.715,0.744,0.738,0.00741,0.0672,-4.751,0.0333,147.046,4
+583,La Temperatura,Super Hits,Lebrón Brothers,2017-02-22,287731,0,0.727,0.778,0.424,0.714,0.0306,-18.793,0.0449,136.971,4
+584,Trucutu,Plante Bandera,Tommy Olivencia y Su Orquesta,1975,302413,0,0.401,0.584,0.671,0.0,0.0406,-5.697,0.0378,95.158,4
+585,Guarare,Barretto,Ray Barretto,1975,338453,0,0.477,0.602,0.648,0.000357,0.092,-7.551,0.0805,92.648,4
+586,Amame,¡Amame!,El Gran Combo De Puerto Rico,1989,323036,49,0.723,0.607,0.82,0.000137,0.091,-4.701,0.0808,169.613,4
+587,Pensando en Ti,Erupción,Los Satelites,1973-04-20,202344,0,0.441,0.749,0.567,0.403,0.0406,-16.458,0.0438,91.701,4
+588,Buscándote,Grandes Hits - Latin Brothers,The Latin Brothers,1975,277636,0,0.125,0.605,0.745,0.000181,0.396,-5.497,0.0405,94.565,4
+589,Mujer Divina,Hecho y Derecho (Doin' It Right),Joe Cuba Sextet,1973,295093,0,0.771,0.665,0.481,0.000302,0.0749,-7.641,0.0493,99.378,4
+590,Asi Se Compone Un Son,Asi Se Compone Un Son,Ismael Miranda,1973,336386,0,0.507,0.625,0.551,7.58e-06,0.0597,-7.449,0.0695,76.902,4
+591,Ana Isaoco,Lo Mejor de Angel Canales,Angel Canales,1994,519306,26,0.48,0.544,0.709,0.000379,0.178,-12.951,0.0587,114.896,4
+592,La Pantera Mambo,La-33,La-33,2004-12-04,374840,47,0.474,0.782,0.791,0.0012,0.0555,-6.321,0.0383,99.992,4
+593,Sin Poderte Hablar,Anthology,Willie Colón,2012-04-10,324333,0,0.14,0.389,0.656,0.0,0.55,-6.845,0.0509,102.303,4
+594,Triste Y Vacía,Anthology,Héctor Lavoe,2012-03-26,370640,0,0.681,0.476,0.691,0.0,0.0809,-3.844,0.0316,94.233,4
+595,Calle Luna Calle Sol,Anthology,Willie Colón,2012-04-10,225493,0,0.416,0.483,0.892,1e-05,0.121,-6.378,0.0793,179.315,4
+596,El Día De Mi Suerte,Anthology,Willie Colón,2012-04-10,326880,0,0.545,0.609,0.88,0.0,0.0554,-4.37,0.0534,99.163,4
+597,Ah-Ah/O-No,Anthology,Héctor Lavoe,2012-03-26,225186,0,0.331,0.583,0.745,0.0,0.197,-4.907,0.0304,95.394,4
+598,Aguanile,Anthology,Héctor Lavoe,2012-03-26,371346,0,0.253,0.522,0.739,4.41e-05,0.212,-5.733,0.0504,127.28,4
+599,Casi Te Envidio,Salsa Legends,Andy Montañez,2015-01-27,320466,0,0.465,0.582,0.718,0.0,0.088,-5.91,0.0815,92.516,4
+600,Pedro Navaja,Greatest Hits,Rubén Blades,2008-11-04,445053,0,0.783,0.59,0.578,9.38e-05,0.211,-7.42,0.109,93.838,4
+601,Ausencia,Tu Bien Lo Sabes,Héctor Lavoe,2009,306640,0,0.249,0.628,0.395,3.07e-06,0.0742,-9.766,0.0487,88.005,4
+602,Cachondea,Una Leyenda - Fruko,Fruko Y Sus Tesos,1965,297358,0,0.176,0.818,0.922,0.000771,0.31,-6.647,0.049,113.81,4
+603,Mi Negrita Me Espera,La Esencia De La Fania,Ismael Rivera,2008-02-26,199706,0,0.721,0.628,0.571,1.07e-06,0.0864,-5.157,0.0415,125.042,4
+604,Ella Mintio,Strikes Back,Héctor Lavoe,1987,286000,0,0.67,0.646,0.771,0.0,0.093,-6.028,0.057,90.06,4
+605,Pase La Noche Fumando,Vigilante,Willie Colón,2009,704466,0,0.757,0.689,0.499,2.21e-05,0.19,-5.319,0.0296,127.754,4
+606,Que Cante Mi Gente,Salsa para el Mundo,Various Artists,2018-06-09,326653,0,0.313,0.503,0.702,1.84e-05,0.0847,-10.228,0.129,111.231,4
+607,Perico Macona,Sabor,Angel Canales,1975,209866,0,0.809,0.623,0.641,0.00033,0.118,-7.072,0.0557,99.279,4
+608,Lamento De Concepcion,El Progreso,Su Apollo Sound X,1978,408760,0,0.629,0.738,0.582,0.000185,0.308,-6.613,0.0332,93.169,4
+609,Anacaona,Ponte Duro The Fania All Stars Story,Fania All Stars,2010-10-26,437933,0,0.408,0.549,0.881,0.00305,0.459,-5.026,0.0502,107.21,4
+610,Lagrimas,Los Bravos Fania (Vol. 5),Various Artists,2009,396067,0,0.521,0.501,0.538,0.715,0.0509,-15.624,0.0406,100.142,4
+611,Aguacero,"Aqui Estoy Yo, Vol. 1",Charlie Aponte,2015-05-22,254582,37,0.615,0.657,0.89,3.07e-06,0.127,-2.653,0.0388,90.732,4
+612,Cuero Na' Ma',40 Años De Exitos,"Jose Mangual, Jr.",2017-01-05,270135,31,0.28,0.606,0.892,0.895,0.0963,-10.982,0.0371,118.374,4
+613,Yo No Soy Un Ángel,Salsa Legends,Cheo Feliciano,2014-08-05,342000,13,0.642,0.576,0.697,1.55e-05,0.0588,-7.556,0.0426,179.808,4
+614,Fuera De Mi Vida,Gunda Merced Y Su Salsa Fever,Gunda Merced Y Su Salsa Fever,2018-08-27,339121,0,0.673,0.592,0.548,0.292,0.102,-10.482,0.0739,91.522,4
+615,Maria Teresa y Danilo,Siempre Charanga,Hansel Y Raul,2002-03-19,287626,52,0.662,0.576,0.745,0.000135,0.0818,-4.75,0.0713,162.071,4
+616,Aguacero,¡Amame!,El Gran Combo De Puerto Rico,1989,252354,48,0.745,0.702,0.763,1.71e-05,0.135,-4.713,0.0375,90.262,4
+617,Lo Tuyo Llegara,I Believe,Lebrón Brothers,1969-01-01,263128,28,0.749,0.565,0.85,0.00143,0.622,-3.773,0.079,90.698,4
+618,En Barranquilla Me Quedo,Colección Éxitos Joe Arroyo (Vol. 2),Joe Arroyo,2009-07-28,311676,47,0.18,0.622,0.791,8.44e-05,0.0908,-6.333,0.0483,103.643,4
+619,Tiempo Pa’ Matar,Tiempo pa' Matar,Willie Colón,1983-01-01,299373,42,0.671,0.61,0.651,1.05e-06,0.0828,-4.872,0.0414,93.86,4
+620,Guaguancó Del Adios,El Progreso,Roberto Roena Y Su Apollo Sound,1978-12-31,367293,46,0.489,0.48,0.624,0.000103,0.0694,-6.608,0.0466,193.142,4
+621,Lejos De Ti,Sabor,Angel Canales,1975,255586,0,0.789,0.569,0.631,0.0,0.0446,-6.372,0.0627,101.953,4
+622,Boranda,El Gigante del Sur,Sonora Ponceña,1977-12-31,430920,39,0.785,0.558,0.437,0.0562,0.173,-10.763,0.0434,92.344,4
+623,Azuquita Pa'l Cafe,25th Anniversary,El Gran Combo De Puerto Rico,1987,249373,49,0.606,0.672,0.6,6.2e-06,0.0537,-7.733,0.0435,178.034,4
+624,La Muerte,30th Anniversary,El Gran Combo De Puerto Rico,1992,263306,43,0.546,0.751,0.644,0.0,0.0323,-5.896,0.0357,95.316,4
+625,La Fiesta de 'Pilito',Nuestra Musica,El Gran Combo De Puerto Rico,1985,235853,34,0.735,0.7,0.604,0.0,0.32,-6.393,0.0419,100.618,4
+626,Juan Pachanga,Bohemio y Poeta,Rubén Blades,1979-01-01,373560,41,0.603,0.573,0.831,0.00308,0.212,-5.823,0.0379,111.44,4
+627,Que Alguien Me Diga,Expresion,Gilberto Santa Rosa,1999-12-21,290413,59,0.256,0.585,0.868,0.0,0.197,-7.285,0.0444,94.098,4
+628,Sandra Mora,Velvet Salsa All Stars,Velvet Salsa All Stars,2006-01-01,254866,40,0.128,0.718,0.748,1.48e-05,0.141,-7.875,0.0648,94.136,4
+629,Se Me Fué,Nuestro Aniversario,El Gran Combo De Puerto Rico,1982,292306,42,0.625,0.707,0.711,0.0,0.049,-2.651,0.0348,94.05,4
+630,Sanson Batalla,"La Rockola Salsa, Vol. 2",Various Artists,2013-08-28,318640,1,0.551,0.566,0.486,0.0279,0.145,-7.536,0.0466,86.947,4
+631,Carbonerito,35th Anniversary- 35 Years Around the World,El Gran Combo De Puerto Rico,1997,301600,35,0.478,0.682,0.585,2.53e-06,0.109,-8.957,0.0353,92.931,4
+632,Boriquen Tiene Montuno - Live,Ponte Duro: The Fania All Stars Story,Fania All Stars,2010-10-26,488176,10,0.499,0.588,0.747,0.0693,0.76,-9.081,0.0432,104.407,4
+633,La juma de ayer,"Fe, Esperanza y Caridad",Henry Fiol,1990,469840,41,0.481,0.626,0.466,0.0104,0.0746,-14.295,0.0544,94.396,4
